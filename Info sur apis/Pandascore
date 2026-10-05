@@ -1,0 +1,132 @@
+# Pandascore : API sur l'E-Sport
+
+
+## Comment les données sont structurées
+
+L'organisation se fait de cette manière
+
+Ligue → Série → Tournoi → Match → Jeu
+
+- Une Ligue est la compétition de haut niveau (p. ex. ESL Pro League).
+- Une série est une seule occurrence limitée dans le temps de cette ligue (p. ex. ESL Pro League Saison 21).
+- Un tournoi est une étape de cette série (p. ex. Phase de groupe, playoffs).
+- Un match est un face-à-face entre deux équipes dans un tournoi.
+- Un jeu est une seule carte ou un seul jeu dans ce match (par ex. Carte 1 d'un best-of-3).
+
+
+## Comment s'authentifier
+
+Toutes les requêtes API nécessitent un jeton qui est passé en paramètre de requête
+
+URL: https://api.pandascore.co/matches/upcoming?token=YOUR_TOKEN
+
+Limite: 1000 requête en une heure
+
+Exemple de Token:  SOjDY71vGefSCHtKOX5V3xublQ_W7Hh5ji4LW5TtJ1mhdogtJjg
+
+
+## Concepts clés à connaître
+
+Un match à 3 états différents:
+- not_started : non fini
+- running : en cours
+- finished : terminé
+
+### Petit point sur l'étar "complete"
+
+Sur complete s'il vaut false, cela signifique que les statistiques d'après-match sont toujours en cours de traitement. Il ne faut pas l'exploiter dans ce cas !
+
+Au contraire si complete vaut true, alors  les statistiques sont finalisées et prêtes à l'emploi.
+
+
+### Niveaux de couverture pour les matchs
+
+Il y a deux niveaux de couverture pour un match:
+-  detailed_stats: inndique que les fixtures et résultats des matchs sont avec ou non des stats d'après-match
+- live_supported: indique que les données en direct en jeu sont disponibles pour les matchs de ce tournoi
+
+Si detailed_stats vaut vrai alors des statistiques complètes d'après-match seront disponibles
+Sinon Fixtures et résultats seulement — pas de statistiques d'après-match
+
+On doit les utiliser comme des filtres pour récupérer ce qui nous intéresse
+
+Par exemple pour obtenir uniquement des tournois à venir soutenus en direct:
+GET /tournaments/upcoming?filter[live_supported]=true
+
+Ou pour obtenir seulement des matchs qui auront des statistiques:
+GET /matches/upcoming?filter[detailed_stats]=true
+
+### La Pagination
+
+Le nombre de réponse API sont jusqu'à 50 résultat par page, on peut modifier cela avec l'utilisation de page et per_page
+
+Par exemple:
+
+GET /matches/upcoming?page=2&per_page=100
+
+ Pour per_page  le maximum est de 100.
+
+
+ # Fixtures et paramètres de calendrier
+
+ ## Les endpoints ou Point d'extrémité
+
+ ### Matchs
+
+Ce dont vous avez besoin	Point d'extrémité
+Matchs à venir	            GET /matches/upcoming
+Matchs en direct / running	GET /matches/running
+Matchs passés	            GET /matches/past
+Un match spécifique	        GET /matches/{id}
+Adversaires de match	    GET /matches/{id}/opponents
+
+ ### Tournois, ligues et séries
+
+Ce dont vous avez besoin	Point d'extrémité
+Tournois à venir	        GET /tournaments/upcoming
+Classement du tournoi	    GET /tournaments/{id}/standings
+Parenthèses de tournoi	    GET /tournaments/{id}/brackets
+Listes de tournois	        GET /tournaments/{id}/rosters
+Matchs dans un tournoi	    GET /tournaments/{id}/matches
+Liste toutes les ligues	    GET /leagues
+Matchs dans une ligue	    GET /leagues/{id}/matches
+Liste toutes les séries	    GET /series
+
+
+### Joueurs et équipes
+
+Ce dont vous avez besoin	        Point d'extrémité
+Un joueur spécifique	            GET /players/{id}
+Une équipe spécifique	            GET /teams/{id}
+L'historique de match d'un joueur	GET /players/{id}/matches
+L'histoire du tournoi d'un joueur	GET /players/{id}/tournaments
+L'histoire du match d'une équipe	GET /teams/{id}/matches
+Histoire de la série d'une équipe	GET /teams/{id}/series
+
+💡Astuce Utile: Pour retracer l'historique d'équipe d'un joueur tout au long de sa carrière, utilisez GET /players/{id}/tournaments— cela renvoie l’équipe pour laquelle ils ont joué dans chaque tournoi, ce qui est le moyen le plus fiable de suivre les changements d’alignement.
+
+
+Pour voir les flux directs WebSocket -> GET /lives
+
+Ce point de terminaison répertorie toutes les correspondances actuellement en streaming de données en direct, y compris les URL WebSocket pour les images et les événements. Les connexions WebSocket s'ouvrent 15 minutes avant l'heure de début de match prévue.
+
+
+# Garder les données synchronisées
+
+Utile dans le cas où on créera une BDD ou unr Pipeline (ce qu'on va faire exactement), on peut utiliser ces endpoints suivants:
+
+Ce dont vous avez besoin	                            Point d'extrémité
+Tous les changements récents, ajouts et suppressions	GET /incidents
+Uniquement de nouveaux ajouts	                        GET /additions
+Uniquement des objets mis à jour	                    GET /changes
+Seuls les objets supprimés	                            GET /deletions
+
+# Précison autour du endpoint pour Counter Strike 2 (CS2)
+
+A la place du préfixe /cs2/ on utilise /csgo/
+
+Par exemple :
+
+GET /csgo/matches/upcoming
+GET /csgo/games/{id}
+GET /csgo/players/{id}/stats
