@@ -8,11 +8,51 @@ L'organisation se fait de cette manière
 Ligue → Série → Tournoi → Match → Jeu
 
 - Une Ligue est la compétition de haut niveau (p. ex. ESL Pro League).
-- Une série est une seule occurrence limitée dans le temps de cette ligue (p. ex. ESL Pro League Saison 21).
-- Un tournoi est une étape de cette série (p. ex. Phase de groupe, playoffs).
+- Une série est une une édition spécifique et ponctuelle de cette ligue (p. ex. ESL Pro League Saison 21).
+- Un tournoi est une étape au sein de cette série (p. ex. Phase de groupe, playoffs).
 - Un match est un face-à-face entre deux équipes dans un tournoi.
-- Un jeu est une seule carte ou un seul jeu dans ce match (par ex. Carte 1 d'un best-of-3).
+- Un jeu est une seule carte ou une seule manche dans un match (par ex. Carte 1 d'un best-of-3).
 
+### Explications détaillées des données
+
+#### Les Ligues
+
+Les ligues constituent la structure de données de plus haut niveau utilisée pour représenter une compétition. Elles portent généralement le nom de la compétition qu'elles représentent. Une ligue comprend une ou plusieurs séries subordonnées.
+
+Exemples:
+- Coupe du Monde de la FIFA
+- L'Internationale
+
+
+#### Les Séries
+
+Une série représente une occurrence ponctuelle unique de la ligue dont elle dépend. Une série comprend un ou plusieurs tournois.
+
+Exemples:
+- Coupe du Monde de la FIFA — 2018
+- L’Internationale — 2018
+
+#### Les Tournois
+
+Les tournois constituent une étape au sein de leur série parente. Un tournoi comprend un ou plusieurs matchs qui contribuent à un classement unique et à la désignation d'un éventuel vainqueur.
+
+Exemples:
+- Coupe du Monde de la FIFA — 2018 — Groupe C
+- L’International — 2018 — Playoffs
+
+#### Les Matchs
+
+Les matchs représentent une confrontation — équipe contre équipe ou joueur contre joueur — entre deux participants d'un tournoi parent. Un match comprend une ou plusieurs parties (ou « games »).
+
+La structure de données « Match » est la structure générique la plus détaillée. Malgré de nombreuses propriétés communes, la structure de données relative aux parties (et aux éléments de niveau inférieur) est spécifique à chaque jeu vidéo, et les identifiants de partie sont uniques pour chaque jeu.
+
+Exemples:
+- Coupe du Monde de la FIFA — 2018 — Groupe C — Danemark vs Australie (seulement 1 match)
+- The International — 2018 — Playoffs — Final: OG vs PSG.LGD (5 matchs)
+
+En d'autres termes, une donnée de cette API se compose comme ceci:
+ Ligue - Série (année) - Tournoi - Matchs
+ 
 
 ## Comment s'authentifier
 
@@ -24,6 +64,21 @@ Limite: 1000 requête en une heure
 
 Exemple de Token:  SOjDY71vGefSCHtKOX5V3xublQ_W7Hh5ji4LW5TtJ1mhdogtJjg
 
+## Nombre limite de réponse de l'API 
+
+Nom de la formule	                            Limite de débit pour l'API REST
+Calendriers, résultats et données contextuelles	1 000 requêtes par heure
+Données historiques et d'après-match	        10 000 requêtes par heure
+Données en temps réel (Basic)	                10 000 requêtes par heure
+Données en temps réel (Pro)	                    10 000 requêtes par heure
+
+## Comment utiliser l'API correctement 
+
+Petite note sur le comportement de l'API:
+    - Les données sont envoyées et reçues sous le nom de JSON
+    - Les champs blancs sont inclus avec nullvaleurs et ne pas être omis
+    - Toutes les dates sont retournées au format ISO-8601, heure UTC
+
 
 ## Concepts clés à connaître
 
@@ -32,7 +87,7 @@ Un match à 3 états différents:
 - running : en cours
 - finished : terminé
 
-### Petit point sur l'étar "complete"
+### Petit point sur l'état "complete"
 
 Sur complete s'il vaut false, cela signifique que les statistiques d'après-match sont toujours en cours de traitement. Il ne faut pas l'exploiter dans ce cas !
 
