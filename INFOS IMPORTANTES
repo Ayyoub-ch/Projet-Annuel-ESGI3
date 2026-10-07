@@ -1,9 +1,9 @@
-POINTS IMPORTANTS SUR LES BRANCHES :
+# POINTS IMPORTANTS SUR LES BRANCHES :
 
 ( Je vais utiliser cette branche comme panneau d'affichage, le temps du travail après je le supprimerai car logiquement on aura compris)
 
 
-Il y a plusieurs branches et chacune possède son importance :
+## Il y a plusieurs branches et chacune possède son importance :
 
 main : NE PAS TOUCHER, ce sera la branche principale, utilisée pour la version locale afin de la tester
 
@@ -20,8 +20,19 @@ La branche contient 3 dossiers importants:
 
 Et accessoirement un dossier infos pour les différentes notes émises sur les apis et leur fonctionnement
 
+## Partie Data Recolt:
+Contenu:
+- data_recolt.py: fichier python traitant les fichiers de l'API pour les traiter et sortir un json propre et clair
+- requirements.txt : fichier txt contenant les dépendances
+
+## Partie Streamlit:
+Contenu:
+- streamlit.py: fichier python faisant office de page pour streamlit
+- requirements.txt : fichier txt contenant les dépendances
+- Dockerfile: fichier docker utilisé pour contenariser tout cela
+- style.css: fichier css donnant les couleurs à la page (initialement on n'en a pas besoin mais un peu de couleur ça fait pas de mal, ça va mettre du mauve pour être bien sombre)
 
 
 feature/e-sport : ce sera la branche utilisée quand l'api E-Sport (Pandascore) sera totalement exploitée, complétée et opérationnelle. Elle aura comme fonction de servir de pseudo production pour une seule donnée
 
-Remarque: Pour chaque donnée qu'on exploitera (esport, sport classique , etc ....) on devra utiliser cette écriture
+## Remarque: Pour chaque donnée qu'on exploitera (esport, sport classique , etc ....) on devra utiliser cette écriture
