@@ -48,8 +48,8 @@ for league in leagues:
         nom= league.get("name", "Nom inconnu")
         jeu= league.get("videogame", {}).get("name", "Jeu inconnu")
         version_actuelle = league.get("current_version", "Version inconnue")
-        date = league.get("modified_at", "Date et Heure inconnue")[0:10]
-        heure = league.get("modified_at", "Date et Heure inconnue")[11:19]
+        date_modif = league.get("modified_at", "Date et Heure inconnue")[0:10]
+        heure_modif = league.get("modified_at", "Date et Heure inconnue")[11:19]
 
         # Extraction des informations de la série
         for serie in league.get("series", []):
@@ -86,8 +86,8 @@ for league in leagues:
                 "NOM": nom,
                 "JEU VIDEO": jeu,
                 "VERSION ACTUELLE DU JEU": version_actuelle,
-                "DATE": date,
-                "HEURE": heure,
+                "DATE DE LA DERNIERE MODIFICATION": date_modif,
+                "HEURE DE LA DERNIERE MODIFICATION": heure_modif,
              },
              "SERIE": {
                 "ID": id_serie,
