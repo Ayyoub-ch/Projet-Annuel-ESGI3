@@ -1,0 +1,27 @@
+POINTS IMPORTANTS SUR LES BRANCHES :
+
+( Je vais utiliser cette branche comme panneau d'affichage, le temps du travail après je le supprimerai car logiquement on aura compris)
+
+
+Il y a plusieurs branches et chacune possède son importance :
+
+main : NE PAS TOUCHER, ce sera la branche principale, utilisée pour la version locale afin de la tester
+
+dev: NE PAS TOUCHER, ce sera la branche utilisée pour la version en production
+
+
+
+test: Il s'agit d'une branche utilisée pour les tests
+
+La branche contient 3 dossiers importants:
+- data_recolt: pour la partie extraction et traitement des données
+- fastapi: pour la gestion des routes de l'api
+- streamlit: pour l'affichage graphique via la plateforme streamlit
+
+Et accessoirement un dossier infos pour les différentes notes émises sur les apis et leur fonctionnement
+
+
+
+feature/e-sport : ce sera la branche utilisée quand l'api E-Sport (Pandascore) sera totalement exploitée, complétée et opérationnelle. Elle aura comme fonction de servir de pseudo production pour une seule donnée
+
+Remarque: Pour chaque donnée qu'on exploitera (esport, sport classique , etc ....) on devra utiliser cette écriture
