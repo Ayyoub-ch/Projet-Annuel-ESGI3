@@ -52,19 +52,24 @@ for league in leagues:
         heure = league.get("modified_at", "Date et Heure inconnue")[11:19]
 
         # Extraction des informations de la série
-        # id_serie= league.get("series", {}).get("id", "ID de série inconnu")
-        # name_serie= league.get("series", {}).get("name", "Nom de série inconnu")
-        # annee_serie= league.get("series", {}).get("year", "Année de série inconnue")
+        for serie in league.get("series", []):
+            id_serie= serie.get("id", "ID de série inconnu")
+            name_serie= serie.get("name", "Nom de série inconnu")
+            annee_serie= serie.get("year", "Année de série inconnue")
+            
+            date_heure_debut = serie.get("begin_at", "Date et Heure de la série inconnue")
+            date_debut = date_heure_debut[0:10] if date_heure_debut != "Date et Heure de la série inconnue" else "Date de début inconnue"
+            heure_debut = date_heure_debut[11:19] if date_heure_debut != "Date et Heure de la série inconnue" else "Heure de début inconnue"
+            
+            date_heure_fin = serie.get("end_at", "Date et Heure de la série inconnue")
+            date_fin = date_heure_fin[0:10] if date_heure_fin != "Date et Heure de la série inconnue" else "Date de fin inconnue"
+            heure_fin = date_heure_fin[11:19] if date_heure_fin != "Date et Heure de la série inconnue" else "Heure de fin inconnue"
+            
+            full_name_serie= serie.get("full_name", "Nom complet de série inconnu")
         
-        # date_heure_debut = league.get("series", {}).get("begin_at", "Date et Heure de la série inconnue")
-        # date_debut = date_heure_debut[0:10] if date_heure_debut != "Date et Heure de la série inconnue" else "Date de début inconnue"
-        # heure_debut = date_heure_debut[11:19] if date_heure_debut != "Date et Heure de la série inconnue" else "Heure de début inconnue"
-        
-        # date_heure_fin = league.get("series", {}).get("end_at", "Date et Heure de la série inconnue")
-        # date_fin = date_heure_fin[0:10] if date_heure_fin != "Date et Heure de la série inconnue" else "Date de fin inconnue"
-        # heure_fin = date_heure_fin[11:19] if date_heure_fin != "Date et Heure de la série inconnue" else "Heure de fin inconnue"
-        
-        # full_name_serie= league.get("series", {}).get("full_name", "Nom complet de série inconnu")
+        ## Remarque : Si une partie de l'information n'est pas sous forme de dictionnaire, c'est une liste
+        ## Donc on doit faire une boucle for pour récupérer les informations de chaque série. 
+        ## Cependant, si la série est vide, on ne fait rien.
         
         # Création du dossier de la league
         dossier_league = os.path.join(DOSSIER_PRINCIPAL, f"{nom}")
@@ -84,16 +89,16 @@ for league in leagues:
                 "DATE": date,
                 "HEURE": heure,
              },
-            #  "SERIE": {
-            #     "ID": id_serie,
-            #     "NOM": name_serie,
-            #     "ANNEE": annee_serie,
-            #     "DATE DE DEBUT": date_debut,
-            #     "HEURE DE DEBUT": heure_debut,
-            #     "DATE DE FIN": date_fin,
-            #     "HEURE DE FIN": heure_fin,
-            #     "NOM COMPLET": full_name_serie
-            #  }
+             "SERIE": {
+                "ID": id_serie,
+                "NOM": name_serie,
+                "ANNEE": annee_serie,
+                "DATE DE DEBUT": date_debut,
+                "HEURE DE DEBUT": heure_debut,
+                "DATE DE FIN": date_fin,
+                "HEURE DE FIN": heure_fin,
+                "NOM COMPLET": full_name_serie
+             }
         }
         
         # Sauvegarde des données dans un fichier JSON
