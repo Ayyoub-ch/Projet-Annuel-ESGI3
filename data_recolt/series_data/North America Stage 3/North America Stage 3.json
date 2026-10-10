@@ -1,0 +1,43 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11082,
+        "NOM": "North America Stage 3",
+        "NOM COMPLET": "North America Stage 3 2026",
+        "JEU VIDEO": "Overwatch",
+        "TITRE DU JEU": "Overwatch2",
+        "DATE DE DEBUT": "2026-10-10",
+        "HEURE DE DEBUT": "20:00:00",
+        "DATE DE FIN": "2026-10-31",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-08",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:41:01",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-03-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:36:42"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": null,
+            "REGION": "NA",
+            "DATE DE DEBUT": "2026-10-10",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "2026-10-26",
+            "HEURE DE FIN": "01:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:51:23",
+            "PRIZEPOOL": null,
+            "SLUG": "ow-overwatch-champions-series-north-america-stage-3-2026-group-stage",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

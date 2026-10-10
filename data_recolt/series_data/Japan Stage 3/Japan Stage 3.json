@@ -1,0 +1,60 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11021,
+        "NOM": "Japan Stage 3",
+        "NOM COMPLET": "Japan Stage 3 2026",
+        "JEU VIDEO": "Overwatch",
+        "TITRE DU JEU": "Overwatch2",
+        "DATE DE DEBUT": "2026-09-21",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-10-20",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:45:42",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-03-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:36:42"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": "JP",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-09-21",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "16:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:55:19",
+            "PRIZEPOOL": null,
+            "SLUG": "ow-overwatch-champions-series-japan-stage-3-2026-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "JP",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-10-20",
+            "HEURE DE FIN": "16:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:45:42",
+            "PRIZEPOOL": null,
+            "SLUG": "ow-overwatch-champions-series-japan-stage-3-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

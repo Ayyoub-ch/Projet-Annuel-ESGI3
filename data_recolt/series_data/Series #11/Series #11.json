@@ -1,0 +1,60 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11077,
+        "NOM": "Series #11",
+        "NOM COMPLET": "Series #11 2026",
+        "JEU VIDEO": "Counter-Strike",
+        "TITRE DU JEU": "Counter-Strike 2",
+        "DATE DE DEBUT": "2026-10-13",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:48:10",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-04-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:58:18"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": null,
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-13",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "20:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:48:11",
+            "PRIZEPOOL": null,
+            "SLUG": "cs-go-cct-europe-series-11-2026-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": null,
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-25",
+            "HEURE DE FIN": "20:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:48:11",
+            "PRIZEPOOL": "25000 United States Dollar",
+            "SLUG": "cs-go-cct-europe-series-11-2026-regular",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

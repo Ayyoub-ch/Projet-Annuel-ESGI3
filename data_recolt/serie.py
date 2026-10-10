@@ -46,24 +46,64 @@ for serie in series:
         # Extraction des informations de la série
         id= serie.get("id")
         nom= serie.get("name", "Nom inconnu")
+        nom_complet= serie.get("full_name", "Nom complet inconnu")
         jeu= serie.get("videogame", {}).get("name", "Jeu inconnu")
-        version_actuelle = serie.get("current_version", "Version inconnue")
+        titre_jeu= serie.get("videogame_title", {}).get("name", "Titre du jeu inconnu")
+        year= serie.get("year", "Année inconnue")
+        
+        date_debut = serie.get("begin_at", "Date et Heure inconnue")[0:10]
+        heure_debut = serie.get("begin_at", "Date et Heure inconnue")[11:19]
+        
+        date_fin = serie.get("end_at", "Date et Heure inconnue")[0:10]
+        heure_fin = serie.get("end_at", "Date et Heure inconnue")[11:19]
+        
         date_modif = serie.get("modified_at", "Date et Heure inconnue")[0:10]
         heure_modif = serie.get("modified_at", "Date et Heure inconnue")[11:19]
+        saison = serie.get("season", "Saison inconnue")
+        
+        # Extraction des informations de la ligue associée à la série
+        league = serie.get("league", {})
+        league_id = league.get("id", "ID de ligue inconnu")
+        league_name = league.get("name", "Nom de ligue inconnu")
+        league_country = league.get("country", "Pays de la ligue inconnu")
+        league_modified_at_date = league.get("modified_at", "Date et Heure de modification de la ligue inconnue")[0:10]
+        league_modified_at_heure = league.get("modified_at", "Date et Heure de modification de la ligue inconnue")[11:19]
 
-        # Extraction des informations de la série
-        for tournament in series.get("tournaments", []):
-            tournament_name= tournament.get("name", "Nom de tournoi inconnu")
-            tournament_type= tournament.get("type", "Type de tournoi inconnu")
-            tournament_country= tournament.get("country", "Pays du tournoi inconnu")
-            tournament_region= tournament.get("region", "Région du tournoi inconnue")
-            tournament_modified_at= tournament.get("modified_at", "Date et Heure de modification du tournoi inconnue")
-            tournament_begin_at = tournament.get("begin_at", "Date et Heure de début du tournoi inconnue")
-            tournament_end_at = tournament.get("end_at", "Date et Heure de fin du tournoi inconnue")
-            tournament_tier= tournament.get("tier", "Tier du tournoi inconnu")
-            tournament_prizepool = tournament.get("prizepool", "Prizepool du tournoi inconnu")
-            tournament_detailed_stats= tournament.get("detailed_stats", "Statistiques détaillées du tournoi inconnues")
-            tournament_live_supported= tournament.get("live_supported", "Live supporté inconnu")
+
+        # Les tournois peuvent être reçus sous forme d'un dictionnaire ou d'une liste.
+        tournaments = serie.get("tournaments") or []
+        if isinstance(tournaments, dict):
+            tournaments = [tournaments]
+
+        tournament_metadata = []
+        for tournament in tournaments:
+            if not isinstance(tournament, dict):
+                continue
+
+            modified_at = tournament.get("modified_at") or "Date inconnue"
+            begin_at = tournament.get("begin_at") or "Date inconnue"
+            end_at = tournament.get("end_at") or "Date inconnue"
+
+            tournament_metadata.append({
+                "NOM": tournament.get("name", "Nom de tournoi inconnu"),
+                "TYPE": tournament.get("type", "Type de tournoi inconnu"),
+                "PAYS": tournament.get("country", "Pays du tournoi inconnu"),
+                "REGION": tournament.get("region", "Région du tournoi inconnue"),
+                "DATE DE DEBUT": begin_at[0:10],
+                "HEURE DE DEBUT": begin_at[11:19],
+                "DATE DE FIN": end_at[0:10],
+                "HEURE DE FIN": end_at[11:19],
+                "DATE DE LA DERNIERE MODIFICATION": modified_at[0:10],
+                "HEURE DE LA DERNIERE MODIFICATION": modified_at[11:19],
+                "PRIZEPOOL": tournament.get("prizepool", "Prizepool du tournoi inconnu"),
+                "SLUG": tournament.get("slug", "Slug du tournoi inconnu"),
+                "TIER": tournament.get("tier", "Tier du tournoi inconnu"),
+                "STATISTIQUES DETAILLEES": tournament.get(
+                    "detailed_stats",
+                    "Statistiques détaillées du tournoi inconnues",
+                ),
+                "LIVE SUPPORTÉ": tournament.get("live_supported", "Live supporté inconnu"),
+            })
         
         ## Remarque : Si une partie de l'information n'est pas sous forme de dictionnaire, c'est une liste
         ## Donc on doit faire une boucle for pour récupérer les informations de chaque série. 
@@ -79,23 +119,31 @@ for serie in series:
         
         # Metadonnées et informations de la league
         metadata= {
-             "DONNEES GENERALES DE LA LIGUE": {
+             "DONNEES GENERALES DE LA SERIE": {
                 "ID": id,
                 "NOM": nom,
+                "NOM COMPLET": nom_complet,
                 "JEU VIDEO": jeu,
-                "VERSION ACTUELLE DU JEU": version_actuelle,
-                "DATE": date,
-                "HEURE": heure,
+                "TITRE DU JEU": titre_jeu,
+                "DATE DE DEBUT": date_debut,
+                "HEURE DE DEBUT": heure_debut,
+                "DATE DE FIN": date_fin,
+                "HEURE DE FIN": heure_fin,
+                "DATE DE LA DERNIERE MODIFICATION": date_modif,
+                "HEURE DE LA DERNIERE MODIFICATION": heure_modif,
+                "ANNEE": year,
+                "SAISON": saison
              },
-             "TOURNOI": {
-                 "NOM": tournament_name,
-                 "TYPE": tournament_type,
-                 "DATE DE DEBUT": tournament_begin_at,
-                 "DATE DE FIN": tournament_end_at,
-                 "PRIZEPOOL": tournament_prizepool
-             }
-             }
+             "LIGUE": {
+                "ID": league_id,
+                "NOM": league_name,
+                "PAYS": league_country,
+                "DATE DE LA DERNIERE MODIFICATION": league_modified_at_date,
+                "HEURE DE LA DERNIERE MODIFICATION": league_modified_at_heure
+            },
+             "TOURNOIS": tournament_metadata
         }
+    
         
         # Sauvegarde des données dans un fichier JSON
         with open(chemin_fichier_json, 'w', encoding='utf-8') as f:

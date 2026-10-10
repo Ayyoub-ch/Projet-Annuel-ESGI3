@@ -1,0 +1,77 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11001,
+        "NOM": "",
+        "NOM COMPLET": "Season 2 2026",
+        "JEU VIDEO": "Counter-Strike",
+        "TITRE DU JEU": "Counter-Strike 2",
+        "DATE DE DEBUT": "2026-09-23",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-09-27",
+        "HEURE DE FIN": "19:48:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-28",
+        "HEURE DE LA DERNIERE MODIFICATION": "06:49:54",
+        "ANNEE": 2026,
+        "SAISON": "2"
+    },
+    "LIGUE": {
+        "ID": 5516,
+        "NOM": "FERJEE In House",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-03-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:05:30"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-09-23",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "2026-09-24",
+            "HEURE DE FIN": "18:58:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:49:54",
+            "PRIZEPOOL": null,
+            "SLUG": "cs-go-ferjee-in-house-2-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-09-23",
+            "HEURE DE DEBUT": "16:30:00",
+            "DATE DE FIN": "2026-09-24",
+            "HEURE DE FIN": "17:21:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:49:54",
+            "PRIZEPOOL": null,
+            "SLUG": "cs-go-ferjee-in-house-2-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-09-25",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "2026-09-27",
+            "HEURE DE FIN": "19:48:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:49:59",
+            "PRIZEPOOL": "125000 Brazilian Real",
+            "SLUG": "cs-go-ferjee-in-house-2-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

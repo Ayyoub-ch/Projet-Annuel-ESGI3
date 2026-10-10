@@ -1,0 +1,43 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11007,
+        "NOM": "European Finals",
+        "NOM COMPLET": "European Finals season 58 2026",
+        "JEU VIDEO": "Counter-Strike",
+        "TITRE DU JEU": "Counter-Strike 2",
+        "DATE DE DEBUT": "2026-09-22",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-09-30",
+        "HEURE DE FIN": "20:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:56:23",
+        "ANNEE": 2026,
+        "SAISON": "58"
+    },
+    "LIGUE": {
+        "ID": 4243,
+        "NOM": "ESEA",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2020-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:51:24"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": null,
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-09-22",
+            "HEURE DE DEBUT": "17:00:00",
+            "DATE DE FIN": "2026-09-30",
+            "HEURE DE FIN": "20:30:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:00:14",
+            "PRIZEPOOL": "35,100 United States Dollar",
+            "SLUG": "cs-go-esea-european-finals-58-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

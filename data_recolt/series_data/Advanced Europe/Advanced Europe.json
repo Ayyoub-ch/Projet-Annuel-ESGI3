@@ -1,0 +1,43 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11070,
+        "NOM": "Advanced Europe",
+        "NOM COMPLET": "Advanced Europe season 59 2026",
+        "JEU VIDEO": "Counter-Strike",
+        "TITRE DU JEU": "Counter-Strike 2",
+        "DATE DE DEBUT": "2026-10-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:31:10",
+        "ANNEE": 2026,
+        "SAISON": "59"
+    },
+    "LIGUE": {
+        "ID": 4243,
+        "NOM": "ESEA",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2020-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:51:24"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Regular Season",
+            "TYPE": "online",
+            "PAYS": null,
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-10-06",
+            "HEURE DE DEBUT": "18:00:00",
+            "DATE DE FIN": "2026-12-07",
+            "HEURE DE FIN": "23:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:09:46",
+            "PRIZEPOOL": null,
+            "SLUG": "cs-go-esea-advanced-europe-59-2026-regular-season",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11083,
+        "NOM": "EMEA Stage 3",
+        "NOM COMPLET": "EMEA Stage 3 2026",
+        "JEU VIDEO": "Overwatch",
+        "TITRE DU JEU": "Overwatch2",
+        "DATE DE DEBUT": "2026-10-10",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-08",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:53:23",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-03-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:36:42"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": null,
+            "REGION": "ME",
+            "DATE DE DEBUT": "2026-10-10",
+            "HEURE DE DEBUT": "17:00:00",
+            "DATE DE FIN": "2026-10-25",
+            "HEURE DE FIN": "21:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:09:49",
+            "PRIZEPOOL": null,
+            "SLUG": "ow-overwatch-champions-series-emea-stage-3-2026-group-stage",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

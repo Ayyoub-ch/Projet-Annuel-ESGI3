@@ -1,0 +1,60 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11027,
+        "NOM": "China Stage 3",
+        "NOM COMPLET": "China Stage 3 2026",
+        "JEU VIDEO": "Overwatch",
+        "TITRE DU JEU": "Overwatch2",
+        "DATE DE DEBUT": "2026-10-03",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-30",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:46:46",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-03-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:36:42"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": "CN",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-03",
+            "HEURE DE DEBUT": "07:00:00",
+            "DATE DE FIN": "2026-10-11",
+            "HEURE DE FIN": "11:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:06:35",
+            "PRIZEPOOL": null,
+            "SLUG": "ow-overwatch-champions-series-china-stage-3-2026-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Seeding Decider Matches",
+            "TYPE": "online",
+            "PAYS": "CN",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-10",
+            "HEURE DE DEBUT": "11:00:00",
+            "DATE DE FIN": "2026-10-11",
+            "HEURE DE FIN": "14:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:25:09",
+            "PRIZEPOOL": null,
+            "SLUG": "ow-overwatch-champions-series-china-stage-3-2026-seeding-decider-matches",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

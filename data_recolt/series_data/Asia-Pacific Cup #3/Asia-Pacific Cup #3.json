@@ -1,0 +1,43 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11035,
+        "NOM": "Asia-Pacific Cup #3",
+        "NOM COMPLET": "Asia-Pacific Cup #3 season 52 2026",
+        "JEU VIDEO": "Counter-Strike",
+        "TITRE DU JEU": "Counter-Strike 2",
+        "DATE DE DEBUT": "2026-10-07",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-10-14",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:22:56",
+        "ANNEE": 2026,
+        "SAISON": "52"
+    },
+    "LIGUE": {
+        "ID": 4734,
+        "NOM": "ESL Challenger League",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": null,
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-07",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "16:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:18:06",
+            "PRIZEPOOL": "10,000 United States Dollar",
+            "SLUG": "cs-go-esl-challenger-league-asia-pacific-cup-3-52-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

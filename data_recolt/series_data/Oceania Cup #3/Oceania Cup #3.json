@@ -1,0 +1,43 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11031,
+        "NOM": "Oceania Cup #3",
+        "NOM COMPLET": "Oceania Cup #3 season 52 2026",
+        "JEU VIDEO": "Counter-Strike",
+        "TITRE DU JEU": "Counter-Strike 2",
+        "DATE DE DEBUT": "2026-10-10",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-10-14",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-04",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:51:49",
+        "ANNEE": 2026,
+        "SAISON": "52"
+    },
+    "LIGUE": {
+        "ID": 4734,
+        "NOM": "ESL Challenger League",
+        "PAYS": "Pays de la ligue inconnu",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": null,
+            "REGION": "OCE",
+            "DATE DE DEBUT": "2026-10-10",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "13:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:20:50",
+            "PRIZEPOOL": "2500 United States Dollar",
+            "SLUG": "cs-go-esl-challenger-league-oceania-cup-3-52-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}
