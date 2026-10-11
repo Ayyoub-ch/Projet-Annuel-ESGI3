@@ -18,7 +18,7 @@ DOSSIER_PRINCIPAL = "data_recolt/series_data"
 # URL DE L'API JSON
 # ================================
 
-url_api= "https://api.pandascore.co/series?token=SOjDY71vGefSCHtKOX5V3xublQ_W7Hh5ji4LW5TtJ1mhdogtJjg"
+url_api= "https://api.pandascore.co/series?per_page=100&token=SOjDY71vGefSCHtKOX5V3xublQ_W7Hh5ji4LW5TtJ1mhdogtJjg"
 
 # ================================
 # RÉCUPÉRATION DES DONNÉES
@@ -31,10 +31,10 @@ try:
     # Conversion de la réponse en JSON Python
     reponse_json = response.json()
     series = reponse_json  # Récupère la liste des series
-    print(f" {len(series)} series récupérées depuis l'API")
+    print(f" {len(series)} series recuperes depuis l'API")
     
 except requests.exceptions.RequestException as e:
-    print(f" Erreur lors de la récupération des données depuis l'API: {e}")
+    print(f" Erreur lors de la recuperation des donnees depuis l'API: {e}")
     exit(1)  # Quitte le script avec un code d'erreur
     
 # ================================
@@ -45,8 +45,8 @@ for serie in series:
     try:
         # Extraction des informations de la série
         id= serie.get("id")
-        nom= serie.get("name", "Nom inconnu")
-        nom_complet= serie.get("full_name", "Nom complet inconnu")
+        nom= serie.get("name", "Nom inconnu").replace("/", "_").replace(":", "_").replace(" ", "_").replace(" ", "_").replace("'", "_").replace('"', "_").replace("?", "_").replace("*", "_").replace("<", "_").replace(">", "_").replace("|", "_").replace("#", "_")
+        nom_complet= serie.get("full_name", "Nom complet inconnu").replace("/", "_").replace(":", "_").replace(" ", "_").replace("'", "_").replace('"', "_").replace("?", "_").replace("*", "_").replace("<", "_").replace(">", "_").replace("|", "_").replace("#", "_")
         jeu= serie.get("videogame", {}).get("name", "Jeu inconnu")
         titre_jeu= serie.get("videogame_title", {}).get("name", "Titre du jeu inconnu")
         year= serie.get("year", "Année inconnue")
@@ -95,7 +95,7 @@ for serie in series:
                 "HEURE DE FIN": end_at[11:19],
                 "DATE DE LA DERNIERE MODIFICATION": modified_at[0:10],
                 "HEURE DE LA DERNIERE MODIFICATION": modified_at[11:19],
-                "PRIZEPOOL": tournament.get("prizepool", "Prizepool du tournoi inconnu"),
+                "PRIZEPOOL": tournament.get("prizepool", "Prizepool du tournoi inconnu") if tournament.get("prizepool", "Prizepool du tournoi inconnu") else "Prizepool du tournoi inconnu",
                 "SLUG": tournament.get("slug", "Slug du tournoi inconnu"),
                 "TIER": tournament.get("tier", "Tier du tournoi inconnu"),
                 "STATISTIQUES DETAILLEES": tournament.get(
@@ -110,29 +110,27 @@ for serie in series:
         ## Cependant, si la série est vide, on ne fait rien.
         
         # Création du dossier de la league
-        dossier_serie = os.path.join(DOSSIER_PRINCIPAL, f"{nom}")
+        dossier_serie = os.path.join(DOSSIER_PRINCIPAL, f"{nom_complet}")
         os.makedirs(dossier_serie, exist_ok=True)
         
         # Chemin complet du fichier JSON pour la league
-        chemin_fichier_json = os.path.join(dossier_serie, f"{nom}.json")
+        chemin_fichier_json = os.path.join(dossier_serie, f"{nom_complet}.json")
         
         
         # Metadonnées et informations de la league
         metadata= {
              "DONNEES GENERALES DE LA SERIE": {
                 "ID": id,
-                "NOM": nom,
-                "NOM COMPLET": nom_complet,
-                "JEU VIDEO": jeu,
-                "TITRE DU JEU": titre_jeu,
+                "NOM": nom_complet if nom == "" else nom,
+                "JEU VIDEO": titre_jeu if jeu == "" or jeu =="null"else jeu,
                 "DATE DE DEBUT": date_debut,
                 "HEURE DE DEBUT": heure_debut,
                 "DATE DE FIN": date_fin,
                 "HEURE DE FIN": heure_fin,
                 "DATE DE LA DERNIERE MODIFICATION": date_modif,
                 "HEURE DE LA DERNIERE MODIFICATION": heure_modif,
-                "ANNEE": year,
-                "SAISON": saison
+                "ANNEE": "Année inconnue" if year == "" or year == "null" else year,
+                "SAISON": "Saison inconnue" if saison == "" or saison == "null" else saison,
              },
              "LIGUE": {
                 "ID": league_id,
@@ -148,7 +146,7 @@ for serie in series:
         # Sauvegarde des données dans un fichier JSON
         with open(chemin_fichier_json, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, ensure_ascii=False, indent=4)
-        print(f" Fichier créé '{nom}' sauvegardées dans '{chemin_fichier_json}'")
+        print(f" Fichier cree '{nom_complet}' sauvegardees dans '{chemin_fichier_json}'")
     
     except Exception as e:
-        print(f" Erreur lors du traitement de la série '{nom}': {e}")
+        print(f" Erreur lors du traitement de la serie '{nom}': {e}")

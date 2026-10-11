@@ -18,7 +18,7 @@ DOSSIER_PRINCIPAL = "data_recolt/leagues_data"
 # URL DE L'API JSON
 # ================================
 
-url_api= "https://api.pandascore.co/leagues?token=SOjDY71vGefSCHtKOX5V3xublQ_W7Hh5ji4LW5TtJ1mhdogtJjg"
+url_api= "https://api.pandascore.co/leagues?per_page=100&token=SOjDY71vGefSCHtKOX5V3xublQ_W7Hh5ji4LW5TtJ1mhdogtJjg"
 
 # ================================
 # RÉCUPÉRATION DES DONNÉES
@@ -31,10 +31,10 @@ try:
     # Conversion de la réponse en JSON Python
     reponse_json = response.json()
     leagues = reponse_json  # Récupère la liste des leagues
-    print(f" {len(leagues)} leagues récupérés depuis l'API")
+    print(f" {len(leagues)} ligues recuperes depuis l'API")
     
 except requests.exceptions.RequestException as e:
-    print(f" Erreur lors de la récupération des données depuis l'API: {e}")
+    print(f" Erreur lors de la recuperation des donnees depuis l'API: {e}")
     exit(1)  # Quitte le script avec un code d'erreur
     
 # ================================
@@ -45,7 +45,7 @@ for league in leagues:
     try:
         # Extraction des informations de la league
         id= league.get("id")
-        nom= league.get("name", "Nom inconnu")
+        nom= league.get("name", "Nom inconnu").replace("/", "_").replace(":", "_").replace(" ", "_")
         jeu= league.get("videogame", {}).get("name", "Jeu inconnu")
         version_actuelle = league.get("current_version", "Version inconnue")
         date_modif = league.get("modified_at", "Date et Heure inconnue")[0:10]
@@ -91,20 +91,19 @@ for league in leagues:
              },
              "SERIE": {
                 "ID": id_serie,
-                "NOM": name_serie,
+                "NOM": full_name_serie if name_serie == "" else name_serie,
                 "ANNEE": annee_serie,
                 "DATE DE DEBUT": date_debut,
                 "HEURE DE DEBUT": heure_debut,
                 "DATE DE FIN": date_fin,
-                "HEURE DE FIN": heure_fin,
-                "NOM COMPLET": full_name_serie
+                "HEURE DE FIN": heure_fin
              }
         }
         
         # Sauvegarde des données dans un fichier JSON
         with open(chemin_fichier_json, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, ensure_ascii=False, indent=4)
-        print(f" Fichier créé '{nom}' sauvegardées dans '{chemin_fichier_json}'")
+        print(f" Fichier cree '{nom}' sauvegardees dans '{chemin_fichier_json}'")
     
     except Exception as e:
         print(f" Erreur lors du traitement de la league '{nom}': {e}")
