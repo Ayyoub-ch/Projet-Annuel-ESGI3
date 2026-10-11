@@ -48,7 +48,7 @@ for serie in series:
         nom= serie.get("name", "Nom inconnu").replace("/", "_").replace(":", "_").replace(" ", "_").replace(" ", "_").replace("'", "_").replace('"', "_").replace("?", "_").replace("*", "_").replace("<", "_").replace(">", "_").replace("|", "_").replace("#", "_")
         nom_complet= serie.get("full_name", "Nom complet inconnu").replace("/", "_").replace(":", "_").replace(" ", "_").replace("'", "_").replace('"', "_").replace("?", "_").replace("*", "_").replace("<", "_").replace(">", "_").replace("|", "_").replace("#", "_")
         jeu= serie.get("videogame", {}).get("name", "Jeu inconnu")
-        titre_jeu= serie.get("videogame_title", {}).get("name", "Titre du jeu inconnu")
+        titre_jeu= (serie.get("videogame_title") or {}).get("name", "Titre du jeu inconnu")
         year= serie.get("year", "Année inconnue")
         
         date_debut = serie.get("begin_at", "Date et Heure inconnue")[0:10]
@@ -87,8 +87,8 @@ for serie in series:
             tournament_metadata.append({
                 "NOM": tournament.get("name", "Nom de tournoi inconnu"),
                 "TYPE": tournament.get("type", "Type de tournoi inconnu"),
-                "PAYS": tournament.get("country", "Pays du tournoi inconnu"),
-                "REGION": tournament.get("region", "Région du tournoi inconnue"),
+                "PAYS": tournament.get("country", "Pays du tournoi inconnu") if tournament.get("country") else "Pays du tournoi inconnu",
+                "REGION": tournament.get("region", "Région du tournoi inconnue") if tournament.get("region") else "Région du tournoi inconnue",
                 "DATE DE DEBUT": begin_at[0:10],
                 "HEURE DE DEBUT": begin_at[11:19],
                 "DATE DE FIN": end_at[0:10],
@@ -113,16 +113,16 @@ for serie in series:
         dossier_serie = os.path.join(DOSSIER_PRINCIPAL, f"{nom_complet}")
         os.makedirs(dossier_serie, exist_ok=True)
         
-        # Chemin complet du fichier JSON pour la league
+        # Chemin complet du fichier JSON pour la serie
         chemin_fichier_json = os.path.join(dossier_serie, f"{nom_complet}.json")
         
         
-        # Metadonnées et informations de la league
+        # Metadonnées et informations de la serie
         metadata= {
              "DONNEES GENERALES DE LA SERIE": {
                 "ID": id,
                 "NOM": nom_complet if nom == "" else nom,
-                "JEU VIDEO": titre_jeu if jeu == "" or jeu =="null"else jeu,
+                "JEU VIDEO": jeu if jeu != None and jeu != "" else titre_jeu if titre_jeu != None and titre_jeu != "" else "Jeu vidéo inconnu",
                 "DATE DE DEBUT": date_debut,
                 "HEURE DE DEBUT": heure_debut,
                 "DATE DE FIN": date_fin,
@@ -135,7 +135,6 @@ for serie in series:
              "LIGUE": {
                 "ID": league_id,
                 "NOM": league_name,
-                "PAYS": league_country,
                 "DATE DE LA DERNIERE MODIFICATION": league_modified_at_date,
                 "HEURE DE LA DERNIERE MODIFICATION": league_modified_at_heure
             },

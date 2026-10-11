@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11080,
+        "NOM": "Fall_2026",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-08",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-10-11",
+        "HEURE DE FIN": "10:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:09:06",
+        "ANNEE": 2026,
+        "SAISON": "Fall"
+    },
+    "LIGUE": {
+        "ID": 4621,
+        "NOM": "MESA Pro Series",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-11-29",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:33:45"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "MN",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-08",
+            "HEURE DE DEBUT": "05:00:00",
+            "DATE DE FIN": "2026-10-11",
+            "HEURE DE FIN": "10:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:09:06",
+            "PRIZEPOOL": "3,000 United States Dollar",
+            "SLUG": "cs-go-mesa-pro-series-fall-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

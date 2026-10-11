@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11094,
+        "NOM": "Southeast_Asia_Open_Qualifier_2",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-10-11",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-12",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:22:58",
+        "ANNEE": 2026,
+        "SAISON": "30"
+    },
+    "LIGUE": {
+        "ID": 4125,
+        "NOM": "DreamLeague",
+        "DATE DE LA DERNIERE MODIFICATION": "2019-03-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:02:02"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-11",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-12",
+            "HEURE DE FIN": "13:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:56:54",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-southeast-asia-open-qualifier-2-30-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

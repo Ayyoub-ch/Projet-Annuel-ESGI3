@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 10979,
+        "NOM": "Game_Changers_China_Qualifier",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-09-13",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-09-20",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:00:50",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-02-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:07:55"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-09-13",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-09-20",
+            "HEURE DE FIN": "14:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:50",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-game-changers-china-qualifier-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

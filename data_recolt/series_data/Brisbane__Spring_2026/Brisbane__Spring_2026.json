@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11079,
+        "NOM": "Brisbane_",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-09",
+        "HEURE DE DEBUT": "23:30:00",
+        "DATE DE FIN": "2026-10-11",
+        "HEURE DE FIN": "10:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:13:32",
+        "ANNEE": 2026,
+        "SAISON": "Spring"
+    },
+    "LIGUE": {
+        "ID": 5459,
+        "NOM": "ANZC Locals",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-11-28",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:15:34"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "AU",
+            "REGION": "OCE",
+            "DATE DE DEBUT": "2026-10-09",
+            "HEURE DE DEBUT": "23:30:00",
+            "DATE DE FIN": "2026-10-10",
+            "HEURE DE FIN": "10:30:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:13:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-anzc-locals-brisbane-brisbane-spring-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "AU",
+            "REGION": "OCE",
+            "DATE DE DEBUT": "2026-10-10",
+            "HEURE DE DEBUT": "03:30:00",
+            "DATE DE FIN": "2026-10-10",
+            "HEURE DE FIN": "14:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:13:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-anzc-locals-brisbane-brisbane-spring-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "AU",
+            "REGION": "OCE",
+            "DATE DE DEBUT": "2026-10-10",
+            "HEURE DE DEBUT": "23:30:00",
+            "DATE DE FIN": "2026-10-11",
+            "HEURE DE FIN": "10:30:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:13:32",
+            "PRIZEPOOL": "10,000 Australian Dollar",
+            "SLUG": "cs-go-anzc-locals-brisbane-brisbane-spring-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

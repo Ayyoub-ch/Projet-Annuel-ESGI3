@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 10992,
+        "NOM": "Season_11_2026",
+        "JEU VIDEO": "Mobile Legends: Bang Bang",
+        "DATE DE DEBUT": "2026-09-18",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:34:33",
+        "ANNEE": 2026,
+        "SAISON": "11"
+    },
+    "LIGUE": {
+        "ID": 5288,
+        "NOM": "MPL Cambodia",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-08-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:39:40"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Regular Season",
+            "TYPE": "offline",
+            "PAYS": "KH",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-09-18",
+            "HEURE DE DEBUT": "06:00:00",
+            "DATE DE FIN": "2026-11-01",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:35:43",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "mlbb-mpl-cambodia-11-2026-regular-season",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

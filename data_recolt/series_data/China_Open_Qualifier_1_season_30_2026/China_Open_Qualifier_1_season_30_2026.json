@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11084,
+        "NOM": "China_Open_Qualifier_1",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-10-09",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-10-10",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-09",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:36:14",
+        "ANNEE": 2026,
+        "SAISON": "30"
+    },
+    "LIGUE": {
+        "ID": 4125,
+        "NOM": "DreamLeague",
+        "DATE DE LA DERNIERE MODIFICATION": "2019-03-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:02:02"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "CN",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-09",
+            "HEURE DE DEBUT": "06:00:00",
+            "DATE DE FIN": "2026-10-10",
+            "HEURE DE FIN": "13:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:22:55",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-china-open-qualifier-1-30-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

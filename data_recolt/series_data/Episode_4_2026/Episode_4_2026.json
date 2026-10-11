@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 10960,
+        "NOM": "Episode_4",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-01",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-10-04",
+        "HEURE DE FIN": "20:13:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:40:23",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5505,
+        "NOM": "Stake Ranked",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-03-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:11:47"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "ES",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-10-01",
+            "HEURE DE DEBUT": "10:00:00",
+            "DATE DE FIN": "2026-10-04",
+            "HEURE DE FIN": "20:13:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:40:23",
+            "PRIZEPOOL": "100,000 United States Dollar",
+            "SLUG": "cs-go-stake-ranked-episode-4-2026-playoffs",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}
