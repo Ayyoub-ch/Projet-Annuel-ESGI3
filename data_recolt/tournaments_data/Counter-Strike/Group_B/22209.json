@@ -1,0 +1,77 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 22209,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-14",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-18",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:29:22",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "OMG vs FF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "16:30:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "16:38:31",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "19:29:11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:33:54",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epl_pro"
+            }
+        },
+        {
+            "NOM": "BW vs JS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:23",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epl_pro"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": "ID d'équipe inconnu",
+            "NOM": "Nom d'équipe inconnu",
+            "LOCALISATION": "Localisation d'équipe inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "Date et He",
+            "HEURE DE LA DERNIERE MODIFICATION": "re de mo",
+            "ACRONYME": "Acronyme d'équipe inconnu"
+        }
+    ]
+}

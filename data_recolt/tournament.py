@@ -47,7 +47,7 @@ for tournament in tournaments:
         id= tournament.get("id")
         nom= tournament.get("name", "Nom inconnu").replace("/", "_").replace(":", "_").replace(" ", "_").replace(" ", "_").replace("'", "_").replace('"', "_").replace("?", "_").replace("*", "_").replace("<", "_").replace(">", "_").replace("|", "_").replace("#", "_")
         nom_complet= tournament.get("full_name", "Nom complet inconnu").replace("/", "_").replace(":", "_").replace(" ", "_").replace("'", "_").replace('"', "_").replace("?", "_").replace("*", "_").replace("<", "_").replace(">", "_").replace("|", "_").replace("#", "_")
-        jeu= tournament.get("videogame", {}).get("name", "Jeu inconnu")
+        jeu= tournament.get("videogame", {}).get("name", "Jeu inconnu").replace(":"," ")
         titre_jeu= (tournament.get("videogame_title") or {}).get("name", "Titre du jeu inconnu") 
         # Le titre du jeu étant un dictionnaire, si ce dernier est juste Nul et que ce n'est même plus un dictionnaire, on met "Titre du jeu inconnu" par défaut en précisant 
         # que cela doit se faire dans le cas où la valeur est nulle.
@@ -78,16 +78,53 @@ for tournament in tournaments:
             modified_at = match.get("modified_at") or "Date inconnue"
             begin_at = match.get("begin_at") or "Date inconnue"
             end_at = match.get("end_at") or "Date inconnue"
+            
+            infos_streams = [match.get("streams_list", [{}])[0]] if match.get("streams_list") else [{}]  # Récupère le premier élément de la liste ou un dictionnaire vide si la liste est vide
+            main= infos_streams[0].get("main")
+            language= infos_streams[0].get("language")
+            url= infos_streams[0].get("raw_url")
+            
+            # teams = match.get("teams") or []
+            # if isinstance(teams, dict):
+            #     teams = [teams]
+                
+            # teams_metadata = []
+            teams = [match.get("teams", [{}])[0]] if match.get("streams_list") else [{}] 
+            teams_metadata = []
+            team_id = teams[0].get("id", "ID d'équipe inconnu")
+            team_name = teams[0].get("name", "Nom d'équipe inconnu")
+            team_location = teams[0].get("location", "Localisation d'équipe inconnue")
+            team_modified_at_date = teams[0].get("modified_at", "Date et Heure de modification d'équipe inconnue")
+            team_modified_at_heure = teams[0].get("modified_at", "Date et Heure de modification d'équipe inconnue")
+            team_acronym = teams[0].get("acronym", "Acronyme d'équipe inconnu")
+            
+            teams_metadata.append({
+                "ID": team_id,
+                "NOM": team_name,
+                "LOCALISATION": team_location,
+                "DATE DE LA DERNIERE MODIFICATION": team_modified_at_date[0:10],
+                "HEURE DE LA DERNIERE MODIFICATION": team_modified_at_heure[11:19],
+                "ACRONYME": team_acronym
+            })
+            
 
             matches_metadata.append({
                 "NOM": match.get("name", "Nom de match inconnu"),
                 "TYPE": match.get("type", "Type de match inconnu"),
-                "PAYS": match.get("country", "Pays du match inconnu") if match.get("country") else "Pays du match inconnu",
-                "REGION": match.get("region", "Région du match inconnue") if match.get("region") else "Région du match inconnue",
+                "STATUT": match.get("status", "Statut du match inconnu"),
+                "LIVE SUPPORTÉ": tournament.get("live_supported", "Live supporté inconnu"),
+                "TYPE DE MATCH": match.get("match_type", "Type de match inconnu"),
+                "NOMBRE DE PARTIES": match.get("number_of_games", "Nombre de parties inconnu"),
+                
+                "DATE PRÉVUE": match.get("scheduled_at", "Date prévue du match inconnue")[0:10],
+                "HEURE PRÉVUE": match.get("scheduled_at", "Heure prévue du match inconnue")[11:19],
+                
                 "DATE DE DEBUT": begin_at[0:10],
                 "HEURE DE DEBUT": begin_at[11:19],
+                
                 "DATE DE FIN": end_at[0:10],
                 "HEURE DE FIN": end_at[11:19],
+                
                 "DATE DE LA DERNIERE MODIFICATION": modified_at[0:10],
                 "HEURE DE LA DERNIERE MODIFICATION": modified_at[11:19],
                 "PRIZEPOOL": tournament.get("prizepool", "Prizepool du tournoi inconnu") if tournament.get("prizepool", "Prizepool du tournoi inconnu") else "Prizepool du tournoi inconnu",
@@ -97,7 +134,11 @@ for tournament in tournaments:
                     "detailed_stats",
                     "Statistiques détaillées du tournoi inconnues",
                 ),
-                "LIVE SUPPORTÉ": tournament.get("live_supported", "Live supporté inconnu"),
+                "INFO DE STREAMING": {
+                    "MAIN": main,
+                    "LANGUE": language,
+                    "LIEN BRUTE": url
+                },
             })
         
         ## Remarque : Si une partie de l'information n'est pas sous forme de dictionnaire, c'est une liste
@@ -105,11 +146,11 @@ for tournament in tournaments:
         ## Cependant, si la série est vide, on ne fait rien.
         
         # Création du dossier de la league
-        dossier_serie = os.path.join(DOSSIER_PRINCIPAL, f"{nom}")
+        dossier_serie = os.path.join(DOSSIER_PRINCIPAL, f"{jeu}",f"{nom}")
         os.makedirs(dossier_serie, exist_ok=True)
         
         # Chemin complet du fichier JSON pour la serie
-        chemin_fichier_json = os.path.join(dossier_serie, f"{nom}.json")
+        chemin_fichier_json = os.path.join(dossier_serie, f"{id}.json")
         
         
         # Metadonnées et informations de la serie
@@ -127,14 +168,15 @@ for tournament in tournaments:
                 "ANNEE": "Année inconnue" if year == "" or year == "null" else year,
                 "SAISON": "Saison inconnue" if saison == "" or saison == "null" else saison,
              },
-             "MATCHES": matches_metadata
+             "MATCHES": matches_metadata,
+             "EQUIPES": teams_metadata
         }
     
         
         # Sauvegarde des données dans un fichier JSON
         with open(chemin_fichier_json, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, ensure_ascii=False, indent=4)
-        print(f" Fichier cree '{nom_complet}' sauvegardees dans '{chemin_fichier_json}'")
+        print(f" Fichier cree '{nom}' sauvegardees dans '{chemin_fichier_json}'")
     
     except Exception as e:
-        print(f" Erreur lors du traitement du tournoi '{nom}': {e}")
+        print(f" Erreur lors du traitement du tournoi '{nom} {id}': {e}")

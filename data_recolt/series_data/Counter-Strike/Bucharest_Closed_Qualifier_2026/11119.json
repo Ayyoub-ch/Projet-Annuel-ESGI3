@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11119,
+        "NOM": "Bucharest_Closed_Qualifier",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-16",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-20",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:28:32",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5365,
+        "NOM": "PGL",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-02-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:08:30"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-20",
+            "HEURE DE FIN": "17:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:28:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-closed-qualifier-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

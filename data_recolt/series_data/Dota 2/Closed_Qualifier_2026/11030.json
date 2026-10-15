@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11030,
+        "NOM": "Closed_Qualifier",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-10-05",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-08",
+        "HEURE DE FIN": "20:43:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:13:44",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5567,
+        "NOM": "PARI Universe",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-04",
+        "HEURE DE LA DERNIERE MODIFICATION": "06:13:51"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-05",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-08",
+            "HEURE DE FIN": "20:43:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:13:44",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-pari-universe-closed-qualifier-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

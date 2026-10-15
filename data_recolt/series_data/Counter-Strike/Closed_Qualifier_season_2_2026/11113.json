@@ -1,0 +1,91 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11113,
+        "NOM": "Closed_Qualifier",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-14",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-10-18",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:25:57",
+        "ANNEE": 2026,
+        "SAISON": "2"
+    },
+    "LIGUE": {
+        "ID": 5569,
+        "NOM": "CyberClash",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:17:56"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "10:00:00",
+            "DATE DE FIN": "2026-10-18",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:28:11",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group D",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "2026-10-18",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:59:17",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-d-fcd5c1b9-005c-42ef-8d0b-a880c3cce662",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "2026-10-18",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:29:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group C",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-15",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "2026-10-18",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:35:27",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

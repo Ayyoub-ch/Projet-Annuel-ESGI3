@@ -72,7 +72,7 @@ for league in leagues:
         ## Cependant, si la série est vide, on ne fait rien.
         
         # Création du dossier de la league
-        dossier_league = os.path.join(DOSSIER_PRINCIPAL, f"{nom}")
+        dossier_league = os.path.join(DOSSIER_PRINCIPAL, f"{jeu}", f"{nom}")
         os.makedirs(dossier_league, exist_ok=True)
         
         # Chemin complet du fichier JSON pour la league

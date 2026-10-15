@@ -113,11 +113,11 @@ for serie in series:
         ## Cependant, si la série est vide, on ne fait rien.
         
         # Création du dossier de la league
-        dossier_serie = os.path.join(DOSSIER_PRINCIPAL, f"{nom_complet}")
+        dossier_serie = os.path.join(DOSSIER_PRINCIPAL, f"{jeu}", f"{nom_complet}")
         os.makedirs(dossier_serie, exist_ok=True)
         
         # Chemin complet du fichier JSON pour la serie
-        chemin_fichier_json = os.path.join(dossier_serie, f"{nom_complet}.json")
+        chemin_fichier_json = os.path.join(dossier_serie, f"{id}.json")
         
         
         # Metadonnées et informations de la serie
@@ -151,4 +151,4 @@ for serie in series:
         print(f" Fichier cree '{nom_complet}' sauvegardees dans '{chemin_fichier_json}'")
     
     except Exception as e:
-        print(f" Erreur lors du traitement de la serie '{nom}': {e}")
+        print(f" Erreur lors du traitement de la serie '{nom} {id}': {e}")

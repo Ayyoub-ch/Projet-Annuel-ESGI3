@@ -1,0 +1,77 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 22210,
+        "NOM": "Group_C",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-15",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-18",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:35:27",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "UP vs LVKD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "16:30:00",
+            "DATE DE DEBUT": "2026-10-15",
+            "HEURE DE DEBUT": "16:32:15",
+            "DATE DE FIN": "2026-10-15",
+            "HEURE DE FIN": "18:21:45",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:24:42",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/breezebrothersmedia"
+            }
+        },
+        {
+            "NOM": "PRIV vs Honvéd",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "19:40:00",
+            "DATE DE DEBUT": "2026-10-15",
+            "HEURE DE DEBUT": "19:40:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:18:43",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "hu",
+                "LIEN BRUTE": "https://www.twitch.tv/litonn"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": "ID d'équipe inconnu",
+            "NOM": "Nom d'équipe inconnu",
+            "LOCALISATION": "Localisation d'équipe inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "Date et He",
+            "HEURE DE LA DERNIERE MODIFICATION": "re de mo",
+            "ACRONYME": "Acronyme d'équipe inconnu"
+        }
+    ]
+}

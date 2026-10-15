@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11100,
+        "NOM": "Series__2",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-15",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-17",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:35:11",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5548,
+        "NOM": "Elisa BreakOut",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-07-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:34:22"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-10-15",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-15",
+            "HEURE DE FIN": "19:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:51:42",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-elisa-breakout-series-2-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-16",
+            "HEURE DE FIN": "19:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:52:49",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-elisa-breakout-series-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-10-17",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-17",
+            "HEURE DE FIN": "19:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:51:38",
+            "PRIZEPOOL": "15000 Euro",
+            "SLUG": "cs-go-elisa-breakout-series-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

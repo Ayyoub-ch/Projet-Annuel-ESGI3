@@ -1,0 +1,57 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 10988,
+        "NOM": "2026",
+        "JEU VIDEO": "LoL",
+        "DATE DE DEBUT": "2026-10-03",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-10-17",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:33:23",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5561,
+        "NOM": "Demacia Cup Global Invitational",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:04:17"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online/offline",
+            "PAYS": "CN",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-03",
+            "HEURE DE DEBUT": "07:00:00",
+            "DATE DE FIN": "2026-10-08",
+            "HEURE DE FIN": "13:21:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:03:52",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-demacia-cup-global-invitational-2026-group-stage",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online/offline",
+            "PAYS": "CN",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-12",
+            "HEURE DE DEBUT": "06:00:00",
+            "DATE DE FIN": "2026-10-17",
+            "HEURE DE FIN": "16:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:37:14",
+            "PRIZEPOOL": "1500000 Chinese Yuan",
+            "SLUG": "league-of-legends-demacia-cup-global-invitational-2026-playoffs",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 10995,
+        "NOM": "2026",
+        "JEU VIDEO": "LoL",
+        "DATE DE DEBUT": "2026-09-29",
+        "HEURE DE DEBUT": "00:00:00",
+        "DATE DE FIN": "2026-10-02",
+        "HEURE DE FIN": "06:26:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-02",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:47:32",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5012,
+        "NOM": "Asian Games",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-06-02",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:33:46"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "JP",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-09-29",
+            "HEURE DE DEBUT": "00:00:00",
+            "DATE DE FIN": "2026-09-29",
+            "HEURE DE FIN": "05:55:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:47:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-asian-games-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "JP",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-09-29",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-09-30",
+            "HEURE DE FIN": "05:40:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:47:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-asian-games-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "JP",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-01",
+            "HEURE DE DEBUT": "00:00:00",
+            "DATE DE FIN": "2026-10-02",
+            "HEURE DE FIN": "06:26:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:47:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-asian-games-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}
