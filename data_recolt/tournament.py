@@ -64,7 +64,20 @@ for tournament in tournaments:
         heure_modif = tournament.get("modified_at", "Date et Heure inconnue")[11:19]
         saison = tournament.get("season", "Saison inconnue")
         
-
+        # Les séries
+        nom_serie = tournament.get("serie",{}).get("full_name","Nom de la serie inconnu")
+        annee_serie = tournament.get("serie",{}).get("year","Annee de la serie inconnu")
+        date_modif_serie = tournament.get("serie",{}).get("modified_at", "Date et Heure inconnue")[0:10]
+        heure_modif_serie = tournament.get("serie",{}).get("modified_at", "Date et Heure inconnue")[11:19]
+        saison_serie = tournament.get("serie",{}).get("season", "Saison inconnue")
+        winner_serie_id = tournament.get("serie",{}).get("winner_id", "Id du vainqueur inconnu")
+        
+        # Les ligues
+        nom_ligue= tournament.get("league",{}).get("name","Nom de la ligue inconnue")
+        date_modif_ligue = tournament.get("league",{}).get("modified_at", "Date et Heure inconnue")[0:10]
+        heure_modif_ligue = tournament.get("league",{}).get("modified_at", "Date et Heure inconnue")[11:19]
+        
+        
         # Les tournois peuvent être reçus sous forme d'un dictionnaire ou d'une liste.
         matches = tournament.get("matches") or []
         if isinstance(matches, dict):
@@ -88,9 +101,8 @@ for tournament in tournaments:
             # if isinstance(teams, dict):
             #     teams = [teams]
                 
-            # teams_metadata = []
-            teams = [match.get("teams", [{}])[0]] if match.get("streams_list") else [{}] 
-            teams_metadata = []
+            # Les équipes
+            teams = [tournament.get("teams", [{}])[0]] if tournament.get("teams") else [{}] 
             team_id = teams[0].get("id", "ID d'équipe inconnu")
             team_name = teams[0].get("name", "Nom d'équipe inconnu")
             team_location = teams[0].get("location", "Localisation d'équipe inconnue")
@@ -98,16 +110,8 @@ for tournament in tournaments:
             team_modified_at_heure = teams[0].get("modified_at", "Date et Heure de modification d'équipe inconnue")
             team_acronym = teams[0].get("acronym", "Acronyme d'équipe inconnu")
             
-            teams_metadata.append({
-                "ID": team_id,
-                "NOM": team_name,
-                "LOCALISATION": team_location,
-                "DATE DE LA DERNIERE MODIFICATION": team_modified_at_date[0:10],
-                "HEURE DE LA DERNIERE MODIFICATION": team_modified_at_heure[11:19],
-                "ACRONYME": team_acronym
-            })
             
-
+            
             matches_metadata.append({
                 "NOM": match.get("name", "Nom de match inconnu"),
                 "TYPE": match.get("type", "Type de match inconnu"),
@@ -169,7 +173,27 @@ for tournament in tournaments:
                 "SAISON": "Saison inconnue" if saison == "" or saison == "null" else saison,
              },
              "MATCHES": matches_metadata,
-             "EQUIPES": teams_metadata
+             "EQUIPES": {
+                "ID": team_id,
+                "NOM": team_name,
+                "LOCALISATION": team_location,
+                "DATE DE LA DERNIERE MODIFICATION": team_modified_at_date[0:10],
+                "HEURE DE LA DERNIERE MODIFICATION": team_modified_at_heure[11:19],
+                "ACRONYME": team_acronym
+             },
+             "LIGUE":{
+                 "NOM":nom_ligue,
+                 "DATE DE LA DERNIERE MODIFICATION": date_modif_ligue,
+                 "HEURE DE LA DERNIERE MODIFICATION": heure_modif_ligue,
+             },
+             "SERIE": {
+                 "NOM":nom_serie,
+                 "ANNEE":annee_serie,
+                 "SAISON":saison_serie,
+                 "DATE DE LA DERNIERE MODIFICATION": date_modif_serie,
+                 "HEURE DE LA DERNIERE MODIFICATION": heure_modif_serie,
+                 "ID DU VAINQUEUR":winner_serie_id
+             }
         }
     
         
