@@ -1,0 +1,512 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22209,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-14",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-18",
+        "HEURE DE FIN": "12:39:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:14:24",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "OMG vs FF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "16:30:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "16:38:31",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "19:29:11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:33:54",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epl_pro"
+            }
+        },
+        {
+            "NOM": "Elimination match: FF vs JS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-16",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "10:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:52:45",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epl_pro"
+            }
+        },
+        {
+            "NOM": "Winners match: OMG vs BW",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-17",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-10-17",
+            "HEURE DE DEBUT": "16:23:19",
+            "DATE DE FIN": "2026-10-17",
+            "HEURE DE FIN": "18:02:34",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:11:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/floppyacs"
+            }
+        },
+        {
+            "NOM": "Decider Match: FF vs BW",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-18",
+            "HEURE PRÉVUE": "10:35:00",
+            "DATE DE DEBUT": "2026-10-18",
+            "HEURE DE DEBUT": "10:37:45",
+            "DATE DE FIN": "2026-10-18",
+            "HEURE DE FIN": "12:39:41",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:27:10",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epl_pro"
+            }
+        },
+        {
+            "NOM": "BW vs JS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:23",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cyberclash-closed-qualifier-2-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epl_pro"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 134188,
+            "NOM": "Johnny Speeds",
+            "LOCALISATION": "SE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:29:16",
+            "ACRONYME": "JS"
+        },
+        {
+            "ID": 135474,
+            "NOM": "Fire Flux Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:09:11",
+            "ACRONYME": "FF"
+        },
+        {
+            "ID": 136934,
+            "NOM": "Bushido Wildcats",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:32:00",
+            "ACRONYME": "BW"
+        },
+        {
+            "ID": 137584,
+            "NOM": "Omega",
+            "LOCALISATION": "KZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:20:26",
+            "ACRONYME": "OMG"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 134188,
+                "NOM": "Johnny Speeds",
+                "LOCALISATION": "SE",
+                "ACRONYME": "JS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:29:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17660,
+                    "PSEUDO": "draken",
+                    "ROLE": null,
+                    "PRENOM": "William",
+                    "NOM": "Sundin",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-10-05",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:14"
+                },
+                {
+                    "ID": 17852,
+                    "PSEUDO": "hampus",
+                    "ROLE": null,
+                    "PRENOM": "Hampus",
+                    "NOM": "Poser",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-11-26",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:16"
+                },
+                {
+                    "ID": 29152,
+                    "PSEUDO": "Svedjehed",
+                    "ROLE": null,
+                    "PRENOM": "Leo ",
+                    "NOM": "Svedjehed",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-22",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:16"
+                },
+                {
+                    "ID": 33542,
+                    "PSEUDO": "Bsover",
+                    "ROLE": null,
+                    "PRENOM": "Oliwer",
+                    "NOM": "Ekbäck",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:16"
+                },
+                {
+                    "ID": 46279,
+                    "PSEUDO": "Rack",
+                    "ROLE": null,
+                    "PRENOM": "Elias",
+                    "NOM": "Karttunen",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:16"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135474,
+                "NOM": "Fire Flux Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "FF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:09:11"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 29942,
+                    "PSEUDO": "Cizzx",
+                    "ROLE": null,
+                    "PRENOM": "Can",
+                    "NOM": "Pars",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-22",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:17"
+                },
+                {
+                    "ID": 46178,
+                    "PSEUDO": "Quality",
+                    "ROLE": null,
+                    "PRENOM": "Ali Furkan",
+                    "NOM": "Avcı",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:18"
+                },
+                {
+                    "ID": 60644,
+                    "PSEUDO": "zer0UKY",
+                    "ROLE": null,
+                    "PRENOM": "Ubeyde",
+                    "NOM": "Yalçin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:19"
+                },
+                {
+                    "ID": 61349,
+                    "PSEUDO": "zemix",
+                    "ROLE": null,
+                    "PRENOM": "Semih",
+                    "NOM": "Baykara",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:18"
+                },
+                {
+                    "ID": 62034,
+                    "PSEUDO": "xEternaLxx",
+                    "ROLE": null,
+                    "PRENOM": "Eyüphan",
+                    "NOM": "Büken",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:18"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136934,
+                "NOM": "Bushido Wildcats",
+                "LOCALISATION": "TR",
+                "ACRONYME": "BW",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:32:00"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 36424,
+                    "PSEUDO": "Darendeli",
+                    "ROLE": null,
+                    "PRENOM": "Ahmet",
+                    "NOM": "Şengül",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-29",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:19"
+                },
+                {
+                    "ID": 51156,
+                    "PSEUDO": "Muk0s",
+                    "ROLE": null,
+                    "PRENOM": "Valeriy",
+                    "NOM": "Mukovnin",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:32:02"
+                },
+                {
+                    "ID": 58340,
+                    "PSEUDO": "Vej",
+                    "ROLE": null,
+                    "PRENOM": "Orhan Yunus ",
+                    "NOM": "Hamarat",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-09",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:20"
+                },
+                {
+                    "ID": 58341,
+                    "PSEUDO": "cadnyx",
+                    "ROLE": null,
+                    "PRENOM": "Kadir ",
+                    "NOM": "Tuncay",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-05-02",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:20"
+                },
+                {
+                    "ID": 60184,
+                    "PSEUDO": "cacan",
+                    "ROLE": null,
+                    "PRENOM": "Mert ",
+                    "NOM": "Cacan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-03",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:20"
+                },
+                {
+                    "ID": 62038,
+                    "PSEUDO": "souv",
+                    "ROLE": null,
+                    "PRENOM": "Aziz",
+                    "NOM": "Altinsoy",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:18:12"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137584,
+                "NOM": "Omega",
+                "LOCALISATION": "KZ",
+                "ACRONYME": "OMG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "23:20:26"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 45383,
+                    "PSEUDO": "def1zer",
+                    "ROLE": null,
+                    "PRENOM": "Sanzhar",
+                    "NOM": "Talgat",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-06-19",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:26"
+                },
+                {
+                    "ID": 53408,
+                    "PSEUDO": "adai",
+                    "ROLE": null,
+                    "PRENOM": " Darxan",
+                    "NOM": "Jeksenbai",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-30",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:26"
+                },
+                {
+                    "ID": 62195,
+                    "PSEUDO": "Botpa1",
+                    "ROLE": null,
+                    "PRENOM": "Zhassulan ",
+                    "NOM": "Assembek",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:26"
+                },
+                {
+                    "ID": 62411,
+                    "PSEUDO": "Aldikon",
+                    "ROLE": null,
+                    "PRENOM": "Aldiyar ",
+                    "NOM": "Alim",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:26"
+                },
+                {
+                    "ID": 62412,
+                    "PSEUDO": "dan4o",
+                    "ROLE": null,
+                    "PRENOM": "Damir ",
+                    "NOM": "Kulshenbayev",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:25"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "CyberClash",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:17:56"
+    },
+    "SERIE": {
+        "NOM": "Closed Qualifier season 2 2026",
+        "ANNEE": 2026,
+        "SAISON": "2",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:25:57",
+        "ID DU VAINQUEUR": null
+    }
+}

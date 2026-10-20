@@ -47,7 +47,7 @@ for serie in series:
         id= serie.get("id")
         nom= serie.get("name", "Nom inconnu").replace("/", "_").replace(":", "_").replace(" ", "_").replace(" ", "_").replace("'", "_").replace('"', "_").replace("?", "_").replace("*", "_").replace("<", "_").replace(">", "_").replace("|", "_").replace("#", "_")
         nom_complet= serie.get("full_name", "Nom complet inconnu").replace("/", "_").replace(":", "_").replace(" ", "_").replace("'", "_").replace('"', "_").replace("?", "_").replace("*", "_").replace("<", "_").replace(">", "_").replace("|", "_").replace("#", "_")
-        jeu= serie.get("videogame", {}).get("name", "Jeu inconnu")
+        jeu= serie.get("videogame", {}).get("name", "Jeu inconnu").replace(":", "")
         titre_jeu= (serie.get("videogame_title") or {}).get("name", "Titre du jeu inconnu") 
         # Le titre du jeu étant un dictionnaire, si ce dernier est juste Nul et que ce n'est même plus un dictionnaire, on met "Titre du jeu inconnu" par défaut en précisant 
         # que cela doit se faire dans le cas où la valeur est nulle.

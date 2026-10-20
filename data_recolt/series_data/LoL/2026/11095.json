@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11095,
+        "NOM": "2026",
+        "JEU VIDEO": "LoL",
+        "DATE DE DEBUT": "2026-10-11",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:26:44",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5433,
+        "NOM": "LGC Rising",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-09-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:00:50"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-10-11",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "2026-10-27",
+            "HEURE DE FIN": "21:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:55:41",
+            "PRIZEPOOL": "3000 Euro",
+            "SLUG": "league-of-legends-lgc-rising-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+# ================================
+# IMPORT DES BIBLIOTHÈQUES
+# ================================
+import requests    # Pour récupérer les données depuis l'API
+import os          # Pour créer des dossiers et gérer les fichiers
+import json        # Pour manipuler et sauvegarder les fichiers JSON
+
+# ================================
+# CONFIGURATION DES DOSSIERS
+# ================================
+
+# Dossier principal
+DOSSIER_PRINCIPAL = "data_recolt/matchs_data"
+
+
+
+# ================================
+# URL DE L'API JSON
+# ================================
+
+url_api= "https://api.pandascore.co/matches?per_page=100&token=SOjDY71vGefSCHtKOX5V3xublQ_W7Hh5ji4LW5TtJ1mhdogtJjg"
+
+# ================================
+# RÉCUPÉRATION DES DONNÉES
+# ================================
+
+try:
+    response = requests.get(url_api, timeout=600)
+    response.raise_for_status()  # Lève une erreur si problème réseau
+    
+    # Conversion de la réponse en JSON Python
+    reponse_json = response.json()
+    matchs = reponse_json  # Récupère la liste des leagues
+    print(f" {len(matchs)} ligues recuperes depuis l'API")
+    
+except requests.exceptions.RequestException as e:
+    print(f" Erreur lors de la recuperation des donnees depuis l'API: {e}")
+    exit(1)  # Quitte le script avec un code d'erreur
+    
+# ================================
+# TRAITEMENT DE CHAQUE LIGUE
+# ================================ 
+
+for match in matchs:
+    try:
+        # Extraction des informations de la league
+        id= match.get("id")
+        nom= match.get("name", "Nom inconnu").replace("/", "_").replace(":", "_").replace(" ", "_")
+        jeu= match.get("videogame", {}).get("name", "Jeu inconnu").replace(":", "")
+        version_actuelle = match.get("current_version", "Version inconnue")
+        date_modif = match.get("modified_at", "Date et Heure inconnue")[0:10]
+        heure_modif = match.get("modified_at", "Date et Heure inconnue")[11:19]
+
+        # Extraction des informations de la série
+        for serie in league.get("series", []):
+            id_serie= serie.get("id", "ID de série inconnu")
+            name_serie= serie.get("name", "Nom de série inconnu")
+            annee_serie= serie.get("year", "Année de série inconnue")
+            
+            date_heure_debut = serie.get("begin_at", "Date et Heure de la série inconnue")
+            date_debut = date_heure_debut[0:10] if date_heure_debut != "Date et Heure de la série inconnue" else "Date de début inconnue"
+            heure_debut = date_heure_debut[11:19] if date_heure_debut != "Date et Heure de la série inconnue" else "Heure de début inconnue"
+            
+            date_heure_fin = serie.get("end_at", "Date et Heure de la série inconnue")
+            date_fin = date_heure_fin[0:10] if date_heure_fin != "Date et Heure de la série inconnue" else "Date de fin inconnue"
+            heure_fin = date_heure_fin[11:19] if date_heure_fin != "Date et Heure de la série inconnue" else "Heure de fin inconnue"
+            
+            full_name_serie= serie.get("full_name", "Nom complet de série inconnu")
+        
+        ## Remarque : Si une partie de l'information n'est pas sous forme de dictionnaire, c'est une liste
+        ## Donc on doit faire une boucle for pour récupérer les informations de chaque série. 
+        ## Cependant, si la série est vide, on ne fait rien.
+        
+        # Création du dossier de la league
+        dossier_league = os.path.join(DOSSIER_PRINCIPAL, f"{jeu}", f"{nom}")
+        os.makedirs(dossier_league, exist_ok=True)
+        
+        # Chemin complet du fichier JSON pour la league
+        chemin_fichier_json = os.path.join(dossier_league, f"{nom}.json")
+        
+        
+        # Metadonnées et informations de la league
+        metadata= {
+             "DONNEES GENERALES DE LA LIGUE": {
+                "ID": id,
+                "NOM": nom,
+                "JEU VIDEO": jeu,
+                "VERSION ACTUELLE DU JEU": version_actuelle,
+                "DATE DE LA DERNIERE MODIFICATION": date_modif,
+                "HEURE DE LA DERNIERE MODIFICATION": heure_modif,
+             },
+             "SERIE": {
+                "ID": id_serie,
+                "NOM": full_name_serie if name_serie == "" else name_serie,
+                "ANNEE": annee_serie,
+                "DATE DE DEBUT": date_debut,
+                "HEURE DE DEBUT": heure_debut,
+                "DATE DE FIN": date_fin,
+                "HEURE DE FIN": heure_fin
+             }
+        }
+        
+        # Sauvegarde des données dans un fichier JSON
+        with open(chemin_fichier_json, 'w', encoding='utf-8') as f:
+            json.dump(metadata, f, ensure_ascii=False, indent=4)
+        print(f" Fichier cree '{nom}' sauvegardees dans '{chemin_fichier_json}'")
+    
+    except Exception as e:
+        print(f" Erreur lors du traitement de la league '{nom}': {e}")

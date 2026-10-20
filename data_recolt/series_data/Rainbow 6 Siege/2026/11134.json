@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11134,
+        "NOM": "2026",
+        "JEU VIDEO": "Rainbow 6 Siege",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:31:10",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5572,
+        "NOM": "Challenger League",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:25:38"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "21:00:00",
+            "DATE DE FIN": "2026-10-25",
+            "HEURE DE FIN": "20:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:31:10",
+            "PRIZEPOOL": "270000 Brazilian Real",
+            "SLUG": "r6-siege-challenger-league-2026-playoffs",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11106,
+        "NOM": "Season_2_2026",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-19",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-10-22",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:09:02",
+        "ANNEE": 2026,
+        "SAISON": "2"
+    },
+    "LIGUE": {
+        "ID": 5559,
+        "NOM": "1win Private Club",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:08:00"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "RS",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "20:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:09:02",
+            "PRIZEPOOL": "100,000 United States Dollar",
+            "SLUG": "cs-go-1win-private-club-private-club-2-2026-playoffs",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

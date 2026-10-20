@@ -1,0 +1,538 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22200,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-15",
+        "HEURE DE DEBUT": "00:00:00",
+        "DATE DE FIN": "2026-10-15",
+        "HEURE DE FIN": "11:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "NEXVOID vs MF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "00:20:00",
+            "DATE DE DEBUT": "2026-10-15",
+            "HEURE DE DEBUT": "00:20:27",
+            "DATE DE FIN": "2026-10-15",
+            "HEURE DE FIN": "02:08:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:20:44",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/dfragtv"
+            }
+        },
+        {
+            "NOM": "Winners Match: RSTR vs NEXVOID",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "03:10:00",
+            "DATE DE DEBUT": "2026-10-15",
+            "HEURE DE DEBUT": "03:10:03",
+            "DATE DE FIN": "2026-10-15",
+            "HEURE DE FIN": "04:50:53",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "05:14:48",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/dfragtv"
+            }
+        },
+        {
+            "NOM": "Decider Match: MF vs RSTR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-10-15",
+            "HEURE DE DEBUT": "09:01:09",
+            "DATE DE FIN": "2026-10-15",
+            "HEURE DE FIN": "11:00:30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:04:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/dfragtv"
+            }
+        },
+        {
+            "NOM": "RA vs RSTR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "00:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:03:51",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/dfragtv_cs2"
+            }
+        },
+        {
+            "NOM": "Elimination Match: RA vs MF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-15",
+            "HEURE PRÉVUE": "03:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:10:05",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/dfragtv"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 127114,
+            "NOM": "Rooster",
+            "LOCALISATION": "AU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:36:13",
+            "ACRONYME": "RSTR"
+        },
+        {
+            "ID": 130329,
+            "NOM": "Rare Atom",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:31:26",
+            "ACRONYME": "RA"
+        },
+        {
+            "ID": 131110,
+            "NOM": "Mindfreak",
+            "LOCALISATION": "AU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "01:36:01",
+            "ACRONYME": "MF"
+        },
+        {
+            "ID": 138151,
+            "NOM": "NEXVOID",
+            "LOCALISATION": "MN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:24:07",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 127114,
+                "NOM": "Rooster",
+                "LOCALISATION": "AU",
+                "ACRONYME": "RSTR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:36:13"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 21454,
+                    "PSEUDO": "chelleos",
+                    "ROLE": null,
+                    "PRENOM": "Michael",
+                    "NOM": "Hawkins",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-24",
+                    "NATIONALITE": "NZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:11"
+                },
+                {
+                    "ID": 23766,
+                    "PSEUDO": "SkulL",
+                    "ROLE": null,
+                    "PRENOM": "Jordan",
+                    "NOM": "Newland",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-01",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:10"
+                },
+                {
+                    "ID": 23806,
+                    "PSEUDO": "ADK",
+                    "ROLE": null,
+                    "PRENOM": "Akram",
+                    "NOM": "Smida",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:11"
+                },
+                {
+                    "ID": 23807,
+                    "PSEUDO": "ju1ces",
+                    "ROLE": null,
+                    "PRENOM": "Jake",
+                    "NOM": "Hennessy",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:36:10"
+                },
+                {
+                    "ID": 25026,
+                    "PSEUDO": "rekonz",
+                    "ROLE": null,
+                    "PRENOM": "Daniel",
+                    "NOM": "Mort",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-30",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:07"
+                },
+                {
+                    "ID": 29664,
+                    "PSEUDO": "cookie",
+                    "ROLE": null,
+                    "PRENOM": "Adam",
+                    "NOM": "Cook",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "NZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:53:35"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130329,
+                "NOM": "Rare Atom",
+                "LOCALISATION": "CN",
+                "ACRONYME": "RA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:31:26"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17801,
+                    "PSEUDO": "Summer",
+                    "ROLE": null,
+                    "PRENOM": "Yulun",
+                    "NOM": "Cai",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-05-16",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:31:23"
+                },
+                {
+                    "ID": 18304,
+                    "PSEUDO": "Kaze",
+                    "ROLE": null,
+                    "PRENOM": "Andrew",
+                    "NOM": "Khong",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-07-22",
+                    "NATIONALITE": "MY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:31:26"
+                },
+                {
+                    "ID": 25217,
+                    "PSEUDO": "ChildKing",
+                    "ROLE": null,
+                    "PRENOM": "Junhao",
+                    "NOM": "Peng",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-02-22",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:31:25"
+                },
+                {
+                    "ID": 32187,
+                    "PSEUDO": "L1haNg",
+                    "ROLE": null,
+                    "PRENOM": "Yihang",
+                    "NOM": "Li",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-14",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:31:25"
+                },
+                {
+                    "ID": 53173,
+                    "PSEUDO": "3gl",
+                    "ROLE": null,
+                    "PRENOM": "Guoliang",
+                    "NOM": "Wang",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:31:26"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 131110,
+                "NOM": "Mindfreak",
+                "LOCALISATION": "AU",
+                "ACRONYME": "MF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "01:36:01"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 21469,
+                    "PSEUDO": "void",
+                    "ROLE": null,
+                    "PRENOM": "Cooper",
+                    "NOM": "Farrell",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-20",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:43:23"
+                },
+                {
+                    "ID": 40568,
+                    "PSEUDO": "foggers",
+                    "ROLE": null,
+                    "PRENOM": "Jayden",
+                    "NOM": "Graham",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:36:01"
+                },
+                {
+                    "ID": 51078,
+                    "PSEUDO": "phoebe",
+                    "ROLE": null,
+                    "PRENOM": "Phoebe",
+                    "NOM": "Winter",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:43:25"
+                },
+                {
+                    "ID": 52151,
+                    "PSEUDO": "74LOR",
+                    "ROLE": null,
+                    "PRENOM": "Jae",
+                    "NOM": "Webb",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:35:59"
+                },
+                {
+                    "ID": 57785,
+                    "PSEUDO": "kairo",
+                    "ROLE": null,
+                    "PRENOM": "Kai",
+                    "NOM": "Brooks",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:43:25"
+                },
+                {
+                    "ID": 62437,
+                    "PSEUDO": "lawlkay",
+                    "ROLE": null,
+                    "PRENOM": "Ethan",
+                    "NOM": "Mistica",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:02:08"
+                },
+                {
+                    "ID": 65757,
+                    "PSEUDO": "Bay",
+                    "ROLE": null,
+                    "PRENOM": "Tyler",
+                    "NOM": "Dellaca",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:43:25"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138151,
+                "NOM": "NEXVOID",
+                "LOCALISATION": "MN",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:24:07"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30546,
+                    "PSEUDO": "xerolte",
+                    "ROLE": null,
+                    "PRENOM": "Munkhtogtokh",
+                    "NOM": "Enkhbat",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-03",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:07"
+                },
+                {
+                    "ID": 39731,
+                    "PSEUDO": "MiQ",
+                    "ROLE": null,
+                    "PRENOM": "Temuulen",
+                    "NOM": "Byambadalai",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-18",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:07"
+                },
+                {
+                    "ID": 42233,
+                    "PSEUDO": "erkaSt",
+                    "ROLE": null,
+                    "PRENOM": "Erdenetsogt",
+                    "NOM": "Gantulga",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:07"
+                },
+                {
+                    "ID": 44161,
+                    "PSEUDO": "AccuracyTG",
+                    "ROLE": null,
+                    "PRENOM": "Otgonlhagva",
+                    "NOM": "Batjargal",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-06-21",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:07"
+                },
+                {
+                    "ID": 50079,
+                    "PSEUDO": "zesta",
+                    "ROLE": null,
+                    "PRENOM": "Munkhsaikhan ",
+                    "NOM": "Erdenebaatar",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-06-22",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:07"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Logitech G Pro Series",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:03:50"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+        "ID DU VAINQUEUR": null
+    }
+}

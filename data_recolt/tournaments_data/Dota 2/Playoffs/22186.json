@@ -1,0 +1,437 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22186,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-10-12",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-10-12",
+        "HEURE DE FIN": "16:04:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:19:56",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 2: Mena Warriors vs Dawn Bulls",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-12",
+            "HEURE PRÉVUE": "14:10:00",
+            "DATE DE DEBUT": "2026-10-12",
+            "HEURE DE DEBUT": "14:11:22",
+            "DATE DE FIN": "2026-10-12",
+            "HEURE DE FIN": "16:04:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:18:03",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-western-europe-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
+            }
+        },
+        {
+            "NOM": "Semifinal 1: old blood vs White Sails",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-12",
+            "HEURE PRÉVUE": "14:10:00",
+            "DATE DE DEBUT": "2026-10-12",
+            "HEURE DE DEBUT": "14:11:24",
+            "DATE DE FIN": "2026-10-12",
+            "HEURE DE FIN": "16:04:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:22:34",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-western-europe-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "fr",
+                "LIEN BRUTE": "https://www.twitch.tv/teamoftilt_tv"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 139238,
+            "NOM": "Dawn Bulls",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:34:35",
+            "ACRONYME": "DB"
+        },
+        {
+            "ID": 139389,
+            "NOM": "old blood",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:17:37",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139392,
+            "NOM": "Mena Warriors",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:57:35",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139406,
+            "NOM": "White Sails",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:39:36",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 139238,
+                "NOM": "Dawn Bulls",
+                "LOCALISATION": "",
+                "ACRONYME": "DB",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:34:35"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 15502,
+                    "PSEUDO": "Xibbe",
+                    "ROLE": "3",
+                    "PRENOM": "Andreas Per",
+                    "NOM": "Ragnemalm",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-10-15",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:10:02"
+                },
+                {
+                    "ID": 20097,
+                    "PSEUDO": "yamich",
+                    "ROLE": "4",
+                    "PRENOM": "Daniyal",
+                    "NOM": "Lazebnyy",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-07",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:10:02"
+                },
+                {
+                    "ID": 24901,
+                    "PSEUDO": "Shad",
+                    "ROLE": "1",
+                    "PRENOM": "Indji",
+                    "NOM": "Lub",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-18",
+                    "NATIONALITE": "NL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:10:02"
+                },
+                {
+                    "ID": 31529,
+                    "PSEUDO": "Sanctity-",
+                    "ROLE": "2",
+                    "PRENOM": "Sukhbat",
+                    "NOM": "Otgondavaa",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-06",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:10:02"
+                },
+                {
+                    "ID": 37209,
+                    "PSEUDO": "Se",
+                    "ROLE": "5",
+                    "PRENOM": "Tugstur",
+                    "NOM": "Dashzevge",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-27",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:10:02"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139389,
+                "NOM": "old blood",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:17:37"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 41876,
+                    "PSEUDO": "Volshebnik",
+                    "ROLE": "2",
+                    "PRENOM": "Andrey",
+                    "NOM": "Pekur",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-04-02",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:53"
+                },
+                {
+                    "ID": 68351,
+                    "PSEUDO": "BaN WYWERN MY TEAM CANT PLAY",
+                    "ROLE": "5",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:36"
+                },
+                {
+                    "ID": 68352,
+                    "PSEUDO": "крутой",
+                    "ROLE": "3",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:38"
+                },
+                {
+                    "ID": 68353,
+                    "PSEUDO": "Theone",
+                    "ROLE": "4",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:40"
+                },
+                {
+                    "ID": 68408,
+                    "PSEUDO": "Eternal",
+                    "ROLE": "1",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:17:37"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139392,
+                "NOM": "Mena Warriors",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:57:35"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27632,
+                    "PSEUDO": "No!ob",
+                    "ROLE": "2",
+                    "PRENOM": "Tony",
+                    "NOM": "Assaf",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-06",
+                    "NATIONALITE": "LB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:18:08"
+                },
+                {
+                    "ID": 41190,
+                    "PSEUDO": "ruustle",
+                    "ROLE": "3",
+                    "PRENOM": "Jad",
+                    "NOM": "Itani",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-09",
+                    "NATIONALITE": "LB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:03"
+                },
+                {
+                    "ID": 42220,
+                    "PSEUDO": "Nagato",
+                    "ROLE": "5",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "JO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:03"
+                },
+                {
+                    "ID": 43319,
+                    "PSEUDO": "islA",
+                    "ROLE": "4",
+                    "PRENOM": "Bader",
+                    "NOM": "Hannoun",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-06-10",
+                    "NATIONALITE": "JO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:03"
+                },
+                {
+                    "ID": 48459,
+                    "PSEUDO": "Shushu",
+                    "ROLE": "2",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:57:35"
+                },
+                {
+                    "ID": 68315,
+                    "PSEUDO": "17X",
+                    "ROLE": "1",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:03"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139406,
+                "NOM": "White Sails",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:39:36"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 21700,
+                    "PSEUDO": "meLes",
+                    "ROLE": "4",
+                    "PRENOM": "Andrey",
+                    "NOM": "Romanov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-04-20",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:39:36"
+                },
+                {
+                    "ID": 23144,
+                    "PSEUDO": "zipzap",
+                    "ROLE": "1",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:39:35"
+                },
+                {
+                    "ID": 31712,
+                    "PSEUDO": "Atoufix",
+                    "ROLE": "5",
+                    "PRENOM": "Mathis ",
+                    "NOM": "Monino",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:39:36"
+                },
+                {
+                    "ID": 42231,
+                    "PSEUDO": "GodKid-17",
+                    "ROLE": "3",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:39:36"
+                },
+                {
+                    "ID": 49591,
+                    "PSEUDO": "matson",
+                    "ROLE": "2",
+                    "PRENOM": "Matin",
+                    "NOM": "Jafari",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:39:35"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "DreamLeague",
+        "DATE DE LA DERNIERE MODIFICATION": "2019-03-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:02:02"
+    },
+    "SERIE": {
+        "NOM": "Western Europe Open Qualifier 2 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:19:56",
+        "ID DU VAINQUEUR": null
+    }
+}

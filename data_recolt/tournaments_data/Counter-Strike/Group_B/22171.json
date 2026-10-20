@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22171,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-19",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-10-19",
+        "HEURE DE FIN": "21:57:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:59:38",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "BCG vs DRAMA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "09:07:34",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "09:55:10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:00:45",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "fr",
+                "LIEN BRUTE": "https://www.twitch.tv/croissantstrike"
+            }
+        },
+        {
+            "NOM": "WBT vs NXS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "09:10:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "09:12:52",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "10:01:16",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:10:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ro",
+                "LIEN BRUTE": "https://kick.com/btncs"
+            }
+        },
+        {
+            "NOM": "Winners' Match: BCG vs WBT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "12:30:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "12:37:43",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "13:34:10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:38:02",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "uk",
+                "LIEN BRUTE": "https://www.twitch.tv/streamcast_cs"
+            }
+        },
+        {
+            "NOM": "Elimination Match: DRAMA vs NXS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "14:25:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "14:29:28",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "18:17:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:20:05",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "uk",
+                "LIEN BRUTE": "https://www.twitch.tv/aidstarcs"
+            }
+        },
+        {
+            "NOM": "Decider Match: WBT vs NXS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "19:00:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "19:07:57",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "21:57:01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:58:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/draculancs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 126699,
+            "NOM": "Nexus",
+            "LOCALISATION": "RO",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:10:32",
+            "ACRONYME": "NXS"
+        },
+        {
+            "ID": 135177,
+            "NOM": "BC.Game Esports",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:26:22",
+            "ACRONYME": "BCG"
+        },
+        {
+            "ID": 138146,
+            "NOM": "Drama eSports",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:34:22",
+            "ACRONYME": "DRAMA"
+        },
+        {
+            "ID": 138841,
+            "NOM": "WBT",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:41:02",
+            "ACRONYME": "WBT"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 126699,
+                "NOM": "Nexus",
+                "LOCALISATION": "RO",
+                "ACRONYME": "NXS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:10:32"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28479,
+                    "PSEUDO": "shield",
+                    "ROLE": null,
+                    "PRENOM": "Roberts",
+                    "NOM": "Tipsis",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-19",
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:30"
+                },
+                {
+                    "ID": 29181,
+                    "PSEUDO": "fNk",
+                    "ROLE": null,
+                    "PRENOM": "Mihai ",
+                    "NOM": "Costache",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-07",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:25"
+                },
+                {
+                    "ID": 29416,
+                    "PSEUDO": "s0und",
+                    "ROLE": null,
+                    "PRENOM": "Alexandru ",
+                    "NOM": "Ștefan",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-25",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:31"
+                },
+                {
+                    "ID": 32758,
+                    "PSEUDO": "Nexius",
+                    "ROLE": null,
+                    "PRENOM": "Bram",
+                    "NOM": "Campana",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-12-19",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:31"
+                },
+                {
+                    "ID": 61609,
+                    "PSEUDO": "HOLY",
+                    "ROLE": null,
+                    "PRENOM": "Radu",
+                    "NOM": "Vrânceanu",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:31"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135177,
+                "NOM": "BC.Game Esports",
+                "LOCALISATION": "",
+                "ACRONYME": "BCG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:26:22"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17538,
+                    "PSEUDO": "Magisk",
+                    "ROLE": null,
+                    "PRENOM": "Emil",
+                    "NOM": "Reif",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-03-05",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:22"
+                },
+                {
+                    "ID": 17541,
+                    "PSEUDO": "s1mple",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Kostyliev",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-10-02",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:19"
+                },
+                {
+                    "ID": 23805,
+                    "PSEUDO": "asap",
+                    "ROLE": null,
+                    "PRENOM": "Tyson",
+                    "NOM": "Paterson",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-01",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:21"
+                },
+                {
+                    "ID": 31321,
+                    "PSEUDO": "senzu",
+                    "ROLE": null,
+                    "PRENOM": "Munkhbold ",
+                    "NOM": "Azbayar",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-08-11",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:21"
+                },
+                {
+                    "ID": 36211,
+                    "PSEUDO": "mzinho",
+                    "ROLE": null,
+                    "PRENOM": "Ayush",
+                    "NOM": "Batbold",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-06-28",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:22"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138146,
+                "NOM": "Drama eSports",
+                "LOCALISATION": "",
+                "ACRONYME": "DRAMA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:34:22"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25053,
+                    "PSEUDO": "DEPRESHN",
+                    "ROLE": null,
+                    "PRENOM": "Filip",
+                    "NOM": "Jarkić",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-10",
+                    "NATIONALITE": "HR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:34:22"
+                },
+                {
+                    "ID": 30360,
+                    "PSEUDO": "Frip",
+                    "ROLE": null,
+                    "PRENOM": "Roberts",
+                    "NOM": "Poļakovs",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-15",
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:34:22"
+                },
+                {
+                    "ID": 33500,
+                    "PSEUDO": "choiv7",
+                    "ROLE": null,
+                    "PRENOM": "Ivan",
+                    "NOM": "Zivkovic",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-12-27",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:34:22"
+                },
+                {
+                    "ID": 33717,
+                    "PSEUDO": "andr1x",
+                    "ROLE": null,
+                    "PRENOM": "Andrija",
+                    "NOM": "Ljubić",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-10",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:34:22"
+                },
+                {
+                    "ID": 36835,
+                    "PSEUDO": "Chill",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Mankevich",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-11-23",
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:34:22"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138841,
+                "NOM": "WBT",
+                "LOCALISATION": "UA",
+                "ACRONYME": "WBT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:41:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24661,
+                    "PSEUDO": "Psycho",
+                    "ROLE": null,
+                    "PRENOM": "Alexandr",
+                    "NOM": "Zlobin",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-03-19",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:41:02"
+                },
+                {
+                    "ID": 24671,
+                    "PSEUDO": "s4ltovsk1yy",
+                    "ROLE": null,
+                    "PRENOM": "Kyrylo",
+                    "NOM": "Lytvynov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-26",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:41:02"
+                },
+                {
+                    "ID": 24676,
+                    "PSEUDO": "DemQQ",
+                    "ROLE": null,
+                    "PRENOM": "Sergiy",
+                    "NOM": "Demchenko",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-23",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:41:02"
+                },
+                {
+                    "ID": 31227,
+                    "PSEUDO": "Smash",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Turchin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-22",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:41:02"
+                },
+                {
+                    "ID": 62099,
+                    "PSEUDO": "tyr1k-",
+                    "ROLE": null,
+                    "PRENOM": "Maksym",
+                    "NOM": "Tur",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:41:02"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "DraculaN",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-08-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:49:28"
+    },
+    "SERIE": {
+        "NOM": "Season 7 2026",
+        "ANNEE": 2026,
+        "SAISON": "7",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:15:30",
+        "ID DU VAINQUEUR": null
+    }
+}

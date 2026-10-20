@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22173,
+        "NOM": "Group_D",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-19",
+        "HEURE DE DEBUT": "10:45:00",
+        "DATE DE FIN": "2026-10-19",
+        "HEURE DE FIN": "18:22:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:00:27",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "SAW vs BKH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "11:10:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "11:06:25",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "11:32:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:24:00",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "uk",
+                "LIEN BRUTE": "https://www.twitch.tv/streamcast_cs_2"
+            }
+        },
+        {
+            "NOM": "ASTR vs Leo",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "11:15:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "11:22:48",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "11:57:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:05:04",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "uk",
+                "LIEN BRUTE": "https://www.twitch.tv/streamcast_cs"
+            }
+        },
+        {
+            "NOM": "Winners' Match: SAW vs ASTR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "12:45:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "12:48:55",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "13:30:49",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:38:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/roman"
+            }
+        },
+        {
+            "NOM": "Elimination Match: BKH vs Leo",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "14:15:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "14:19:00",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "15:13:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:24:05",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "uk",
+                "LIEN BRUTE": "https://www.twitch.tv/streamcast_cs"
+            }
+        },
+        {
+            "NOM": "Decider Match: ASTR vs Leo",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "16:00:52",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "18:22:42",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:23:56",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-draculan-7-2026-c677da06-1c13-4400-8853-37a60d4aed61-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/draculancsd"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 126738,
+            "NOM": "SAW",
+            "LOCALISATION": "PT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:26:15",
+            "ACRONYME": "SAW"
+        },
+        {
+            "ID": 133269,
+            "NOM": "Leo Team",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:10:37",
+            "ACRONYME": "Leo"
+        },
+        {
+            "ID": 137440,
+            "NOM": "ASTRAL",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:16:55",
+            "ACRONYME": "ASTR"
+        },
+        {
+            "ID": 139400,
+            "NOM": "Bayankhongor",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:25:24",
+            "ACRONYME": "BKH"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 126738,
+                "NOM": "SAW",
+                "LOCALISATION": "PT",
+                "ACRONYME": "SAW",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:26:15"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 21908,
+                    "PSEUDO": "MUTiRiS",
+                    "ROLE": null,
+                    "PRENOM": "Christopher",
+                    "NOM": "Fernandes",
+                    "AGE": 33,
+                    "DATE DE NAISSANCE": "1992-12-26",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:15"
+                },
+                {
+                    "ID": 24570,
+                    "PSEUDO": "NOPEEJ",
+                    "ROLE": null,
+                    "PRENOM": "Filipe",
+                    "NOM": "Dias",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2001-11-08",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:14"
+                },
+                {
+                    "ID": 29845,
+                    "PSEUDO": "ewjerkz",
+                    "ROLE": null,
+                    "PRENOM": "Michel ",
+                    "NOM": "Pinto",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-24",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:14"
+                },
+                {
+                    "ID": 29847,
+                    "PSEUDO": "story",
+                    "ROLE": null,
+                    "PRENOM": "João",
+                    "NOM": "Vieira",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-23",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:07"
+                },
+                {
+                    "ID": 42939,
+                    "PSEUDO": "krazy",
+                    "ROLE": null,
+                    "PRENOM": "Adones",
+                    "NOM": "Nobry",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-12-29",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:14"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133269,
+                "NOM": "Leo Team",
+                "LOCALISATION": "UA",
+                "ACRONYME": "Leo",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:10:37"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24931,
+                    "PSEUDO": "drac",
+                    "ROLE": null,
+                    "PRENOM": "Etienne",
+                    "NOM": "Salaün",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-09",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:34"
+                },
+                {
+                    "ID": 38537,
+                    "PSEUDO": "Leen",
+                    "ROLE": null,
+                    "PRENOM": "Vladyslav ",
+                    "NOM": "Stepanov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-02-04",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:36"
+                },
+                {
+                    "ID": 39936,
+                    "PSEUDO": "next1me",
+                    "ROLE": null,
+                    "PRENOM": "Kacper",
+                    "NOM": "Parakowski",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-01",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:36"
+                },
+                {
+                    "ID": 40699,
+                    "PSEUDO": "Tarkky",
+                    "ROLE": null,
+                    "PRENOM": "Julien",
+                    "NOM": "Buzogany",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:37"
+                },
+                {
+                    "ID": 47099,
+                    "PSEUDO": "aimy",
+                    "ROLE": null,
+                    "PRENOM": "Jakub ",
+                    "NOM": "Kleczkowski",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:10:36"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137440,
+                "NOM": "ASTRAL",
+                "LOCALISATION": "",
+                "ACRONYME": "ASTR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:16:55"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24559,
+                    "PSEUDO": "gxx-",
+                    "ROLE": null,
+                    "PRENOM": "Genc",
+                    "NOM": "Kolgeci",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-05-03",
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:16:55"
+                },
+                {
+                    "ID": 39561,
+                    "PSEUDO": "RaY5ive",
+                    "ROLE": null,
+                    "PRENOM": "Roland",
+                    "NOM": "Siminejev",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:16:55"
+                },
+                {
+                    "ID": 40655,
+                    "PSEUDO": "swiz",
+                    "ROLE": null,
+                    "PRENOM": "Oliwier ",
+                    "NOM": "Janus",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-12",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:16:54"
+                },
+                {
+                    "ID": 62007,
+                    "PSEUDO": "Neqy",
+                    "ROLE": null,
+                    "PRENOM": "Artjom ",
+                    "NOM": "Sahnjuk",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "EE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:16:55"
+                },
+                {
+                    "ID": 62008,
+                    "PSEUDO": "meowpop",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandrs ",
+                    "NOM": "Berezjuks",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:16:55"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139400,
+                "NOM": "Bayankhongor",
+                "LOCALISATION": "",
+                "ACRONYME": "BKH",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:25:24"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 68436,
+                    "PSEUDO": " gl0ss",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "NO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:32:59"
+                },
+                {
+                    "ID": 68437,
+                    "PSEUDO": "Poloolpp",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:32:58"
+                },
+                {
+                    "ID": 68439,
+                    "PSEUDO": "wenyt",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:32:58"
+                },
+                {
+                    "ID": 68440,
+                    "PSEUDO": "m9-",
+                    "ROLE": null,
+                    "PRENOM": "Mus'Aab",
+                    "NOM": "Hanif",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:20"
+                },
+                {
+                    "ID": 68485,
+                    "PSEUDO": "Ithlin",
+                    "ROLE": null,
+                    "PRENOM": "Ionut",
+                    "NOM": "Cirstea",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:51:22"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "DraculaN",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-08-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:49:28"
+    },
+    "SERIE": {
+        "NOM": "Season 7 2026",
+        "ANNEE": 2026,
+        "SAISON": "7",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:15:30",
+        "ID DU VAINQUEUR": null
+    }
+}
