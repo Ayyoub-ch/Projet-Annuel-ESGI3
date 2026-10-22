@@ -77,15 +77,63 @@ for moment in time:
             date_ouverture = live.get("opens_at", "Date inconnue")[0:10]
             heure_ouverture = live.get("opens_at", "Heure inconnue")[11:19]
             
-            
-            infos_streams = [match.get("streams_list", [{}])[0]] if match.get("streams_list") else [{}]  # Récupère le premier élément de la liste ou un dictionnaire vide si la liste est vide
-            main= infos_streams[0].get("main")
-            language= infos_streams[0].get("language")
-            url= infos_streams[0].get("raw_url")
-            
             # Games
-            game = match.get("games") or []
+            games = match.get("games") or []
+            if isinstance(games,dict):
+                games = [games]
             
+            parties = []
+            
+            if not games :
+                parties = "Pas d'informations sur les parties"
+            else:
+                for game in games:
+                    if not isinstance(game,dict):
+                        continue
+                    
+                    id_partie = game.get("id", "Date de début inconnue")
+                    partie_fini = game.get("complete", "Date de début inconnue")
+                    position_partie = game.get("position", "Date de début inconnue")
+                    statut_partie = game.get("status", "Date de début inconnue")
+                    longueur_partie = game.get("length", "Date de début inconnue")
+                    
+                    date_debut_partie = game.get("begin_at", "Date de début inconnue")[0:10]
+                    heure_debut_partie = game.get("begin_at", "Heure de début inconnue")[11:19]
+                    
+                    date_fin_partie = game.get("end_at", "Date de début inconnue")[0:10]
+                    heure_fin_partie = game.get("end_at", "Heure de début inconnue")[11:19]
+                    
+                    stats_detail = game.get("detailed_stats", "Date de début inconnue")
+                    forfait = game.get("forfeit", "Date de début inconnue")
+                    
+                    vainqueur = game.get("winner") or {}
+                    vainqueur_id = vainqueur.get("id")
+                    vainqueur_type = vainqueur.get("type", "Date de début inconnue")
+                    winner_type = game.get("winner_type", "Date de début inconnue")
+                    
+                    parties.append({
+                        "ID": id_partie,
+                        "PARTIE FINIE": partie_fini,
+                        "POSITION PARTIE": position_partie,
+                        "STATUT": statut_partie,
+                        "LONGUEUR": longueur_partie,
+                        "DATE DEBUT DE PARTIE": date_debut_partie,
+                        "HEURE DEBUT DE PARTIE": heure_debut_partie,
+                        
+                        "DATE FIN DE PARTIE": date_fin_partie,
+                        "HEURE FIN DE PARTIE": heure_fin_partie,
+                        
+                        "DETAIL STAT": stats_detail,
+                        "FORFAIT": forfait,
+                        
+                        "VAINQUEUR" :{
+                            "ID": vainqueur_id,
+                            "TYPE": vainqueur_type
+                        }
+                        "TYPE DU VAINQUEUR": winner_type,
+                    })
+                    
+               
             # Tournois
             
             

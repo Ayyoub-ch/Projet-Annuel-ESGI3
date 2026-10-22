@@ -1,0 +1,468 @@
+{
+        "league_id": 5573,
+        "winner_id": null,
+        "videogame": {
+            "id": 3,
+            "name": "Counter-Strike",
+            "slug": "cs-go"
+        },
+        "live": {
+            "supported": false,
+            "url": null,
+            "opens_at": null
+        },
+        "original_scheduled_at": "2026-10-29T15:00:00Z",
+        "winner_type": "Team",
+        "begin_at": "2026-10-29T15:00:00Z",
+        "rescheduled": false,
+        "games": [
+            {
+                "complete": false,
+                "id": 236786,
+                "position": 1,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763060,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "complete": false,
+                "id": 236787,
+                "position": 2,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763060,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "complete": false,
+                "id": 236788,
+                "position": 3,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763060,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "tournament": {
+            "id": 22278,
+            "name": "Playoffs",
+            "type": "offline",
+            "country": "RS",
+            "slug": "cs-go-tesla-cup-2026-playoffs",
+            "begin_at": "2026-10-29T09:00:00Z",
+            "detailed_stats": true,
+            "end_at": "2026-10-29T21:00:00Z",
+            "winner_id": null,
+            "winner_type": "Team",
+            "region": "EEU",
+            "serie_id": 11140,
+            "modified_at": "2026-10-21T13:02:30Z",
+            "league_id": 5573,
+            "prizepool": "50,000 United States Dollar",
+            "tier": "c",
+            "has_bracket": true,
+            "live_supported": false
+        },
+        "serie": {
+            "id": 11140,
+            "name": "",
+            "year": 2026,
+            "slug": "cs-go-tesla-cup-2026",
+            "begin_at": "2026-10-27T08:00:00Z",
+            "end_at": "2026-10-29T21:00:00Z",
+            "winner_id": null,
+            "winner_type": "Team",
+            "modified_at": "2026-10-21T12:42:48Z",
+            "league_id": 5573,
+            "season": null,
+            "full_name": "2026"
+        },
+
+        "modified_at": "2026-10-21T13:03:31Z",
+
+        "videogame_title": {
+            "id": 13,
+            "name": "Counter-Strike 2",
+            "slug": "cs-2",
+            "videogame_id": 3
+        },
+
+        "scheduled_at": "2026-10-29T15:00:00Z",
+        "slug": "2026-10-29-3d80efa8-81d2-4bd8-bf05-26353913ce3d",
+        "status": "not_started",
+        "number_of_games": 3,
+        "end_at": null,
+        "draw": false,
+        "serie_id": 11140,
+        "videogame_version": null,
+        "detailed_stats": true,
+
+        "streams_list": [
+            {
+                "main": true,
+                "language": "en",
+                "embed_url": "https://player.kick.com/rlgcs",
+                "official": true,
+                "raw_url": "https://kick.com/rlgcs"
+            }
+        ],
+
+        "id": 1763060,
+        "name": "Third Place Match: TBD vs TBD",
+        "winner": null,
+        "opponents": [],
+        "results": [],
+        "forfeit": false,
+        "tournament_id": 22278,
+        "match_type": "best_of",
+
+        "league": {
+            "id": 5573,
+            "name": "Tesla Cup",
+            "url": null,
+            "slug": "cs-go-tesla-cup",
+            "modified_at": "2026-10-21T12:41:51Z",
+            "image_url": "https://cdn-api.pandascore.co/images/league/image/5573/626px-tesla_cup_allmode-png"
+        },
+
+        "game_advantage": null
+    },
+
+
+
+
+
+
+
+
+    
+    {
+        "league_id": 5573,
+        "winner_id": null,
+        "videogame": {
+            "id": 3,
+            "name": "Counter-Strike",
+            "slug": "cs-go"
+        },
+        "live": {
+            "supported": false,
+            "url": null,
+            "opens_at": null
+        },
+        "original_scheduled_at": "2026-10-29T21:00:00Z",
+        "winner_type": "Team",
+        "begin_at": "2026-10-29T18:00:00Z",
+        "rescheduled": true,
+        "games": [
+            {
+                "complete": false,
+                "id": 236783,
+                "position": 1,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763059,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "complete": false,
+                "id": 236784,
+                "position": 2,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763059,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "complete": false,
+                "id": 236785,
+                "position": 3,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763059,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "tournament": {
+            "id": 22278,
+            "name": "Playoffs",
+            "type": "offline",
+            "country": "RS",
+            "slug": "cs-go-tesla-cup-2026-playoffs",
+            "begin_at": "2026-10-29T09:00:00Z",
+            "detailed_stats": true,
+            "end_at": "2026-10-29T21:00:00Z",
+            "winner_id": null,
+            "winner_type": "Team",
+            "region": "EEU",
+            "serie_id": 11140,
+            "modified_at": "2026-10-21T13:02:30Z",
+            "league_id": 5573,
+            "prizepool": "50,000 United States Dollar",
+            "tier": "c",
+            "has_bracket": true,
+            "live_supported": false
+        },
+        "serie": {
+            "id": 11140,
+            "name": "",
+            "year": 2026,
+            "slug": "cs-go-tesla-cup-2026",
+            "begin_at": "2026-10-27T08:00:00Z",
+            "end_at": "2026-10-29T21:00:00Z",
+            "winner_id": null,
+            "winner_type": "Team",
+            "modified_at": "2026-10-21T12:42:48Z",
+            "league_id": 5573,
+            "season": null,
+            "full_name": "2026"
+        },
+        "modified_at": "2026-10-21T13:03:31Z",
+        "videogame_title": {
+            "id": 13,
+            "name": "Counter-Strike 2",
+            "slug": "cs-2",
+            "videogame_id": 3
+        },
+        "scheduled_at": "2026-10-29T18:00:00Z",
+        "slug": "2026-10-29-c5d7adcf-4946-4493-95bd-24845fedd1ad",
+        "status": "not_started",
+        "number_of_games": 3,
+        "end_at": null,
+        "draw": false,
+        "serie_id": 11140,
+        "videogame_version": null,
+        "detailed_stats": true,
+        "streams_list": [
+            {
+                "main": true,
+                "language": "en",
+                "embed_url": "https://player.kick.com/rlgcs",
+                "official": true,
+                "raw_url": "https://kick.com/rlgcs"
+            }
+        ],
+        "id": 1763059,
+        "name": "Grand Final: TBD vs TBD",
+        "winner": null,
+        "opponents": [],
+        "results": [],
+        "forfeit": false,
+        "tournament_id": 22278,
+        "match_type": "best_of",
+        "league": {
+            "id": 5573,
+            "name": "Tesla Cup",
+            "url": null,
+            "slug": "cs-go-tesla-cup",
+            "modified_at": "2026-10-21T12:41:51Z",
+            "image_url": "https://cdn-api.pandascore.co/images/league/image/5573/626px-tesla_cup_allmode-png"
+        },
+        "game_advantage": null
+    },
+
+
+    {
+        "league_id": 5573,
+        "winner_id": null,
+        "videogame": {
+            "id": 3,
+            "name": "Counter-Strike",
+            "slug": "cs-go"
+        },
+        "live": {
+            "supported": false,
+            "url": null,
+            "opens_at": null
+        },
+        "original_scheduled_at": "2026-10-29T12:00:00Z",
+        "winner_type": "Team",
+        "begin_at": "2026-10-29T12:00:00Z",
+        "rescheduled": false,
+        "games": [
+            {
+                "complete": false,
+                "id": 236780,
+                "position": 1,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763058,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "complete": false,
+                "id": 236781,
+                "position": 2,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763058,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "complete": false,
+                "id": 236782,
+                "position": 3,
+                "status": "not_started",
+                "length": null,
+                "finished": false,
+                "match_id": 1763058,
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "forfeit": false,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "tournament": {
+            "id": 22278,
+            "name": "Playoffs",
+            "type": "offline",
+            "country": "RS",
+            "slug": "cs-go-tesla-cup-2026-playoffs",
+            "begin_at": "2026-10-29T09:00:00Z",
+            "detailed_stats": true,
+            "end_at": "2026-10-29T21:00:00Z",
+            "winner_id": null,
+            "winner_type": "Team",
+            "region": "EEU",
+            "serie_id": 11140,
+            "modified_at": "2026-10-21T13:02:30Z",
+            "league_id": 5573,
+            "prizepool": "50,000 United States Dollar",
+            "tier": "c",
+            "has_bracket": true,
+            "live_supported": false
+        },
+        "serie": {
+            "id": 11140,
+            "name": "",
+            "year": 2026,
+            "slug": "cs-go-tesla-cup-2026",
+            "begin_at": "2026-10-27T08:00:00Z",
+            "end_at": "2026-10-29T21:00:00Z",
+            "winner_id": null,
+            "winner_type": "Team",
+            "modified_at": "2026-10-21T12:42:48Z",
+            "league_id": 5573,
+            "season": null,
+            "full_name": "2026"
+        },
+        "modified_at": "2026-10-21T13:03:31Z",
+        "videogame_title": {
+            "id": 13,
+            "name": "Counter-Strike 2",
+            "slug": "cs-2",
+            "videogame_id": 3
+        },
+        "scheduled_at": "2026-10-29T12:00:00Z",
+        "slug": "2026-10-29-3844c4f9-2d57-47e4-88a9-4543d4c9a0e8",
+        "status": "not_started",
+        "number_of_games": 3,
+        "end_at": null,
+        "draw": false,
+        "serie_id": 11140,
+        "videogame_version": null,
+        "detailed_stats": true,
+        "streams_list": [
+            {
+                "main": true,
+                "language": "en",
+                "embed_url": "https://player.kick.com/rlgcs",
+                "official": true,
+                "raw_url": "https://kick.com/rlgcs"
+            }
+        ],
+        "id": 1763058,
+        "name": "Semifinal 2: TBD vs TBD",
+        "winner": null,
+        "opponents": [],
+        "results": [],
+        "forfeit": false,
+        "tournament_id": 22278,
+        "match_type": "best_of",
+        "league": {
+            "id": 5573,
+            "name": "Tesla Cup",
+            "url": null,
+            "slug": "cs-go-tesla-cup",
+            "modified_at": "2026-10-21T12:41:51Z",
+            "image_url": "https://cdn-api.pandascore.co/images/league/image/5573/626px-tesla_cup_allmode-png"
+        },
+        "game_advantage": null
+    },
