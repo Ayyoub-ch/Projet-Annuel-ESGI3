@@ -10,7 +10,7 @@ import json        # Pour manipuler et sauvegarder les fichiers JSON
 # ================================
 
 # Dossier principal
-DOSSIER_PRINCIPAL = "data_recolt/leagues_data"
+DOSSIER_PRINCIPAL = "data_recolt/data/leagues_data"
 
 
 

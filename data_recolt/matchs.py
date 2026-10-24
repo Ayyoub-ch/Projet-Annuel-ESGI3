@@ -10,7 +10,7 @@ import json        # Pour manipuler et sauvegarder les fichiers JSON
 # ================================
 
 # Dossier principal
-DOSSIER_PRINCIPAL = "data_recolt/matchs_data"
+DOSSIER_PRINCIPAL = "data_recolt/data/matchs_data"
 
 # ================================
 # DIFFERENTES POSSIBILITES DE MATCH (PASSE, EN COURS, A VENIR)
