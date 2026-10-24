@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1752544,
+        "NOM": "Lower_Bracket_Final__CW_vs_RA",
+        "JEU VIDEO": "Counter-Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "03:10:55",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "05:37:24",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "10:03:36",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 235923,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 4460,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "03:10:56",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "04:25:16",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 134264,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 235924,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3050,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "04:46:34",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "05:37:25",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 134264,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 134264,
+            "NOM": "Chinggis Warriors",
+            "LOCALISATION": "MN",
+            "ACRONYME": "CW",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:31:28"
+        },
+        {
+            "ID": 130329,
+            "NOM": "Rare Atom",
+            "LOCALISATION": "CN",
+            "ACRONYME": "RA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:31:26"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 134264
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 130329
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22226,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": "12000 United States Dollar",
+        "VAINQUEUR": 126439,
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "11:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "10:03:36",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5571,
+        "NOM": "VOID Autumn Cup",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "10:19:12"
+    },
+    "SERIE": {
+        "ID": 11122,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": 126439,
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "11:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "10:03:36"
+    }
+}

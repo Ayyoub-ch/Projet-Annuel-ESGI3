@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1733093,
+        "NOM": "Quarterfinal_1__NTR_vs_ex-ZT",
+        "JEU VIDEO": "Counter-Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "17:07:23",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-10-06",
+        "HEURE DE MODIFICATION": "15:48:10",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 234681,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2083,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "17:07:26",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "17:42:09",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135673,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 234682,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2106,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "17:57:11",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "18:32:18",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137703,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 234683,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "running",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "18:53:09",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135673,
+            "NOM": "Nuclear TigeRES",
+            "LOCALISATION": "RU",
+            "ACRONYME": "NTR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:14:52"
+        },
+        {
+            "ID": 137703,
+            "NOM": "ex-Zero Tenacity",
+            "LOCALISATION": "RS",
+            "ACRONYME": "ex-ZT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:15:16"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135673
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137703
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22143,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "25000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "11:50:39",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11077,
+        "NOM": "Series #11 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-13",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-10-06",
+        "HEURE DE MODIFICATION": "15:48:10"
+    }
+}

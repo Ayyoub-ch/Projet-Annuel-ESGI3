@@ -1,0 +1,462 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22212,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "10:30:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:10:38",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 2: GX vs BBL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "11:05:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "11:05:38",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "13:06:49",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:29:14",
+            "PRIZEPOOL": "36,500 United States Dollar",
+            "SLUG": "valorant-monster-reloaded-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "tr",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=iE9qWPGQwaw"
+            }
+        },
+        {
+            "NOM": "Semifinal 1: FUT vs FF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "14:08:14",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "17:07:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:58:22",
+            "PRIZEPOOL": "36,500 United States Dollar",
+            "SLUG": "valorant-monster-reloaded-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "tr",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=iE9qWPGQwaw"
+            }
+        },
+        {
+            "NOM": "Grand final: BBL vs FF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-10-25",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "2026-10-25",
+            "HEURE DE DEBUT": "11:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:07:22",
+            "PRIZEPOOL": "36,500 United States Dollar",
+            "SLUG": "valorant-monster-reloaded-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "tr",
+                "LIEN BRUTE": "https://www.twitch.tv/monsternotebook"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 128577,
+            "NOM": "BBL Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:17",
+            "ACRONYME": "BBL"
+        },
+        {
+            "ID": 128578,
+            "NOM": "FUT Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:10:37",
+            "ACRONYME": "FUT"
+        },
+        {
+            "ID": 129194,
+            "NOM": "Fire Flux Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:16",
+            "ACRONYME": "FF"
+        },
+        {
+            "ID": 134423,
+            "NOM": "GIANTX",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:07:18",
+            "ACRONYME": "GX"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 128577,
+                "NOM": "BBL Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "BBL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:41:17"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 40644,
+                    "PSEUDO": "Rose",
+                    "ROLE": null,
+                    "PRENOM": "Eren",
+                    "NOM": "Erzan",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-09",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:17"
+                },
+                {
+                    "ID": 43739,
+                    "PSEUDO": "Loita",
+                    "ROLE": null,
+                    "PRENOM": "Utku ",
+                    "NOM": "Kart",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-09-24",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:17"
+                },
+                {
+                    "ID": 54066,
+                    "PSEUDO": "Lar0k",
+                    "ROLE": null,
+                    "PRENOM": "Yusuf ",
+                    "NOM": "Kanber ",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2007-11-06",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+                },
+                {
+                    "ID": 54067,
+                    "PSEUDO": "ComeBack",
+                    "ROLE": null,
+                    "PRENOM": "Berkcan",
+                    "NOM": "Şentürk",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-06-14",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:44:32"
+                },
+                {
+                    "ID": 60900,
+                    "PSEUDO": "oroni",
+                    "ROLE": null,
+                    "PRENOM": "Ömer",
+                    "NOM": "Açar",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:17"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 128578,
+                "NOM": "FUT Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "FUT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:10:37"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 33257,
+                    "PSEUDO": "sociablee",
+                    "ROLE": null,
+                    "PRENOM": "Volkan",
+                    "NOM": "Yönal",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-04-29",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:14"
+                },
+                {
+                    "ID": 38554,
+                    "PSEUDO": "Wo0t",
+                    "ROLE": null,
+                    "PRENOM": "Mert",
+                    "NOM": "Alkan",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-03-16",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:10:37"
+                },
+                {
+                    "ID": 40643,
+                    "PSEUDO": "yetujey",
+                    "ROLE": null,
+                    "PRENOM": "Eray",
+                    "NOM": "Budak",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2005-11-08",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:13"
+                },
+                {
+                    "ID": 43782,
+                    "PSEUDO": "KROSTALY",
+                    "ROLE": null,
+                    "PRENOM": "Okan",
+                    "NOM": "Alaçam",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-02-24",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+                },
+                {
+                    "ID": 50032,
+                    "PSEUDO": "xeus",
+                    "ROLE": null,
+                    "PRENOM": "Doğan",
+                    "NOM": "Gözgen",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-10-25",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:14"
+                },
+                {
+                    "ID": 58549,
+                    "PSEUDO": "s0pp",
+                    "ROLE": null,
+                    "PRENOM": "Efe",
+                    "NOM": "Tur",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-03-24",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:14"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 129194,
+                "NOM": "Fire Flux Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "FF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 32862,
+                    "PSEUDO": "DeadInk",
+                    "ROLE": null,
+                    "PRENOM": "Utku Onur ",
+                    "NOM": "Aydın",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-04",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+                },
+                {
+                    "ID": 35559,
+                    "PSEUDO": "reazy",
+                    "ROLE": null,
+                    "PRENOM": "Kaan",
+                    "NOM": "Ürpek",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-14",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+                },
+                {
+                    "ID": 54254,
+                    "PSEUDO": "BatuJnAX",
+                    "ROLE": null,
+                    "PRENOM": "Mehmet",
+                    "NOM": "Batu Özaslan",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-06-26",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+                },
+                {
+                    "ID": 61384,
+                    "PSEUDO": "hezacoil",
+                    "ROLE": null,
+                    "PRENOM": "Berkay ",
+                    "NOM": "Doğar",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-05-22",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+                },
+                {
+                    "ID": 61858,
+                    "PSEUDO": "Kachoww",
+                    "ROLE": null,
+                    "PRENOM": "Samet ",
+                    "NOM": "Arıcı",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2009-03-12",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134423,
+                "NOM": "GIANTX",
+                "LOCALISATION": "GB",
+                "ACRONYME": "GX",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:07:18"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 34455,
+                    "PSEUDO": "ara",
+                    "ROLE": null,
+                    "PRENOM": "Eduard-George",
+                    "NOM": "Hanceriuc",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-03-31",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:12"
+                },
+                {
+                    "ID": 38177,
+                    "PSEUDO": "CyvOph",
+                    "ROLE": null,
+                    "PRENOM": "Clement",
+                    "NOM": "Millard",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-14",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:31:56"
+                },
+                {
+                    "ID": 45444,
+                    "PSEUDO": "Flickless",
+                    "ROLE": null,
+                    "PRENOM": "Karel",
+                    "NOM": "Maeckelbergh",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-21",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:38"
+                },
+                {
+                    "ID": 50629,
+                    "PSEUDO": "globeX",
+                    "ROLE": null,
+                    "PRENOM": "Michail",
+                    "NOM": "Kostylew",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-10",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:43:58"
+                },
+                {
+                    "ID": 50632,
+                    "PSEUDO": "westside",
+                    "ROLE": null,
+                    "PRENOM": "Miłosz",
+                    "NOM": "Duda",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-10-15",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:18"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Monsters Reloaded",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-11-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:53:40"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:15:35",
+        "ID DU VAINQUEUR": null
+    }
+}

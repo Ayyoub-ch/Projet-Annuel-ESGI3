@@ -1,0 +1,160 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1745438,
+        "NOM": "JDG_vs_OUG",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "13:16:24",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "14:22:17",
+        "DATE DE MODIFICATION": "2026-09-30",
+        "HEURE DE MODIFICATION": "14:46:46",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 31730,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 644,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "13:16:24",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "13:27:08",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139333,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31731,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 648,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "13:32:04",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "13:42:52",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138011,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31732,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 7,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "13:59:29",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "13:59:37",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139333,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31733,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1206,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "14:02:11",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "14:22:18",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139333,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138011,
+            "NOM": "JD Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "JDG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:55:13"
+        },
+        {
+            "ID": 139333,
+            "NOM": "OU Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "OUG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:55:12"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138011
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 139333
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22192,
+        "NOM": "Round Robin Stage",
+        "TYPE": "online",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-17",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE MODIFICATION": "2026-10-15",
+        "HEURE DE MODIFICATION": "07:08:54",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11027,
+        "NOM": "China Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-03",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-09-30",
+        "HEURE DE MODIFICATION": "14:46:46"
+    }
+}

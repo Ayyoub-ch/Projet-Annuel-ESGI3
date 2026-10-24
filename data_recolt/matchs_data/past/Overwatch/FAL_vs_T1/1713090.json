@@ -1,0 +1,160 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1713090,
+        "NOM": "FAL_vs_T1",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "08:29:54",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "09:52:08",
+        "DATE DE MODIFICATION": "2026-09-26",
+        "HEURE DE MODIFICATION": "10:13:40",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 31214,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 864,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "08:29:55",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "08:44:19",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129810,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31215,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 670,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "08:50:50",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "09:02:01",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129810,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31216,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1035,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "09:10:51",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "09:28:07",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 134476,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31217,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1019,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "09:35:09",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "09:52:08",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129810,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 134476,
+            "NOM": "Falcons",
+            "LOCALISATION": "SA",
+            "ACRONYME": "FAL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:19:53"
+        },
+        {
+            "ID": 129810,
+            "NOM": "T1",
+            "LOCALISATION": "KR",
+            "ACRONYME": "T1",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:19:50"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 134476
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 129810
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22073,
+        "NOM": "Regular Season",
+        "TYPE": "online",
+        "PAYS": "KR",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-02",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-10-01",
+        "HEURE DE MODIFICATION": "10:08:39",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11022,
+        "NOM": "Korea Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-02",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-09-26",
+        "HEURE DE MODIFICATION": "10:13:40"
+    }
+}

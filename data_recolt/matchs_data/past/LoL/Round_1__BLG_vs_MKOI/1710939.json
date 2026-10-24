@@ -1,0 +1,109 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1710939,
+        "NOM": "Round_1__BLG_vs_MKOI",
+        "JEU VIDEO": "LoL",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "16.21.1",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "19:07:13",
+        "DATE DE FIN": "2026-10-23",
+        "HEURE DE FIN": "19:52:43",
+        "DATE DE MODIFICATION": "2026-09-25",
+        "HEURE DE MODIFICATION": "09:27:42",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-10-23T18:55:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 284713,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2321,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "19:07:14",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "19:52:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 126536,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 1566,
+            "NOM": "Bilibili Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "BLG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:02:52"
+        },
+        {
+            "ID": 126536,
+            "NOM": "Movistar KOI",
+            "LOCALISATION": "ES",
+            "ACRONYME": "MKOI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:02:55"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 1566
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 126536
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22047,
+        "NOM": "Group Stage",
+        "TYPE": "offline",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "s",
+        "CASH PRIZE": "5,000,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "13:08:31",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 297,
+        "NOM": "Worlds",
+        "DATE DE MODIFICATION": "2023-12-06",
+        "HEURE DE MODIFICATION": "15:53:28"
+    },
+    "SERIE": {
+        "ID": 11014,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-15",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE MODIFICATION": "2026-09-25",
+        "HEURE DE MODIFICATION": "09:27:42"
+    }
+}

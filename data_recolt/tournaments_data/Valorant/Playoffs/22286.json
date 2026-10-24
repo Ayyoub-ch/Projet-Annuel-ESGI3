@@ -1,0 +1,475 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22286,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:54:13",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: CGN vs NAVI",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-23",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-10-23",
+            "HEURE DE DEBUT": "09:03:05",
+            "DATE DE FIN": "2026-10-23",
+            "HEURE DE FIN": "11:07:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:42:59",
+            "PRIZEPOOL": "3700 Euro",
+            "SLUG": "valorant-project-blender-phase-2-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=nnJzRMGU4to"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: EF vs SGE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-23",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-10-23",
+            "HEURE DE DEBUT": "13:06:44",
+            "DATE DE FIN": "2026-10-23",
+            "HEURE DE FIN": "16:40:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:55:42",
+            "PRIZEPOOL": "3700 Euro",
+            "SLUG": "valorant-project-blender-phase-2-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=nnJzRMGU4to"
+            }
+        },
+        {
+            "NOM": "Grand final: CGN vs SGE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "13:45:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "13:44:44",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "15:54:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:12:06",
+            "PRIZEPOOL": "3700 Euro",
+            "SLUG": "valorant-project-blender-phase-2-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "fr",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_fr"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 129355,
+            "NOM": "Natus Vincere",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:17:06",
+            "ACRONYME": "NAVI"
+        },
+        {
+            "ID": 129662,
+            "NOM": "Eternal Fire",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:14:40",
+            "ACRONYME": "EF"
+        },
+        {
+            "ID": 130398,
+            "NOM": "CGN Esports",
+            "LOCALISATION": "DE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:58:17",
+            "ACRONYME": "CGN"
+        },
+        {
+            "ID": 134406,
+            "NOM": "Eintracht Frankfurt",
+            "LOCALISATION": "DE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:58:21",
+            "ACRONYME": "SGE"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 129355,
+                "NOM": "Natus Vincere",
+                "LOCALISATION": "UA",
+                "ACRONYME": "NAVI",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:17:06"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54097,
+                    "PSEUDO": "Javelin",
+                    "ROLE": null,
+                    "PRENOM": "Vitaliy",
+                    "NOM": "Fedak",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-18",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:19"
+                },
+                {
+                    "ID": 58289,
+                    "PSEUDO": "avey",
+                    "ROLE": null,
+                    "PRENOM": "ikita",
+                    "NOM": "Ivanovs",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-07-12",
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:18"
+                },
+                {
+                    "ID": 59601,
+                    "PSEUDO": "Darxcio",
+                    "ROLE": null,
+                    "PRENOM": "Waniss",
+                    "NOM": "Mehl",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-09-14",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:18"
+                },
+                {
+                    "ID": 60948,
+                    "PSEUDO": "Kolosha",
+                    "ROLE": null,
+                    "PRENOM": "Herman",
+                    "NOM": "Skrypka",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-02-09",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:19"
+                },
+                {
+                    "ID": 62672,
+                    "PSEUDO": "sizo",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:17:06"
+                },
+                {
+                    "ID": 63979,
+                    "PSEUDO": "sizovskyy",
+                    "ROLE": null,
+                    "PRENOM": "Wiktor",
+                    "NOM": "Bujak",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:19"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 129662,
+                "NOM": "Eternal Fire",
+                "LOCALISATION": "TR",
+                "ACRONYME": "EF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:14:40"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54070,
+                    "PSEUDO": "wezzy",
+                    "ROLE": null,
+                    "PRENOM": "Arda",
+                    "NOM": "Celbiş",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-08-16",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:20"
+                },
+                {
+                    "ID": 58550,
+                    "PSEUDO": "audaz",
+                    "ROLE": null,
+                    "PRENOM": "Soner",
+                    "NOM": "Ekiz",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-06-02",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:19"
+                },
+                {
+                    "ID": 59521,
+                    "PSEUDO": "echo",
+                    "ROLE": null,
+                    "PRENOM": "Ömür Serkan",
+                    "NOM": "Şenol",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-02-20",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:20"
+                },
+                {
+                    "ID": 60563,
+                    "PSEUDO": "Spear",
+                    "ROLE": null,
+                    "PRENOM": "Arda Burak",
+                    "NOM": "Kartal",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-03-30",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:20"
+                },
+                {
+                    "ID": 60634,
+                    "PSEUDO": "Favian",
+                    "ROLE": null,
+                    "PRENOM": "Enes ",
+                    "NOM": "Yiğiter",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:20"
+                },
+                {
+                    "ID": 68525,
+                    "PSEUDO": "EF dragon",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:40"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130398,
+                "NOM": "CGN Esports",
+                "LOCALISATION": "DE",
+                "ACRONYME": "CGN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:58:17"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35111,
+                    "PSEUDO": "Wolfen",
+                    "ROLE": null,
+                    "PRENOM": "Berkant",
+                    "NOM": "Joshkun",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-09",
+                    "NATIONALITE": "BG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:17"
+                },
+                {
+                    "ID": 48952,
+                    "PSEUDO": "Vince",
+                    "ROLE": null,
+                    "PRENOM": "Vincent",
+                    "NOM": "Kranz",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-02",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:17"
+                },
+                {
+                    "ID": 50992,
+                    "PSEUDO": "Serial",
+                    "ROLE": null,
+                    "PRENOM": "Maikls",
+                    "NOM": "Zdanovs",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-09-23",
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:17"
+                },
+                {
+                    "ID": 51016,
+                    "PSEUDO": "Samed",
+                    "ROLE": null,
+                    "PRENOM": "Samed",
+                    "NOM": "Topbas",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-05-21",
+                    "NATIONALITE": "AT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:15"
+                },
+                {
+                    "ID": 54041,
+                    "PSEUDO": "shinnok",
+                    "ROLE": null,
+                    "PRENOM": "Viktor Zsombor",
+                    "NOM": "Maglóczki",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-10-09",
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:17"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134406,
+                "NOM": "Eintracht Frankfurt",
+                "LOCALISATION": "DE",
+                "ACRONYME": "SGE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:58:21"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27104,
+                    "PSEUDO": "H1BER",
+                    "ROLE": null,
+                    "PRENOM": "Joona",
+                    "NOM": "Parviainen",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-30",
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:21"
+                },
+                {
+                    "ID": 33988,
+                    "PSEUDO": "musashi",
+                    "ROLE": null,
+                    "PRENOM": "Alessio",
+                    "NOM": "Xhaferi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-02",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:21"
+                },
+                {
+                    "ID": 36026,
+                    "PSEUDO": "Fizzy",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Figueiredo",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-29",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:20"
+                },
+                {
+                    "ID": 43173,
+                    "PSEUDO": "azury",
+                    "ROLE": null,
+                    "PRENOM": "Luca ",
+                    "NOM": "Sammer",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-23",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:20"
+                },
+                {
+                    "ID": 63819,
+                    "PSEUDO": "foe",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:21"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Project Blender",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-12-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:57:34"
+    },
+    "SERIE": {
+        "NOM": "Phase 2 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:00:59",
+        "ID DU VAINQUEUR": null
+    }
+}

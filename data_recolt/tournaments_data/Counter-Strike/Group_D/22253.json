@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22253,
+        "NOM": "Group_D",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "14:45:00",
+        "DATE DE FIN": "2026-10-20",
+        "HEURE DE FIN": "22:10:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:26:19",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "K27 vs WISP",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-20",
+            "HEURE PRÉVUE": "14:55:00",
+            "DATE DE DEBUT": "2026-10-20",
+            "HEURE DE DEBUT": "14:54:44",
+            "DATE DE FIN": "2026-10-20",
+            "HEURE DE FIN": "16:13:01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:24:12",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/MPKBK"
+            }
+        },
+        {
+            "NOM": "WW vs DYNASTIYA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-20",
+            "HEURE PRÉVUE": "14:45:00",
+            "DATE DE DEBUT": "2026-10-20",
+            "HEURE DE DEBUT": "14:55:22",
+            "DATE DE FIN": "2026-10-20",
+            "HEURE DE FIN": "17:03:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:15:42",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/strogo"
+            }
+        },
+        {
+            "NOM": "Elimination Match: WISP vs DYNASTIYA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-20",
+            "HEURE PRÉVUE": "17:30:00",
+            "DATE DE DEBUT": "2026-10-20",
+            "HEURE DE DEBUT": "17:31:09",
+            "DATE DE FIN": "2026-10-20",
+            "HEURE DE FIN": "19:00:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:03:52",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/kartash0v"
+            }
+        },
+        {
+            "NOM": "Winners' Match: K27 vs WW",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-20",
+            "HEURE PRÉVUE": "17:30:00",
+            "DATE DE DEBUT": "2026-10-20",
+            "HEURE DE DEBUT": "17:35:10",
+            "DATE DE FIN": "2026-10-20",
+            "HEURE DE FIN": "20:07:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:10:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/strogo"
+            }
+        },
+        {
+            "NOM": "Decider Match: WISP vs WW",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-20",
+            "HEURE PRÉVUE": "20:50:00",
+            "DATE DE DEBUT": "2026-10-20",
+            "HEURE DE DEBUT": "20:48:55",
+            "DATE DE FIN": "2026-10-20",
+            "HEURE DE FIN": "22:10:30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:12:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/MPKBK"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135298,
+            "NOM": "K27",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:01:43",
+            "ACRONYME": "K27"
+        },
+        {
+            "ID": 135497,
+            "NOM": "WW Team",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:01:45",
+            "ACRONYME": "WW"
+        },
+        {
+            "ID": 139441,
+            "NOM": "WISP",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:14:14",
+            "ACRONYME": "WISP"
+        },
+        {
+            "ID": 139442,
+            "NOM": "DYNASTIYA",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:15:29",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135298,
+                "NOM": "K27",
+                "LOCALISATION": "RU",
+                "ACRONYME": "K27",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:01:43"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24539,
+                    "PSEUDO": "clax",
+                    "ROLE": null,
+                    "PRENOM": "Timur",
+                    "NOM": "Sabirov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-08",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:42"
+                },
+                {
+                    "ID": 30358,
+                    "PSEUDO": "X5G7V",
+                    "ROLE": null,
+                    "PRENOM": "Daniil",
+                    "NOM": "Maryshev",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-18",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:43"
+                },
+                {
+                    "ID": 47894,
+                    "PSEUDO": "xeedo",
+                    "ROLE": null,
+                    "PRENOM": "Aleksey",
+                    "NOM": "Mikulich",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-01-19",
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:43"
+                },
+                {
+                    "ID": 51154,
+                    "PSEUDO": "kashl1d",
+                    "ROLE": null,
+                    "PRENOM": "Danila ",
+                    "NOM": "Dronov",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:43"
+                },
+                {
+                    "ID": 51725,
+                    "PSEUDO": "qw1nk1",
+                    "ROLE": null,
+                    "PRENOM": "Daniil",
+                    "NOM": "Kabilov",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:43"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135497,
+                "NOM": "WW Team",
+                "LOCALISATION": "",
+                "ACRONYME": "WW",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:01:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 39790,
+                    "PSEUDO": "Ryujin",
+                    "ROLE": null,
+                    "PRENOM": "Boris",
+                    "NOM": "Kim",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-08-10",
+                    "NATIONALITE": "UZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:45"
+                },
+                {
+                    "ID": 44661,
+                    "PSEUDO": "kelieN",
+                    "ROLE": null,
+                    "PRENOM": "Vladimir",
+                    "NOM": "Boldyrev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-25",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:45"
+                },
+                {
+                    "ID": 46774,
+                    "PSEUDO": "tried",
+                    "ROLE": null,
+                    "PRENOM": "Gleb",
+                    "NOM": "Kholmogorov ",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:45"
+                },
+                {
+                    "ID": 50011,
+                    "PSEUDO": "m3wsu",
+                    "ROLE": null,
+                    "PRENOM": "Timur",
+                    "NOM": "Korenev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:44"
+                },
+                {
+                    "ID": 55701,
+                    "PSEUDO": "StRoGo",
+                    "ROLE": null,
+                    "PRENOM": "Ivan",
+                    "NOM": "Shurpatov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:44"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139441,
+                "NOM": "WISP",
+                "LOCALISATION": "RU",
+                "ACRONYME": "WISP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:14:14"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 67093,
+                    "PSEUDO": "Gozlar",
+                    "ROLE": null,
+                    "PRENOM": "Viktor",
+                    "NOM": "Samorukov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:33:18"
+                },
+                {
+                    "ID": 68495,
+                    "PSEUDO": "vERANT",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:14:13"
+                },
+                {
+                    "ID": 68496,
+                    "PSEUDO": "Lo4eZ",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:14:14"
+                },
+                {
+                    "ID": 68497,
+                    "PSEUDO": "Rivas",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:14:14"
+                },
+                {
+                    "ID": 68498,
+                    "PSEUDO": "Co1deyes",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:14:14"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139442,
+                "NOM": "DYNASTIYA",
+                "LOCALISATION": "RU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:15:29"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 41563,
+                    "PSEUDO": "STAZY",
+                    "ROLE": null,
+                    "PRENOM": "Stanislav",
+                    "NOM": "Pilyaev",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:33:03"
+                },
+                {
+                    "ID": 43387,
+                    "PSEUDO": "KireZ",
+                    "ROLE": null,
+                    "PRENOM": "Kirill",
+                    "NOM": "Reznik",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:26:54"
+                },
+                {
+                    "ID": 46594,
+                    "PSEUDO": "maeggi",
+                    "ROLE": null,
+                    "PRENOM": "Konstantin",
+                    "NOM": "Kulagin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:29"
+                },
+                {
+                    "ID": 64262,
+                    "PSEUDO": "floyd",
+                    "ROLE": null,
+                    "PRENOM": "Korol",
+                    "NOM": "Denis",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:29"
+                },
+                {
+                    "ID": 64461,
+                    "PSEUDO": "maloii",
+                    "ROLE": null,
+                    "PRENOM": "Kuzovenko",
+                    "NOM": "Dmitry",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:29"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "CIS LAN Championship",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-03-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:25:17"
+    },
+    "SERIE": {
+        "NOM": "Season 9 2026",
+        "ANNEE": 2026,
+        "SAISON": "9",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:50:41",
+        "ID DU VAINQUEUR": null
+    }
+}

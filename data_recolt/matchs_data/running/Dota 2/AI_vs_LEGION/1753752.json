@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1753752,
+        "NOM": "AI_vs_LEGION",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "17:12:27",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:33:21",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740531,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2195,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "17:12:29",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "18:08:32",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139340,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740532,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "running",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "18:19:45",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740533,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139432,
+            "NOM": "Astra Invicta",
+            "LOCALISATION": "",
+            "ACRONYME": "AI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:59:43"
+        },
+        {
+            "ID": 139340,
+            "NOM": "LEGION",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:32:31"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139432
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139340
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22230,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "a",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-10-26",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "16:44:49",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5567,
+        "NOM": "PARI Universe",
+        "DATE DE MODIFICATION": "2026-10-04",
+        "HEURE DE MODIFICATION": "06:13:51"
+    },
+    "SERIE": {
+        "ID": 11124,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:33:21"
+    }
+}

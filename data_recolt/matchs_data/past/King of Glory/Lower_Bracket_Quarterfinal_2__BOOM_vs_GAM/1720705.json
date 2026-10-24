@@ -1,0 +1,178 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1720705,
+        "NOM": "Lower_Bracket_Quarterfinal_2__BOOM_vs_GAM",
+        "JEU VIDEO": "King of Glory",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 7,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "11:41:31",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "14:13:21",
+        "DATE DE MODIFICATION": "2026-08-29",
+        "HEURE DE MODIFICATION": "09:08:07",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19308,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1629,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "11:41:32",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "12:08:41",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135682,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19309,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1315,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "12:15:35",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "12:37:31",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135682,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19310,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1556,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "12:51:58",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "13:17:55",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135682,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19311,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 998,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "13:27:39",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "13:44:18",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138069,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19312,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 1229,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "13:52:52",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "14:13:22",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135682,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135682,
+            "NOM": "BOOM Esports",
+            "LOCALISATION": "ID",
+            "ACRONYME": "BOOM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:09:45"
+        },
+        {
+            "ID": 138069,
+            "NOM": "GAM Esports",
+            "LOCALISATION": "VN",
+            "ACRONYME": "GAM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:09:46"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 4,
+            "ID EQUIPE": 135682
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138069
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22088,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "VN",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": "6,650,000,000 Vietnamese Dong",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "17:09:11",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5372,
+        "NOM": "Arena of Glory",
+        "DATE DE MODIFICATION": "2025-02-20",
+        "HEURE DE MODIFICATION": "10:26:05"
+    },
+    "SERIE": {
+        "ID": 10907,
+        "NOM": "Winter 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-08-28",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-08-29",
+        "HEURE DE MODIFICATION": "09:08:07"
+    }
+}

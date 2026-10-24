@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11126,
+        "NOM": "Season_3_2026",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-10-18",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-05",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "01:26:14",
+        "ANNEE": 2026,
+        "SAISON": "3"
+    },
+    "LIGUE": {
+        "ID": 5544,
+        "NOM": "EPL Masters",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-07-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:21:14"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group B",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-18",
+            "HEURE DE DEBUT": "12:00:00",
+            "DATE DE FIN": "2026-10-25",
+            "HEURE DE FIN": "18:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:12:39",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-epl-masters-3-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group A",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-18",
+            "HEURE DE DEBUT": "15:45:00",
+            "DATE DE FIN": "2026-10-25",
+            "HEURE DE FIN": "15:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:03:02",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-epl-masters-3-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-02",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-05",
+            "HEURE DE FIN": "21:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:38:12",
+            "PRIZEPOOL": "100,000 United States Dollar",
+            "SLUG": "dota-2-epl-masters-3-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

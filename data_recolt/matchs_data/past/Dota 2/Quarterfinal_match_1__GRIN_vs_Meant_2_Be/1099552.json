@@ -1,0 +1,106 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1099552,
+        "NOM": "Quarterfinal_match_1__GRIN_vs_Meant_2_Be",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "19:08:05",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2025-01-03",
+        "HEURE DE MODIFICATION": "23:02:31",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 719144,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 136103,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 133227,
+            "NOM": "GRIN Esports",
+            "LOCALISATION": "US",
+            "ACRONYME": "GRIN",
+            "DATE DE LA DERNIERE MODIFICATION": "2024-12-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:11:58"
+        },
+        {
+            "ID": 136103,
+            "NOM": "Meant 2 Be",
+            "LOCALISATION": "US",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2025-01-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:27:21"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 133227
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 136103
+        }
+    ],
+    "TOURNOI": {
+        "ID": 15669,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2025-01-03",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2025-01-05",
+        "HEURE DE FIN": "09:00:00",
+        "DATE DE MODIFICATION": "2025-01-04",
+        "HEURE DE MODIFICATION": "22:35:52",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4125,
+        "NOM": "DreamLeague",
+        "DATE DE MODIFICATION": "2019-03-05",
+        "HEURE DE MODIFICATION": "11:02:02"
+    },
+    "SERIE": {
+        "ID": 8847,
+        "NOM": "North America Open Qualifier 1 season 25 2025",
+        "ANNEE": 2025,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2025-01-03",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2025-01-05",
+        "HEURE DE FIN": "09:00:00",
+        "DATE DE MODIFICATION": "2025-01-03",
+        "HEURE DE MODIFICATION": "23:02:31"
+    }
+}

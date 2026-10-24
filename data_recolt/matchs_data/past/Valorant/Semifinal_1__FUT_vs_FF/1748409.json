@@ -1,0 +1,145 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1748409,
+        "NOM": "Semifinal_1__FUT_vs_FF",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.08",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "14:08:14",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "17:07:21",
+        "DATE DE MODIFICATION": "2026-10-18",
+        "HEURE DE MODIFICATION": "07:15:35",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52378,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3009,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "14:08:14",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "14:58:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 128578,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52379,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2774,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "15:17:52",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "16:04:07",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129194,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52380,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2470,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "16:26:11",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "17:07:21",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129194,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 128578,
+            "NOM": "FUT Esports",
+            "LOCALISATION": "TR",
+            "ACRONYME": "FUT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:10:37"
+        },
+        {
+            "ID": 129194,
+            "NOM": "Fire Flux Esports",
+            "LOCALISATION": "TR",
+            "ACRONYME": "FF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 128578
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 129194
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22212,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "TR",
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "36,500 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "10:30:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "15:10:38",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5322,
+        "NOM": "Monsters Reloaded",
+        "DATE DE MODIFICATION": "2025-11-06",
+        "HEURE DE MODIFICATION": "11:53:40"
+    },
+    "SERIE": {
+        "ID": 11114,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "10:30:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE MODIFICATION": "2026-10-18",
+        "HEURE DE MODIFICATION": "07:15:35"
+    }
+}

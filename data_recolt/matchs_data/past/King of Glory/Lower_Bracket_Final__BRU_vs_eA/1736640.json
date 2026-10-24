@@ -1,0 +1,196 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1736640,
+        "NOM": "Lower_Bracket_Final__BRU_vs_eA",
+        "JEU VIDEO": "King of Glory",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 7,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "12:33:19",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "16:23:45",
+        "DATE DE MODIFICATION": "2026-10-08",
+        "HEURE DE MODIFICATION": "13:26:07",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19500,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1723,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "12:33:19",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "13:02:03",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 133855,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19501,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1589,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "13:11:38",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "13:38:08",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 133855,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19502,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1251,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "13:59:20",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "14:20:12",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 133855,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19503,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1687,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "14:30:20",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "14:58:28",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135990,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19504,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 2066,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "15:08:58",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "15:43:24",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135990,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19505,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 6,
+            "STATUT": "finished",
+            "LONGUEUR": 1039,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "16:06:26",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "16:23:45",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 133855,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 133855,
+            "NOM": "Buriram United Esports",
+            "LOCALISATION": "TH",
+            "ACRONYME": "BRU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:52:43"
+        },
+        {
+            "ID": 135990,
+            "NOM": "eArena",
+            "LOCALISATION": "TH",
+            "ACRONYME": "eA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:52:44"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 4,
+            "ID EQUIPE": 133855
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135990
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22157,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "TH",
+        "REGION": "ASIA",
+        "TIER": "b",
+        "CASH PRIZE": "10,250,000 Thai Baht",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-11",
+        "HEURE DE MODIFICATION": "14:52:44",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5371,
+        "NOM": "RoV Pro League",
+        "DATE DE MODIFICATION": "2025-02-18",
+        "HEURE DE MODIFICATION": "10:17:31"
+    },
+    "SERIE": {
+        "ID": 10870,
+        "NOM": "Winter 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-08-22",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-08",
+        "HEURE DE MODIFICATION": "13:26:07"
+    }
+}

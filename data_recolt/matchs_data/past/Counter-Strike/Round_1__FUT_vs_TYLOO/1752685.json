@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1752685,
+        "NOM": "Round_1__FUT_vs_TYLOO",
+        "JEU VIDEO": "Counter-Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "07:00:24",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "08:55:57",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:04:02",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 235934,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3568,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "07:00:28",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "07:59:56",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 136955,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 235935,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2290,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "08:17:47",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "08:55:58",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 136955,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136955,
+            "NOM": "FUT Esports",
+            "LOCALISATION": "TR",
+            "ACRONYME": "FUT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:57:59"
+        },
+        {
+            "ID": 3248,
+            "NOM": "TYLOO",
+            "LOCALISATION": "CN",
+            "ACRONYME": "TYLOO",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:20:47"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 136955
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 3248
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22222,
+        "NOM": "Group Stage",
+        "TYPE": "offline",
+        "PAYS": "RO",
+        "REGION": "EEU",
+        "TIER": "a",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "13:51:04",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5442,
+        "NOM": "PGL Masters",
+        "DATE DE MODIFICATION": "2025-10-18",
+        "HEURE DE MODIFICATION": "17:56:00"
+    },
+    "SERIE": {
+        "ID": 11118,
+        "NOM": "Bucharest 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-10-31",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:04:02"
+    }
+}

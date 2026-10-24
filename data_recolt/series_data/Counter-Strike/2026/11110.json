@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11110,
+        "NOM": "2026",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-15",
+        "HEURE DE DEBUT": "00:00:00",
+        "DATE DE FIN": "2026-10-18",
+        "HEURE DE FIN": "09:52:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5568,
+        "NOM": "Logitech G Pro Series",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:03:50"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "AU",
+            "REGION": "OCE",
+            "DATE DE DEBUT": "2026-10-15",
+            "HEURE DE DEBUT": "00:00:00",
+            "DATE DE FIN": "2026-10-15",
+            "HEURE DE FIN": "11:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "AU",
+            "REGION": "OCE",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "00:00:00",
+            "DATE DE FIN": "2026-10-16",
+            "HEURE DE FIN": "10:20:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "AU",
+            "REGION": "OCE",
+            "DATE DE DEBUT": "2026-10-17",
+            "HEURE DE DEBUT": "00:00:00",
+            "DATE DE FIN": "2026-10-18",
+            "HEURE DE FIN": "09:52:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+            "PRIZEPOOL": "20,000 Australian Dollar",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

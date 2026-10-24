@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1758456,
+        "NOM": "Upper_Bracket_Semifinal_2__paiN_vs_IMP",
+        "JEU VIDEO": "Counter-Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "21:06:03",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "00:13:19",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "10:05:02",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 236331,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2139,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "21:06:05",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "21:41:45",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 126377,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236332,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 4258,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "21:57:37",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "23:08:36",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 125751,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236333,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2502,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "23:31:37",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "00:13:20",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 126377,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 125751,
+            "NOM": "paiN",
+            "LOCALISATION": "BR",
+            "ACRONYME": "paiN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:18:18"
+        },
+        {
+            "ID": 126377,
+            "NOM": "Imperial",
+            "LOCALISATION": "BR",
+            "ACRONYME": "IMP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:31:32"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 125751
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 126377
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22245,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "BR",
+        "REGION": "SA",
+        "TIER": "c",
+        "CASH PRIZE": "15,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-10-26",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "23:31:32",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5487,
+        "NOM": "Circuit X",
+        "DATE DE MODIFICATION": "2026-01-15",
+        "HEURE DE MODIFICATION": "16:48:30"
+    },
+    "SERIE": {
+        "ID": 11128,
+        "NOM": "Curitiba season 4 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-10-26",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "10:05:02"
+    }
+}

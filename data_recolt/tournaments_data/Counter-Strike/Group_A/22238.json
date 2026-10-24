@@ -1,0 +1,514 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22238,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-19",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2026-11-04",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:49:56",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "RED.A vs ARK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "21:15:00",
+            "DATE DE DEBUT": "2026-10-19",
+            "HEURE DE DEBUT": "21:26:37",
+            "DATE DE FIN": "2026-10-19",
+            "HEURE DE FIN": "22:00:03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:00:04",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-october-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "ALKA vs JDT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "21:20:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "21:16:11",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "22:37:15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:37:17",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-october-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/diogodfps"
+            }
+        },
+        {
+            "NOM": "Elimination Match: ALKA vs ARK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-26",
+            "HEURE PRÉVUE": "20:00:00",
+            "DATE DE DEBUT": "2026-10-26",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:13:37",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-october-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/gamersclubcs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135072,
+            "NOM": "Joga de terno",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:49:53",
+            "ACRONYME": "JDT"
+        },
+        {
+            "ID": 135505,
+            "NOM": "RED Canids Academy",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:01:39",
+            "ACRONYME": "RED.A"
+        },
+        {
+            "ID": 138276,
+            "NOM": "ALKA GAMING",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:01:34",
+            "ACRONYME": "ALKA"
+        },
+        {
+            "ID": 139414,
+            "NOM": "ARK E-sports",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:49:56",
+            "ACRONYME": "ARK"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135072,
+                "NOM": "Joga de terno",
+                "LOCALISATION": "BR",
+                "ACRONYME": "JDT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:49:53"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 40555,
+                    "PSEUDO": "Thuister",
+                    "ROLE": null,
+                    "PRENOM": "Enio",
+                    "NOM": "De Souza",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:51"
+                },
+                {
+                    "ID": 44435,
+                    "PSEUDO": "vzn",
+                    "ROLE": null,
+                    "PRENOM": "Mikhael ",
+                    "NOM": "Annoni",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:52"
+                },
+                {
+                    "ID": 52095,
+                    "PSEUDO": "Tineu",
+                    "ROLE": null,
+                    "PRENOM": "Luiz",
+                    "NOM": "Tineu",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:52"
+                },
+                {
+                    "ID": 54405,
+                    "PSEUDO": "ALENNNCARrx",
+                    "ROLE": null,
+                    "PRENOM": "Micael",
+                    "NOM": "Alencar",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:52"
+                },
+                {
+                    "ID": 62833,
+                    "PSEUDO": "palenscki",
+                    "ROLE": null,
+                    "PRENOM": "Gustavo",
+                    "NOM": "Palenscki",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:53"
+                },
+                {
+                    "ID": 63658,
+                    "PSEUDO": "khowy666",
+                    "ROLE": null,
+                    "PRENOM": "Pedro",
+                    "NOM": "Soares",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:52"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135505,
+                "NOM": "RED Canids Academy",
+                "LOCALISATION": "BR",
+                "ACRONYME": "RED.A",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "02:01:39"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25238,
+                    "PSEUDO": "lineko",
+                    "ROLE": null,
+                    "PRENOM": "John",
+                    "NOM": "Lineck",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-04-28",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:54"
+                },
+                {
+                    "ID": 51045,
+                    "PSEUDO": "n1cks",
+                    "ROLE": null,
+                    "PRENOM": "Nicolas",
+                    "NOM": "Paixão",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:39"
+                },
+                {
+                    "ID": 54897,
+                    "PSEUDO": "FasteR",
+                    "ROLE": null,
+                    "PRENOM": "Pedro Carriel",
+                    "NOM": "Asato",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:39"
+                },
+                {
+                    "ID": 54900,
+                    "PSEUDO": "gtw",
+                    "ROLE": null,
+                    "PRENOM": "Gustavo",
+                    "NOM": "Batista",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:38"
+                },
+                {
+                    "ID": 54988,
+                    "PSEUDO": "sanc",
+                    "ROLE": null,
+                    "PRENOM": "Bruno",
+                    "NOM": "Musa",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:39"
+                },
+                {
+                    "ID": 63090,
+                    "PSEUDO": "Nk",
+                    "ROLE": null,
+                    "PRENOM": "Nickolas",
+                    "NOM": "Rezende",
+                    "AGE": 14,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:54"
+                },
+                {
+                    "ID": 64758,
+                    "PSEUDO": "rafa",
+                    "ROLE": null,
+                    "PRENOM": "Rafael",
+                    "NOM": "Garcia",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:39"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138276,
+                "NOM": "ALKA GAMING",
+                "LOCALISATION": "BR",
+                "ACRONYME": "ALKA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "02:01:34"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24827,
+                    "PSEUDO": "bnc",
+                    "ROLE": null,
+                    "PRENOM": "Pedro",
+                    "NOM": "Mendes",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-12-06",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:34"
+                },
+                {
+                    "ID": 25414,
+                    "PSEUDO": "proSHOW",
+                    "ROLE": null,
+                    "PRENOM": "Rodrigo",
+                    "NOM": "Guluzian",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-09-04",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:33"
+                },
+                {
+                    "ID": 29461,
+                    "PSEUDO": "puni",
+                    "ROLE": null,
+                    "PRENOM": "Victor",
+                    "NOM": "Marques",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:34"
+                },
+                {
+                    "ID": 42227,
+                    "PSEUDO": "vinaabEAST",
+                    "ROLE": null,
+                    "PRENOM": "Vinicius",
+                    "NOM": "Santos",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:34"
+                },
+                {
+                    "ID": 44590,
+                    "PSEUDO": "cerolzin",
+                    "ROLE": null,
+                    "PRENOM": "Diogo",
+                    "NOM": "Terto",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:01:34"
+                },
+                {
+                    "ID": 66259,
+                    "PSEUDO": "R99",
+                    "ROLE": null,
+                    "PRENOM": "Raphael",
+                    "NOM": "Ricci",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:50:40"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139414,
+                "NOM": "ARK E-sports",
+                "LOCALISATION": "BR",
+                "ACRONYME": "ARK",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:49:56"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 63782,
+                    "PSEUDO": "terran",
+                    "ROLE": null,
+                    "PRENOM": "Caio",
+                    "NOM": "Mesquita",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:56"
+                },
+                {
+                    "ID": 64184,
+                    "PSEUDO": "MrD",
+                    "ROLE": null,
+                    "PRENOM": "Eduardo",
+                    "NOM": "Yuji",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:56"
+                },
+                {
+                    "ID": 64185,
+                    "PSEUDO": "gb7",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:50:47"
+                },
+                {
+                    "ID": 64401,
+                    "PSEUDO": "Kaiserzy",
+                    "ROLE": null,
+                    "PRENOM": "Gabriel ",
+                    "NOM": "Kaiser ",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:56"
+                },
+                {
+                    "ID": 66526,
+                    "PSEUDO": "Aker",
+                    "ROLE": null,
+                    "PRENOM": "Gustavo",
+                    "NOM": "Costa",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:56"
+                },
+                {
+                    "ID": 68144,
+                    "PSEUDO": "RaybamGod",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:56"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Gamers Club Liga Série A",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:23:59"
+    },
+    "SERIE": {
+        "NOM": "October 2026",
+        "ANNEE": 2026,
+        "SAISON": "October",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:34:53",
+        "ID DU VAINQUEUR": null
+    }
+}

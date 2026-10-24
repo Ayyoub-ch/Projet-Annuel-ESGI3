@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1756282,
+        "NOM": "ICxI_vs_HULIGANI",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "18:03:53",
+        "DATE DE FIN": "2026-10-23",
+        "HEURE DE FIN": "22:07:16",
+        "DATE DE MODIFICATION": "2026-10-18",
+        "HEURE DE MODIFICATION": "01:26:14",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740626,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2504,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "18:04:03",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "19:00:55",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137417,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740627,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3220,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "19:18:50",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "20:27:08",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138842,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740628,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3822,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "20:42:56",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "22:07:17",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138842,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137417,
+            "NOM": "Inner Circle x Insanity",
+            "LOCALISATION": "GB",
+            "ACRONYME": "ICxI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "01:01:28"
+        },
+        {
+            "ID": 138842,
+            "NOM": "HULIGANI",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "01:01:27"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137417
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138842
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22234,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-18",
+        "HEURE DE DEBUT": "15:45:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "11:03:02",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5544,
+        "NOM": "EPL Masters",
+        "DATE DE MODIFICATION": "2026-07-16",
+        "HEURE DE MODIFICATION": "14:21:14"
+    },
+    "SERIE": {
+        "ID": 11126,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-18",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-05",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-18",
+        "HEURE DE MODIFICATION": "01:26:14"
+    }
+}

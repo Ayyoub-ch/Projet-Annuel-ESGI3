@@ -1,0 +1,178 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1713089,
+        "NOM": "CB_vs_ZETA",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "06:17:55",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "07:57:50",
+        "DATE DE MODIFICATION": "2026-09-26",
+        "HEURE DE MODIFICATION": "10:13:40",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 31207,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 741,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "06:17:55",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "06:30:16",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137303,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31208,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1291,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "06:36:25",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "06:57:57",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135271,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31209,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 505,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "07:04:52",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "07:13:18",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135271,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31210,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1380,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "07:21:32",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "07:44:32",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137303,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31211,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 362,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "07:51:48",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "07:57:51",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135271,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137303,
+            "NOM": "Cheeseburger",
+            "LOCALISATION": "KR",
+            "ACRONYME": "CB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:08:39"
+        },
+        {
+            "ID": 135271,
+            "NOM": "ZETA DIVISION",
+            "LOCALISATION": "JP",
+            "ACRONYME": "ZETA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:19:56"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137303
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 135271
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22073,
+        "NOM": "Regular Season",
+        "TYPE": "online",
+        "PAYS": "KR",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-02",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-10-01",
+        "HEURE DE MODIFICATION": "10:08:39",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11022,
+        "NOM": "Korea Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-02",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-09-26",
+        "HEURE DE MODIFICATION": "10:13:40"
+    }
+}

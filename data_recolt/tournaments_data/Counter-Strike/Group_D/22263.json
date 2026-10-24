@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22263,
+        "NOM": "Group_D",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-10-23",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:44:42",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "EP vs NCT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "11:15:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "11:17:56",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "14:06:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:18:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "DNK vs AGC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "17:08:00",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "19:30:19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:30:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Winners' Match: NCT vs DNK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "11:35:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "11:33:15",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "13:20:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:13",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Elimination Match: EP vs AGC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "17:07:39",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "18:39:38",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:39:39",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Decider Match: NCT vs EP",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-23",
+            "HEURE PRÉVUE": "14:10:00",
+            "DATE DE DEBUT": "2026-10-23",
+            "HEURE DE DEBUT": "14:11:46",
+            "DATE DE FIN": "2026-10-23",
+            "HEURE DE FIN": "16:48:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:48:56",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135978,
+            "NOM": "eternal premium",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:40:26",
+            "ACRONYME": "EP"
+        },
+        {
+            "ID": 138676,
+            "NOM": "A Great Chaos",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:36:04",
+            "ACRONYME": "AGC"
+        },
+        {
+            "ID": 138729,
+            "NOM": "DNK",
+            "LOCALISATION": "KZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:18:16",
+            "ACRONYME": "DNK"
+        },
+        {
+            "ID": 139445,
+            "NOM": "NOCTIS",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:12:40",
+            "ACRONYME": "NCT"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135978,
+                "NOM": "eternal premium",
+                "LOCALISATION": "RU",
+                "ACRONYME": "EP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 62207,
+                    "PSEUDO": "tokyoshi",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Litovchenko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:36:04"
+                },
+                {
+                    "ID": 63744,
+                    "PSEUDO": "dazzy_y",
+                    "ROLE": null,
+                    "PRENOM": "Dmitriy",
+                    "NOM": "Kozhemyako",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:24"
+                },
+                {
+                    "ID": 63745,
+                    "PSEUDO": "P1kan0",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Tsulenkov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:25"
+                },
+                {
+                    "ID": 66538,
+                    "PSEUDO": "Innerpeace",
+                    "ROLE": null,
+                    "PRENOM": "Grigoriy",
+                    "NOM": "Shestakov",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:25"
+                },
+                {
+                    "ID": 67251,
+                    "PSEUDO": "saizius",
+                    "ROLE": null,
+                    "PRENOM": "Andrey",
+                    "NOM": "Sychev",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:36:03"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138676,
+                "NOM": "A Great Chaos",
+                "LOCALISATION": "",
+                "ACRONYME": "AGC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:36:04"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 36220,
+                    "PSEUDO": "Whitezs",
+                    "ROLE": null,
+                    "PRENOM": "Kristers",
+                    "NOM": "Rumjancev",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:36:04"
+                },
+                {
+                    "ID": 45105,
+                    "PSEUDO": "ynrii",
+                    "ROLE": null,
+                    "PRENOM": "Artur",
+                    "NOM": "Maratovich",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:36:04"
+                },
+                {
+                    "ID": 46177,
+                    "PSEUDO": "R1N7331",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Tananayko",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:36:04"
+                },
+                {
+                    "ID": 65964,
+                    "PSEUDO": "seilysh",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:36:48"
+                },
+                {
+                    "ID": 67961,
+                    "PSEUDO": "s1mbalance",
+                    "ROLE": null,
+                    "PRENOM": "Daniil",
+                    "NOM": "Zubovits",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "EE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:36:04"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138729,
+                "NOM": "DNK",
+                "LOCALISATION": "KZ",
+                "ACRONYME": "DNK",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:18:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 66185,
+                    "PSEUDO": "tier0 s",
+                    "ROLE": null,
+                    "PRENOM": "Bagulan",
+                    "NOM": "Bakhtybayev",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-29",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:16"
+                },
+                {
+                    "ID": 66186,
+                    "PSEUDO": "RamBLBi",
+                    "ROLE": null,
+                    "PRENOM": "Ramazan",
+                    "NOM": "Zhumabekov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-25",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:16"
+                },
+                {
+                    "ID": 66189,
+                    "PSEUDO": "dethera",
+                    "ROLE": null,
+                    "PRENOM": "Beibarys",
+                    "NOM": "Kanagat",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-29",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:15"
+                },
+                {
+                    "ID": 67798,
+                    "PSEUDO": "jtski",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:16"
+                },
+                {
+                    "ID": 67799,
+                    "PSEUDO": "syr1n",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:16"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139445,
+                "NOM": "NOCTIS",
+                "LOCALISATION": "UA",
+                "ACRONYME": "NCT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:12:40"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 67313,
+                    "PSEUDO": "shadowloss",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Hevliud",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:39"
+                },
+                {
+                    "ID": 67314,
+                    "PSEUDO": "squizy",
+                    "ROLE": null,
+                    "PRENOM": "Ihor",
+                    "NOM": "Metlytskyi",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:40"
+                },
+                {
+                    "ID": 67827,
+                    "PSEUDO": "noki4angels",
+                    "ROLE": null,
+                    "PRENOM": "Mykyta",
+                    "NOM": "Kosynskyi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:39"
+                },
+                {
+                    "ID": 67829,
+                    "PSEUDO": "spaykeRRRR",
+                    "ROLE": null,
+                    "PRENOM": "Mykola",
+                    "NOM": "Antonenko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:39"
+                },
+                {
+                    "ID": 68511,
+                    "PSEUDO": "alaska",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:39"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Exort Fiesta",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:07:12"
+    },
+    "SERIE": {
+        "NOM": "Closed Qualifier: Series #3 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:10:38",
+        "ID DU VAINQUEUR": null
+    }
+}

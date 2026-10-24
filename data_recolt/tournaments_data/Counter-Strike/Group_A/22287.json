@@ -1,0 +1,486 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22287,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:12:08",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Morrow Esports vs REV",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-23",
+            "HEURE PRÉVUE": "08:15:00",
+            "DATE DE DEBUT": "2026-10-23",
+            "HEURE DE DEBUT": "08:19:26",
+            "DATE DE FIN": "2026-10-23",
+            "HEURE DE FIN": "09:40:48",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:40:50",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "maybe vs EP",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-23",
+            "HEURE PRÉVUE": "10:40:00",
+            "DATE DE DEBUT": "2026-10-23",
+            "HEURE DE DEBUT": "10:39:00",
+            "DATE DE FIN": "2026-10-23",
+            "HEURE DE FIN": "13:06:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:06:33",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "Elimination Match: REV vs EP",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-27",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-10-27",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:06:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "Winners Match: Morrow Esports vs maybe",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-27",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "2026-10-27",
+            "HEURE DE DEBUT": "11:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:06:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "Decider Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:34:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135978,
+            "NOM": "eternal premium",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:40:26",
+            "ACRONYME": "EP"
+        },
+        {
+            "ID": 138899,
+            "NOM": "maybe",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:40:26",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139097,
+            "NOM": "Revise",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:12:39",
+            "ACRONYME": "REV"
+        },
+        {
+            "ID": 139111,
+            "NOM": "Morrow Esports",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:40:28",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135978,
+                "NOM": "eternal premium",
+                "LOCALISATION": "RU",
+                "ACRONYME": "EP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 57628,
+                    "PSEUDO": "skept1K",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Suvorov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                },
+                {
+                    "ID": 63744,
+                    "PSEUDO": "dazzy_y",
+                    "ROLE": null,
+                    "PRENOM": "Dmitriy",
+                    "NOM": "Kozhemyako",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:24"
+                },
+                {
+                    "ID": 63745,
+                    "PSEUDO": "P1kan0",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Tsulenkov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:25"
+                },
+                {
+                    "ID": 66515,
+                    "PSEUDO": "famous",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Gurtovoy",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                },
+                {
+                    "ID": 66538,
+                    "PSEUDO": "Innerpeace",
+                    "ROLE": null,
+                    "PRENOM": "Grigoriy",
+                    "NOM": "Shestakov",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:25"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138899,
+                "NOM": "maybe",
+                "LOCALISATION": "UA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 55996,
+                    "PSEUDO": "zogeN",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Baranyshyn",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                },
+                {
+                    "ID": 66717,
+                    "PSEUDO": "Awi4",
+                    "ROLE": null,
+                    "PRENOM": "Zahar",
+                    "NOM": "Vutkevych",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                },
+                {
+                    "ID": 66719,
+                    "PSEUDO": "shallthing",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Vladov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                },
+                {
+                    "ID": 66720,
+                    "PSEUDO": "thirtythird",
+                    "ROLE": null,
+                    "PRENOM": "Denys",
+                    "NOM": "Tabaka",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139097,
+                "NOM": "Revise",
+                "LOCALISATION": "UA",
+                "ACRONYME": "REV",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:12:39"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 45404,
+                    "PSEUDO": "SuNFiX",
+                    "ROLE": null,
+                    "PRENOM": "Oleg ",
+                    "NOM": "Ataulin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MD",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:39"
+                },
+                {
+                    "ID": 67405,
+                    "PSEUDO": "s1ssi",
+                    "ROLE": null,
+                    "PRENOM": "Denys",
+                    "NOM": "Shchebitchenko",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:39"
+                },
+                {
+                    "ID": 67406,
+                    "PSEUDO": "WaSdyy",
+                    "ROLE": null,
+                    "PRENOM": "Vitalii",
+                    "NOM": "Kolos",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:39"
+                },
+                {
+                    "ID": 67407,
+                    "PSEUDO": "kanode",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Yurchenko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:38"
+                },
+                {
+                    "ID": 67408,
+                    "PSEUDO": "nikson",
+                    "ROLE": null,
+                    "PRENOM": "Nikolay",
+                    "NOM": "Suvorov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:38"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139111,
+                "NOM": "Morrow Esports",
+                "LOCALISATION": "RU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:40:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 44181,
+                    "PSEUDO": "Wign",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Petrov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:28"
+                },
+                {
+                    "ID": 51580,
+                    "PSEUDO": "K014NZ",
+                    "ROLE": null,
+                    "PRENOM": "Nikolay",
+                    "NOM": "Glushnev",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:27"
+                },
+                {
+                    "ID": 59445,
+                    "PSEUDO": "facer",
+                    "ROLE": null,
+                    "PRENOM": "Vyacheslav",
+                    "NOM": "Grudin",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:27"
+                },
+                {
+                    "ID": 63998,
+                    "PSEUDO": "yoyoS2",
+                    "ROLE": null,
+                    "PRENOM": "Abuladze",
+                    "NOM": "Daniil",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:28"
+                },
+                {
+                    "ID": 65044,
+                    "PSEUDO": "f1chper",
+                    "ROLE": null,
+                    "PRENOM": "Evgenii",
+                    "NOM": "Kurganov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:27"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "European Pro League",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "NOM": "Series 10 Closed Qualifier 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:12:08",
+        "ID DU VAINQUEUR": null
+    }
+}

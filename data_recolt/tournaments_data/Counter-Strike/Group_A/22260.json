@@ -1,0 +1,584 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22260,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-19",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-10-23",
+        "HEURE DE FIN": "11:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:45:34",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Decider Match: Rcave vs Ducks",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-23",
+            "HEURE PRÉVUE": "08:15:00",
+            "DATE DE DEBUT": "2026-10-23",
+            "HEURE DE DEBUT": "08:20:40",
+            "DATE DE FIN": "2026-10-23",
+            "HEURE DE FIN": "10:14:14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:14:15",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "maybe vs Ducks",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:10:38",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Winners' Match: Ducks vs DM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-20",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:12:00",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Elimination Match: maybe vs Rcave",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-20",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:30:55",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "DM vs Trainwrecks eSports",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-19",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:10:38",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-3-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 137582,
+            "NOM": "Rcave",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:57:30",
+            "ACRONYME": null
+        },
+        {
+            "ID": 138694,
+            "NOM": "Dark Moon",
+            "LOCALISATION": "KZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:18:13",
+            "ACRONYME": "DM"
+        },
+        {
+            "ID": 138899,
+            "NOM": "maybe",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:40:26",
+            "ACRONYME": null
+        },
+        {
+            "ID": 138992,
+            "NOM": "Trainwrecks eSports",
+            "LOCALISATION": "FI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:08:14",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139444,
+            "NOM": "Ducks",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:12:38",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 137582,
+                "NOM": "Rcave",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:57:30"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 50904,
+                    "PSEUDO": "Frosty4k",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:09:52"
+                },
+                {
+                    "ID": 56069,
+                    "PSEUDO": "AHMA",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:57:29"
+                },
+                {
+                    "ID": 56159,
+                    "PSEUDO": "meLty",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:57:29"
+                },
+                {
+                    "ID": 56321,
+                    "PSEUDO": "LapaSSS",
+                    "ROLE": null,
+                    "PRENOM": "Makar",
+                    "NOM": "Borovkov",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:57:30"
+                },
+                {
+                    "ID": 68425,
+                    "PSEUDO": "pake",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:57:30"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138694,
+                "NOM": "Dark Moon",
+                "LOCALISATION": "KZ",
+                "ACRONYME": "DM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:18:13"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 50797,
+                    "PSEUDO": "Maison",
+                    "ROLE": null,
+                    "PRENOM": "Gani",
+                    "NOM": "Kelgenbay",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-08-21",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:13"
+                },
+                {
+                    "ID": 62326,
+                    "PSEUDO": "ri0dayungog",
+                    "ROLE": null,
+                    "PRENOM": "Ansar",
+                    "NOM": "Janzakov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:13"
+                },
+                {
+                    "ID": 62327,
+                    "PSEUDO": "d3j4vy",
+                    "ROLE": null,
+                    "PRENOM": "Akhmet",
+                    "NOM": "Kazistay",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:13"
+                },
+                {
+                    "ID": 64269,
+                    "PSEUDO": "keiyon",
+                    "ROLE": null,
+                    "PRENOM": "Ibragim",
+                    "NOM": "Atchibayev",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:13"
+                },
+                {
+                    "ID": 66901,
+                    "PSEUDO": "Bak0",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:18:13"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138899,
+                "NOM": "maybe",
+                "LOCALISATION": "UA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 53412,
+                    "PSEUDO": "edixenn",
+                    "ROLE": null,
+                    "PRENOM": "Eduard",
+                    "NOM": "Liubchenko",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:42"
+                },
+                {
+                    "ID": 55996,
+                    "PSEUDO": "zogeN",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Baranyshyn",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                },
+                {
+                    "ID": 66717,
+                    "PSEUDO": "Awi4",
+                    "ROLE": null,
+                    "PRENOM": "Zahar",
+                    "NOM": "Vutkevych",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                },
+                {
+                    "ID": 66719,
+                    "PSEUDO": "shallthing",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Vladov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                },
+                {
+                    "ID": 66720,
+                    "PSEUDO": "thirtythird",
+                    "ROLE": null,
+                    "PRENOM": "Denys",
+                    "NOM": "Tabaka",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:26"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138992,
+                "NOM": "Trainwrecks eSports",
+                "LOCALISATION": "FI",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:08:14"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 50904,
+                    "PSEUDO": "Frosty4k",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:09:52"
+                },
+                {
+                    "ID": 56069,
+                    "PSEUDO": "AHMA",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:57:29"
+                },
+                {
+                    "ID": 56159,
+                    "PSEUDO": "meLty",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:57:29"
+                },
+                {
+                    "ID": 56321,
+                    "PSEUDO": "LapaSSS",
+                    "ROLE": null,
+                    "PRENOM": "Makar",
+                    "NOM": "Borovkov",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:57:30"
+                },
+                {
+                    "ID": 68425,
+                    "PSEUDO": "pake",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:57:30"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139444,
+                "NOM": "Ducks",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:12:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30824,
+                    "PSEUDO": "ven9",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Zavertaylo",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:38"
+                },
+                {
+                    "ID": 41216,
+                    "PSEUDO": "cMuTu",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:38"
+                },
+                {
+                    "ID": 46693,
+                    "PSEUDO": "zeokeN",
+                    "ROLE": null,
+                    "PRENOM": "Timofey",
+                    "NOM": "Poboev",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:38"
+                },
+                {
+                    "ID": 68513,
+                    "PSEUDO": "ronkye",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:38"
+                },
+                {
+                    "ID": 68514,
+                    "PSEUDO": "7ckingsam",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:37"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Exort Fiesta",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:07:12"
+    },
+    "SERIE": {
+        "NOM": "Closed Qualifier: Series #3 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:10:38",
+        "ID DU VAINQUEUR": null
+    }
+}

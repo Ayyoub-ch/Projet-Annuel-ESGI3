@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11137,
+        "NOM": "Fall_2026",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-11-11",
+        "HEURE DE DEBUT": "02:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:48:57",
+        "ANNEE": 2026,
+        "SAISON": "Fall"
+    },
+    "LIGUE": {
+        "ID": 5386,
+        "NOM": "BLAST Rivals",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-04-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:33:16"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "HK",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "02:00:00",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "07:30:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:56:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-blast-rivals-fall-2026-group-a",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": true
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "HK",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "07:00:00",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "12:30:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:05:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-blast-rivals-fall-2026-group-b",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": true
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "HK",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "07:00:00",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "12:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:53:13",
+            "PRIZEPOOL": "1,000,000 United States Dollar",
+            "SLUG": "cs-go-blast-rivals-fall-2026-playoffs",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": true
+        }
+    ]
+}

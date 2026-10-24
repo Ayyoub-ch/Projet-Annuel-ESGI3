@@ -1,0 +1,127 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1748410,
+        "NOM": "Semifinal_2__GX_vs_BBL",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.08",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "11:05:38",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "13:06:49",
+        "DATE DE MODIFICATION": "2026-10-18",
+        "HEURE DE MODIFICATION": "07:15:35",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52381,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2975,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "11:05:38",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "11:55:14",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 128577,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52382,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3077,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "12:15:32",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "13:06:50",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 128577,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 134423,
+            "NOM": "GIANTX",
+            "LOCALISATION": "GB",
+            "ACRONYME": "GX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:07:18"
+        },
+        {
+            "ID": 128577,
+            "NOM": "BBL Esports",
+            "LOCALISATION": "TR",
+            "ACRONYME": "BBL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:17"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 134423
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 128577
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22212,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "TR",
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "36,500 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "10:30:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "15:10:38",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5322,
+        "NOM": "Monsters Reloaded",
+        "DATE DE MODIFICATION": "2025-11-06",
+        "HEURE DE MODIFICATION": "11:53:40"
+    },
+    "SERIE": {
+        "ID": 11114,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "10:30:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE MODIFICATION": "2026-10-18",
+        "HEURE DE MODIFICATION": "07:15:35"
+    }
+}

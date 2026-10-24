@@ -1,0 +1,127 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1752414,
+        "NOM": "Upper_Bracket_Quarterfinal_Match_2__TL_vs_M8.GC",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.08",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "18:06:12",
+        "DATE DE FIN": "2026-10-23",
+        "HEURE DE FIN": "20:06:28",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "08:12:14",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52398,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 4018,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "18:06:14",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "19:13:12",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137995,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52399,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2677,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "19:21:51",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "20:06:29",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137995,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 131527,
+            "NOM": "Team Liquid Brazil",
+            "LOCALISATION": "",
+            "ACRONYME": "TL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:55:19"
+        },
+        {
+            "ID": 137995,
+            "NOM": "Gentle Mates GC",
+            "LOCALISATION": "FR",
+            "ACRONYME": "M8.GC",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:55:22"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 131527
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137995
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22225,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "BR",
+        "REGION": "SA",
+        "TIER": "b",
+        "CASH PRIZE": "500000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "20:44:55",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11121,
+        "NOM": "Game Changers Championship 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "08:12:14"
+    }
+}

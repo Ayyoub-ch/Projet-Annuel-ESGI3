@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1753750,
+        "NOM": "PARI_vs_LEGION",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "17:29:47",
+        "DATE DE FIN": "2026-10-23",
+        "HEURE DE FIN": "19:23:10",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:33:21",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740525,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1885,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "17:29:49",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "18:15:33",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135712,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740526,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2021,
+            "DATE DE DEBUT DE PARTIE": "2026-10-23",
+            "HEURE DE DEBUT DE PARTIE": "18:32:51",
+            "DATE DE FIN DE PARTIE": "2026-10-23",
+            "HEURE DE FIN DE PARTIE": "19:23:11",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135712,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135712,
+            "NOM": "PARIVISION",
+            "LOCALISATION": "RU",
+            "ACRONYME": "PARI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:59:45"
+        },
+        {
+            "ID": 139340,
+            "NOM": "LEGION",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:32:31"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135712
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139340
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22230,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "a",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-10-26",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "16:44:49",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5567,
+        "NOM": "PARI Universe",
+        "DATE DE MODIFICATION": "2026-10-04",
+        "HEURE DE MODIFICATION": "06:13:51"
+    },
+    "SERIE": {
+        "ID": 11124,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:33:21"
+    }
+}

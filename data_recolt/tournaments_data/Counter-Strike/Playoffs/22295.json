@@ -1,0 +1,537 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22295,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:57:28",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Upper Bracket Semifinal 1: STA vs OT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "09:10:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "09:24:35",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "10:41:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:45:28",
+            "PRIZEPOOL": "10000 British Pound",
+            "SLUG": "cs-go-hotspawn-showdown-finals-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hotspawnesports"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Semifinal 2: TLR vs G2.A",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "12:06:14",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "15:29:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:41:09",
+            "PRIZEPOOL": "10000 British Pound",
+            "SLUG": "cs-go-hotspawn-showdown-finals-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ka",
+                "LIEN BRUTE": "https://www.twitch.tv/deeptier_cs"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Final: STA vs TLR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "15:30:27",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "18:07:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:13:43",
+            "PRIZEPOOL": "10000 British Pound",
+            "SLUG": "cs-go-hotspawn-showdown-finals-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hotspawnesports"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Semifinal: OT vs G2.A",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "running",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "18:40:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "18:35:01",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:18:21",
+            "PRIZEPOOL": "10000 British Pound",
+            "SLUG": "cs-go-hotspawn-showdown-finals-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "pl",
+                "LIEN BRUTE": "https://kick.com/cherry5pl"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Final: STA vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-25",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-10-25",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:07:07",
+            "PRIZEPOOL": "10000 British Pound",
+            "SLUG": "cs-go-hotspawn-showdown-finals-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hotspawnesports"
+            }
+        },
+        {
+            "NOM": "Grand Final: TLR vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-25",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-25",
+            "HEURE DE DEBUT": "17:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:07:07",
+            "PRIZEPOOL": "10000 British Pound",
+            "SLUG": "cs-go-hotspawn-showdown-finals-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hotspawnesports"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 130590,
+            "NOM": "The Last Resort",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:38:04",
+            "ACRONYME": "TLR"
+        },
+        {
+            "ID": 135321,
+            "NOM": "G2 Ares",
+            "LOCALISATION": "DE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:38:06",
+            "ACRONYME": "G2.A"
+        },
+        {
+            "ID": 137861,
+            "NOM": "STATE",
+            "LOCALISATION": "DK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:38:02",
+            "ACRONYME": "STA"
+        },
+        {
+            "ID": 139298,
+            "NOM": "overTIME",
+            "LOCALISATION": "PL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:57:28",
+            "ACRONYME": "OT"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 130590,
+                "NOM": "The Last Resort",
+                "LOCALISATION": "GB",
+                "ACRONYME": "TLR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:38:04"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27734,
+                    "PSEUDO": "Girafffe",
+                    "ROLE": null,
+                    "PRENOM": "Callum",
+                    "NOM": "Jones",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-02",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:03"
+                },
+                {
+                    "ID": 27738,
+                    "PSEUDO": "arTisT",
+                    "ROLE": null,
+                    "PRENOM": "Tom",
+                    "NOM": "Clarke",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-05-31",
+                    "NATIONALITE": "IE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:04"
+                },
+                {
+                    "ID": 29919,
+                    "PSEUDO": "Extinct",
+                    "ROLE": null,
+                    "PRENOM": "Matas",
+                    "NOM": "Strumila",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-03",
+                    "NATIONALITE": "IE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:04"
+                },
+                {
+                    "ID": 31424,
+                    "PSEUDO": "Vacancy",
+                    "ROLE": null,
+                    "PRENOM": "Mason",
+                    "NOM": "Haines",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:04"
+                },
+                {
+                    "ID": 33162,
+                    "PSEUDO": "bevve",
+                    "ROLE": null,
+                    "PRENOM": "James",
+                    "NOM": "Slinn",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-02-13",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:04"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135321,
+                "NOM": "G2 Ares",
+                "LOCALISATION": "DE",
+                "ACRONYME": "G2.A",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:38:06"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30743,
+                    "PSEUDO": "SHiNE",
+                    "ROLE": null,
+                    "PRENOM": "Casper",
+                    "NOM": "Wennerberg",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-23",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:06"
+                },
+                {
+                    "ID": 49179,
+                    "PSEUDO": "TMKj",
+                    "ROLE": null,
+                    "PRENOM": "Tiago",
+                    "NOM": "Martins",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2005-11-10",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:05"
+                },
+                {
+                    "ID": 53015,
+                    "PSEUDO": "Junyme",
+                    "ROLE": null,
+                    "PRENOM": "Julius",
+                    "NOM": "Meyhoff",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:04"
+                },
+                {
+                    "ID": 55532,
+                    "PSEUDO": "hitori",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:05"
+                },
+                {
+                    "ID": 59530,
+                    "PSEUDO": "yksjupe",
+                    "ROLE": null,
+                    "PRENOM": "Juho",
+                    "NOM": "Viitasalo",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:05"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137861,
+                "NOM": "STATE",
+                "LOCALISATION": "DK",
+                "ACRONYME": "STA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:38:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24718,
+                    "PSEUDO": "kwezz",
+                    "ROLE": null,
+                    "PRENOM": "Oliver",
+                    "NOM": "Rasmussen",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-20",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:02"
+                },
+                {
+                    "ID": 25123,
+                    "PSEUDO": "Queenix",
+                    "ROLE": null,
+                    "PRENOM": "Jonas",
+                    "NOM": "Dideriksen",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-15",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:02"
+                },
+                {
+                    "ID": 31967,
+                    "PSEUDO": "Altekz",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Givskov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-08",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:01"
+                },
+                {
+                    "ID": 36785,
+                    "PSEUDO": "Zanto",
+                    "ROLE": null,
+                    "PRENOM": "André ",
+                    "NOM": "Christiansen",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:02"
+                },
+                {
+                    "ID": 49769,
+                    "PSEUDO": "sL1m3",
+                    "ROLE": null,
+                    "PRENOM": "Emil ",
+                    "NOM": "Stolz",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-13",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:02"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139298,
+                "NOM": "overTIME",
+                "LOCALISATION": "PL",
+                "ACRONYME": "OT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:57:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26431,
+                    "PSEUDO": "m4tthi",
+                    "ROLE": null,
+                    "PRENOM": "Mateusz",
+                    "NOM": "Szambelan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-11",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:03"
+                },
+                {
+                    "ID": 35775,
+                    "PSEUDO": "sk1tt",
+                    "ROLE": null,
+                    "PRENOM": "Szymon",
+                    "NOM": "Rogoziński",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-27",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:03"
+                },
+                {
+                    "ID": 52051,
+                    "PSEUDO": "hfah",
+                    "ROLE": null,
+                    "PRENOM": "Oskar",
+                    "NOM": "Wroński",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:57:28"
+                },
+                {
+                    "ID": 61928,
+                    "PSEUDO": "Arielek",
+                    "ROLE": null,
+                    "PRENOM": "Ariel",
+                    "NOM": "Pach",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:03"
+                },
+                {
+                    "ID": 63004,
+                    "PSEUDO": "patrikinho",
+                    "ROLE": null,
+                    "PRENOM": "Patryk",
+                    "NOM": "Sadowski",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:03"
+                },
+                {
+                    "ID": 63205,
+                    "PSEUDO": "Kizzzi",
+                    "ROLE": null,
+                    "PRENOM": "Kacper",
+                    "NOM": "Kozuszkiewicz",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:38:03"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Hotspawn Showdown",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "06:02:53"
+    },
+    "SERIE": {
+        "NOM": "Finals 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "06:40:27",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11123,
+        "NOM": "Challengers_Series",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-17",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-10-25",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:32:40",
+        "ANNEE": 2026,
+        "SAISON": "8"
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-04-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:58:18"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-17",
+            "HEURE DE DEBUT": "11:00:00",
+            "DATE DE FIN": "2026-10-25",
+            "HEURE DE FIN": "17:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:53:06",
+            "PRIZEPOOL": "5,000 United States Dollar",
+            "SLUG": "cs-go-cct-europe-challengers-series-8-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

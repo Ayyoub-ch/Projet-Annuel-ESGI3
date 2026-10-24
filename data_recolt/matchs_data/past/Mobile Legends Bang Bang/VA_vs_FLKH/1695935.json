@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1695935,
+        "NOM": "VA_vs_FLKH",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "08:36:56",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "09:37:47",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "10:34:33",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8044,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1611,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "08:36:56",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "09:03:48",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139272,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8045,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1192,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "09:17:55",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "09:37:47",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139272,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139272,
+            "NOM": " Vigor Apex",
+            "LOCALISATION": "KH",
+            "ACRONYME": "VA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:07:40"
+        },
+        {
+            "ID": 135444,
+            "NOM": "Team Flash KH",
+            "LOCALISATION": "KH",
+            "ACRONYME": "FLKH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:29:31"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139272
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135444
+        }
+    ],
+    "TOURNOI": {
+        "ID": 21975,
+        "NOM": "Regular Season",
+        "TYPE": "offline",
+        "PAYS": "KH",
+        "REGION": "ASIA",
+        "TIER": "b",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-09-18",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "14:35:43",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5288,
+        "NOM": "MPL Cambodia",
+        "DATE DE MODIFICATION": "2024-08-26",
+        "HEURE DE MODIFICATION": "11:39:40"
+    },
+    "SERIE": {
+        "ID": 10992,
+        "NOM": "Season 11 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-09-18",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "10:34:33"
+    }
+}

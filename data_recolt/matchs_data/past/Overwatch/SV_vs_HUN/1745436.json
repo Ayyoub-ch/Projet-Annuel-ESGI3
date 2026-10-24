@@ -1,0 +1,160 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1745436,
+        "NOM": "SV_vs_HUN",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "09:09:07",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "10:22:30",
+        "DATE DE MODIFICATION": "2026-09-30",
+        "HEURE DE MODIFICATION": "14:46:46",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 31716,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 725,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "09:09:07",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "09:21:13",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 131655,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31717,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 839,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "09:25:24",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "09:39:24",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138771,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31718,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 968,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "09:45:25",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "10:01:33",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138771,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31719,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 783,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "10:09:27",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "10:22:30",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138771,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 131655,
+            "NOM": "Solus Victorem",
+            "LOCALISATION": "CN",
+            "ACRONYME": "SV",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:55:16"
+        },
+        {
+            "ID": 138771,
+            "NOM": "HUNENG",
+            "LOCALISATION": "CN",
+            "ACRONYME": "HUN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:08:53"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 131655
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 138771
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22192,
+        "NOM": "Round Robin Stage",
+        "TYPE": "online",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-17",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE MODIFICATION": "2026-10-15",
+        "HEURE DE MODIFICATION": "07:08:54",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11027,
+        "NOM": "China Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-03",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-09-30",
+        "HEURE DE MODIFICATION": "14:46:46"
+    }
+}

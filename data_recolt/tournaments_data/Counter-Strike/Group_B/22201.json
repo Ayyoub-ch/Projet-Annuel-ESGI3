@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22201,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-16",
+        "HEURE DE DEBUT": "00:00:00",
+        "DATE DE FIN": "2026-10-16",
+        "HEURE DE FIN": "10:20:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "FLY vs Off Chops",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-16",
+            "HEURE PRÉVUE": "00:10:00",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "00:09:47",
+            "DATE DE FIN": "2026-10-16",
+            "HEURE DE FIN": "02:34:25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:36:38",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/dfragtv"
+            }
+        },
+        {
+            "NOM": "GZ vs Abyssal",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-16",
+            "HEURE PRÉVUE": "00:10:00",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "00:10:01",
+            "DATE DE FIN": "2026-10-16",
+            "HEURE DE FIN": "03:40:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:44:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/dfragtv_cs2"
+            }
+        },
+        {
+            "NOM": "Winners Match: FLY vs Abyssal",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-16",
+            "HEURE PRÉVUE": "04:40:00",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "04:40:10",
+            "DATE DE FIN": "2026-10-16",
+            "HEURE DE FIN": "06:37:30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:39:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/dfragtv"
+            }
+        },
+        {
+            "NOM": "Elimination Match: Off Chops vs GZ",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-16",
+            "HEURE PRÉVUE": "04:40:00",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "04:41:53",
+            "DATE DE FIN": "2026-10-16",
+            "HEURE DE FIN": "07:49:01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:00:03",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/dfragtv"
+            }
+        },
+        {
+            "NOM": "Decider Match: Abyssal vs Off Chops",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-16",
+            "HEURE PRÉVUE": "08:45:00",
+            "DATE DE DEBUT": "2026-10-16",
+            "HEURE DE DEBUT": "08:46:42",
+            "DATE DE FIN": "2026-10-16",
+            "HEURE DE FIN": "10:20:53",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:23:23",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-logitech-g-pro-series-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/dfragtv"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 125873,
+            "NOM": "Ground Zero",
+            "LOCALISATION": "AU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:28:02",
+            "ACRONYME": "GZ"
+        },
+        {
+            "ID": 134746,
+            "NOM": "FlyQuest",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:33:06",
+            "ACRONYME": "FLY"
+        },
+        {
+            "ID": 138092,
+            "NOM": "Abyssal",
+            "LOCALISATION": "AU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:33:10",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139421,
+            "NOM": "Off Chops",
+            "LOCALISATION": "AU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:27:25",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 125873,
+                "NOM": "Ground Zero",
+                "LOCALISATION": "AU",
+                "ACRONYME": "GZ",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:28:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 21450,
+                    "PSEUDO": "HaZR",
+                    "ROLE": null,
+                    "PRENOM": "Jared",
+                    "NOM": "O'Bree",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2001-12-08",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:56:35"
+                },
+                {
+                    "ID": 23764,
+                    "PSEUDO": "apocdud",
+                    "ROLE": null,
+                    "PRENOM": "Tom",
+                    "NOM": "Henry",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-01-31",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:02"
+                },
+                {
+                    "ID": 33591,
+                    "PSEUDO": "Sliimey",
+                    "ROLE": null,
+                    "PRENOM": "Kalan",
+                    "NOM": "Lorenzo",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-09-01",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:02"
+                },
+                {
+                    "ID": 47967,
+                    "PSEUDO": "Omichella",
+                    "ROLE": null,
+                    "PRENOM": "Jack",
+                    "NOM": "McLoughlin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-27",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:02"
+                },
+                {
+                    "ID": 49741,
+                    "PSEUDO": "vision",
+                    "ROLE": null,
+                    "PRENOM": "Ethan",
+                    "NOM": "Holst",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:02"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134746,
+                "NOM": "FlyQuest",
+                "LOCALISATION": "US",
+                "ACRONYME": "FLY",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:33:06"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17615,
+                    "PSEUDO": "jks",
+                    "ROLE": null,
+                    "PRENOM": "Justin",
+                    "NOM": "Savage",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1995-12-12",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:04"
+                },
+                {
+                    "ID": 17793,
+                    "PSEUDO": "aliStair",
+                    "ROLE": null,
+                    "PRENOM": "Alistair",
+                    "NOM": "Johnston",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-07",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:05"
+                },
+                {
+                    "ID": 17806,
+                    "PSEUDO": "INS",
+                    "ROLE": null,
+                    "PRENOM": "Joshua",
+                    "NOM": "Potter",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-22",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:05"
+                },
+                {
+                    "ID": 23770,
+                    "PSEUDO": "nettik",
+                    "ROLE": null,
+                    "PRENOM": "Corey",
+                    "NOM": "Browne",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-30",
+                    "NATIONALITE": "NZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:06"
+                },
+                {
+                    "ID": 23785,
+                    "PSEUDO": "Vexite",
+                    "ROLE": null,
+                    "PRENOM": "Declan",
+                    "NOM": "Portelli",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-05",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:06"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138092,
+                "NOM": "Abyssal",
+                "LOCALISATION": "AU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:33:10"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26444,
+                    "PSEUDO": "dangeR",
+                    "ROLE": null,
+                    "PRENOM": "Sharvesh ",
+                    "NOM": "Saravanan",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-02",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:09"
+                },
+                {
+                    "ID": 40399,
+                    "PSEUDO": "Forleks",
+                    "ROLE": null,
+                    "PRENOM": "Marvin",
+                    "NOM": "Tran",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:10"
+                },
+                {
+                    "ID": 60971,
+                    "PSEUDO": "zune",
+                    "ROLE": null,
+                    "PRENOM": "Jye",
+                    "NOM": "Pollock",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:10"
+                },
+                {
+                    "ID": 60976,
+                    "PSEUDO": "vinhy",
+                    "ROLE": null,
+                    "PRENOM": "Julian ",
+                    "NOM": "Dinh-Vu",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:09"
+                },
+                {
+                    "ID": 62446,
+                    "PSEUDO": "blood",
+                    "ROLE": null,
+                    "PRENOM": "Ozzy",
+                    "NOM": "Rose",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:09"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139421,
+                "NOM": "Off Chops",
+                "LOCALISATION": "AU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:27:25"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17735,
+                    "PSEUDO": "Gratisfaction",
+                    "ROLE": null,
+                    "PRENOM": "Sean",
+                    "NOM": "Kaiwai",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-03-06",
+                    "NATIONALITE": "NZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:03"
+                },
+                {
+                    "ID": 17736,
+                    "PSEUDO": "dexter",
+                    "ROLE": null,
+                    "PRENOM": "Christopher",
+                    "NOM": "Nong",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-08-15",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:03"
+                },
+                {
+                    "ID": 17791,
+                    "PSEUDO": "Liazz",
+                    "ROLE": null,
+                    "PRENOM": "Jay",
+                    "NOM": "Tregillgas",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-08-30",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:03"
+                },
+                {
+                    "ID": 25702,
+                    "PSEUDO": "damyo",
+                    "ROLE": null,
+                    "PRENOM": "Damon ",
+                    "NOM": "Portelli",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-03",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:03"
+                },
+                {
+                    "ID": 29666,
+                    "PSEUDO": "viridian",
+                    "ROLE": null,
+                    "PRENOM": "Eddie ",
+                    "NOM": "Azzi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-07",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:03"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Logitech G Pro Series",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:03:50"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+        "ID DU VAINQUEUR": null
+    }
+}

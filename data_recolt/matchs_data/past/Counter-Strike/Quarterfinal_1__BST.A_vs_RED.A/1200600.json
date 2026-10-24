@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1200600,
+        "NOM": "Quarterfinal_1__BST.A_vs_RED.A",
+        "JEU VIDEO": "Counter-Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "19:08:05",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2025-06-24",
+        "HEURE DE MODIFICATION": "08:47:37",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 176592,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": true,
+            "VAINQUEUR": {
+                "ID": 135505,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 176593,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": true,
+            "VAINQUEUR": {
+                "ID": 135505,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135743,
+            "NOM": "BESTIA Academy",
+            "LOCALISATION": "BR",
+            "ACRONYME": "BST.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:03:12"
+        },
+        {
+            "ID": 135505,
+            "NOM": "RED Canids Academy",
+            "LOCALISATION": "BR",
+            "ACRONYME": "RED.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:01:39"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135743
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135505
+        }
+    ],
+    "TOURNOI": {
+        "ID": 16969,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2025-06-24",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2025-06-27",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2025-06-24",
+        "HEURE DE MODIFICATION": "08:47:37",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4554,
+        "NOM": "Gamers Club Liga Série A",
+        "DATE DE MODIFICATION": "2022-08-12",
+        "HEURE DE MODIFICATION": "14:23:59"
+    },
+    "SERIE": {
+        "ID": 9437,
+        "NOM": "June 2025",
+        "ANNEE": 2025,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2025-06-24",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2025-06-27",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2025-06-24",
+        "HEURE DE MODIFICATION": "08:47:37"
+    }
+}

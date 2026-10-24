@@ -1,0 +1,902 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22207,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-14",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-10-14",
+        "HEURE DE FIN": "23:13:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:30:19",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Quarterfinal 3: FOKUS vs JustP",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "14:15:43",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "16:09:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:17:49",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Quarterfinal 1: NTR vs PHA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "14:20:35",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "16:43:27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:51:54",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Quarterfinal 2: BTF vs UP",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "14:20:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "14:22:34",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "15:58:33",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:01:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Quarterfinal 4: YL vs Nice Try",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "14:20:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "14:26:36",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "18:36:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:40:01",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Semifinal 1: NTR vs BTF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "17:15:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "17:18:17",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "19:13:53",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:19:29",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Semifinal 2: FOKUS vs YL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "18:45:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "18:55:52",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "20:25:10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:31:23",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Grand Final: NTR vs FOKUS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-14",
+            "HEURE PRÉVUE": "21:00:00",
+            "DATE DE DEBUT": "2026-10-14",
+            "HEURE DE DEBUT": "20:56:37",
+            "DATE DE FIN": "2026-10-14",
+            "HEURE DE FIN": "23:13:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:25:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-open-qualifier-2-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135673,
+            "NOM": "Nuclear TigeRES",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:14:52",
+            "ACRONYME": "NTR"
+        },
+        {
+            "ID": 136560,
+            "NOM": "Phantom",
+            "LOCALISATION": "PL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:20:17",
+            "ACRONYME": "PHA"
+        },
+        {
+            "ID": 137699,
+            "NOM": "FOKUS",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:14:48",
+            "ACRONYME": "FOKUS"
+        },
+        {
+            "ID": 138163,
+            "NOM": "Younglings",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:55:05",
+            "ACRONYME": "YL"
+        },
+        {
+            "ID": 138406,
+            "NOM": "Just Players",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:15:42",
+            "ACRONYME": "JustP"
+        },
+        {
+            "ID": 138975,
+            "NOM": "Butterfly",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:07:38",
+            "ACRONYME": "BTF"
+        },
+        {
+            "ID": 139135,
+            "NOM": "UPGRADE",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:37:38",
+            "ACRONYME": "UP"
+        },
+        {
+            "ID": 139200,
+            "NOM": "Nice Try",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:05:34",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135673,
+                "NOM": "Nuclear TigeRES",
+                "LOCALISATION": "RU",
+                "ACRONYME": "NTR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:14:52"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 48916,
+                    "PSEUDO": "senka",
+                    "ROLE": null,
+                    "PRENOM": "Arseniy",
+                    "NOM": "Kozlovsky",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:51"
+                },
+                {
+                    "ID": 49431,
+                    "PSEUDO": "Djon8",
+                    "ROLE": null,
+                    "PRENOM": "Evgeny",
+                    "NOM": "Mudrenov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:49"
+                },
+                {
+                    "ID": 56714,
+                    "PSEUDO": "flouzer",
+                    "ROLE": null,
+                    "PRENOM": "Ilya",
+                    "NOM": "Selifonov",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2007-12-13",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:51"
+                },
+                {
+                    "ID": 62379,
+                    "PSEUDO": "ayuki",
+                    "ROLE": null,
+                    "PRENOM": "Egor ",
+                    "NOM": "Ershov",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:52"
+                },
+                {
+                    "ID": 63485,
+                    "PSEUDO": "tronic",
+                    "ROLE": null,
+                    "PRENOM": "Kamil",
+                    "NOM": "Shakhov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:52"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136560,
+                "NOM": "Phantom",
+                "LOCALISATION": "PL",
+                "ACRONYME": "PHA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "23:20:17"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23852,
+                    "PSEUDO": "TMB",
+                    "ROLE": null,
+                    "PRENOM": "Thomas",
+                    "NOM": "Bundsbæk",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-03",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:17"
+                },
+                {
+                    "ID": 25040,
+                    "PSEUDO": "KEi",
+                    "ROLE": null,
+                    "PRENOM": "Kamil",
+                    "NOM": "Pietkun",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-06",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:15"
+                },
+                {
+                    "ID": 25041,
+                    "PSEUDO": "Kylar",
+                    "ROLE": null,
+                    "PRENOM": "Kacper",
+                    "NOM": "Walukiewicz",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-09-22",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:16"
+                },
+                {
+                    "ID": 26530,
+                    "PSEUDO": "nicoodoz",
+                    "ROLE": null,
+                    "PRENOM": "Nico",
+                    "NOM": "Tamjidi",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-02",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:17"
+                },
+                {
+                    "ID": 43719,
+                    "PSEUDO": "cej0t",
+                    "ROLE": null,
+                    "PRENOM": "Jan",
+                    "NOM": "Dyl",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-02-02",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:41:15"
+                },
+                {
+                    "ID": 60635,
+                    "PSEUDO": "Kunai",
+                    "ROLE": null,
+                    "PRENOM": "Jakub",
+                    "NOM": "Gieremek",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:17"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137699,
+                "NOM": "FOKUS",
+                "LOCALISATION": "",
+                "ACRONYME": "FOKUS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:14:48"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24216,
+                    "PSEUDO": "ztr",
+                    "ROLE": null,
+                    "PRENOM": "Erik",
+                    "NOM": "Gustafsson",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-08-02",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:48"
+                },
+                {
+                    "ID": 31491,
+                    "PSEUDO": "Banjo",
+                    "ROLE": null,
+                    "PRENOM": "Matias ",
+                    "NOM": "Kivistö",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-15",
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:46"
+                },
+                {
+                    "ID": 39464,
+                    "PSEUDO": "podi",
+                    "ROLE": null,
+                    "PRENOM": "Paavo ",
+                    "NOM": "Heiskanen",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-05",
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:48"
+                },
+                {
+                    "ID": 45900,
+                    "PSEUDO": "jocab",
+                    "ROLE": null,
+                    "PRENOM": " Jacob",
+                    "NOM": "Nerheden",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-05-30",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:47"
+                },
+                {
+                    "ID": 48854,
+                    "PSEUDO": "Matheos",
+                    "ROLE": null,
+                    "PRENOM": "Mateo",
+                    "NOM": "Prišlin",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:14:48"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138163,
+                "NOM": "Younglings",
+                "LOCALISATION": "RU",
+                "ACRONYME": "YL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:55:05"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 34993,
+                    "PSEUDO": "cheerful",
+                    "ROLE": null,
+                    "PRENOM": "Armen",
+                    "NOM": "Eksuzyan",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:41"
+                },
+                {
+                    "ID": 45471,
+                    "PSEUDO": "emiiri",
+                    "ROLE": null,
+                    "PRENOM": "Amir",
+                    "NOM": "Ismailov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:41"
+                },
+                {
+                    "ID": 49422,
+                    "PSEUDO": "Shed0Z",
+                    "ROLE": null,
+                    "PRENOM": "Nikita ",
+                    "NOM": "Salimov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:41"
+                },
+                {
+                    "ID": 56327,
+                    "PSEUDO": "zazzer",
+                    "ROLE": null,
+                    "PRENOM": "Maksim",
+                    "NOM": "Akulov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:55:09"
+                },
+                {
+                    "ID": 66519,
+                    "PSEUDO": "MoNaTy",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:55:11"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138406,
+                "NOM": "Just Players",
+                "LOCALISATION": "RU",
+                "ACRONYME": "JustP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:15:42"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25468,
+                    "PSEUDO": "H1te",
+                    "ROLE": null,
+                    "PRENOM": "Vladislav",
+                    "NOM": "Khait",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-26",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:41"
+                },
+                {
+                    "ID": 37221,
+                    "PSEUDO": "sstiNiX",
+                    "ROLE": null,
+                    "PRENOM": "Dmitry",
+                    "NOM": "Khlebnikov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-11-01",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:42"
+                },
+                {
+                    "ID": 38521,
+                    "PSEUDO": "sm3t",
+                    "ROLE": null,
+                    "PRENOM": "Matvey",
+                    "NOM": "Gogin",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:42"
+                },
+                {
+                    "ID": 56713,
+                    "PSEUDO": "wh1teout",
+                    "ROLE": null,
+                    "PRENOM": "Vladislav",
+                    "NOM": "Kokoulin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-31",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:42"
+                },
+                {
+                    "ID": 61607,
+                    "PSEUDO": "Temny Prince",
+                    "ROLE": null,
+                    "PRENOM": "Valeryi",
+                    "NOM": "Kim",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:15:42"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138975,
+                "NOM": "Butterfly",
+                "LOCALISATION": "RU",
+                "ACRONYME": "BTF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:07:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30826,
+                    "PSEUDO": "Forester",
+                    "ROLE": null,
+                    "PRENOM": "Igor",
+                    "NOM": "Bezotecheskiy",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-01-03",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:37"
+                },
+                {
+                    "ID": 33183,
+                    "PSEUDO": "nitzie",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Prokhorov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-17",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:37"
+                },
+                {
+                    "ID": 37265,
+                    "PSEUDO": "k1ssly",
+                    "ROLE": null,
+                    "PRENOM": "Dmitry",
+                    "NOM": "Gostev",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:37"
+                },
+                {
+                    "ID": 40973,
+                    "PSEUDO": "Kurama",
+                    "ROLE": null,
+                    "PRENOM": "Sergey",
+                    "NOM": "Zhukovich",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:37"
+                },
+                {
+                    "ID": 61761,
+                    "PSEUDO": "ayano",
+                    "ROLE": null,
+                    "PRENOM": "Ruslan",
+                    "NOM": "Gutu",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:38"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139135,
+                "NOM": "UPGRADE",
+                "LOCALISATION": "RU",
+                "ACRONYME": "UP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "23:37:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28433,
+                    "PSEUDO": "SynyX",
+                    "ROLE": null,
+                    "PRENOM": "Daniil ",
+                    "NOM": "Mazur",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-12",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:37:38"
+                },
+                {
+                    "ID": 59652,
+                    "PSEUDO": "SquEzxc",
+                    "ROLE": null,
+                    "PRENOM": "Maxim",
+                    "NOM": "Grebenko",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:37:38"
+                },
+                {
+                    "ID": 62185,
+                    "PSEUDO": "tw1sterzaza",
+                    "ROLE": null,
+                    "PRENOM": "Aliaksei",
+                    "NOM": "Mukhin",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:37:38"
+                },
+                {
+                    "ID": 62187,
+                    "PSEUDO": "pleynnn",
+                    "ROLE": null,
+                    "PRENOM": "Artur",
+                    "NOM": "Syzdykov",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:37:38"
+                },
+                {
+                    "ID": 64142,
+                    "PSEUDO": "DAN9ARMATURA",
+                    "ROLE": null,
+                    "PRENOM": "Daniil",
+                    "NOM": "Glotov",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:37:38"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139200,
+                "NOM": "Nice Try",
+                "LOCALISATION": "UA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:05:34"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 29957,
+                    "PSEUDO": "Woro2k",
+                    "ROLE": null,
+                    "PRENOM": "Volodymyr",
+                    "NOM": "Veletniuk",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-08",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:15"
+                },
+                {
+                    "ID": 49420,
+                    "PSEUDO": "m4d4ra",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Nikolskiy",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:42"
+                },
+                {
+                    "ID": 55025,
+                    "PSEUDO": "fakerealityy",
+                    "ROLE": null,
+                    "PRENOM": "Danylo",
+                    "NOM": "Rud",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:15"
+                },
+                {
+                    "ID": 61690,
+                    "PSEUDO": "ta9z",
+                    "ROLE": null,
+                    "PRENOM": "Maksym",
+                    "NOM": "Hrytsai",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2009-03-08",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:20:14"
+                },
+                {
+                    "ID": 67749,
+                    "PSEUDO": "ryuzak1",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:40:08"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "PGL",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-02-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:08:30"
+    },
+    "SERIE": {
+        "NOM": "Bucharest Open Qualifier #2 2027",
+        "ANNEE": 2027,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:30:19",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1695936,
+        "NOM": "GL_vs_EEE",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "11:05:50",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "12:37:54",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "10:34:33",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8047,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1285,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "11:05:50",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "11:27:15",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135443,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8048,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1082,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "11:41:24",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "11:59:27",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139274,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8049,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1418,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "12:14:16",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "12:37:55",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135443,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135443,
+            "NOM": "Galaxy Legends",
+            "LOCALISATION": "KH",
+            "ACRONYME": "GL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:08:47"
+        },
+        {
+            "ID": 139274,
+            "NOM": " Evil Eye Esports",
+            "LOCALISATION": "KH",
+            "ACRONYME": "EEE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:21:03"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135443
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139274
+        }
+    ],
+    "TOURNOI": {
+        "ID": 21975,
+        "NOM": "Regular Season",
+        "TYPE": "offline",
+        "PAYS": "KH",
+        "REGION": "ASIA",
+        "TIER": "b",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-09-18",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "14:35:43",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5288,
+        "NOM": "MPL Cambodia",
+        "DATE DE MODIFICATION": "2024-08-26",
+        "HEURE DE MODIFICATION": "11:39:40"
+    },
+    "SERIE": {
+        "ID": 10992,
+        "NOM": "Season 11 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-09-18",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "10:34:33"
+    }
+}

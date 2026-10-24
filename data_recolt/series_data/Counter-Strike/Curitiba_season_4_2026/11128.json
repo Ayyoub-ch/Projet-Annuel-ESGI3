@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11128,
+        "NOM": "Curitiba",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-10-26",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:05:02",
+        "ANNEE": 2026,
+        "SAISON": "4"
+    },
+    "LIGUE": {
+        "ID": 5487,
+        "NOM": "Circuit X",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-01-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:48:30"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "14:00:00",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "01:28:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:42:18",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "14:00:00",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "23:18:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:16:34",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-10-23",
+            "HEURE DE DEBUT": "18:00:00",
+            "DATE DE FIN": "2026-10-26",
+            "HEURE DE FIN": "01:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:31:32",
+            "PRIZEPOOL": "15,000 United States Dollar",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

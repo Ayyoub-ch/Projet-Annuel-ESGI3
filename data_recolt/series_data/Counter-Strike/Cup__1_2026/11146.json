@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11146,
+        "NOM": "Cup__1",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "20:30:00",
+        "DATE DE FIN": "2026-10-26",
+        "HEURE DE FIN": "02:15:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:33:17",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 4850,
+        "NOM": "CCT North America",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-08-09",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:16:04"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "NA",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "20:30:00",
+            "DATE DE FIN": "2026-10-26",
+            "HEURE DE FIN": "02:15:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:39:09",
+            "PRIZEPOOL": "5000 United States Dollar",
+            "SLUG": "cs-go-cct-north-america-cup-1-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

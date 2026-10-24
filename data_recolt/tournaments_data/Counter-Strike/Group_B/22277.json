@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22277,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "06:45:22",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "LG vs HOTU",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-27",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-27",
+            "HEURE DE DEBUT": "17:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:00:41",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tesla-cup-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        },
+        {
+            "NOM": "ENVY vs GL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-27",
+            "HEURE PRÉVUE": "20:00:00",
+            "DATE DE DEBUT": "2026-10-27",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:00:41",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tesla-cup-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        },
+        {
+            "NOM": "Winners' Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-28",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-10-28",
+            "HEURE DE DEBUT": "14:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:00:41",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tesla-cup-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        },
+        {
+            "NOM": "Elimination Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-28",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-28",
+            "HEURE DE DEBUT": "17:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:00:41",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tesla-cup-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        },
+        {
+            "NOM": "Decider Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-28",
+            "HEURE PRÉVUE": "20:00:00",
+            "DATE DE DEBUT": "2026-10-28",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:00:41",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tesla-cup-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 3222,
+            "NOM": "Envy",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:04",
+            "ACRONYME": "ENVY"
+        },
+        {
+            "ID": 3228,
+            "NOM": "Luminosity",
+            "LOCALISATION": "CA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:51:59",
+            "ACRONYME": "LG"
+        },
+        {
+            "ID": 125847,
+            "NOM": "GamerLegion",
+            "LOCALISATION": "DE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:56:55",
+            "ACRONYME": "GL"
+        },
+        {
+            "ID": 130569,
+            "NOM": "HOTU",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:52:01",
+            "ACRONYME": "HOTU"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 3222,
+                "NOM": "Envy",
+                "LOCALISATION": "US",
+                "ACRONYME": "ENVY",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:20:04"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18297,
+                    "PSEUDO": "Maka",
+                    "ROLE": null,
+                    "PRENOM": "Bryan",
+                    "NOM": "Canda",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-07-06",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:07"
+                },
+                {
+                    "ID": 20212,
+                    "PSEUDO": "Lucky",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Chastang",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-06",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:07"
+                },
+                {
+                    "ID": 24779,
+                    "PSEUDO": "Misutaaa",
+                    "ROLE": null,
+                    "PRENOM": "Kévin",
+                    "NOM": "Rabier",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-15",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:07"
+                },
+                {
+                    "ID": 31586,
+                    "PSEUDO": "Kursy",
+                    "ROLE": null,
+                    "PRENOM": "Jeremy",
+                    "NOM": "Gast",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-17",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:07"
+                },
+                {
+                    "ID": 32624,
+                    "PSEUDO": "Graviti",
+                    "ROLE": null,
+                    "PRENOM": "Filip",
+                    "NOM": "Brankovic",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-08",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 3228,
+                "NOM": "Luminosity",
+                "LOCALISATION": "CA",
+                "ACRONYME": "LG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:51:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23859,
+                    "PSEUDO": "Rainwaker",
+                    "ROLE": null,
+                    "PRENOM": "Alex",
+                    "NOM": "Petrov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-27",
+                    "NATIONALITE": "BG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:51:58"
+                },
+                {
+                    "ID": 26097,
+                    "PSEUDO": "afro",
+                    "ROLE": null,
+                    "PRENOM": "Aurélien",
+                    "NOM": "Drapier",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-06-09",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:51:58"
+                },
+                {
+                    "ID": 31841,
+                    "PSEUDO": "lux",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Christofoletti Meneghini",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-18",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:51:58"
+                },
+                {
+                    "ID": 38124,
+                    "PSEUDO": "Yxngstxr",
+                    "ROLE": null,
+                    "PRENOM": "Simon ",
+                    "NOM": "Boije",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-22",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:51:59"
+                },
+                {
+                    "ID": 38807,
+                    "PSEUDO": "AZUWU",
+                    "ROLE": null,
+                    "PRENOM": "Oscar",
+                    "NOM": "Bell",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-05",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:51:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 125847,
+                "NOM": "GamerLegion",
+                "LOCALISATION": "DE",
+                "ACRONYME": "GL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:56:55"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17659,
+                    "PSEUDO": "REZ",
+                    "ROLE": null,
+                    "PRENOM": "Fredrik",
+                    "NOM": "Sterner",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-11",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:02"
+                },
+                {
+                    "ID": 25671,
+                    "PSEUDO": "shalfey",
+                    "ROLE": null,
+                    "PRENOM": "Alexandr ",
+                    "NOM": "Marenov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-08",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:56:55"
+                },
+                {
+                    "ID": 30069,
+                    "PSEUDO": "Tauson",
+                    "ROLE": null,
+                    "PRENOM": "Sebastian ",
+                    "NOM": "Tauson Lindelof",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-17",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:06"
+                },
+                {
+                    "ID": 30310,
+                    "PSEUDO": "Hypex",
+                    "ROLE": null,
+                    "PRENOM": "Milan",
+                    "NOM": "Polowiec",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:06"
+                },
+                {
+                    "ID": 33013,
+                    "PSEUDO": "FL4MUS",
+                    "ROLE": null,
+                    "PRENOM": "Timur",
+                    "NOM": "Marev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-14",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:06"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130569,
+                "NOM": "HOTU",
+                "LOCALISATION": "RU",
+                "ACRONYME": "HOTU",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:52:01"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18287,
+                    "PSEUDO": "n0rb3r7",
+                    "ROLE": null,
+                    "PRENOM": "David ",
+                    "NOM": "Danielyan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-11",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:51:59"
+                },
+                {
+                    "ID": 28415,
+                    "PSEUDO": "kade0",
+                    "ROLE": null,
+                    "PRENOM": "Aydos",
+                    "NOM": "Khairzhan",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-01-07",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:00"
+                },
+                {
+                    "ID": 36829,
+                    "PSEUDO": "mizu",
+                    "ROLE": null,
+                    "PRENOM": "Dmitry ",
+                    "NOM": "Kondratev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:01"
+                },
+                {
+                    "ID": 42769,
+                    "PSEUDO": "Dwushka",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr ",
+                    "NOM": "Pakhnevich",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-11-30",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:01"
+                },
+                {
+                    "ID": 52195,
+                    "PSEUDO": "frontales",
+                    "ROLE": null,
+                    "PRENOM": "Kim",
+                    "NOM": "Argunov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:52:01"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Tesla Cup",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:41:51"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:42:48",
+        "ID DU VAINQUEUR": null
+    }
+}

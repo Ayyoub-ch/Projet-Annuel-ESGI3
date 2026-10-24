@@ -1,0 +1,91 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11023,
+        "NOM": "Closed_Qualifier",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-09-26",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-12",
+        "HEURE DE FIN": "17:06:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:21:13",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5322,
+        "NOM": "Monsters Reloaded",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-11-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:53:40"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-09-26",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "2026-09-28",
+            "HEURE DE FIN": "16:37:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:21:13",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-monster-reloaded-closed-qualifier-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-09-26",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "2026-09-28",
+            "HEURE DE FIN": "18:36:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:21:13",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-monster-reloaded-closed-qualifier-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Play-In",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-10-03",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "2026-10-03",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:21:13",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-monster-reloaded-closed-qualifier-2026-play-in",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-08",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-12",
+            "HEURE DE FIN": "17:06:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:21:13",
+            "PRIZEPOOL": "145000 Turkish Lira",
+            "SLUG": "valorant-monster-reloaded-closed-qualifier-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

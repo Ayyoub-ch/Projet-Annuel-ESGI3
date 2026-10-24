@@ -1,0 +1,127 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1765713,
+        "NOM": "Grand_final__CGN_vs_SGE",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.08",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "13:44:44",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "15:54:12",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "19:00:59",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52562,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3145,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "13:44:45",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "14:37:10",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 130398,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52563,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3528,
+            "DATE DE DEBUT DE PARTIE": "2026-10-24",
+            "HEURE DE DEBUT DE PARTIE": "14:55:24",
+            "DATE DE FIN DE PARTIE": "2026-10-24",
+            "HEURE DE FIN DE PARTIE": "15:54:12",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 130398,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 130398,
+            "NOM": "CGN Esports",
+            "LOCALISATION": "DE",
+            "ACRONYME": "CGN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:58:17"
+        },
+        {
+            "ID": 134406,
+            "NOM": "Eintracht Frankfurt",
+            "LOCALISATION": "DE",
+            "ACRONYME": "SGE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:58:21"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 130398
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 134406
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22286,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "FR",
+        "REGION": "WEU",
+        "TIER": "c",
+        "CASH PRIZE": "3700 Euro",
+        "VAINQUEUR": 130398,
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "15:54:13",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5462,
+        "NOM": "Project Blender",
+        "DATE DE MODIFICATION": "2025-12-03",
+        "HEURE DE MODIFICATION": "08:57:34"
+    },
+    "SERIE": {
+        "ID": 11135,
+        "NOM": "Phase 2 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-24",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "19:00:59"
+    }
+}

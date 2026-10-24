@@ -1,0 +1,767 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22293,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "LoL",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:00:43",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Quarterfinal 1: FNL vs NH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "05:00:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "05:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:44:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-lcp-promotion-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://www.twitch.tv/lolesportstw"
+            }
+        },
+        {
+            "NOM": "Quarterfinal 2: SGW vs Team Gromp",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:57:37",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-lcp-promotion-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://www.twitch.tv/lolesportstw"
+            }
+        },
+        {
+            "NOM": "Regional Merit Match: GZ vs FNK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:44:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-lcp-promotion-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://www.twitch.tv/lolesportstw"
+            }
+        },
+        {
+            "NOM": "Semifinal: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:44:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-lcp-promotion-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://www.twitch.tv/lolesportstw"
+            }
+        },
+        {
+            "NOM": "Grand final: DFM vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:44:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-lcp-promotion-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://www.twitch.tv/lolesportstw"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 89,
+            "NOM": "DetonatioN FocusMe",
+            "LOCALISATION": "JP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:56:07",
+            "ACRONYME": "DFM"
+        },
+        {
+            "ID": 130352,
+            "NOM": "Frank Esports",
+            "LOCALISATION": "HK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:56:08",
+            "ACRONYME": "FNK"
+        },
+        {
+            "ID": 132568,
+            "NOM": "Ground Zero Gaming",
+            "LOCALISATION": "AU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:56:10",
+            "ACRONYME": "GZ"
+        },
+        {
+            "ID": 132655,
+            "NOM": "FENNEL",
+            "LOCALISATION": "JP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:59:22",
+            "ACRONYME": "FNL"
+        },
+        {
+            "ID": 138127,
+            "NOM": "Saigon Warriors",
+            "LOCALISATION": "VN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:59:23",
+            "ACRONYME": "SGW"
+        },
+        {
+            "ID": 139117,
+            "NOM": "Team Gromp",
+            "LOCALISATION": "AU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:01:25",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139359,
+            "NOM": "Nothin'Here",
+            "LOCALISATION": "TH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:02:50",
+            "ACRONYME": "NH"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 89,
+                "NOM": "DetonatioN FocusMe",
+                "LOCALISATION": "JP",
+                "ACRONYME": "DFM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:56:07"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 3263,
+                    "PSEUDO": "Woody",
+                    "ROLE": "sup",
+                    "PRENOM": "Yu-En",
+                    "NOM": "Lin",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-10",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:07"
+                },
+                {
+                    "ID": 25420,
+                    "PSEUDO": "Citrus",
+                    "ROLE": "jun",
+                    "PRENOM": "Byeon",
+                    "NOM": "Ji-woong",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-13",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:06"
+                },
+                {
+                    "ID": 42993,
+                    "PSEUDO": "Fisher",
+                    "ROLE": "mid",
+                    "PRENOM": "Lee",
+                    "NOM": "Jeong-tae",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-05",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:07"
+                },
+                {
+                    "ID": 43594,
+                    "PSEUDO": "Kakkun",
+                    "ROLE": "adc",
+                    "PRENOM": "Kamon",
+                    "NOM": "Nomoto",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-05",
+                    "NATIONALITE": "JP",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:07"
+                },
+                {
+                    "ID": 44478,
+                    "PSEUDO": "Momo",
+                    "ROLE": "top",
+                    "PRENOM": "Sora",
+                    "NOM": "Tobita",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-26",
+                    "NATIONALITE": "JP",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:02"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130352,
+                "NOM": "Frank Esports",
+                "LOCALISATION": "HK",
+                "ACRONYME": "FNK",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:56:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 2517,
+                    "PSEUDO": "Holo",
+                    "ROLE": "jun",
+                    "PRENOM": "Dek Lam",
+                    "NOM": "Tsang",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-04",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:08"
+                },
+                {
+                    "ID": 19583,
+                    "PSEUDO": "MnM",
+                    "ROLE": "sup",
+                    "PRENOM": "Wong ",
+                    "NOM": "Ka Chun",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-19",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:08"
+                },
+                {
+                    "ID": 36291,
+                    "PSEUDO": "YSKM",
+                    "ROLE": "top",
+                    "PRENOM": "Chau",
+                    "NOM": "Shu-Tak",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-11",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:08"
+                },
+                {
+                    "ID": 39771,
+                    "PSEUDO": "Pretender",
+                    "ROLE": "mid",
+                    "PRENOM": "Cheuk Lun Jason",
+                    "NOM": "Ng",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-11",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:08"
+                },
+                {
+                    "ID": 68539,
+                    "PSEUDO": "kingpo54",
+                    "ROLE": "sup",
+                    "PRENOM": "Mak Chun",
+                    "NOM": "Pan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 132568,
+                "NOM": "Ground Zero Gaming",
+                "LOCALISATION": "AU",
+                "ACRONYME": "GZ",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:56:10"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 738,
+                    "PSEUDO": "Kaiwing",
+                    "ROLE": "sup",
+                    "PRENOM": "Kai Wing",
+                    "NOM": "Ling",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1996-10-27",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:10"
+                },
+                {
+                    "ID": 1592,
+                    "PSEUDO": "Betty",
+                    "ROLE": "adc",
+                    "PRENOM": "Yuhung",
+                    "NOM": "Lu",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-01-16",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:10"
+                },
+                {
+                    "ID": 7669,
+                    "PSEUDO": "Uniboy",
+                    "ROLE": "mid",
+                    "PRENOM": "Changchu",
+                    "NOM": "Chen",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-03",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:09"
+                },
+                {
+                    "ID": 23329,
+                    "PSEUDO": "HuSha",
+                    "ROLE": "jun",
+                    "PRENOM": "Ziwei",
+                    "NOM": "Huang",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-03",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:09"
+                },
+                {
+                    "ID": 52098,
+                    "PSEUDO": "1Jiang",
+                    "ROLE": "top",
+                    "PRENOM": "Chen",
+                    "NOM": "Yi-Chin",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-10-22",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:09"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 132655,
+                "NOM": "FENNEL",
+                "LOCALISATION": "JP",
+                "ACRONYME": "FNL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:59:22"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 19283,
+                    "PSEUDO": "Ellim",
+                    "ROLE": "jun",
+                    "PRENOM": "Choi",
+                    "NOM": "El-lim",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-25",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:21"
+                },
+                {
+                    "ID": 27705,
+                    "PSEUDO": "DICE",
+                    "ROLE": "mid",
+                    "PRENOM": "Do-hyeon",
+                    "NOM": "Hong",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-12-16",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:21"
+                },
+                {
+                    "ID": 50255,
+                    "PSEUDO": "Brucee",
+                    "ROLE": "sup",
+                    "PRENOM": "Bruce",
+                    "NOM": "Scott Torres Nano",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-03-16",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:22"
+                },
+                {
+                    "ID": 58821,
+                    "PSEUDO": "MayR",
+                    "ROLE": "adc",
+                    "PRENOM": "Shunsuke",
+                    "NOM": "Kumagai",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "JP",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:34:42"
+                },
+                {
+                    "ID": 58857,
+                    "PSEUDO": "kkkkkkkkk",
+                    "ROLE": "top",
+                    "PRENOM": "Kouki",
+                    "NOM": "Ohno",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-02-14",
+                    "NATIONALITE": "JP",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:20"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138127,
+                "NOM": "Saigon Warriors",
+                "LOCALISATION": "VN",
+                "ACRONYME": "SGW",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:59:23"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 19599,
+                    "PSEUDO": "Aomine",
+                    "ROLE": "adc",
+                    "PRENOM": "Huỳnh",
+                    "NOM": "Thiếc Tuấn",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-28",
+                    "NATIONALITE": "VN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:23"
+                },
+                {
+                    "ID": 28166,
+                    "PSEUDO": "Elio",
+                    "ROLE": "sup",
+                    "PRENOM": "Phạm",
+                    "NOM": "Thạch Nhân Băng",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-11-07",
+                    "NATIONALITE": "VN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:23"
+                },
+                {
+                    "ID": 60325,
+                    "PSEUDO": "Aisyl",
+                    "ROLE": "mid",
+                    "PRENOM": "Nguyễn",
+                    "NOM": "Hoàng Phú",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-02-20",
+                    "NATIONALITE": "VN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:23"
+                },
+                {
+                    "ID": 62156,
+                    "PSEUDO": "Nern",
+                    "ROLE": "top",
+                    "PRENOM": "Đồng",
+                    "NOM": "Nguyễn Tấn Lộc",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-10-22",
+                    "NATIONALITE": "VN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:22"
+                },
+                {
+                    "ID": 65970,
+                    "PSEUDO": "j1n5",
+                    "ROLE": "jun",
+                    "PRENOM": "Lê Đình",
+                    "NOM": " Tấn",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-01",
+                    "NATIONALITE": "VN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:22"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139117,
+                "NOM": "Team Gromp",
+                "LOCALISATION": "AU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:01:25"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 1170,
+                    "PSEUDO": "Praedyth",
+                    "ROLE": "adc",
+                    "PRENOM": "Mark",
+                    "NOM": "Lewis",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-06-21",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:59:24"
+                },
+                {
+                    "ID": 29291,
+                    "PSEUDO": "Halo",
+                    "ROLE": "mid",
+                    "PRENOM": "James",
+                    "NOM": "Giacoumakis",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-04-13",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:45"
+                },
+                {
+                    "ID": 33620,
+                    "PSEUDO": "Poltron",
+                    "ROLE": "jun",
+                    "PRENOM": "Kim",
+                    "NOM": "Nicholls",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:54"
+                },
+                {
+                    "ID": 39482,
+                    "PSEUDO": "zorenous",
+                    "ROLE": "top",
+                    "PRENOM": "Cameron ",
+                    "NOM": "Abbott",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:34:04"
+                },
+                {
+                    "ID": 39483,
+                    "PSEUDO": "Bulldawg",
+                    "ROLE": "sup",
+                    "PRENOM": "Drekani ",
+                    "NOM": "Akuhata",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "NZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:34:15"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139359,
+                "NOM": "Nothin'Here",
+                "LOCALISATION": "TH",
+                "ACRONYME": "NH",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:02:50"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 62469,
+                    "PSEUDO": "Excellentless",
+                    "ROLE": "top",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-17",
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:00:43"
+                },
+                {
+                    "ID": 62470,
+                    "PSEUDO": "Feww",
+                    "ROLE": "jun",
+                    "PRENOM": "Visava",
+                    "NOM": "Visramwan",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-22",
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:00:43"
+                },
+                {
+                    "ID": 62471,
+                    "PSEUDO": "Itae",
+                    "ROLE": "mid",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-04-27",
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:00:43"
+                },
+                {
+                    "ID": 62472,
+                    "PSEUDO": "Blondie",
+                    "ROLE": "adc",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-07",
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:00:43"
+                },
+                {
+                    "ID": 62490,
+                    "PSEUDO": "YuyuuUsagi",
+                    "ROLE": "sup",
+                    "PRENOM": "Nut",
+                    "NOM": "Palanan",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-04",
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:00:43"
+                },
+                {
+                    "ID": 68289,
+                    "PSEUDO": "PS",
+                    "ROLE": "jun",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:00:43"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "LCP",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-01-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:48:59"
+    },
+    "SERIE": {
+        "NOM": "Promotion 2027",
+        "ANNEE": 2027,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:44:59",
+        "ID DU VAINQUEUR": null
+    }
+}

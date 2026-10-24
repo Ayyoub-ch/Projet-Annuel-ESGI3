@@ -1,0 +1,57 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11129,
+        "NOM": "Southeast_Asia",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-05",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:17:24",
+        "ANNEE": 2026,
+        "SAISON": "19"
+    },
+    "LIGUE": {
+        "ID": 4884,
+        "NOM": "EPL World Series",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:15:29"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-20",
+            "HEURE DE DEBUT": "06:00:00",
+            "DATE DE FIN": "2026-11-02",
+            "HEURE DE FIN": "06:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "05:05:33",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-epl-world-series-southeast-asia-19-2026-group-stage",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-11-03",
+            "HEURE DE DEBUT": "03:00:00",
+            "DATE DE FIN": "2026-11-05",
+            "HEURE DE FIN": "12:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:56:33",
+            "PRIZEPOOL": "10,000 United States Dollar",
+            "SLUG": "dota-2-epl-world-series-southeast-asia-19-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

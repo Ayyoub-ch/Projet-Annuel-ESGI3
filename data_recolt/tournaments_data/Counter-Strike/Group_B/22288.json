@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22288,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:12:08",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Noir Verse vs Ryvex",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "09:50:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "09:58:50",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "10:26:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:26:15",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "MEGO vs RGG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-24",
+            "HEURE PRÉVUE": "10:45:00",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "10:44:34",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "12:57:39",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:57:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "Elimination Match: Ryvex vs RGG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-28",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-10-28",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:57:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "Winners Match: Noir Verse vs MEGO",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-28",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "2026-10-28",
+            "HEURE DE DEBUT": "11:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:14:57",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "Decider Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "11:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:34:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 128629,
+            "NOM": "megoshort",
+            "LOCALISATION": "SE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:43:01",
+            "ACRONYME": "MEGO"
+        },
+        {
+            "ID": 132459,
+            "NOM": "ROUNDS",
+            "LOCALISATION": "FI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:43:02",
+            "ACRONYME": "RGG"
+        },
+        {
+            "ID": 138812,
+            "NOM": "Noir Verse",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:43:03",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139041,
+            "NOM": "Ryvex",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:43:04",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 128629,
+                "NOM": "megoshort",
+                "LOCALISATION": "SE",
+                "ACRONYME": "MEGO",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:43:01"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17981,
+                    "PSEUDO": "robiin",
+                    "ROLE": null,
+                    "PRENOM": "Robin",
+                    "NOM": "Sjögren",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-02-03",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:00"
+                },
+                {
+                    "ID": 18314,
+                    "PSEUDO": "jayzaR",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandar ",
+                    "NOM": "Žarković",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-06-17",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:42:59"
+                },
+                {
+                    "ID": 32357,
+                    "PSEUDO": "Twinkey",
+                    "ROLE": null,
+                    "PRENOM": "Elias",
+                    "NOM": "Kjellander Dehman",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-17",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:00"
+                },
+                {
+                    "ID": 33030,
+                    "PSEUDO": "zen",
+                    "ROLE": null,
+                    "PRENOM": " Hugo",
+                    "NOM": "Lindhqvist",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-18",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:01"
+                },
+                {
+                    "ID": 46303,
+                    "PSEUDO": "qvick",
+                    "ROLE": null,
+                    "PRENOM": "Jacob",
+                    "NOM": "Antal",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:22:47"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 132459,
+                "NOM": "ROUNDS",
+                "LOCALISATION": "FI",
+                "ACRONYME": "RGG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23976,
+                    "PSEUDO": "p12",
+                    "ROLE": null,
+                    "PRENOM": "Panu",
+                    "NOM": "Schutschkoff",
+                    "AGE": 34,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
+                },
+                {
+                    "ID": 36505,
+                    "PSEUDO": "ykis",
+                    "ROLE": null,
+                    "PRENOM": "Elmeri ",
+                    "NOM": "Lind",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
+                },
+                {
+                    "ID": 46961,
+                    "PSEUDO": "Monoxx",
+                    "ROLE": null,
+                    "PRENOM": "Timo",
+                    "NOM": "Irmasto",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
+                },
+                {
+                    "ID": 46964,
+                    "PSEUDO": "Kollo",
+                    "ROLE": null,
+                    "PRENOM": "Kosti",
+                    "NOM": "Kallioniemi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:01"
+                },
+                {
+                    "ID": 66138,
+                    "PSEUDO": "Lapa",
+                    "ROLE": null,
+                    "PRENOM": "Jami",
+                    "NOM": "Hellqvist",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:01"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138812,
+                "NOM": "Noir Verse",
+                "LOCALISATION": "UA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:43:03"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 59753,
+                    "PSEUDO": "Naginat",
+                    "ROLE": null,
+                    "PRENOM": "Max",
+                    "NOM": "Basistyi",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
+                },
+                {
+                    "ID": 60164,
+                    "PSEUDO": "kirxttu",
+                    "ROLE": null,
+                    "PRENOM": "Andrii",
+                    "NOM": "Osinskyi",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
+                },
+                {
+                    "ID": 63211,
+                    "PSEUDO": "xeNji",
+                    "ROLE": null,
+                    "PRENOM": "Nazar",
+                    "NOM": "Horbovyi",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:03"
+                },
+                {
+                    "ID": 66388,
+                    "PSEUDO": "Santuriano",
+                    "ROLE": null,
+                    "PRENOM": "Elvinas",
+                    "NOM": "Kovaliovas",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:03"
+                },
+                {
+                    "ID": 67610,
+                    "PSEUDO": "m1kagami",
+                    "ROLE": null,
+                    "PRENOM": "Illia",
+                    "NOM": "Martynenko",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:23:25"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139041,
+                "NOM": "Ryvex",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:43:04"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23127,
+                    "PSEUDO": "jeyN",
+                    "ROLE": null,
+                    "PRENOM": "Jérémy",
+                    "NOM": "Nguyen",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-15",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:03"
+                },
+                {
+                    "ID": 24721,
+                    "PSEUDO": "Swaggy",
+                    "ROLE": null,
+                    "PRENOM": "Kyle",
+                    "NOM": "Wilson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-14",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:03"
+                },
+                {
+                    "ID": 33160,
+                    "PSEUDO": "oskvr",
+                    "ROLE": null,
+                    "PRENOM": "Oskar",
+                    "NOM": "Myszka",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:03"
+                },
+                {
+                    "ID": 36623,
+                    "PSEUDO": "WFN",
+                    "ROLE": null,
+                    "PRENOM": "William",
+                    "NOM": "Maskrey",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:04"
+                },
+                {
+                    "ID": 36679,
+                    "PSEUDO": "N0R1",
+                    "ROLE": null,
+                    "PRENOM": "Dragos",
+                    "NOM": "Negrea",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:03"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "European Pro League",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "NOM": "Series 10 Closed Qualifier 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:12:08",
+        "ID DU VAINQUEUR": null
+    }
+}
