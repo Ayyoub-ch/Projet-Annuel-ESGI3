@@ -78,3 +78,36 @@ def get_leagues_by_date(
             matching_leagues.append(league_data)
 
     return matching_leagues
+
+
+def get_leagues_by_now(
+    videogame_name: str
+) -> list[dict[str, Any]]:
+    """Renvoie les ligues du jeu dont la date de début de la série est entièrement dans la date."""
+    game_folder = (LEAGUES_FOLDER / videogame_name).resolve()
+
+    # Empêche qu'un nom de jeu reçu dans l'URL sorte du dossier des ligues.
+    try:
+        game_folder.relative_to(LEAGUES_FOLDER.resolve())
+    except ValueError:
+        raise FileNotFoundError("Jeu introuvable")
+
+    if not game_folder.is_dir():
+        raise FileNotFoundError("Jeu introuvable")
+
+    matching_leagues = []
+
+    # Chaque ligue est stockée dans son propre dossier avec un fichier JSON.
+    for league_path in sorted(game_folder.glob("*/*.json")):
+        with league_path.open(encoding="utf-8") as file:
+            league_data = json.load(file)
+
+        series_data = league_data["SERIE"]
+        series_start = date.fromisoformat(series_data["DATE DE DEBUT"])
+        series_end = date.fromisoformat(series_data["DATE DE FIN"])
+
+        # La série doit commencer après date1 et finir avant date2 (bornes incluses).
+        if series_start <= date.today() <= series_end:
+            matching_leagues.append(league_data)
+
+    return matching_leagues
