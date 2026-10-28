@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1763054,
+        "NOM": "ENVY_vs_GL",
+        "JEU VIDEO": "Counter-Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "17:40:21",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "20:10:26",
+        "DATE DE MODIFICATION": "2026-10-21",
+        "HEURE DE MODIFICATION": "12:42:48",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 236768,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2524,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "17:40:24",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "18:22:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 125847,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236769,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1898,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "18:38:13",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "19:09:51",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 3222,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236770,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2455,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "19:29:31",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "20:10:27",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 125847,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 3222,
+            "NOM": "Envy",
+            "LOCALISATION": "US",
+            "ACRONYME": "ENVY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:04"
+        },
+        {
+            "ID": 125847,
+            "NOM": "GamerLegion",
+            "LOCALISATION": "DE",
+            "ACRONYME": "GL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:45:32"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 3222
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 125847
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22277,
+        "NOM": "Group B",
+        "TYPE": "offline",
+        "PAYS": "RS",
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "15:20:00",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "18:45:36",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5573,
+        "NOM": "Tesla Cup",
+        "DATE DE MODIFICATION": "2026-10-21",
+        "HEURE DE MODIFICATION": "12:41:51"
+    },
+    "SERIE": {
+        "ID": 11140,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-29",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-21",
+        "HEURE DE MODIFICATION": "12:42:48"
+    }
+}

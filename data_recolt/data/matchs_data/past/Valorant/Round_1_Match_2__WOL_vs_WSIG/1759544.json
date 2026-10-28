@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1759544,
+        "NOM": "Round_1_Match_2__WOL_vs_WSIG",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "12:55:27",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "14:29:06",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "15:30:19",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52485,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2839,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "12:55:27",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "13:42:47",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138263,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52486,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2204,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "13:52:22",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "14:29:07",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138263,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 134335,
+            "NOM": "Wolves Esports",
+            "LOCALISATION": "GB",
+            "ACRONYME": "WOL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:48:31"
+        },
+        {
+            "ID": 138263,
+            "NOM": "World Sports Invictus Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "WSIG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:48:32"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 134335
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138263
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22249,
+        "NOM": "Week 2",
+        "TYPE": "offline",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-25",
+        "HEURE DE MODIFICATION": "15:48:38",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11130,
+        "NOM": "Threshold China 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "04:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "15:30:19"
+    }
+}

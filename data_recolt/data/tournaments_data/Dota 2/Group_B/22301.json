@@ -1,0 +1,722 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22301,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:12:45",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "angry birds vs RL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-27",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-10-27",
+            "HEURE DE DEBUT": "18:08:36",
+            "DATE DE FIN": "2026-10-27",
+            "HEURE DE FIN": "20:03:25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:26:49",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "angry birds vs Level Up Academy",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-28",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-10-28",
+            "HEURE DE DEBUT": "12:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:44:24",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "angry birds vs RH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-28",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-10-28",
+            "HEURE DE DEBUT": "15:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:44:47",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "RL vs Level Up Academy",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-28",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-10-28",
+            "HEURE DE DEBUT": "18:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:45:17",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "Level Up Academy vs RH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "15:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:43:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "RL vs RH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "18:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:43:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "old blood vs RH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-30",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-10-30",
+            "HEURE DE DEBUT": "15:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:43:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "Level Up Academy vs old blood",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "18:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:43:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "RL vs old blood",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-02",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-02",
+            "HEURE DE DEBUT": "18:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:43:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "angry birds vs old blood",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-03",
+            "HEURE PRÉVUE": "07:00:00",
+            "DATE DE DEBUT": "2026-11-03",
+            "HEURE DE DEBUT": "07:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:43:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 137808,
+            "NOM": "Rottweilas Latam",
+            "LOCALISATION": "PE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:12:44",
+            "ACRONYME": "RL"
+        },
+        {
+            "ID": 139385,
+            "NOM": "Level Up Academy",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:49:28",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139389,
+            "NOM": "old blood",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:28:27",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139461,
+            "NOM": "Roshan Hunters",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:24:32",
+            "ACRONYME": "RH"
+        },
+        {
+            "ID": 139462,
+            "NOM": "angry birds",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:15:46",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 137808,
+                "NOM": "Rottweilas Latam",
+                "LOCALISATION": "PE",
+                "ACRONYME": "RL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:12:44"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 10725,
+                    "PSEUDO": "Michael-",
+                    "ROLE": "5",
+                    "PRENOM": "Miguel Angel",
+                    "NOM": "Choque Gomez",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-12-02",
+                    "NATIONALITE": "BO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:09:33"
+                },
+                {
+                    "ID": 31610,
+                    "PSEUDO": "Jam3s",
+                    "ROLE": "2",
+                    "PRENOM": "Aldhair",
+                    "NOM": "Montoya De la Cruz",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-07-31",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:09:33"
+                },
+                {
+                    "ID": 36129,
+                    "PSEUDO": "blessed kid",
+                    "ROLE": "3",
+                    "PRENOM": "Aldair",
+                    "NOM": "Bendezú",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:53:09"
+                },
+                {
+                    "ID": 40417,
+                    "PSEUDO": "Payk",
+                    "ROLE": "1",
+                    "PRENOM": "Kerry Yheremi",
+                    "NOM": "Paucar Arroyo",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2005-10-28",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:49:26"
+                },
+                {
+                    "ID": 55635,
+                    "PSEUDO": "CoYoTão",
+                    "ROLE": "4",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:53:08"
+                },
+                {
+                    "ID": 63355,
+                    "PSEUDO": "bsK-",
+                    "ROLE": "3",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:44"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139385,
+                "NOM": "Level Up Academy",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:49:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 55366,
+                    "PSEUDO": "tony who",
+                    "ROLE": "3",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:49:28"
+                },
+                {
+                    "ID": 59607,
+                    "PSEUDO": "kasta",
+                    "ROLE": "2",
+                    "PRENOM": "Samir",
+                    "NOM": "Mullakhmetov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:49:28"
+                },
+                {
+                    "ID": 66764,
+                    "PSEUDO": "Asfreed",
+                    "ROLE": "4",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:29:32"
+                },
+                {
+                    "ID": 68326,
+                    "PSEUDO": "АЛАН САУРФАНГ",
+                    "ROLE": "1",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:49:28"
+                },
+                {
+                    "ID": 68327,
+                    "PSEUDO": "stat3r",
+                    "ROLE": "5",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:49:27"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139389,
+                "NOM": "old blood",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:28:27"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9485,
+                    "PSEUDO": ".Ark",
+                    "ROLE": "1",
+                    "PRENOM": "Yegor",
+                    "NOM": "Zhabotinskii",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-07-06",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:53:08"
+                },
+                {
+                    "ID": 41876,
+                    "PSEUDO": "Volshebnik",
+                    "ROLE": "2",
+                    "PRENOM": "Andrey",
+                    "NOM": "Pekur",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-04-02",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:54:44"
+                },
+                {
+                    "ID": 68351,
+                    "PSEUDO": "BaN WYWERN MY TEAM CANT PLAY",
+                    "ROLE": "5",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:29:04"
+                },
+                {
+                    "ID": 68563,
+                    "PSEUDO": "YaGood",
+                    "ROLE": "3",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:27"
+                },
+                {
+                    "ID": 68564,
+                    "PSEUDO": "Thedarkestwne",
+                    "ROLE": "4",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:27"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139461,
+                "NOM": "Roshan Hunters",
+                "LOCALISATION": "",
+                "ACRONYME": "RH",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:24:32"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 68557,
+                    "PSEUDO": "mkmttinsvde",
+                    "ROLE": "1",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:24:32"
+                },
+                {
+                    "ID": 68558,
+                    "PSEUDO": "Quetiesm",
+                    "ROLE": "2",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:24:32"
+                },
+                {
+                    "ID": 68559,
+                    "PSEUDO": "Arbeitscur",
+                    "ROLE": "3",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:24:32"
+                },
+                {
+                    "ID": 68560,
+                    "PSEUDO": "Morgoth",
+                    "ROLE": "4",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:24:32"
+                },
+                {
+                    "ID": 68561,
+                    "PSEUDO": "Lowkey",
+                    "ROLE": "5",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:24:32"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139462,
+                "NOM": "angry birds",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:15:46"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 42204,
+                    "PSEUDO": "Ankou",
+                    "ROLE": "3",
+                    "PRENOM": "Andrei",
+                    "NOM": "Kuznetsov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-30",
+                    "NATIONALITE": "EE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:49:29"
+                },
+                {
+                    "ID": 53503,
+                    "PSEUDO": "waveformn",
+                    "ROLE": "4",
+                    "PRENOM": "Konstantin",
+                    "NOM": "Kovalev",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-07-23",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:15:46"
+                },
+                {
+                    "ID": 54574,
+                    "PSEUDO": "PERDAN4IK",
+                    "ROLE": "5",
+                    "PRENOM": "Suslov",
+                    "NOM": "Anton",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-03-17",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:15:46"
+                },
+                {
+                    "ID": 58409,
+                    "PSEUDO": "ssnovv1",
+                    "ROLE": "1",
+                    "PRENOM": "Ilya",
+                    "NOM": "Kondrashov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-22",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:49:28"
+                },
+                {
+                    "ID": 59593,
+                    "PSEUDO": "Mirele",
+                    "ROLE": "2",
+                    "PRENOM": "Marat",
+                    "NOM": "Gazetdinov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-05-24",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:49:28"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Esports Pro Circuit ",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:23:08"
+    },
+    "SERIE": {
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "SAISON": "3",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:27:12",
+        "ID DU VAINQUEUR": null
+    }
+}

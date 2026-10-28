@@ -1,0 +1,145 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1743342,
+        "NOM": "Grand_final__RB_vs_MR",
+        "JEU VIDEO": "LoL",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "16.20.1",
+            "current": false
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "17:02:03",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "19:19:24",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "19:23:30",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 284860,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1741,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "17:02:04",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "17:41:11",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137371,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284861,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1898,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "17:53:20",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "18:30:54",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137371,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284862,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1683,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "18:44:42",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "19:19:24",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137371,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137371,
+            "NOM": "Vitality Rising Bees",
+            "LOCALISATION": "FR",
+            "ACRONYME": "RB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:55:43"
+        },
+        {
+            "ID": 137577,
+            "NOM": "Mental Rush",
+            "LOCALISATION": "",
+            "ACRONYME": "MR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:18:34"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 137371
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 137577
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22176,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": "3000 Euro",
+        "VAINQUEUR": 137371,
+        "DATE DE DEBUT": "2026-10-11",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "19:19:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "19:23:30",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5433,
+        "NOM": "LGC Rising",
+        "DATE DE MODIFICATION": "2025-09-12",
+        "HEURE DE MODIFICATION": "14:00:50"
+    },
+    "SERIE": {
+        "ID": 11095,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-11",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "19:19:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "19:23:30"
+    }
+}

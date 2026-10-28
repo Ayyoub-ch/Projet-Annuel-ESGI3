@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1764464,
+        "NOM": "Elimination_Match__Lambo_vs_Bunny",
+        "JEU VIDEO": "StarCraft 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "13:25:45",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "13:49:40",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "07:15:43",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19582,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 474,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "13:25:46",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "13:33:40",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 43035,
+                "TYPE": "Player"
+            },
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19583,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 698,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "13:38:02",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "13:49:40",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 43035,
+                "TYPE": "Player"
+            },
+            "TYPE DU VAINQUEUR": "Player"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 43051,
+            "NOM": "Lambo",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:11:49"
+        },
+        {
+            "ID": 43035,
+            "NOM": "Bunny",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:11:49"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22282,
+        "NOM": "Group C",
+        "TYPE": "online",
+        "PAYS": "KR",
+        "REGION": "ASIA",
+        "TIER": "a",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 44154,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "14:28:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "19:22:52",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5574,
+        "NOM": "IntoTheTV x SOOP SC2 League",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "07:15:45"
+    },
+    "SERIE": {
+        "ID": 11141,
+        "NOM": "Premier 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "07:15:43"
+    }
+}

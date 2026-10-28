@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-10-17",
         "HEURE DE DEBUT": "10:30:00",
         "DATE DE FIN": "2026-10-24",
-        "HEURE DE FIN": "11:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-        "HEURE DE LA DERNIERE MODIFICATION": "17:22:25",
+        "HEURE DE FIN": "10:24:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:04:41",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -168,8 +168,8 @@
             "ID": 139336,
             "NOM": "Bread Eaters Esports",
             "LOCALISATION": "TR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:13:43",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:04:41",
             "ACRONYME": null
         }
     ],
@@ -411,8 +411,8 @@
                 "NOM": "Bread Eaters Esports",
                 "LOCALISATION": "TR",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:13:43"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:04:41"
             },
             "JOUEURS": [
                 {
@@ -427,6 +427,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
                     "HEURE DE LA DERNIERE MODIFICATION": "17:13:43"
+                },
+                {
+                    "ID": 62148,
+                    "PSEUDO": "nec",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:04:46"
                 },
                 {
                     "ID": 62211,
@@ -466,19 +479,6 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
                     "HEURE DE LA DERNIERE MODIFICATION": "17:13:43"
-                },
-                {
-                    "ID": 68174,
-                    "PSEUDO": "Ancy",
-                    "ROLE": null,
-                    "PRENOM": null,
-                    "NOM": null,
-                    "AGE": null,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "TR",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:30:44"
                 }
             ]
         }

@@ -1,0 +1,964 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22314,
+        "NOM": "Phase_1",
+        "JEU VIDEO": "Rainbow 6 Siege",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "00:30:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "10:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:40:09",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Upper Bracket Quarterfinal 1: WBG vs DK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "00:30:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "00:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:46:18",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 2: VP vs KZ",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "01:30:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "01:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:46:28",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 3: DZ vs TYLOO",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "02:30:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "02:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:46:43",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 4: LOS vs AG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "03:30:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "03:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:46:50",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Semifinal 1: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "04:30:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "04:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:48:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Semifinal 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "07:30:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "07:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:49:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Quarterfinal 1: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "00:30:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "00:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:50:00",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Quarterfinal 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "03:30:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "03:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:50:05",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Semifinal 1: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "06:30:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "06:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:50:23",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Semifinal 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "09:30:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "09:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:50:28",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/rainbow6"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 126926,
+            "NOM": "DarkZero Esports",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:37",
+            "ACRONYME": "DZ"
+        },
+        {
+            "ID": 127445,
+            "NOM": "Virtus.pro",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:34",
+            "ACRONYME": "VP"
+        },
+        {
+            "ID": 132922,
+            "NOM": "Dplus",
+            "LOCALISATION": "KR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:32",
+            "ACRONYME": "DK"
+        },
+        {
+            "ID": 135639,
+            "NOM": "LOS",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:39",
+            "ACRONYME": "LOS"
+        },
+        {
+            "ID": 137039,
+            "NOM": "Weibo Gaming",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:31",
+            "ACRONYME": "WBG"
+        },
+        {
+            "ID": 137673,
+            "NOM": "All Gamers",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:39",
+            "ACRONYME": "AG"
+        },
+        {
+            "ID": 137676,
+            "NOM": "TYLOO",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:38",
+            "ACRONYME": "TYLOO"
+        },
+        {
+            "ID": 137677,
+            "NOM": "KINGZERO eSports",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:35",
+            "ACRONYME": "KZ"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 126926,
+                "NOM": "DarkZero Esports",
+                "LOCALISATION": "US",
+                "ACRONYME": "DZ",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:37"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26340,
+                    "PSEUDO": "Fultz",
+                    "ROLE": null,
+                    "PRENOM": "Alec",
+                    "NOM": "Fultz",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-15",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:35"
+                },
+                {
+                    "ID": 28926,
+                    "PSEUDO": "njr",
+                    "ROLE": null,
+                    "PRENOM": "Nick",
+                    "NOM": "Rapier",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-04",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:37"
+                },
+                {
+                    "ID": 31192,
+                    "PSEUDO": "J90",
+                    "ROLE": null,
+                    "PRENOM": "Jack",
+                    "NOM": "Burkard",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-28",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:37"
+                },
+                {
+                    "ID": 33523,
+                    "PSEUDO": "Kyno",
+                    "ROLE": null,
+                    "PRENOM": "Leo",
+                    "NOM": "Figueiredo",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-15",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:37"
+                },
+                {
+                    "ID": 40961,
+                    "PSEUDO": "Nuers",
+                    "ROLE": null,
+                    "PRENOM": "Ethan",
+                    "NOM": "James",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-28",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:37"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 127445,
+                "NOM": "Virtus.pro",
+                "LOCALISATION": "RU",
+                "ACRONYME": "VP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:34"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26268,
+                    "PSEUDO": "dan",
+                    "ROLE": null,
+                    "PRENOM": "Danila",
+                    "NOM": "Dontsov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-28",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:34"
+                },
+                {
+                    "ID": 26423,
+                    "PSEUDO": "p4sh4",
+                    "ROLE": null,
+                    "PRENOM": "Pavel",
+                    "NOM": "Kosenko",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-18",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:33"
+                },
+                {
+                    "ID": 36923,
+                    "PSEUDO": "rorick",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Kruchinkin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-03",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:34"
+                },
+                {
+                    "ID": 41307,
+                    "PSEUDO": "Nayqo",
+                    "ROLE": null,
+                    "PRENOM": "Ilhan",
+                    "NOM": "El Jabbari",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:34"
+                },
+                {
+                    "ID": 41309,
+                    "PSEUDO": "SkyZs",
+                    "ROLE": null,
+                    "PRENOM": "Christopher",
+                    "NOM": "Jauleski",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:34"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 132922,
+                "NOM": "Dplus",
+                "LOCALISATION": "KR",
+                "ACRONYME": "DK",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:32"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26283,
+                    "PSEUDO": "ion",
+                    "ROLE": null,
+                    "PRENOM": "Ronaldo",
+                    "NOM": "Osawa",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-12-10",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:32"
+                },
+                {
+                    "ID": 26506,
+                    "PSEUDO": "Faallz",
+                    "ROLE": null,
+                    "PRENOM": "Kaique Stephano",
+                    "NOM": "Moreira",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-05-15",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:32"
+                },
+                {
+                    "ID": 28538,
+                    "PSEUDO": "Levy",
+                    "ROLE": null,
+                    "PRENOM": "Juliano",
+                    "NOM": "Andrade dos Santos",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-07",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:31"
+                },
+                {
+                    "ID": 29206,
+                    "PSEUDO": "Mity",
+                    "ROLE": null,
+                    "PRENOM": "Dyjair",
+                    "NOM": "Soares",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-08-14",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:32"
+                },
+                {
+                    "ID": 63307,
+                    "PSEUDO": "yurivst",
+                    "ROLE": null,
+                    "PRENOM": "Yuri",
+                    "NOM": "Visintin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:32"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135639,
+                "NOM": "LOS",
+                "LOCALISATION": "BR",
+                "ACRONYME": "LOS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35519,
+                    "PSEUDO": "peres",
+                    "ROLE": null,
+                    "PRENOM": "Vitor",
+                    "NOM": "Peres",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-21",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+                },
+                {
+                    "ID": 40990,
+                    "PSEUDO": "dash",
+                    "ROLE": null,
+                    "PRENOM": "Leonardo",
+                    "NOM": "Lopes",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-17",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
+                },
+                {
+                    "ID": 45277,
+                    "PSEUDO": "Dodez",
+                    "ROLE": null,
+                    "PRENOM": "Denis",
+                    "NOM": "Navas",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-15",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+                },
+                {
+                    "ID": 45298,
+                    "PSEUDO": "Nuxxga",
+                    "ROLE": null,
+                    "PRENOM": "João",
+                    "NOM": "Weiss",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+                },
+                {
+                    "ID": 45300,
+                    "PSEUDO": "Daffo",
+                    "ROLE": null,
+                    "PRENOM": "Victor",
+                    "NOM": "Pedron",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-10-30",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137039,
+                "NOM": "Weibo Gaming",
+                "LOCALISATION": "CN",
+                "ACRONYME": "WBG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:31"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26287,
+                    "PSEUDO": "SpeakEasy",
+                    "ROLE": null,
+                    "PRENOM": "Mohamed Matin",
+                    "NOM": "Yunos",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-17",
+                    "NATIONALITE": "SG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:31"
+                },
+                {
+                    "ID": 33399,
+                    "PSEUDO": "Gotti",
+                    "ROLE": null,
+                    "PRENOM": "Geon-Woo",
+                    "NOM": "Park",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-03",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:31"
+                },
+                {
+                    "ID": 39574,
+                    "PSEUDO": "Hovenherst",
+                    "ROLE": null,
+                    "PRENOM": "Aldi",
+                    "NOM": "Firmansyah",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-27",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:31"
+                },
+                {
+                    "ID": 48257,
+                    "PSEUDO": "Reeps96",
+                    "ROLE": null,
+                    "PRENOM": "Weichen",
+                    "NOM": "Wu",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-31",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:31"
+                },
+                {
+                    "ID": 50217,
+                    "PSEUDO": "Terd",
+                    "ROLE": null,
+                    "PRENOM": "Taylor",
+                    "NOM": "Ching",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-11-01",
+                    "NATIONALITE": "NZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:30"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137673,
+                "NOM": "All Gamers",
+                "LOCALISATION": "CN",
+                "ACRONYME": "AG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 47065,
+                    "PSEUDO": "Mcie",
+                    "ROLE": null,
+                    "PRENOM": "Chow",
+                    "NOM": "Pak-Him",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+                },
+                {
+                    "ID": 62759,
+                    "PSEUDO": "MoonL1ght",
+                    "ROLE": null,
+                    "PRENOM": "Li",
+                    "NOM": "Junfu",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+                },
+                {
+                    "ID": 62760,
+                    "PSEUDO": "Ra3LGuN",
+                    "ROLE": null,
+                    "PRENOM": "Liu",
+                    "NOM": "Chen",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+                },
+                {
+                    "ID": 62761,
+                    "PSEUDO": "SoloMID",
+                    "ROLE": null,
+                    "PRENOM": "Guan",
+                    "NOM": "Kaimin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+                },
+                {
+                    "ID": 62762,
+                    "PSEUDO": "YaZ",
+                    "ROLE": null,
+                    "PRENOM": "Luo",
+                    "NOM": "Hanye",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137676,
+                "NOM": "TYLOO",
+                "LOCALISATION": "CN",
+                "ACRONYME": "TYLOO",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35146,
+                    "PSEUDO": "Jackywu",
+                    "ROLE": null,
+                    "PRENOM": "Jhih-Ying",
+                    "NOM": "Wu",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-23",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
+                },
+                {
+                    "ID": 50216,
+                    "PSEUDO": "Songla",
+                    "ROLE": null,
+                    "PRENOM": "Chen",
+                    "NOM": "Yung-han",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-05",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
+                },
+                {
+                    "ID": 62765,
+                    "PSEUDO": "aBEi",
+                    "ROLE": null,
+                    "PRENOM": "Ma",
+                    "NOM": "Rongjun",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
+                },
+                {
+                    "ID": 62767,
+                    "PSEUDO": "Aurk11",
+                    "ROLE": null,
+                    "PRENOM": "Xie",
+                    "NOM": "Yuxuan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
+                },
+                {
+                    "ID": 64876,
+                    "PSEUDO": "Austin",
+                    "ROLE": null,
+                    "PRENOM": "Wu",
+                    "NOM": "Changxue",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:37"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137677,
+                "NOM": "KINGZERO eSports",
+                "LOCALISATION": "CN",
+                "ACRONYME": "KZ",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:35"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 53638,
+                    "PSEUDO": "Sunset",
+                    "ROLE": null,
+                    "PRENOM": "lok-hang",
+                    "NOM": "Au",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-03",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:34"
+                },
+                {
+                    "ID": 53639,
+                    "PSEUDO": "MomoRiNs",
+                    "ROLE": null,
+                    "PRENOM": "Ting",
+                    "NOM": "Chun Ho",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:35"
+                },
+                {
+                    "ID": 53640,
+                    "PSEUDO": "KzB",
+                    "ROLE": null,
+                    "PRENOM": "Kok",
+                    "NOM": "Lok-hin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:35"
+                },
+                {
+                    "ID": 62779,
+                    "PSEUDO": "Fiber",
+                    "ROLE": null,
+                    "PRENOM": "Jin",
+                    "NOM": "Aohan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:35"
+                },
+                {
+                    "ID": 68254,
+                    "PSEUDO": "Wick",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:34"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "BLAST R6 Major",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-04-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:17:38"
+    },
+    "SERIE": {
+        "NOM": "Osaka 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:40:09",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1774270,
+        "NOM": "PENSIONERS_vs_HEC",
+        "JEU VIDEO": "Counter-Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "19:41:27",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "20:21:23",
+        "DATE DE MODIFICATION": "2026-10-06",
+        "HEURE DE MODIFICATION": "14:31:10",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237176,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2395,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "19:41:28",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "20:21:23",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137285,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138826,
+            "NOM": "PENSIONERS",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:21:52"
+        },
+        {
+            "ID": 137285,
+            "NOM": "Hermine Esports Club",
+            "LOCALISATION": "FR",
+            "ACRONYME": "HEC",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:48:05"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 138826
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137285
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22135,
+        "NOM": "Regular Season",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "02:06:12",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4243,
+        "NOM": "ESEA",
+        "DATE DE MODIFICATION": "2020-11-12",
+        "HEURE DE MODIFICATION": "15:51:24"
+    },
+    "SERIE": {
+        "ID": 11070,
+        "NOM": "Advanced Europe season 59 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-06",
+        "HEURE DE MODIFICATION": "14:31:10"
+    }
+}

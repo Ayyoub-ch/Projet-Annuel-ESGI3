@@ -46,7 +46,7 @@ for league in leagues:
         # Extraction des informations de la league
         id= league.get("id")
         nom= league.get("name", "Nom inconnu").replace("/", "_").replace(":", "_").replace(" ", "_")
-        jeu= league.get("videogame", {}).get("name", "Jeu inconnu").replace(":", "")
+        jeu= league.get("videogame", {}).get("name", "Jeu inconnu").replace(":", "").replace("-", " ")
         version_actuelle = league.get("current_version", "Version inconnue")
         date_modif = league.get("modified_at", "Date et Heure inconnue")[0:10]
         heure_modif = league.get("modified_at", "Date et Heure inconnue")[11:19]

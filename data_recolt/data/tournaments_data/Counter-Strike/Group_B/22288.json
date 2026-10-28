@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "08:00:00",
         "DATE DE FIN": "2026-11-01",
         "HEURE DE FIN": "14:30:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-        "HEURE DE LA DERNIERE MODIFICATION": "18:12:08",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:21:38",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -76,8 +76,8 @@
             "HEURE DE DEBUT": "09:00:00",
             "DATE DE FIN": "Date incon",
             "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:57:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:43:53",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-b",
             "TIER": "d",
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "11:30:00",
             "DATE DE FIN": "Date incon",
             "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:14:57",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:44:14",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-b",
             "TIER": "d",
@@ -144,16 +144,16 @@
             "ID": 128629,
             "NOM": "megoshort",
             "LOCALISATION": "SE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "06:43:01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:21:36",
             "ACRONYME": "MEGO"
         },
         {
             "ID": 132459,
             "NOM": "ROUNDS",
             "LOCALISATION": "FI",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "06:43:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:06:12",
             "ACRONYME": "RGG"
         },
         {
@@ -180,8 +180,8 @@
                 "NOM": "megoshort",
                 "LOCALISATION": "SE",
                 "ACRONYME": "MEGO",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "06:43:01"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:21:36"
             },
             "JOUEURS": [
                 {
@@ -237,17 +237,17 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "06:43:01"
                 },
                 {
-                    "ID": 46303,
-                    "PSEUDO": "qvick",
+                    "ID": 42663,
+                    "PSEUDO": "siz",
                     "ROLE": null,
-                    "PRENOM": "Jacob",
-                    "NOM": "Antal",
+                    "PRENOM": "Armin",
+                    "NOM": "Sukurica",
                     "AGE": 26,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:22:47"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:21:36"
                 }
             ]
         },
@@ -257,23 +257,10 @@
                 "NOM": "ROUNDS",
                 "LOCALISATION": "FI",
                 "ACRONYME": "RGG",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "02:06:12"
             },
             "JOUEURS": [
-                {
-                    "ID": 23976,
-                    "PSEUDO": "p12",
-                    "ROLE": null,
-                    "PRENOM": "Panu",
-                    "NOM": "Schutschkoff",
-                    "AGE": 34,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "FI",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
-                },
                 {
                     "ID": 36505,
                     "PSEUDO": "ykis",
@@ -284,8 +271,21 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:06:10"
+                },
+                {
+                    "ID": 46696,
+                    "PSEUDO": "Tumppis",
+                    "ROLE": null,
+                    "PRENOM": "Olli",
+                    "NOM": "Nousiainen",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:21:37"
                 },
                 {
                     "ID": 46961,
@@ -301,17 +301,17 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "06:43:02"
                 },
                 {
-                    "ID": 46964,
-                    "PSEUDO": "Kollo",
+                    "ID": 50910,
+                    "PSEUDO": "zyntix",
                     "ROLE": null,
-                    "PRENOM": "Kosti",
-                    "NOM": "Kallioniemi",
-                    "AGE": 25,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:01"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:21:49"
                 },
                 {
                     "ID": 66138,
@@ -323,8 +323,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:01"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:06:11"
                 }
             ]
         },

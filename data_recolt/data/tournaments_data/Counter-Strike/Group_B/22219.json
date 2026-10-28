@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-10-16",
         "HEURE DE DEBUT": "08:00:00",
         "DATE DE FIN": "2026-10-23",
-        "HEURE DE FIN": "13:30:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-        "HEURE DE LA DERNIERE MODIFICATION": "17:22:25",
+        "HEURE DE FIN": "12:02:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:01:46",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -177,16 +177,16 @@
             "ID": 135026,
             "NOM": "ENCE Prospects",
             "LOCALISATION": "FI",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:31:20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:14:00",
             "ACRONYME": "ENCE.P"
         },
         {
             "ID": 138087,
             "NOM": " Gatorian",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:13:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:01:46",
             "ACRONYME": "GAT"
         },
         {
@@ -282,8 +282,8 @@
                 "NOM": "ENCE Prospects",
                 "LOCALISATION": "FI",
                 "ACRONYME": "ENCE.P",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "23:31:20"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:14:00"
             },
             "JOUEURS": [
                 {
@@ -296,8 +296,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "23:31:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:13:54"
                 },
                 {
                     "ID": 62080,
@@ -309,8 +309,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "23:31:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:13:56"
                 },
                 {
                     "ID": 62800,
@@ -322,8 +322,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "23:31:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:13:52"
                 },
                 {
                     "ID": 62802,
@@ -335,8 +335,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "23:31:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:14:00"
                 },
                 {
                     "ID": 62803,
@@ -348,8 +348,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "23:31:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:13:58"
                 }
             ]
         },
@@ -359,8 +359,8 @@
                 "NOM": " Gatorian",
                 "LOCALISATION": "UA",
                 "ACRONYME": "GAT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:13:44"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:01:46"
             },
             "JOUEURS": [
                 {
@@ -377,6 +377,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "17:13:44"
                 },
                 {
+                    "ID": 63210,
+                    "PSEUDO": "deoo",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:01:46"
+                },
+                {
                     "ID": 66381,
                     "PSEUDO": "somehxw",
                     "ROLE": null,
@@ -388,6 +401,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
                     "HEURE DE LA DERNIERE MODIFICATION": "17:13:44"
+                },
+                {
+                    "ID": 66711,
+                    "PSEUDO": "heel1n",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:01:45"
                 },
                 {
                     "ID": 68457,

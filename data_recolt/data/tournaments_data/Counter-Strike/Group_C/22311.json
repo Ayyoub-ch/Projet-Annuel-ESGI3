@@ -1,0 +1,364 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22311,
+        "NOM": "Group_C",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-29",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-10-29",
+        "HEURE DE FIN": "22:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:40:00",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "IS vs ZOTIX",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "14:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:02:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-omen-retake-13-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/rtparenacs"
+            }
+        },
+        {
+            "NOM": "Winners Match: TYLOO vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:02:33",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-omen-retake-13-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/rtparenacs"
+            }
+        },
+        {
+            "NOM": "Decider Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "19:30:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "19:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:02:37",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-omen-retake-13-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/rtparenacs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 3248,
+            "NOM": "TYLOO",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:06:51",
+            "ACRONYME": "TYLOO"
+        },
+        {
+            "ID": 133991,
+            "NOM": "ZOTIX",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:06:46",
+            "ACRONYME": "ZOTIX"
+        },
+        {
+            "ID": 136319,
+            "NOM": "Iberian Soul",
+            "LOCALISATION": "ES",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:06:45",
+            "ACRONYME": "IS"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 3248,
+                "NOM": "TYLOO",
+                "LOCALISATION": "CN",
+                "ACRONYME": "TYLOO",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:06:51"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24084,
+                    "PSEUDO": "JamYoung",
+                    "ROLE": null,
+                    "PRENOM": "Yang",
+                    "NOM": "Yi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-23",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:47"
+                },
+                {
+                    "ID": 29793,
+                    "PSEUDO": "Jee",
+                    "ROLE": null,
+                    "PRENOM": "Dongkai",
+                    "NOM": "Ji",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-21",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:50"
+                },
+                {
+                    "ID": 34013,
+                    "PSEUDO": "Mercury",
+                    "ROLE": null,
+                    "PRENOM": "Jingxiang",
+                    "NOM": "Wang",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-15",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:50"
+                },
+                {
+                    "ID": 40980,
+                    "PSEUDO": "Moseyuh",
+                    "ROLE": null,
+                    "PRENOM": "Qianhao ",
+                    "NOM": "Chen",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-21",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:51"
+                },
+                {
+                    "ID": 63419,
+                    "PSEUDO": "zero",
+                    "ROLE": null,
+                    "PRENOM": "Su",
+                    "NOM": "Jingshen",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-31",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:50"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133991,
+                "NOM": "ZOTIX",
+                "LOCALISATION": "UA",
+                "ACRONYME": "ZOTIX",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:06:46"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 31228,
+                    "PSEUDO": "byr9",
+                    "ROLE": null,
+                    "PRENOM": "Yaroslav",
+                    "NOM": "Buryak",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-06-07",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:46"
+                },
+                {
+                    "ID": 61283,
+                    "PSEUDO": "n1neteenn",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:46"
+                },
+                {
+                    "ID": 64533,
+                    "PSEUDO": "-EsD",
+                    "ROLE": null,
+                    "PRENOM": "Dmytro",
+                    "NOM": "Myronenko",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:45"
+                },
+                {
+                    "ID": 65083,
+                    "PSEUDO": "flee",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Hryhorenko",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:46"
+                },
+                {
+                    "ID": 67434,
+                    "PSEUDO": "certa1n",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:45"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136319,
+                "NOM": "Iberian Soul",
+                "LOCALISATION": "ES",
+                "ACRONYME": "IS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:06:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 20595,
+                    "PSEUDO": "mopoz",
+                    "ROLE": null,
+                    "PRENOM": "Alejandro",
+                    "NOM": "Fernández-Quejo Cano",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-08-07",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:43"
+                },
+                {
+                    "ID": 20596,
+                    "PSEUDO": "alex",
+                    "ROLE": null,
+                    "PRENOM": "Alejandro",
+                    "NOM": "Masanet",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1995-12-15",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:45"
+                },
+                {
+                    "ID": 24619,
+                    "PSEUDO": "dav1g",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Granado Bermudo",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-06",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:44"
+                },
+                {
+                    "ID": 25097,
+                    "PSEUDO": "sausol",
+                    "ROLE": null,
+                    "PRENOM": "Pere",
+                    "NOM": "Solsona Saumell",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-31",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:45"
+                },
+                {
+                    "ID": 31151,
+                    "PSEUDO": "Ag1l",
+                    "ROLE": null,
+                    "PRENOM": "André ",
+                    "NOM": "Gil",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-02",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:06:45"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Circuito Retake",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-06-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:45:51"
+    },
+    "SERIE": {
+        "NOM": "Season 13 2026",
+        "ANNEE": 2026,
+        "SAISON": "13",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:39:54",
+        "ID DU VAINQUEUR": null
+    }
+}

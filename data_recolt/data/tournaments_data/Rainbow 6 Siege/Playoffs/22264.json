@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-10-22",
         "HEURE DE DEBUT": "21:00:00",
         "DATE DE FIN": "2026-10-25",
-        "HEURE DE FIN": "20:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-        "HEURE DE LA DERNIERE MODIFICATION": "09:31:10",
+        "HEURE DE FIN": "21:18:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:41:15",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -141,7 +141,7 @@
         {
             "NOM": "Semifinal 1: FURIA vs FX7M",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -149,10 +149,10 @@
             "HEURE PRÉVUE": "18:20:00",
             "DATE DE DEBUT": "2026-10-24",
             "HEURE DE DEBUT": "18:19:37",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
+            "DATE DE FIN": "2026-10-24",
+            "HEURE DE FIN": "21:11:36",
             "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:08:10",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:11:37",
             "PRIZEPOOL": "270000 Brazilian Real",
             "SLUG": "r6-siege-challenger-league-2026-playoffs",
             "TIER": "b",
@@ -164,9 +164,9 @@
             }
         },
         {
-            "NOM": "Grand Final: FaZe vs TBD",
+            "NOM": "Grand Final: FURIA vs FaZe",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -176,8 +176,33 @@
             "HEURE DE DEBUT": "16:00:00",
             "DATE DE FIN": "Date incon",
             "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:04:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:30:56",
+            "PRIZEPOOL": "270000 Brazilian Real",
+            "SLUG": "r6-siege-challenger-league-2026-playoffs",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=5P4DhMD3CFs"
+            }
+        },
+        {
+            "NOM": "Grand final: FURIA vs FaZe",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-10-25",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-10-25",
+            "HEURE DE DEBUT": "18:34:14",
+            "DATE DE FIN": "2026-10-25",
+            "HEURE DE FIN": "21:18:26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:18:27",
             "PRIZEPOOL": "270000 Brazilian Real",
             "SLUG": "r6-siege-challenger-league-2026-playoffs",
             "TIER": "b",
@@ -218,8 +243,8 @@
             "ID": 135639,
             "NOM": "LOS",
             "LOCALISATION": "BR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:31:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:39",
             "ACRONYME": "LOS"
         },
         {
@@ -493,8 +518,8 @@
                 "NOM": "LOS",
                 "LOCALISATION": "BR",
                 "ACRONYME": "LOS",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-                "HEURE DE LA DERNIERE MODIFICATION": "09:31:02"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
             },
             "JOUEURS": [
                 {
@@ -507,8 +532,8 @@
                     "DATE DE NAISSANCE": "2003-02-21",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-                    "HEURE DE LA DERNIERE MODIFICATION": "09:31:01"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
                 },
                 {
                     "ID": 40990,
@@ -520,8 +545,8 @@
                     "DATE DE NAISSANCE": "2002-06-17",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-                    "HEURE DE LA DERNIERE MODIFICATION": "09:31:02"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
                 },
                 {
                     "ID": 45277,
@@ -533,8 +558,8 @@
                     "DATE DE NAISSANCE": "2001-01-15",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-                    "HEURE DE LA DERNIERE MODIFICATION": "09:31:02"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
                 },
                 {
                     "ID": 45298,
@@ -546,8 +571,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-                    "HEURE DE LA DERNIERE MODIFICATION": "09:31:02"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
                 },
                 {
                     "ID": 45300,
@@ -559,8 +584,8 @@
                     "DATE DE NAISSANCE": "2003-10-30",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-                    "HEURE DE LA DERNIERE MODIFICATION": "09:31:02"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:38:38"
                 }
             ]
         },
@@ -882,8 +907,8 @@
         "NOM": "2026",
         "ANNEE": 2026,
         "SAISON": null,
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-        "HEURE DE LA DERNIERE MODIFICATION": "09:31:10",
-        "ID DU VAINQUEUR": null
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:41:12",
+        "ID DU VAINQUEUR": 127596
     }
 }

@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11147,
+        "NOM": "Season_3_2026",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:52:04",
+        "ANNEE": 2026,
+        "SAISON": "3"
+    },
+    "LIGUE": {
+        "ID": 5551,
+        "NOM": "Exort Fiesta",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:07:12"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-25",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "23:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:19:48",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-3-2026-group-stage",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

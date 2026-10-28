@@ -1,0 +1,364 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22309,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-29",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-10-29",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:39:54",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "WBT.A vs SAW.Y",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:02:17",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-omen-retake-13-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/rtparenacs"
+            }
+        },
+        {
+            "NOM": "Winners Match: JJH vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "10:15:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "10:15:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:02:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-omen-retake-13-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/rtparenacs"
+            }
+        },
+        {
+            "NOM": "Decider Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "13:30:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "13:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:02:26",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-omen-retake-13-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/rtparenacs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 126994,
+            "NOM": "JiJieHao",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:59",
+            "ACRONYME": "JJH"
+        },
+        {
+            "ID": 129405,
+            "NOM": "SAW Youngsters",
+            "LOCALISATION": "PT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:56",
+            "ACRONYME": "SAW.Y"
+        },
+        {
+            "ID": 138976,
+            "NOM": "WBT Academy",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:10:52",
+            "ACRONYME": "WBT.A"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 126994,
+                "NOM": "JiJieHao",
+                "LOCALISATION": "CN",
+                "ACRONYME": "JJH",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:51:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23229,
+                    "PSEUDO": "sinnopsyy",
+                    "ROLE": null,
+                    "PRENOM": "Dionis",
+                    "NOM": "Budeci",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-07-24",
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:59"
+                },
+                {
+                    "ID": 24761,
+                    "PSEUDO": "Bibu",
+                    "ROLE": null,
+                    "PRENOM": "Bebu",
+                    "NOM": "Aadil",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-10",
+                    "NATIONALITE": "IQ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:58"
+                },
+                {
+                    "ID": 25646,
+                    "PSEUDO": "CacaNito",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandar",
+                    "NOM": "Kjulukoski",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-11-09",
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:58"
+                },
+                {
+                    "ID": 32784,
+                    "PSEUDO": "m1N1",
+                    "ROLE": null,
+                    "PRENOM": "Hussein",
+                    "NOM": "Hijazi",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-17",
+                    "NATIONALITE": "LB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:56"
+                },
+                {
+                    "ID": 44168,
+                    "PSEUDO": "0SAMAS",
+                    "ROLE": null,
+                    "PRENOM": "Osama ",
+                    "NOM": "Orabi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-10",
+                    "NATIONALITE": "JO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 129405,
+                "NOM": "SAW Youngsters",
+                "LOCALISATION": "PT",
+                "ACRONYME": "SAW.Y",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:51:56"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 37899,
+                    "PSEUDO": "tuxa",
+                    "ROLE": null,
+                    "PRENOM": "Daniel",
+                    "NOM": "Esteves",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:55"
+                },
+                {
+                    "ID": 44446,
+                    "PSEUDO": "snowiee",
+                    "ROLE": null,
+                    "PRENOM": "Guilherme",
+                    "NOM": "Martins",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:56"
+                },
+                {
+                    "ID": 45434,
+                    "PSEUDO": "M1KA",
+                    "ROLE": null,
+                    "PRENOM": "Miguel",
+                    "NOM": "Moreira",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:56"
+                },
+                {
+                    "ID": 53025,
+                    "PSEUDO": "Jayy2s",
+                    "ROLE": null,
+                    "PRENOM": "Gonçalo",
+                    "NOM": "Machado\t",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:56"
+                },
+                {
+                    "ID": 61285,
+                    "PSEUDO": "jERK0z",
+                    "ROLE": null,
+                    "PRENOM": "Rodrigo ",
+                    "NOM": "Costa",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138976,
+                "NOM": "WBT Academy",
+                "LOCALISATION": "UA",
+                "ACRONYME": "WBT.A",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:10:52"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26358,
+                    "PSEUDO": "fl1peR",
+                    "ROLE": null,
+                    "PRENOM": "Daniil ",
+                    "NOM": "Salamakha",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:55"
+                },
+                {
+                    "ID": 43269,
+                    "PSEUDO": "marat2k",
+                    "ROLE": null,
+                    "PRENOM": "Kyryl",
+                    "NOM": "Samsoniuk",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:55"
+                },
+                {
+                    "ID": 49824,
+                    "PSEUDO": "svemyy",
+                    "ROLE": null,
+                    "PRENOM": "Mikhail",
+                    "NOM": "Sverchkov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:55"
+                },
+                {
+                    "ID": 65105,
+                    "PSEUDO": "tired73",
+                    "ROLE": null,
+                    "PRENOM": "Andrii",
+                    "NOM": "Hlushko",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:54"
+                },
+                {
+                    "ID": 66680,
+                    "PSEUDO": "NxStep",
+                    "ROLE": null,
+                    "PRENOM": "Darii",
+                    "NOM": "Stepovyi",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:51:55"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Circuito Retake",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-06-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:45:51"
+    },
+    "SERIE": {
+        "NOM": "Season 13 2026",
+        "ANNEE": 2026,
+        "SAISON": "13",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:39:54",
+        "ID DU VAINQUEUR": null
+    }
+}

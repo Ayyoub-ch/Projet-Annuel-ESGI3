@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "21:00:00",
         "DATE DE FIN": "2026-11-04",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:49:56",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:55:26",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -64,28 +64,53 @@
             }
         },
         {
-            "NOM": "Elimination Match: ALKA vs ARK",
+            "NOM": "Winners Match: RED.A vs GODS PLAN",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-10-26",
-            "HEURE PRÉVUE": "20:00:00",
-            "DATE DE DEBUT": "2026-10-26",
-            "HEURE DE DEBUT": "20:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:13:37",
+            "DATE PRÉVUE": "2026-10-27",
+            "HEURE PRÉVUE": "19:20:00",
+            "DATE DE DEBUT": "2026-10-27",
+            "HEURE DE DEBUT": "19:21:41",
+            "DATE DE FIN": "2026-10-27",
+            "HEURE DE FIN": "20:55:26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:55:27",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-gamers-club-liga-serie-a-october-2026-group-a",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "pt",
-                "LIEN BRUTE": "https://www.twitch.tv/gamersclubcs"
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Elimination Match: ALKA vs ARK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-26",
+            "HEURE PRÉVUE": "20:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:34:57",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-october-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
             }
         }
     ],
@@ -121,6 +146,14 @@
             "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
             "HEURE DE LA DERNIERE MODIFICATION": "08:49:56",
             "ACRONYME": "ARK"
+        },
+        {
+            "ID": 139465,
+            "NOM": "GODS PLAN",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:40:47",
+            "ACRONYME": null
         }
     ],
     "MEMBRES DE L'EQUIPE": [
@@ -144,8 +177,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
-                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:51"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
                 },
                 {
                     "ID": 44435,
@@ -170,8 +203,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
-                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
                 },
                 {
                     "ID": 54405,
@@ -183,8 +216,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
-                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
                 },
                 {
                     "ID": 62833,
@@ -209,8 +242,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
-                    "HEURE DE LA DERNIERE MODIFICATION": "08:49:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
                 }
             ]
         },
@@ -494,6 +527,96 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
                     "HEURE DE LA DERNIERE MODIFICATION": "08:49:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139465,
+                "NOM": "GODS PLAN",
+                "LOCALISATION": "BR",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 40555,
+                    "PSEUDO": "Thuister",
+                    "ROLE": null,
+                    "PRENOM": "Enio",
+                    "NOM": "De Souza",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
+                },
+                {
+                    "ID": 52095,
+                    "PSEUDO": "Tineu",
+                    "ROLE": null,
+                    "PRENOM": "Luiz",
+                    "NOM": "Tineu",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
+                },
+                {
+                    "ID": 52826,
+                    "PSEUDO": "sakamoto",
+                    "ROLE": null,
+                    "PRENOM": "Bruno ",
+                    "NOM": "Nosse",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
+                },
+                {
+                    "ID": 54405,
+                    "PSEUDO": "ALENNNCARrx",
+                    "ROLE": null,
+                    "PRENOM": "Micael",
+                    "NOM": "Alencar",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
+                },
+                {
+                    "ID": 57097,
+                    "PSEUDO": "snow",
+                    "ROLE": null,
+                    "PRENOM": "Gabriel",
+                    "NOM": "Postal",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
+                },
+                {
+                    "ID": 63658,
+                    "PSEUDO": "khowy666",
+                    "ROLE": null,
+                    "PRENOM": "Pedro",
+                    "NOM": "Soares",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
                 }
             ]
         }
