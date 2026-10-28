@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1661648,
+        "NOM": "BLUEJAYS.de_vs_LEI",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "17:06:08",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-08-30",
+        "HEURE DE MODIFICATION": "18:47:38",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 229026,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2352,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "17:06:08",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "17:45:21",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139187,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 229027,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3458,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "18:01:37",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "18:59:15",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138178,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 229028,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139187,
+            "NOM": "BLUEJAYS.de",
+            "LOCALISATION": "DE",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-08-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:52:01"
+        },
+        {
+            "ID": 138178,
+            "NOM": "Team LEISURE",
+            "LOCALISATION": "DE",
+            "ACRONYME": "LEI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-08-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:52:01"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139187
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138178
+        }
+    ],
+    "TOURNOI": {
+        "ID": 21811,
+        "NOM": "Regular Season",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-08-31",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-11",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "21:32:19",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5237,
+        "NOM": "DACH CS Masters",
+        "DATE DE MODIFICATION": "2024-04-22",
+        "HEURE DE MODIFICATION": "15:28:57"
+    },
+    "SERIE": {
+        "ID": 10918,
+        "NOM": "Season 6 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-08-31",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-12",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-08-30",
+        "HEURE DE MODIFICATION": "18:47:38"
+    }
+}

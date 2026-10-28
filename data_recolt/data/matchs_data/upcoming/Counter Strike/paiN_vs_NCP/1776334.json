@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1776334,
+        "NOM": "paiN_vs_NCP",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "not_started",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-29",
+        "HEURE DE DEBUT": "16:30:00",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "06:50:13",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237307,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237308,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237309,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 125751,
+            "NOM": "paiN",
+            "LOCALISATION": "BR",
+            "ACRONYME": "paiN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:44:05"
+        },
+        {
+            "ID": 139467,
+            "NOM": " naocopulas",
+            "LOCALISATION": "BR",
+            "ACRONYME": "NCP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:46:10"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 125751
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139467
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22316,
+        "NOM": "Group B",
+        "TYPE": "offline",
+        "PAYS": "BR",
+        "REGION": "SA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-29",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-10-31",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "09:46:10",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4268,
+        "NOM": "Gamers Club Masters",
+        "DATE DE MODIFICATION": "2019-12-03",
+        "HEURE DE MODIFICATION": "07:43:09"
+    },
+    "SERIE": {
+        "ID": 11153,
+        "NOM": "VII 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-29",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-02",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "06:50:13"
+    }
+}

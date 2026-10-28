@@ -1,0 +1,214 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1765302,
+        "NOM": "Upper_bracket_quarterfinal_2__WOL_vs_TES.A",
+        "JEU VIDEO": "King of Glory",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 7,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "10:12:48",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "14:16:08",
+        "DATE DE MODIFICATION": "2026-09-23",
+        "HEURE DE MODIFICATION": "06:31:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19521,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1944,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "10:12:48",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "10:45:13",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129644,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19522,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1334,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "10:59:08",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "11:21:22",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129564,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19523,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1353,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "11:34:25",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "11:56:58",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129644,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19524,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1398,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "12:11:32",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "12:34:50",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129564,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19525,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 1356,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "12:40:41",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "13:03:17",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129644,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19526,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 6,
+            "STATUT": "finished",
+            "LONGUEUR": 1935,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "13:14:42",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "13:46:57",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129564,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19527,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 7,
+            "STATUT": "finished",
+            "LONGUEUR": 729,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "14:03:59",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "14:16:08",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129564,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129564,
+            "NOM": "Wolves",
+            "LOCALISATION": "CN",
+            "ACRONYME": "WOL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:50:45"
+        },
+        {
+            "ID": 129644,
+            "NOM": "TOP Esports Armor",
+            "LOCALISATION": "CN",
+            "ACRONYME": "TES.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:51:57"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 4,
+            "ID EQUIPE": 129564
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 129644
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22285,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "s",
+        "CASH PRIZE": "70000000 Chinese Yuan",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "13:54:41",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4591,
+        "NOM": "King Pro League",
+        "DATE DE MODIFICATION": "2024-04-17",
+        "HEURE DE MODIFICATION": "20:04:28"
+    },
+    "SERIE": {
+        "ID": 11011,
+        "NOM": "Grand Finals 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-02",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-23",
+        "HEURE DE MODIFICATION": "06:31:58"
+    }
+}

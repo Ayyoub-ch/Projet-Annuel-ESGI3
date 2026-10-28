@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1769562,
+        "NOM": "Upper_bracket_final__GAT_vs_UNiTY",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "not_started",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-30",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "17:22:25",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237031,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237032,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237033,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138087,
+            "NOM": " Gatorian",
+            "LOCALISATION": "UA",
+            "ACRONYME": "GAT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:01:46"
+        },
+        {
+            "ID": 133063,
+            "NOM": "UNiTY esports",
+            "LOCALISATION": "SK",
+            "ACRONYME": "UNiTY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:13:50"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 138087
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 133063
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22296,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "10000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "19:07:13",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5078,
+        "NOM": "United21",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:36:10"
+    },
+    "SERIE": {
+        "ID": 11117,
+        "NOM": "Season 57 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-15",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "17:22:25"
+    }
+}

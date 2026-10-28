@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1772627,
+        "NOM": "_oveA_vs_Mena_Warriors",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "09:46:59",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "11:34:18",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:27:12",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740905,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2017,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "09:46:59",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "10:32:59",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139392,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740906,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1679,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "10:54:00",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "11:34:19",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139392,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139391,
+            "NOM": " oveA",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:44:42"
+        },
+        {
+            "ID": 139392,
+            "NOM": "Mena Warriors",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:07:34"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139391
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139392
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22300,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-03",
+        "HEURE DE FIN": "10:00:00",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "11:49:29",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5576,
+        "NOM": "Esports Pro Circuit ",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:23:08"
+    },
+    "SERIE": {
+        "ID": 11149,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:27:12"
+    }
+}

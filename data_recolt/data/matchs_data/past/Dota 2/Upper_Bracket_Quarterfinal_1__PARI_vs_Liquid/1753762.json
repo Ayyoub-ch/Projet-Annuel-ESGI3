@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1753762,
+        "NOM": "Upper_Bracket_Quarterfinal_1__PARI_vs_Liquid",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "09:07:21",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "12:57:09",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:33:21",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740546,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3021,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "09:07:23",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "10:12:54",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 1647,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740547,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2069,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "10:30:55",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "11:22:19",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135712,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740548,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3858,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "11:34:05",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "12:57:09",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135712,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135712,
+            "NOM": "PARIVISION",
+            "LOCALISATION": "RU",
+            "ACRONYME": "PARI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:26:03"
+        },
+        {
+            "ID": 1647,
+            "NOM": "Team Liquid",
+            "LOCALISATION": "NL",
+            "ACRONYME": "Liquid",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:12:57"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135712
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 1647
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22231,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "a",
+        "CASH PRIZE": "250,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "17:14:43",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5567,
+        "NOM": "PARI Universe",
+        "DATE DE MODIFICATION": "2026-10-04",
+        "HEURE DE MODIFICATION": "06:13:51"
+    },
+    "SERIE": {
+        "ID": 11124,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:33:21"
+    }
+}

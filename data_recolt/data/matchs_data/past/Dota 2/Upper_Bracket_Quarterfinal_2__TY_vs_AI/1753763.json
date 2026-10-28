@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1753763,
+        "NOM": "Upper_Bracket_Quarterfinal_2__TY_vs_AI",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "13:23:36",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "16:46:44",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:33:21",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740549,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3851,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "13:23:38",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "14:44:47",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139432,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740550,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1540,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "14:59:40",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "15:42:33",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137073,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740551,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1995,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "15:56:01",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "16:46:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137073,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137073,
+            "NOM": "Team Yandex",
+            "LOCALISATION": "RU",
+            "ACRONYME": "TY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:26:04"
+        },
+        {
+            "ID": 139432,
+            "NOM": "Astra Invicta",
+            "LOCALISATION": "",
+            "ACRONYME": "AI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:12:58"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137073
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139432
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22231,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "a",
+        "CASH PRIZE": "250,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "17:14:43",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5567,
+        "NOM": "PARI Universe",
+        "DATE DE MODIFICATION": "2026-10-04",
+        "HEURE DE MODIFICATION": "06:13:51"
+    },
+    "SERIE": {
+        "ID": 11124,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:33:21"
+    }
+}

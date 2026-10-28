@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1772314,
+        "NOM": "Lower_Bracket_Round_2_Match_1__AUR.YB_vs_DXE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "16:35:24",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "18:56:47",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "08:53:27",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237133,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2589,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "16:35:24",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "17:18:34",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137878,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237134,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2023,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "17:30:12",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "18:03:55",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 133125,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237135,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2442,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "18:16:05",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "18:56:47",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 133125,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 133125,
+            "NOM": "Aurora Young Blood",
+            "LOCALISATION": "RU",
+            "ACRONYME": "AUR.YB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:38:31"
+        },
+        {
+            "ID": 137878,
+            "NOM": "DimoniX Esports",
+            "LOCALISATION": "",
+            "ACRONYME": "DXE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:48:06"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 133125
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137878
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22292,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "2,500 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:15:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "08:53:27",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11143,
+        "NOM": "Contenders #10 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:15:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "08:53:27"
+    }
+}

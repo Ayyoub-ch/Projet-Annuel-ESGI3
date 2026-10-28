@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1746783,
+        "NOM": "Round_5__6yuBoJlbl_vs_SKR",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "15:11:22",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "16:28:46",
+        "DATE DE MODIFICATION": "2026-10-13",
+        "HEURE DE MODIFICATION": "11:44:46",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 235504,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1974,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "15:11:48",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "15:44:43",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139343,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 235505,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1892,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "15:57:14",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "16:28:47",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139343,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139422,
+            "NOM": "6yuBoJlbl",
+            "LOCALISATION": "KZ",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:59:12"
+        },
+        {
+            "ID": 139343,
+            "NOM": "Sökerorg",
+            "LOCALISATION": "",
+            "ACRONYME": "SKR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:05:04"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139422
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139343
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22204,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "16:03:52",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11111,
+        "NOM": "Series #12 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-10-13",
+        "HEURE DE MODIFICATION": "11:44:46"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11140,
+        "NOM": "2026",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-29",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:42:48",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5573,
+        "NOM": "Tesla Cup",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:41:51"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "RS",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-27",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-28",
+            "HEURE DE FIN": "14:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:52:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tesla-cup-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "RS",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-27",
+            "HEURE DE DEBUT": "15:20:00",
+            "DATE DE FIN": "2026-10-28",
+            "HEURE DE FIN": "23:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:19:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tesla-cup-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "RS",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-10-29",
+            "HEURE DE FIN": "21:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:23:32",
+            "PRIZEPOOL": "50,000 United States Dollar",
+            "SLUG": "cs-go-tesla-cup-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22317,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-31",
+        "HEURE DE DEBUT": "20:00:00",
+        "DATE DE FIN": "2026-11-02",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+        "HEURE DE LA DERNIERE MODIFICATION": "06:50:13",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "20:00:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:50:13",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-gamers-club-masters-vii-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/GamersClubCS"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "23:30:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "23:30:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:50:13",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-gamers-club-masters-vii-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/GamersClubCS"
+            }
+        },
+        {
+            "NOM": "Third Place Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "15:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:50:13",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-gamers-club-masters-vii-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/GamersClubCS"
+            }
+        },
+        {
+            "NOM": "Grand Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "20:00:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:50:13",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-gamers-club-masters-vii-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/GamersClubCS"
+            }
+        }
+    ],
+    "EQUIPES": "Pas d'informations sur l'equipe",
+    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "LIGUE": {
+        "NOM": "Gamers Club Masters",
+        "DATE DE LA DERNIERE MODIFICATION": "2019-12-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:43:09"
+    },
+    "SERIE": {
+        "NOM": "VII 2026",
+        "ANNEE": 2026,
+        "SAISON": "VII",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+        "HEURE DE LA DERNIERE MODIFICATION": "06:50:13",
+        "ID DU VAINQUEUR": null
+    }
+}

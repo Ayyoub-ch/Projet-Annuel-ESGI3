@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1763045,
+        "NOM": "Elimination_Match__B8_vs_ALL",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "08:01:00",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "11:03:06",
+        "DATE DE MODIFICATION": "2026-10-21",
+        "HEURE DE MODIFICATION": "12:42:48",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 236753,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2872,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "08:01:02",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "08:48:55",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 133725,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236754,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2669,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "09:04:27",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "09:48:57",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129381,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236755,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2821,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "10:16:05",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "11:03:07",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 129381,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129381,
+            "NOM": "B8",
+            "LOCALISATION": "UA",
+            "ACRONYME": "B8",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:19:56"
+        },
+        {
+            "ID": 133725,
+            "NOM": "Alliance",
+            "LOCALISATION": "SE",
+            "ACRONYME": "ALL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:45:24"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 129381
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 133725
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22276,
+        "NOM": "Group A",
+        "TYPE": "offline",
+        "PAYS": "RS",
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 3212,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "14:52:25",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5573,
+        "NOM": "Tesla Cup",
+        "DATE DE MODIFICATION": "2026-10-21",
+        "HEURE DE MODIFICATION": "12:41:51"
+    },
+    "SERIE": {
+        "ID": 11140,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-29",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-10-21",
+        "HEURE DE MODIFICATION": "12:42:48"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1774436,
+        "NOM": "Round_2__SINQU_vs_FOR",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "13:04:35",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "15:25:18",
+        "DATE DE MODIFICATION": "2026-10-25",
+        "HEURE DE MODIFICATION": "12:52:04",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237256,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2116,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "13:04:35",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "13:39:51",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137953,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237257,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2377,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "13:52:47",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "14:32:24",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137707,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237258,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2379,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "14:45:39",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "15:25:18",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137707,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137707,
+            "NOM": "SINQU",
+            "LOCALISATION": "FI",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:13:49"
+        },
+        {
+            "ID": 137953,
+            "NOM": "Fortress",
+            "LOCALISATION": "DK",
+            "ACRONYME": "FOR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:02:06"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137707
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137953
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22298,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "18:19:48",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5551,
+        "NOM": "Exort Fiesta",
+        "DATE DE MODIFICATION": "2026-08-12",
+        "HEURE DE MODIFICATION": "21:07:12"
+    },
+    "SERIE": {
+        "ID": 11147,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-25",
+        "HEURE DE MODIFICATION": "12:52:04"
+    }
+}

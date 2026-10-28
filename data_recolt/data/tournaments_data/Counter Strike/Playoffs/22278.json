@@ -1,0 +1,389 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22278,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-29",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-10-29",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:23:32",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: B8 vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:20:23",
+            "PRIZEPOOL": "50,000 United States Dollar",
+            "SLUG": "cs-go-tesla-cup-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: FaZe vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "12:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:20:20",
+            "PRIZEPOOL": "50,000 United States Dollar",
+            "SLUG": "cs-go-tesla-cup-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        },
+        {
+            "NOM": "Third Place Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "15:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:08:36",
+            "PRIZEPOOL": "50,000 United States Dollar",
+            "SLUG": "cs-go-tesla-cup-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        },
+        {
+            "NOM": "Grand Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-29",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "18:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:08:59",
+            "PRIZEPOOL": "50,000 United States Dollar",
+            "SLUG": "cs-go-tesla-cup-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/rlgcs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 3212,
+            "NOM": "FaZe",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:20:03",
+            "ACRONYME": "FaZe"
+        },
+        {
+            "ID": 129381,
+            "NOM": "B8",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:19:56",
+            "ACRONYME": "B8"
+        },
+        {
+            "ID": 130569,
+            "NOM": "HOTU",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:23:31",
+            "ACRONYME": "HOTU"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 3212,
+                "NOM": "FaZe",
+                "LOCALISATION": "US",
+                "ACRONYME": "FaZe",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:20:03"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17531,
+                    "PSEUDO": "Twistzz",
+                    "ROLE": null,
+                    "PRENOM": "Russel",
+                    "NOM": "Van Dulken",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-11-14",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:56"
+                },
+                {
+                    "ID": 20397,
+                    "PSEUDO": "frozen",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Čerňanský",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-18",
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:02"
+                },
+                {
+                    "ID": 32623,
+                    "PSEUDO": "Neityu",
+                    "ROLE": null,
+                    "PRENOM": "Ryan",
+                    "NOM": "Aubry",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-03",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:01"
+                },
+                {
+                    "ID": 43707,
+                    "PSEUDO": "Jcobbb",
+                    "ROLE": null,
+                    "PRENOM": "Jakub",
+                    "NOM": "Pietruszewski",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:02"
+                },
+                {
+                    "ID": 46241,
+                    "PSEUDO": "JBOEN",
+                    "ROLE": null,
+                    "PRENOM": "Jason",
+                    "NOM": "Nielsen",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:03"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 129381,
+                "NOM": "B8",
+                "LOCALISATION": "UA",
+                "ACRONYME": "B8",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:19:56"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30924,
+                    "PSEUDO": "alex666",
+                    "ROLE": null,
+                    "PRENOM": "Alexey",
+                    "NOM": "Yarmoshchuk",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-03",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:51"
+                },
+                {
+                    "ID": 38871,
+                    "PSEUDO": "npl",
+                    "ROLE": null,
+                    "PRENOM": "Andrii",
+                    "NOM": "Kukharskyi",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-07-21",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:56"
+                },
+                {
+                    "ID": 45639,
+                    "PSEUDO": "kensizor",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Kapran",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-02-02",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:55"
+                },
+                {
+                    "ID": 51335,
+                    "PSEUDO": "esenthial",
+                    "ROLE": null,
+                    "PRENOM": "Dmytro",
+                    "NOM": "Tsvir",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-02-26",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:55"
+                },
+                {
+                    "ID": 62201,
+                    "PSEUDO": "s1zzi",
+                    "ROLE": null,
+                    "PRENOM": "Daniil",
+                    "NOM": "Vinnyk",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130569,
+                "NOM": "HOTU",
+                "LOCALISATION": "RU",
+                "ACRONYME": "HOTU",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18287,
+                    "PSEUDO": "n0rb3r7",
+                    "ROLE": null,
+                    "PRENOM": "David ",
+                    "NOM": "Danielyan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-11",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+                },
+                {
+                    "ID": 28415,
+                    "PSEUDO": "kade0",
+                    "ROLE": null,
+                    "PRENOM": "Aydos",
+                    "NOM": "Khairzhan",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-01-07",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+                },
+                {
+                    "ID": 36829,
+                    "PSEUDO": "mizu",
+                    "ROLE": null,
+                    "PRENOM": "Dmitry ",
+                    "NOM": "Kondratev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+                },
+                {
+                    "ID": 42769,
+                    "PSEUDO": "Dwushka",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr ",
+                    "NOM": "Pakhnevich",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-11-30",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:28"
+                },
+                {
+                    "ID": 52195,
+                    "PSEUDO": "frontales",
+                    "ROLE": null,
+                    "PRENOM": "Kim",
+                    "NOM": "Argunov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Tesla Cup",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:41:51"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:42:48",
+        "ID DU VAINQUEUR": null
+    }
+}

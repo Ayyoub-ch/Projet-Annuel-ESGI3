@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1772641,
+        "NOM": "angry_birds_vs_Level_Up_Academy",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "12:15:45",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "15:06:04",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:27:12",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740944,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1547,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "12:15:45",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "12:53:24",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139462,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740945,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2432,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "13:06:48",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "14:05:58",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139385,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740946,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2018,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "14:18:52",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "15:06:05",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139462,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139462,
+            "NOM": "angry birds",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:15:46"
+        },
+        {
+            "ID": 139385,
+            "NOM": "Level Up Academy",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:08:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139462
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139385
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22301,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "15:12:22",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5576,
+        "NOM": "Esports Pro Circuit ",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:23:08"
+    },
+    "SERIE": {
+        "ID": 11149,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:27:12"
+    }
+}

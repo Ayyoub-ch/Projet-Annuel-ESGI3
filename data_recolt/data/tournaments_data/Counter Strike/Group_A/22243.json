@@ -1,0 +1,584 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22243,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-10-22",
+        "HEURE DE FIN": "01:28:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:41:51",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "paiN vs BAR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "14:35:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "14:36:02",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "17:33:46",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:45:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://kick.com/locomas"
+            }
+        },
+        {
+            "NOM": "FXW7 vs GLS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "14:35:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "14:36:04",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "17:48:19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:49:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://kick.com/diogodfps"
+            }
+        },
+        {
+            "NOM": "Winners Match: paiN vs FXW7",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "18:50:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "18:49:13",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "21:37:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:40:55",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://kick.com/locomas"
+            }
+        },
+        {
+            "NOM": "Elimination Match: BAR vs GLS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "18:50:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "18:49:15",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "21:28:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:30:50",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://kick.com/lorranbs"
+            }
+        },
+        {
+            "NOM": "Decider Match: GLS vs FXW7",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "22:30:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "22:32:50",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "01:28:48",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "01:36:26",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://kick.com/locomas"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 125751,
+            "NOM": "paiN",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:44:05",
+            "ACRONYME": "paiN"
+        },
+        {
+            "ID": 131848,
+            "NOM": "largadosypelados",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:04:28",
+            "ACRONYME": "LDP"
+        },
+        {
+            "ID": 134355,
+            "NOM": "Galorys",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:57:14",
+            "ACRONYME": "GLS"
+        },
+        {
+            "ID": 137992,
+            "NOM": "Fluxo W7M",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:08:02",
+            "ACRONYME": "FXW7"
+        },
+        {
+            "ID": 139449,
+            "NOM": "BARCA",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:50:28",
+            "ACRONYME": "BAR"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 125751,
+                "NOM": "paiN",
+                "LOCALISATION": "BR",
+                "ACRONYME": "paiN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:44:05"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 20370,
+                    "PSEUDO": "biguzera",
+                    "ROLE": null,
+                    "PRENOM": "Rodrigo",
+                    "NOM": "Bittencourt",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-02-18",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:01"
+                },
+                {
+                    "ID": 28000,
+                    "PSEUDO": "saffee",
+                    "ROLE": null,
+                    "PRENOM": "Rafael",
+                    "NOM": "Costa",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1994-12-19",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:04"
+                },
+                {
+                    "ID": 39422,
+                    "PSEUDO": "Snowzin",
+                    "ROLE": null,
+                    "PRENOM": "João",
+                    "NOM": "Vinicius",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-03-22",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:04"
+                },
+                {
+                    "ID": 53676,
+                    "PSEUDO": "Tatu",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Santana",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:05"
+                },
+                {
+                    "ID": 57105,
+                    "PSEUDO": "Rkzinho",
+                    "ROLE": null,
+                    "PRENOM": "Rickson",
+                    "NOM": "Ribeiro Dias",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:05"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 131848,
+                "NOM": "largadosypelados",
+                "LOCALISATION": "BR",
+                "ACRONYME": "LDP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:04:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 19707,
+                    "PSEUDO": "pancc",
+                    "ROLE": null,
+                    "PRENOM": "Fillipe",
+                    "NOM": "Martins",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-12",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:27"
+                },
+                {
+                    "ID": 24835,
+                    "PSEUDO": "zmb",
+                    "ROLE": null,
+                    "PRENOM": "Leonardo",
+                    "NOM": "Toledo",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-12-08",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:28"
+                },
+                {
+                    "ID": 32675,
+                    "PSEUDO": "Alisson ",
+                    "ROLE": null,
+                    "PRENOM": "Alisson",
+                    "NOM": "Farias",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-31",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:27"
+                },
+                {
+                    "ID": 36607,
+                    "PSEUDO": "happ",
+                    "ROLE": null,
+                    "PRENOM": "Guilherme",
+                    "NOM": "Bento",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-28",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:27"
+                },
+                {
+                    "ID": 39728,
+                    "PSEUDO": "Divine",
+                    "ROLE": null,
+                    "PRENOM": "Gustavo",
+                    "NOM": "Santicioli Altapini",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-06",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:27"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134355,
+                "NOM": "Galorys",
+                "LOCALISATION": "BR",
+                "ACRONYME": "GLS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:57:14"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17728,
+                    "PSEUDO": "PKL",
+                    "ROLE": null,
+                    "PRENOM": "Vinicios",
+                    "NOM": "Coelho",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-07-21",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:57:14"
+                },
+                {
+                    "ID": 19670,
+                    "PSEUDO": "destiny",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Bullo",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-07-03",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:57:14"
+                },
+                {
+                    "ID": 29236,
+                    "PSEUDO": "detr0ittJ",
+                    "ROLE": null,
+                    "PRENOM": "Patrick",
+                    "NOM": "Carvalho",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-06-18",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:57:14"
+                },
+                {
+                    "ID": 30759,
+                    "PSEUDO": "gbb",
+                    "ROLE": null,
+                    "PRENOM": "Gabriel",
+                    "NOM": "Pereira",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-10-02",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:57:13"
+                },
+                {
+                    "ID": 50798,
+                    "PSEUDO": "tomate",
+                    "ROLE": null,
+                    "PRENOM": "Moisés",
+                    "NOM": "lima",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:57:12"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137992,
+                "NOM": "Fluxo W7M",
+                "LOCALISATION": "BR",
+                "ACRONYME": "FXW7",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:08:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17746,
+                    "PSEUDO": "exit",
+                    "ROLE": null,
+                    "PRENOM": "Raphael",
+                    "NOM": "Lacerda",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-08-29",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:02"
+                },
+                {
+                    "ID": 25589,
+                    "PSEUDO": "dav1deuS",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Tapia Maldonado",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-06-07",
+                    "NATIONALITE": "CL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:01"
+                },
+                {
+                    "ID": 26632,
+                    "PSEUDO": "zevy",
+                    "ROLE": null,
+                    "PRENOM": "Romeu",
+                    "NOM": "Rocco",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-30",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:02"
+                },
+                {
+                    "ID": 30767,
+                    "PSEUDO": "Kye",
+                    "ROLE": null,
+                    "PRENOM": "Kayke",
+                    "NOM": "Bertolucci",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-15",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:02"
+                },
+                {
+                    "ID": 47839,
+                    "PSEUDO": "Ltz",
+                    "ROLE": null,
+                    "PRENOM": "João",
+                    "NOM": "Bonetti",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:02"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139449,
+                "NOM": "BARCA",
+                "LOCALISATION": "BR",
+                "ACRONYME": "BAR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:50:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 19707,
+                    "PSEUDO": "pancc",
+                    "ROLE": null,
+                    "PRENOM": "Fillipe",
+                    "NOM": "Martins",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-12",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:27"
+                },
+                {
+                    "ID": 24835,
+                    "PSEUDO": "zmb",
+                    "ROLE": null,
+                    "PRENOM": "Leonardo",
+                    "NOM": "Toledo",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-12-08",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:28"
+                },
+                {
+                    "ID": 32675,
+                    "PSEUDO": "Alisson ",
+                    "ROLE": null,
+                    "PRENOM": "Alisson",
+                    "NOM": "Farias",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-31",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:27"
+                },
+                {
+                    "ID": 36607,
+                    "PSEUDO": "happ",
+                    "ROLE": null,
+                    "PRENOM": "Guilherme",
+                    "NOM": "Bento",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-28",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:27"
+                },
+                {
+                    "ID": 39728,
+                    "PSEUDO": "Divine",
+                    "ROLE": null,
+                    "PRENOM": "Gustavo",
+                    "NOM": "Santicioli Altapini",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-06",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:27"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Circuit X",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-01-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:48:30"
+    },
+    "SERIE": {
+        "NOM": "Curitiba season 4 2026",
+        "ANNEE": 2026,
+        "SAISON": "4",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:41:51",
+        "ID DU VAINQUEUR": 126377
+    }
+}

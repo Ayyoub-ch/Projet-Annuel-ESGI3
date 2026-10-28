@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1695941,
+        "NOM": "RVZ_vs_GL",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "not_started",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-30",
+        "HEURE DE DEBUT": "08:30:00",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "10:34:33",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8062,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8063,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8064,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139275,
+            "NOM": "Team RVZ",
+            "LOCALISATION": "KH",
+            "ACRONYME": "RVZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:34:31"
+        },
+        {
+            "ID": 135443,
+            "NOM": "Galaxy Legends",
+            "LOCALISATION": "KH",
+            "ACRONYME": "GL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:08:47"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139275
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135443
+        }
+    ],
+    "TOURNOI": {
+        "ID": 21975,
+        "NOM": "Regular Season",
+        "TYPE": "offline",
+        "PAYS": "KH",
+        "REGION": "ASIA",
+        "TIER": "b",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-09-18",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "14:35:43",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5288,
+        "NOM": "MPL Cambodia",
+        "DATE DE MODIFICATION": "2024-08-26",
+        "HEURE DE MODIFICATION": "11:39:40"
+    },
+    "SERIE": {
+        "ID": 10992,
+        "NOM": "Season 11 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-09-18",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-17",
+        "HEURE DE MODIFICATION": "10:34:33"
+    }
+}

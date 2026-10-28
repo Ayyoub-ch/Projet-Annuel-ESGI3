@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1772334,
+        "NOM": "Winners_Match__RED.A_vs_GODS_PLAN",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "19:21:41",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "20:55:26",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "08:34:53",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237166,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2911,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "19:21:41",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "20:10:12",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135505,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237167,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2244,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "20:18:02",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "20:55:26",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135505,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135505,
+            "NOM": "RED Canids Academy",
+            "LOCALISATION": "BR",
+            "ACRONYME": "RED.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:01:39"
+        },
+        {
+            "ID": 139465,
+            "NOM": "GODS PLAN",
+            "LOCALISATION": "BR",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:40:47"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135505
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139465
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22238,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 135505,
+        "DATE DE DEBUT": "2026-10-19",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2026-11-04",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "20:55:26",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4554,
+        "NOM": "Gamers Club Liga Série A",
+        "DATE DE MODIFICATION": "2022-08-12",
+        "HEURE DE MODIFICATION": "14:23:59"
+    },
+    "SERIE": {
+        "ID": 11127,
+        "NOM": "October 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-16",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "08:34:53"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1751557,
+        "NOM": "Upper_bracket_quarterfinal_1__AST_vs_FNC",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "16:19:08",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "17:49:22",
+        "DATE DE MODIFICATION": "2026-10-15",
+        "HEURE DE MODIFICATION": "15:57:44",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 235832,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2383,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "16:19:10",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "16:58:54",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 3217,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 235833,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2140,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "17:13:42",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "17:49:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 3217,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 3209,
+            "NOM": "Astralis",
+            "LOCALISATION": "DK",
+            "ACRONYME": "AST",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:05:51"
+        },
+        {
+            "ID": 3217,
+            "NOM": "fnatic",
+            "LOCALISATION": "GB",
+            "ACRONYME": "FNC",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:23:13"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 3209
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 3217
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22224,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "b",
+        "CASH PRIZE": "100000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-10-30",
+        "HEURE DE FIN": "21:30:00",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "12:05:57",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5505,
+        "NOM": "Stake Ranked",
+        "DATE DE MODIFICATION": "2026-03-03",
+        "HEURE DE MODIFICATION": "08:11:47"
+    },
+    "SERIE": {
+        "ID": 11120,
+        "NOM": "Episode 5 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-10-30",
+        "HEURE DE FIN": "21:30:00",
+        "DATE DE MODIFICATION": "2026-10-15",
+        "HEURE DE MODIFICATION": "15:57:44"
+    }
+}

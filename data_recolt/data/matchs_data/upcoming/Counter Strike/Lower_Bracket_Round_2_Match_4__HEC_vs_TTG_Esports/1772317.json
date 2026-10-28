@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1772317,
+        "NOM": "Lower_Bracket_Round_2_Match_4__HEC_vs_TTG_Esports",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "not_started",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "19:15:00",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "08:53:27",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237142,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237143,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237144,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137285,
+            "NOM": "Hermine Esports Club",
+            "LOCALISATION": "FR",
+            "ACRONYME": "HEC",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:48:05"
+        },
+        {
+            "ID": 139353,
+            "NOM": "TTG Esports",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:18:15"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 137285
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139353
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22292,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "2,500 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:15:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "08:53:27",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11143,
+        "NOM": "Contenders #10 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:15:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "08:53:27"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1763023,
+        "NOM": "Decider_Match__Off_Chops_vs_NEXVOID",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "03:11:37",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "05:52:09",
+        "DATE DE MODIFICATION": "2026-10-21",
+        "HEURE DE MODIFICATION": "12:24:07",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 236709,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2515,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "03:11:37",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "03:53:33",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139421,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236710,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2610,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "04:09:55",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "04:53:25",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138151,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236711,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2654,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "05:07:55",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "05:52:10",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138151,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139421,
+            "NOM": "Off Chops",
+            "LOCALISATION": "AU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:27:25"
+        },
+        {
+            "ID": 138151,
+            "NOM": "NEXVOID",
+            "LOCALISATION": "MN",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:27:00"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139421
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138151
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22273,
+        "NOM": "Group A",
+        "TYPE": "offline",
+        "PAYS": "AU",
+        "REGION": "OCE",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 135214,
+        "DATE DE DEBUT": "2026-10-26",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "06:00:00",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "08:00:37",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5364,
+        "NOM": "DFRAG Invitational",
+        "DATE DE MODIFICATION": "2025-02-05",
+        "HEURE DE MODIFICATION": "14:25:11"
+    },
+    "SERIE": {
+        "ID": 11139,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-26",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "08:00:00",
+        "DATE DE MODIFICATION": "2026-10-21",
+        "HEURE DE MODIFICATION": "12:24:07"
+    }
+}

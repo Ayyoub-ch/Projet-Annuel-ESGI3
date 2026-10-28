@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1766414,
+        "NOM": "DNT_vs_Invicta",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "11:41:16",
+        "DATE DE FIN": "2026-10-27",
+        "HEURE DE FIN": "13:13:21",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "18:12:08",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 236884,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2070,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "11:41:16",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "12:15:47",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137951,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236885,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2856,
+            "DATE DE DEBUT DE PARTIE": "2026-10-27",
+            "HEURE DE DEBUT DE PARTIE": "12:25:45",
+            "DATE DE FIN DE PARTIE": "2026-10-27",
+            "HEURE DE FIN DE PARTIE": "13:13:22",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137951,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135981,
+            "NOM": "Donstu Esports",
+            "LOCALISATION": "RU",
+            "ACRONYME": "DNT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:03:33"
+        },
+        {
+            "ID": 137951,
+            "NOM": "Invicta",
+            "LOCALISATION": "",
+            "ACRONYME": "Invicta",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:58:45"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135981
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137951
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22290,
+        "NOM": "Group D",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-26",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-10-31",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "12:58:46",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11142,
+        "NOM": "Series 10 Closed Qualifier 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-03",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-10-24",
+        "HEURE DE MODIFICATION": "18:12:08"
+    }
+}

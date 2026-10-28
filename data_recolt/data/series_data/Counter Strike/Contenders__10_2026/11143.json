@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11143,
+        "NOM": "Contenders__10",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:15:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:53:27",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-04-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:58:18"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-24",
+            "HEURE DE DEBUT": "15:30:00",
+            "DATE DE FIN": "2026-11-01",
+            "HEURE DE FIN": "22:15:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:53:27",
+            "PRIZEPOOL": "2,500 United States Dollar",
+            "SLUG": "cs-go-cct-europe-contenders-10-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1758274,
+        "NOM": "Upper_Bracket_Quarterfinals_match_2__IG_vs_BTRM",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "11:21:34",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "14:00:48",
+        "DATE DE MODIFICATION": "2026-09-12",
+        "HEURE DE MODIFICATION": "13:19:43",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8314,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1460,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "11:21:34",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "11:45:55",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138305,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8315,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1517,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "12:06:56",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "12:32:14",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138310,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8316,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1130,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "12:48:51",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "13:07:41",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138310,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8317,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1896,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "13:29:12",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "14:00:49",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138310,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138305,
+            "NOM": "Invictus Gaming",
+            "LOCALISATION": "MY",
+            "ACRONYME": "IG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:00:12"
+        },
+        {
+            "ID": 138310,
+            "NOM": "Bigetron MY by VIT",
+            "LOCALISATION": "MY",
+            "ACRONYME": "BTRM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:00:12"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138305
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 138310
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22237,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "MY",
+        "REGION": "ASIA",
+        "TIER": "a",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "13:30:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "08:00:12",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5294,
+        "NOM": "MPL Malaysia",
+        "DATE DE MODIFICATION": "2024-09-06",
+        "HEURE DE MODIFICATION": "15:09:24"
+    },
+    "SERIE": {
+        "ID": 10853,
+        "NOM": "Season 18 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-08-14",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-12",
+        "HEURE DE MODIFICATION": "13:19:43"
+    }
+}

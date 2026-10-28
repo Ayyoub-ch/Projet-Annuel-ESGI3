@@ -54,7 +54,7 @@ for moment in time:
             id= match.get("id","Id inconnu")
             nom= match.get("name", "Nom inconnu").replace("/", "_").replace(":", "_").replace(" ", "_")
             type = match.get("match_type","Aucun type de match")
-            jeu= match.get("videogame", {}).get("name", "Jeu inconnu").replace(":", "")
+            jeu= match.get("videogame", {}).get("name", "Jeu inconnu").replace(":", "").replace("-", " ")
             version = match.get("videogame_version","Aucune version disponible") if match.get("videogame_version","Aucune version disponible") != None else "Version indisponible"
             
             debut_match = match.get("begin_at")

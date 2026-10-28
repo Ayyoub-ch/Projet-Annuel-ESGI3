@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1759502,
+        "NOM": "Team_Kinetix_vs_RB",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "10:13:09",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "11:40:38",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "14:17:24",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740790,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1466,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "10:13:09",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "10:47:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139367,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740791,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1459,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "11:06:39",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "11:40:38",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139367,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139148,
+            "NOM": "Team Kinetix",
+            "LOCALISATION": "PH",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:42:16"
+        },
+        {
+            "ID": 139367,
+            "NOM": "Royal Bear",
+            "LOCALISATION": "MY",
+            "ACRONYME": "RB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:06:22"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139148
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139367
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22246,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-02",
+        "HEURE DE FIN": "10:00:00",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "12:15:35",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4884,
+        "NOM": "EPL World Series",
+        "DATE DE MODIFICATION": "2023-12-23",
+        "HEURE DE MODIFICATION": "22:15:29"
+    },
+    "SERIE": {
+        "ID": 11129,
+        "NOM": "Southeast Asia season 19 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-05",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "14:17:24"
+    }
+}

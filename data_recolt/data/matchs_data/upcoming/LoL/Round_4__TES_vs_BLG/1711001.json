@@ -1,0 +1,142 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1711001,
+        "NOM": "Round_4__TES_vs_BLG",
+        "JEU VIDEO": "LoL",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "not_started",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-29",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-09-25",
+        "HEURE DE MODIFICATION": "09:27:42",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-10-29T22:45:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 284738,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284739,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284740,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": "Pas de Vainqueur disponible",
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 126059,
+            "NOM": "Top Esports",
+            "LOCALISATION": "CN",
+            "ACRONYME": "TES",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:19:31"
+        },
+        {
+            "ID": 1566,
+            "NOM": "Bilibili Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "BLG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:02:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 126059
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 1566
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22047,
+        "NOM": "Group Stage",
+        "TYPE": "offline",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "s",
+        "CASH PRIZE": "5,000,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-23",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "13:08:31",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 297,
+        "NOM": "Worlds",
+        "DATE DE MODIFICATION": "2023-12-06",
+        "HEURE DE MODIFICATION": "15:53:28"
+    },
+    "SERIE": {
+        "ID": 11014,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-15",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE MODIFICATION": "2026-09-25",
+        "HEURE DE MODIFICATION": "09:27:42"
+    }
+}

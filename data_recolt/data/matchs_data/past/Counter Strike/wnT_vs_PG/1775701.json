@@ -1,0 +1,106 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1775701,
+        "NOM": "wnT_vs_PG",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "17:40:25",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "18:14:44",
+        "DATE DE MODIFICATION": "2026-10-06",
+        "HEURE DE MODIFICATION": "14:31:10",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237266,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2059,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "17:40:25",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "18:14:45",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 138631,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139351,
+            "NOM": "wnT",
+            "LOCALISATION": "RU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:30:00"
+        },
+        {
+            "ID": 138631,
+            "NOM": "Privateer Gaming",
+            "LOCALISATION": "GB",
+            "ACRONYME": "PG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:48:50"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139351
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138631
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22135,
+        "NOM": "Regular Season",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "02:06:12",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4243,
+        "NOM": "ESEA",
+        "DATE DE MODIFICATION": "2020-11-12",
+        "HEURE DE MODIFICATION": "15:51:24"
+    },
+    "SERIE": {
+        "ID": 11070,
+        "NOM": "Advanced Europe season 59 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-06",
+        "HEURE DE MODIFICATION": "14:31:10"
+    }
+}

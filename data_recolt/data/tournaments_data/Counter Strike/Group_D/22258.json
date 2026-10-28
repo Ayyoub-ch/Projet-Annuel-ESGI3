@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22258,
+        "NOM": "Group_D",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-10-22",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:30:09",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "LPH vs KSM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "13:15:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "13:18:28",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "15:58:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:58:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/trisscary"
+            }
+        },
+        {
+            "NOM": "VEX vs KAMUI",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "13:30:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "13:32:20",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "15:54:01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:54:02",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Elimination Match: VEX vs KSM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "17:07:05",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "18:35:37",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:35:39",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "fi",
+                "LIEN BRUTE": "https://www.twitch.tv/kuusamogg"
+            }
+        },
+        {
+            "NOM": "Winners' Match: KAMUI vs LPH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "17:08:50",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "19:44:11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:44:12",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Decider Match: KSM vs LPH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "13:10:08",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "14:30:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:30:01",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "fi",
+                "LIEN BRUTE": "https://www.twitch.tv/kuusamogg"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 130733,
+            "NOM": "KUUSAMO.gg",
+            "LOCALISATION": "FI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:13:58",
+            "ACRONYME": "KSM"
+        },
+        {
+            "ID": 134405,
+            "NOM": "Vexar",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:51:28",
+            "ACRONYME": "VEX"
+        },
+        {
+            "ID": 136786,
+            "NOM": "LPH Gaming",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:54:12",
+            "ACRONYME": "LPH"
+        },
+        {
+            "ID": 139219,
+            "NOM": "KAMUI",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:14:09",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 130733,
+                "NOM": "KUUSAMO.gg",
+                "LOCALISATION": "FI",
+                "ACRONYME": "KSM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:13:58"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 40639,
+                    "PSEUDO": "Rbm",
+                    "ROLE": null,
+                    "PRENOM": "Niklas",
+                    "NOM": "Nieminen",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:13:58"
+                },
+                {
+                    "ID": 41097,
+                    "PSEUDO": "epik",
+                    "ROLE": null,
+                    "PRENOM": "Elias",
+                    "NOM": "Kyllönen",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:13:57"
+                },
+                {
+                    "ID": 41124,
+                    "PSEUDO": "osku",
+                    "ROLE": null,
+                    "PRENOM": "Eetu-Oskari",
+                    "NOM": "Ojalainen",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:13:58"
+                },
+                {
+                    "ID": 51712,
+                    "PSEUDO": "Keksimage",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Kuntsi",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:13:58"
+                },
+                {
+                    "ID": 54465,
+                    "PSEUDO": "matz",
+                    "ROLE": null,
+                    "PRENOM": "Matti",
+                    "NOM": "Alatalo",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:13:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134405,
+                "NOM": "Vexar",
+                "LOCALISATION": "RU",
+                "ACRONYME": "VEX",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:51:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 44336,
+                    "PSEUDO": "datet",
+                    "ROLE": null,
+                    "PRENOM": "Kirill",
+                    "NOM": "Turkov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:47:36"
+                },
+                {
+                    "ID": 52007,
+                    "PSEUDO": "obsward",
+                    "ROLE": null,
+                    "PRENOM": "Renat",
+                    "NOM": "Smeters",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:47:36"
+                },
+                {
+                    "ID": 53396,
+                    "PSEUDO": "keembo",
+                    "ROLE": null,
+                    "PRENOM": "Yaroslav",
+                    "NOM": "Gushcharin",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:47:36"
+                },
+                {
+                    "ID": 53398,
+                    "PSEUDO": "ADntZ",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Dontsov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:47:35"
+                },
+                {
+                    "ID": 67832,
+                    "PSEUDO": "Bottega666",
+                    "ROLE": null,
+                    "PRENOM": "Vladislav",
+                    "NOM": "Galimov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:47:35"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136786,
+                "NOM": "LPH Gaming",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "LPH",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:54:12"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 31449,
+                    "PSEUDO": "N1KOLAJ",
+                    "ROLE": null,
+                    "PRENOM": "Nicolas ",
+                    "NOM": "Leško",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:55"
+                },
+                {
+                    "ID": 33724,
+                    "PSEUDO": "KAD1M",
+                    "ROLE": null,
+                    "PRENOM": "Radim",
+                    "NOM": "Vojkůvka",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-26",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:54"
+                },
+                {
+                    "ID": 52222,
+                    "PSEUDO": "d0mZ1k",
+                    "ROLE": null,
+                    "PRENOM": "Dominik",
+                    "NOM": "Zikmund",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-03-08",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:50"
+                },
+                {
+                    "ID": 53122,
+                    "PSEUDO": "fajrness",
+                    "ROLE": null,
+                    "PRENOM": "Pavel",
+                    "NOM": "Tůma",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-03-08",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:54"
+                },
+                {
+                    "ID": 53125,
+                    "PSEUDO": "lojzo",
+                    "ROLE": null,
+                    "PRENOM": "Dávid",
+                    "NOM": "Jurík",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-08",
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:55"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139219,
+                "NOM": "KAMUI",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:14:09"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 60155,
+                    "PSEUDO": "Kaname",
+                    "ROLE": null,
+                    "PRENOM": "Andrii",
+                    "NOM": "Kashynskyi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:09"
+                },
+                {
+                    "ID": 60156,
+                    "PSEUDO": "Scr4pi",
+                    "ROLE": null,
+                    "PRENOM": "Volodymyr",
+                    "NOM": "Yatsik",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:09"
+                },
+                {
+                    "ID": 67784,
+                    "PSEUDO": "262",
+                    "ROLE": null,
+                    "PRENOM": "Yehor",
+                    "NOM": "Korenok",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:09"
+                },
+                {
+                    "ID": 67785,
+                    "PSEUDO": "Alpina",
+                    "ROLE": null,
+                    "PRENOM": "Rustam",
+                    "NOM": "Rioneli",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:09"
+                },
+                {
+                    "ID": 68506,
+                    "PSEUDO": "Cursedo",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:09"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "ESL Challenger League",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "SERIE": {
+        "NOM": "Europe Cup #9 season 52 2026",
+        "ANNEE": 2026,
+        "SAISON": "52",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:30:09",
+        "ID DU VAINQUEUR": null
+    }
+}

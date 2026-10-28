@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "20:00:00",
         "DATE DE FIN": "2026-11-02",
         "HEURE DE FIN": "02:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
-        "HEURE DE LA DERNIERE MODIFICATION": "02:26:01",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:59:25",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -193,8 +193,8 @@
             "ID": 138798,
             "NOM": "The Kafe",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:25:59",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:59:25",
             "ACRONYME": "KAFE"
         }
     ],
@@ -462,8 +462,8 @@
                 "NOM": "The Kafe",
                 "LOCALISATION": "US",
                 "ACRONYME": "KAFE",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
-                "HEURE DE LA DERNIERE MODIFICATION": "02:25:59"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:59:25"
             },
             "JOUEURS": [
                 {
@@ -530,6 +530,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
                     "HEURE DE LA DERNIERE MODIFICATION": "02:25:59"
+                },
+                {
+                    "ID": 65045,
+                    "PSEUDO": "cartifan22",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:59:25"
                 }
             ]
         }

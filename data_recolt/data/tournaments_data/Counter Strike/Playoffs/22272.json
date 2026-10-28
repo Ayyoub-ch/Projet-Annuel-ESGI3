@@ -1,0 +1,448 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22272,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-31",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:28:58",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: HOTU vs THE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:39:44",
+            "PRIZEPOOL": "15,000,000 Russian Ruble",
+            "SLUG": "cs-go-moscow-cyber-games-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/gluck_esports"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: 1WIN vs 5S",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:39:48",
+            "PRIZEPOOL": "15,000,000 Russian Ruble",
+            "SLUG": "cs-go-moscow-cyber-games-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/gluck_esports"
+            }
+        },
+        {
+            "NOM": "Third Place Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:28:35",
+            "PRIZEPOOL": "15,000,000 Russian Ruble",
+            "SLUG": "cs-go-moscow-cyber-games-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/gluck_esports"
+            }
+        },
+        {
+            "NOM": "Grand Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:28:35",
+            "PRIZEPOOL": "15,000,000 Russian Ruble",
+            "SLUG": "cs-go-moscow-cyber-games-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/gluck_esports"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 126944,
+            "NOM": "1WIN",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:17:06",
+            "ACRONYME": "1WIN"
+        },
+        {
+            "ID": 130569,
+            "NOM": "HOTU",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:23:31",
+            "ACRONYME": "HOTU"
+        },
+        {
+            "ID": 133900,
+            "NOM": "The Huns Esports",
+            "LOCALISATION": "MN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:17:00",
+            "ACRONYME": "THE"
+        },
+        {
+            "ID": 138284,
+            "NOM": "5star",
+            "LOCALISATION": "MN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:17:07",
+            "ACRONYME": "5S"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 126944,
+                "NOM": "1WIN",
+                "LOCALISATION": "RU",
+                "ACRONYME": "1WIN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:17:06"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18553,
+                    "PSEUDO": "Ax1Le",
+                    "ROLE": null,
+                    "PRENOM": "Sergey",
+                    "NOM": "Rykhtorov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-29",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:00"
+                },
+                {
+                    "ID": 23238,
+                    "PSEUDO": "nafany",
+                    "ROLE": null,
+                    "PRENOM": "Vladislav",
+                    "NOM": "Gorshkov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-15",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:05"
+                },
+                {
+                    "ID": 28376,
+                    "PSEUDO": "fame",
+                    "ROLE": null,
+                    "PRENOM": "Petr",
+                    "NOM": "Bolyshev",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-03",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:05"
+                },
+                {
+                    "ID": 29413,
+                    "PSEUDO": "BELCHONOKK",
+                    "ROLE": null,
+                    "PRENOM": "Andrey",
+                    "NOM": "Yasinskiy",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-14",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:06"
+                },
+                {
+                    "ID": 36656,
+                    "PSEUDO": "ArtFr0st",
+                    "ROLE": null,
+                    "PRENOM": "Artyom ",
+                    "NOM": "Kharitonov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2001-11-27",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:06"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130569,
+                "NOM": "HOTU",
+                "LOCALISATION": "RU",
+                "ACRONYME": "HOTU",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18287,
+                    "PSEUDO": "n0rb3r7",
+                    "ROLE": null,
+                    "PRENOM": "David ",
+                    "NOM": "Danielyan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-11",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+                },
+                {
+                    "ID": 28415,
+                    "PSEUDO": "kade0",
+                    "ROLE": null,
+                    "PRENOM": "Aydos",
+                    "NOM": "Khairzhan",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-01-07",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+                },
+                {
+                    "ID": 36829,
+                    "PSEUDO": "mizu",
+                    "ROLE": null,
+                    "PRENOM": "Dmitry ",
+                    "NOM": "Kondratev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+                },
+                {
+                    "ID": 42769,
+                    "PSEUDO": "Dwushka",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr ",
+                    "NOM": "Pakhnevich",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-11-30",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:28"
+                },
+                {
+                    "ID": 52195,
+                    "PSEUDO": "frontales",
+                    "ROLE": null,
+                    "PRENOM": "Kim",
+                    "NOM": "Argunov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:23:31"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133900,
+                "NOM": "The Huns Esports",
+                "LOCALISATION": "MN",
+                "ACRONYME": "THE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:17:00"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26688,
+                    "PSEUDO": "Annihilation",
+                    "ROLE": null,
+                    "PRENOM": "Tuvshintugs",
+                    "NOM": "Nyamdorj",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-01-25",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:00"
+                },
+                {
+                    "ID": 26735,
+                    "PSEUDO": "Bart4k",
+                    "ROLE": null,
+                    "PRENOM": "Baatarkhuu",
+                    "NOM": "Batbold",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-29",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:16:58"
+                },
+                {
+                    "ID": 31302,
+                    "PSEUDO": "controlez",
+                    "ROLE": null,
+                    "PRENOM": "Unudelger",
+                    "NOM": "Baasanjargal",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-05-23",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:16:59"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138284,
+                "NOM": "5star",
+                "LOCALISATION": "MN",
+                "ACRONYME": "5S",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:17:07"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24513,
+                    "PSEUDO": "neuz",
+                    "ROLE": null,
+                    "PRENOM": "Uuganbayar",
+                    "NOM": "Nyam-Otgon",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-12",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:07"
+                },
+                {
+                    "ID": 26684,
+                    "PSEUDO": "rate",
+                    "ROLE": null,
+                    "PRENOM": "Boldbaatar",
+                    "NOM": "Tengis",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-10-02",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:06"
+                },
+                {
+                    "ID": 26740,
+                    "PSEUDO": "clouden",
+                    "ROLE": null,
+                    "PRENOM": "Gereltod",
+                    "NOM": "Jargal",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:07"
+                },
+                {
+                    "ID": 39181,
+                    "PSEUDO": "ariucle",
+                    "ROLE": null,
+                    "PRENOM": "Ariunjargal ",
+                    "NOM": "Yadam",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-29",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:07"
+                },
+                {
+                    "ID": 51801,
+                    "PSEUDO": "hoolig4n",
+                    "ROLE": null,
+                    "PRENOM": "Dulguun",
+                    "NOM": "Batsaikhan",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:07"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Moscow Cyber Games",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-08-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:10:25"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:28:58",
+        "ID DU VAINQUEUR": null
+    }
+}

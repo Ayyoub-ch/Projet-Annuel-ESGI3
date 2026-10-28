@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1772352,
+        "NOM": "Upper_Bracket_Quarterfinal_Match_1__SOLID_vs_TS",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "15:34:03",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "17:49:26",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "10:52:43",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 740837,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2928,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "15:34:04",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "16:34:57",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139124,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 740838,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2073,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "17:02:03",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "17:49:26",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 139124,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139457,
+            "NOM": "SOLID",
+            "LOCALISATION": "PE",
+            "ACRONYME": "SOLID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:02:16"
+        },
+        {
+            "ID": 139124,
+            "NOM": "Team Synapse",
+            "LOCALISATION": "",
+            "ACRONYME": "TS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:52:29"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139457
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139124
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22299,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": "20000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-02",
+        "HEURE DE FIN": "00:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "10:53:00",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5575,
+        "NOM": "NEXUS SERIES",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "08:07:58"
+    },
+    "SERIE": {
+        "ID": 11148,
+        "NOM": "Season 2 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-02",
+        "HEURE DE FIN": "00:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "10:52:43"
+    }
+}

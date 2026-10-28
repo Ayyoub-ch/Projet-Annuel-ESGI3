@@ -1,0 +1,512 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22251,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-10-21",
+        "HEURE DE FIN": "13:28:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:47:50",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "VP vs XMETA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "06:02:40",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "07:05:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:48:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/MPKBK"
+            }
+        },
+        {
+            "NOM": "ACES vs EVOE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "06:15:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "06:18:05",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "07:38:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:49:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/resaj"
+            }
+        },
+        {
+            "NOM": "Elimination Match: XMETA vs EVOE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "08:15:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "08:11:31",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "10:44:46",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:49:12",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/resaj"
+            }
+        },
+        {
+            "NOM": "Winners' Match: VP vs ACES",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "08:15:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "08:14:08",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "09:25:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:29:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/virtuspro"
+            }
+        },
+        {
+            "NOM": "Decider Match: ACES vs EVOE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "11:40:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "11:38:08",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "13:28:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:35:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cis-lan-championship-9-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/MPKBK"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 3288,
+            "NOM": "Virtus.pro",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:01:41",
+            "ACRONYME": "VP"
+        },
+        {
+            "ID": 139319,
+            "NOM": "EVO Elite",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:40:55",
+            "ACRONYME": "EVOE"
+        },
+        {
+            "ID": 139435,
+            "NOM": "Team ACES",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:01:48",
+            "ACRONYME": "ACES"
+        },
+        {
+            "ID": 139443,
+            "NOM": "XMETA",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:45:24",
+            "ACRONYME": "XMETA"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 3288,
+                "NOM": "Virtus.pro",
+                "LOCALISATION": "RU",
+                "ACRONYME": "VP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:01:41"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17699,
+                    "PSEUDO": "mir",
+                    "ROLE": null,
+                    "PRENOM": "Nikolay",
+                    "NOM": "Bityukov",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-01-10",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:41"
+                },
+                {
+                    "ID": 25660,
+                    "PSEUDO": "Patsi",
+                    "ROLE": null,
+                    "PRENOM": "Robert",
+                    "NOM": "Isyanov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-09-06",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:14"
+                },
+                {
+                    "ID": 51212,
+                    "PSEUDO": "b1st",
+                    "ROLE": null,
+                    "PRENOM": "Vladimir ",
+                    "NOM": "Krasikov",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:40"
+                },
+                {
+                    "ID": 56818,
+                    "PSEUDO": "tO0RO",
+                    "ROLE": null,
+                    "PRENOM": "Vadim",
+                    "NOM": "Arkov",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:41"
+                },
+                {
+                    "ID": 56821,
+                    "PSEUDO": "AquaRS",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Kovalev",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:01:35"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139319,
+                "NOM": "EVO Elite",
+                "LOCALISATION": "",
+                "ACRONYME": "EVOE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:40:55"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 39415,
+                    "PSEUDO": "Resaj",
+                    "ROLE": null,
+                    "PRENOM": "Vladimir ",
+                    "NOM": "Ryazanov",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:21:05"
+                },
+                {
+                    "ID": 62037,
+                    "PSEUDO": "d1esFf",
+                    "ROLE": null,
+                    "PRENOM": "Mark",
+                    "NOM": "Tatevosov",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:34:25"
+                },
+                {
+                    "ID": 66418,
+                    "PSEUDO": "K1yotaka",
+                    "ROLE": null,
+                    "PRENOM": "Maxim",
+                    "NOM": "Tsyba",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:34:53"
+                },
+                {
+                    "ID": 68154,
+                    "PSEUDO": "yungquewe",
+                    "ROLE": null,
+                    "PRENOM": "Oleg",
+                    "NOM": "Vanchagov",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:20"
+                },
+                {
+                    "ID": 68159,
+                    "PSEUDO": "Kro4i123",
+                    "ROLE": null,
+                    "PRENOM": "Alexey",
+                    "NOM": "Rogov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:35:28"
+                },
+                {
+                    "ID": 68519,
+                    "PSEUDO": "malizu",
+                    "ROLE": null,
+                    "PRENOM": "Dmitry",
+                    "NOM": "Serenko",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:22:27"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139435,
+                "NOM": "Team ACES",
+                "LOCALISATION": "RU",
+                "ACRONYME": "ACES",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:01:48"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 37606,
+                    "PSEUDO": "4X1s",
+                    "ROLE": null,
+                    "PRENOM": "Daniils",
+                    "NOM": "Jaciks",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:04"
+                },
+                {
+                    "ID": 44398,
+                    "PSEUDO": "KaRnez",
+                    "ROLE": null,
+                    "PRENOM": "Ernest ",
+                    "NOM": "Kazakov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:04"
+                },
+                {
+                    "ID": 55563,
+                    "PSEUDO": "topo",
+                    "ROLE": null,
+                    "PRENOM": "Evgenii",
+                    "NOM": "Lopatin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:03"
+                },
+                {
+                    "ID": 57631,
+                    "PSEUDO": "MRcreed",
+                    "ROLE": null,
+                    "PRENOM": "Khrustalev",
+                    "NOM": "Valeriy",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:04"
+                },
+                {
+                    "ID": 62268,
+                    "PSEUDO": "salazar",
+                    "ROLE": null,
+                    "PRENOM": "Kirill",
+                    "NOM": "Rautskiy",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:04"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139443,
+                "NOM": "XMETA",
+                "LOCALISATION": "RU",
+                "ACRONYME": "XMETA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:45:24"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 68499,
+                    "PSEUDO": "spoky",
+                    "ROLE": null,
+                    "PRENOM": "Sergei",
+                    "NOM": "Simonov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:10"
+                },
+                {
+                    "ID": 68500,
+                    "PSEUDO": "Whyyy",
+                    "ROLE": null,
+                    "PRENOM": "Maksim",
+                    "NOM": "Paryshev",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:33"
+                },
+                {
+                    "ID": 68501,
+                    "PSEUDO": "faiz",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Moiseev",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:38"
+                },
+                {
+                    "ID": 68502,
+                    "PSEUDO": "Eline",
+                    "ROLE": null,
+                    "PRENOM": "Danil",
+                    "NOM": "Paryshev",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:14"
+                },
+                {
+                    "ID": 68503,
+                    "PSEUDO": "tobipain",
+                    "ROLE": null,
+                    "PRENOM": "Pavel",
+                    "NOM": "Koroteev",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:45"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "CIS LAN Championship",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-03-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:25:17"
+    },
+    "SERIE": {
+        "NOM": "Season 9 2026",
+        "ANNEE": 2026,
+        "SAISON": "9",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:51:27",
+        "ID DU VAINQUEUR": null
+    }
+}

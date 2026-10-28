@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22256,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-10-21",
+        "HEURE DE FIN": "19:38:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:30:09",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "SKR vs LK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "13:10:26",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "14:26:16",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:26:18",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "mellren vs 4M",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "13:10:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "13:10:51",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "15:54:16",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:54:18",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/mgfongabe"
+            }
+        },
+        {
+            "NOM": "Elimination Match: LK vs mellren",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "17:04:42",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "19:38:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:38:04",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/mgfongabe"
+            }
+        },
+        {
+            "NOM": "Winners' Match: SKR vs 4M",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "17:15:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:23:48",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Decider Match: SKR vs LK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:13:24",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 127837,
+            "NOM": "los kogutos",
+            "LOCALISATION": "PL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:53:02",
+            "ACRONYME": "LK"
+        },
+        {
+            "ID": 137551,
+            "NOM": "Four Magic",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:38:25",
+            "ACRONYME": "4M"
+        },
+        {
+            "ID": 138400,
+            "NOM": "mellren",
+            "LOCALISATION": "BY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:02:31",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139343,
+            "NOM": "Sökerorg",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:05:04",
+            "ACRONYME": "SKR"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 127837,
+                "NOM": "los kogutos",
+                "LOCALISATION": "PL",
+                "ACRONYME": "LK",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:53:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30012,
+                    "PSEUDO": "tomiko",
+                    "ROLE": null,
+                    "PRENOM": "Tomasz",
+                    "NOM": "Uroda",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-03-22",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:43:08"
+                },
+                {
+                    "ID": 30016,
+                    "PSEUDO": "maaryy",
+                    "ROLE": null,
+                    "PRENOM": "Martin",
+                    "NOM": "Nakonieczny",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-19",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:43:07"
+                },
+                {
+                    "ID": 33426,
+                    "PSEUDO": "MWLKY",
+                    "ROLE": null,
+                    "PRENOM": "Łukasz",
+                    "NOM": "Pachucki",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-26",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:41"
+                },
+                {
+                    "ID": 50408,
+                    "PSEUDO": "AdrieN",
+                    "ROLE": null,
+                    "PRENOM": "Adrian",
+                    "NOM": "Mucha",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:43:06"
+                },
+                {
+                    "ID": 58304,
+                    "PSEUDO": "Showk",
+                    "ROLE": null,
+                    "PRENOM": "Sebastian",
+                    "NOM": "Geltz",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:43:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137551,
+                "NOM": "Four Magic",
+                "LOCALISATION": "BR",
+                "ACRONYME": "4M",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:38:25"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 59540,
+                    "PSEUDO": "statikS",
+                    "ROLE": null,
+                    "PRENOM": "Fynn",
+                    "NOM": "Szusdziara",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:38:23"
+                },
+                {
+                    "ID": 61539,
+                    "PSEUDO": "LkS",
+                    "ROLE": null,
+                    "PRENOM": "Adrian ",
+                    "NOM": "Alexandru Dușmanu",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:38:25"
+                },
+                {
+                    "ID": 65974,
+                    "PSEUDO": "GeGo",
+                    "ROLE": null,
+                    "PRENOM": "Georgi",
+                    "NOM": "Gospodinov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:38:24"
+                },
+                {
+                    "ID": 66708,
+                    "PSEUDO": "St1xsy",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:38:25"
+                },
+                {
+                    "ID": 67965,
+                    "PSEUDO": "sensey",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:38:24"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138400,
+                "NOM": "mellren",
+                "LOCALISATION": "BY",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:02:31"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 19638,
+                    "PSEUDO": "lollipop21k",
+                    "ROLE": null,
+                    "PRENOM": "Igor",
+                    "NOM": "Solodkov",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-06-21",
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:30"
+                },
+                {
+                    "ID": 47057,
+                    "PSEUDO": "Maksilvl",
+                    "ROLE": null,
+                    "PRENOM": "Maksim",
+                    "NOM": "Makarov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:30"
+                },
+                {
+                    "ID": 51717,
+                    "PSEUDO": "menddel",
+                    "ROLE": null,
+                    "PRENOM": "Maxim",
+                    "NOM": "Shved",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:31"
+                },
+                {
+                    "ID": 63996,
+                    "PSEUDO": "mdl",
+                    "ROLE": null,
+                    "PRENOM": "Semyon",
+                    "NOM": "Kuzmitski",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:31"
+                },
+                {
+                    "ID": 65151,
+                    "PSEUDO": "shootic",
+                    "ROLE": null,
+                    "PRENOM": "Maxsim",
+                    "NOM": "Bondarenko",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:31"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139343,
+                "NOM": "Sökerorg",
+                "LOCALISATION": "",
+                "ACRONYME": "SKR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:05:04"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24243,
+                    "PSEUDO": "Sapec",
+                    "ROLE": null,
+                    "PRENOM": "Anton ",
+                    "NOM": "Palmgren",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-05",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:04"
+                },
+                {
+                    "ID": 30413,
+                    "PSEUDO": "dottie",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Alevärn",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:03"
+                },
+                {
+                    "ID": 32358,
+                    "PSEUDO": "redzy",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Johansson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:04"
+                },
+                {
+                    "ID": 35871,
+                    "PSEUDO": " flaw",
+                    "ROLE": null,
+                    "PRENOM": "Adam",
+                    "NOM": "Gustafsson",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:04"
+                },
+                {
+                    "ID": 35898,
+                    "PSEUDO": "L00m1",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Haukland",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-19",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:04"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "ESL Challenger League",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "SERIE": {
+        "NOM": "Europe Cup #9 season 52 2026",
+        "ANNEE": 2026,
+        "SAISON": "52",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:30:09",
+        "ID DU VAINQUEUR": null
+    }
+}

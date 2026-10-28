@@ -1,0 +1,525 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22244,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-22",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-10-22",
+        "HEURE DE FIN": "23:18:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:41:51",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "IMP vs TdP",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "14:20:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "14:23:28",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "16:34:24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:43:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/analyticvictor"
+            }
+        },
+        {
+            "NOM": "BST vs SHIN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "14:20:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "14:24:38",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "17:02:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:17:00",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://kick.com/diogodfps"
+            }
+        },
+        {
+            "NOM": "Winners Match: IMP vs BST",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "17:50:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "17:52:41",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "19:32:50",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:39:15",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://kick.com/locomas"
+            }
+        },
+        {
+            "NOM": "Elimination Match: TdP vs SHIN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "17:50:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "17:52:43",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "20:30:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:31:43",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://kick.com/locomas"
+            }
+        },
+        {
+            "NOM": "Decider Match: IMP vs SHIN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "21:30:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "21:33:43",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "23:18:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:22:13",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-circuit-x-curitiba-4-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://kick.com/circuitx"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 126377,
+            "NOM": "Imperial",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:44:01",
+            "ACRONYME": "IMP"
+        },
+        {
+            "ID": 132800,
+            "NOM": "BESTIA",
+            "LOCALISATION": "AR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:18:51",
+            "ACRONYME": "BST"
+        },
+        {
+            "ID": 135468,
+            "NOM": "ShindeN",
+            "LOCALISATION": "AR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:08:04",
+            "ACRONYME": "SHIN"
+        },
+        {
+            "ID": 138620,
+            "NOM": "Turma do Pagode",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:40:08",
+            "ACRONYME": "TdP"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 126377,
+                "NOM": "Imperial",
+                "LOCALISATION": "BR",
+                "ACRONYME": "IMP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:44:01"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17729,
+                    "PSEUDO": "chelo",
+                    "ROLE": null,
+                    "PRENOM": "Marcelo",
+                    "NOM": "Cespedes",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-06-08",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:43:58"
+                },
+                {
+                    "ID": 19666,
+                    "PSEUDO": "VINI",
+                    "ROLE": null,
+                    "PRENOM": "Vinicius",
+                    "NOM": "Figueiredo",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-05-20",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:00"
+                },
+                {
+                    "ID": 31845,
+                    "PSEUDO": "decenty",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Bacelar",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-03-01",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:01"
+                },
+                {
+                    "ID": 43954,
+                    "PSEUDO": "saadzin",
+                    "ROLE": null,
+                    "PRENOM": "Guilherme",
+                    "NOM": "Pacheco",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-14",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:01"
+                },
+                {
+                    "ID": 48407,
+                    "PSEUDO": "noway",
+                    "ROLE": null,
+                    "PRENOM": "Kaiky",
+                    "NOM": "Santos",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-05-12",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:00"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 132800,
+                "NOM": "BESTIA",
+                "LOCALISATION": "AR",
+                "ACRONYME": "BST",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:18:51"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24811,
+                    "PSEUDO": "drop",
+                    "ROLE": null,
+                    "PRENOM": "André",
+                    "NOM": "Abreu",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-15",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:50"
+                },
+                {
+                    "ID": 28003,
+                    "PSEUDO": "kauez",
+                    "ROLE": null,
+                    "PRENOM": "Kaue",
+                    "NOM": "Kaschuk",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-08",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:51"
+                },
+                {
+                    "ID": 29459,
+                    "PSEUDO": "cass1n",
+                    "ROLE": null,
+                    "PRENOM": "Cássio",
+                    "NOM": "Santos",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-08",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:51"
+                },
+                {
+                    "ID": 31856,
+                    "PSEUDO": "Buda",
+                    "ROLE": null,
+                    "PRENOM": "Nicolás",
+                    "NOM": "Kramer",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-24",
+                    "NATIONALITE": "AR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:51"
+                },
+                {
+                    "ID": 59124,
+                    "PSEUDO": "timo",
+                    "ROLE": null,
+                    "PRENOM": "Cristhian",
+                    "NOM": "Perez Pintos",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-19",
+                    "NATIONALITE": "UY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:49"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135468,
+                "NOM": "ShindeN",
+                "LOCALISATION": "AR",
+                "ACRONYME": "SHIN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:08:04"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25449,
+                    "PSEUDO": "tom1jed",
+                    "ROLE": null,
+                    "PRENOM": "Tomas",
+                    "NOM": "Rivero",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-11-14",
+                    "NATIONALITE": "AR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:04"
+                },
+                {
+                    "ID": 30987,
+                    "PSEUDO": "abizz",
+                    "ROLE": null,
+                    "PRENOM": "Matias",
+                    "NOM": "Muñiz Cusi",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-01",
+                    "NATIONALITE": "AR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:03"
+                },
+                {
+                    "ID": 34606,
+                    "PSEUDO": "ivz",
+                    "ROLE": null,
+                    "PRENOM": "Ivan",
+                    "NOM": "Quintana",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-22",
+                    "NATIONALITE": "AR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:51:16"
+                },
+                {
+                    "ID": 35902,
+                    "PSEUDO": "naz",
+                    "ROLE": null,
+                    "PRENOM": "Nazareno",
+                    "NOM": "Romero",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-06-04",
+                    "NATIONALITE": "AR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:04"
+                },
+                {
+                    "ID": 58143,
+                    "PSEUDO": "FraGuTy",
+                    "ROLE": null,
+                    "PRENOM": "Lautaro Agustin",
+                    "NOM": " Morales Gomez",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:03"
+                },
+                {
+                    "ID": 63507,
+                    "PSEUDO": "reNTU",
+                    "ROLE": null,
+                    "PRENOM": "Renan",
+                    "NOM": "Cardoso",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:08:04"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138620,
+                "NOM": "Turma do Pagode",
+                "LOCALISATION": "BR",
+                "ACRONYME": "TdP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "06:40:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 21441,
+                    "PSEUDO": "Tuurtle",
+                    "ROLE": null,
+                    "PRENOM": "Matheus",
+                    "NOM": "Anhaia",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-10-31",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:08"
+                },
+                {
+                    "ID": 24740,
+                    "PSEUDO": "WOOD7",
+                    "ROLE": null,
+                    "PRENOM": "Adriano",
+                    "NOM": "Cerato",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-05-23",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:08"
+                },
+                {
+                    "ID": 26681,
+                    "PSEUDO": "naitte",
+                    "ROLE": null,
+                    "PRENOM": "João",
+                    "NOM": "Maia",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1997-11-05",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:08"
+                },
+                {
+                    "ID": 27088,
+                    "PSEUDO": "pesadelo",
+                    "ROLE": null,
+                    "PRENOM": "Matheus",
+                    "NOM": "Panisset",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-12",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:08"
+                },
+                {
+                    "ID": 34110,
+                    "PSEUDO": "matios",
+                    "ROLE": null,
+                    "PRENOM": "João",
+                    "NOM": "Guedes",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-22",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:40:08"
+                },
+                {
+                    "ID": 58676,
+                    "PSEUDO": "Ceruttera",
+                    "ROLE": null,
+                    "PRENOM": "Vitor",
+                    "NOM": "Cerutti",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "06:44:06"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Circuit X",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-01-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:48:30"
+    },
+    "SERIE": {
+        "NOM": "Curitiba season 4 2026",
+        "ANNEE": 2026,
+        "SAISON": "4",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:41:51",
+        "ID DU VAINQUEUR": 126377
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11153,
+        "NOM": "VII_2026",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-29",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-02",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+        "HEURE DE LA DERNIERE MODIFICATION": "06:50:13",
+        "ANNEE": 2026,
+        "SAISON": "VII"
+    },
+    "LIGUE": {
+        "ID": 4268,
+        "NOM": "Gamers Club Masters",
+        "DATE DE LA DERNIERE MODIFICATION": "2019-12-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:43:09"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "16:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:46:10",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-masters-vii-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-10-29",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "19:30:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:35:55",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-masters-vii-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "2026-11-02",
+            "HEURE DE FIN": "01:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:50:13",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-gamers-club-masters-vii-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

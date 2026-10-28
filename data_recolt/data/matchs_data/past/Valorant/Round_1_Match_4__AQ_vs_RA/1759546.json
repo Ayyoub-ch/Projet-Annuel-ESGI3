@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1759546,
+        "NOM": "Round_1_Match_4__AQ_vs_RA",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "11:27:13",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "13:14:53",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "15:30:19",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52491,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2863,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "11:27:13",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "12:14:56",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137493,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52492,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2928,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "12:26:05",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "13:14:54",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 137493,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137493,
+            "NOM": "Any Questions Gaming",
+            "LOCALISATION": "",
+            "ACRONYME": "AQ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:48:34"
+        },
+        {
+            "ID": 133285,
+            "NOM": "Rare Atom",
+            "LOCALISATION": "CN",
+            "ACRONYME": "RA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:48:34"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137493
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 133285
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22249,
+        "NOM": "Week 2",
+        "TYPE": "offline",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-27",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-25",
+        "HEURE DE MODIFICATION": "15:48:38",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11130,
+        "NOM": "Threshold China 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "04:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "15:30:19"
+    }
+}

@@ -17,13 +17,7 @@ def download_leagues_by_date(
     """Renvoie toutes les ligues du jeu comprises dans la date demandée.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     \nDate au format : YYYY-MM-DD"""
-    date_now = date.today()
-    if date1 > date_now:
-        raise HTTPException(
-            status_code=422,
-            detail="date1 doit être antérieure ou égale à la date d'aujourd'hui",
-        )
-
+    
     try:
         leagues = get_leagues_by_date(videogame_name, date1)
     except FileNotFoundError:

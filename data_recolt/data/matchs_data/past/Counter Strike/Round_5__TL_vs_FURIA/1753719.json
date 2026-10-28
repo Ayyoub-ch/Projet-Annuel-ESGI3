@@ -1,0 +1,124 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1753719,
+        "NOM": "Round_5__TL_vs_FURIA",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "13:44:06",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "15:33:48",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:04:02",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 236146,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3032,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "13:44:08",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "14:34:40",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 124530,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236147,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2545,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "14:51:23",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "15:33:49",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 124530,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 3213,
+            "NOM": "Liquid",
+            "LOCALISATION": "US",
+            "ACRONYME": "TL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:21:02"
+        },
+        {
+            "ID": 124530,
+            "NOM": "FURIA",
+            "LOCALISATION": "BR",
+            "ACRONYME": "FURIA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:43:46"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 3213
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 124530
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22222,
+        "NOM": "Group Stage",
+        "TYPE": "offline",
+        "PAYS": "RO",
+        "REGION": "EEU",
+        "TIER": "a",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:22:26",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5442,
+        "NOM": "PGL Masters",
+        "DATE DE MODIFICATION": "2025-10-18",
+        "HEURE DE MODIFICATION": "17:56:00"
+    },
+    "SERIE": {
+        "ID": 11118,
+        "NOM": "Bucharest 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-24",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-10-31",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-16",
+        "HEURE DE MODIFICATION": "17:04:02"
+    }
+}

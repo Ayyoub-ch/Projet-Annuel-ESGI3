@@ -1,0 +1,160 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1758273,
+        "NOM": "Upper_Bracket_Quarterfinals_match_1__VMS_vs_FL",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "07:06:14",
+        "DATE DE FIN": "2026-10-28",
+        "HEURE DE FIN": "09:36:12",
+        "DATE DE MODIFICATION": "2026-09-12",
+        "HEURE DE MODIFICATION": "13:19:43",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8309,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1276,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "07:06:14",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "07:27:30",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135489,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8310,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1412,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "07:47:46",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "08:11:19",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135489,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8311,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1177,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "08:32:07",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "08:51:44",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 134983,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8312,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1324,
+            "DATE DE DEBUT DE PARTIE": "2026-10-28",
+            "HEURE DE DEBUT DE PARTIE": "09:14:08",
+            "DATE DE FIN DE PARTIE": "2026-10-28",
+            "HEURE DE FIN DE PARTIE": "09:36:13",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "VAINQUEUR": {
+                "ID": 135489,
+                "TYPE": "Team"
+            },
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135489,
+            "NOM": "Team Vamos",
+            "LOCALISATION": "MY",
+            "ACRONYME": "VMS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:00:10"
+        },
+        {
+            "ID": 134983,
+            "NOM": "Team Flash",
+            "LOCALISATION": "SG",
+            "ACRONYME": "FL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:00:11"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 135489
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 134983
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22237,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "MY",
+        "REGION": "ASIA",
+        "TIER": "a",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-28",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "13:30:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "08:00:12",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5294,
+        "NOM": "MPL Malaysia",
+        "DATE DE MODIFICATION": "2024-09-06",
+        "HEURE DE MODIFICATION": "15:09:24"
+    },
+    "SERIE": {
+        "ID": 10853,
+        "NOM": "Season 18 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-08-14",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-12",
+        "HEURE DE MODIFICATION": "13:19:43"
+    }
+}

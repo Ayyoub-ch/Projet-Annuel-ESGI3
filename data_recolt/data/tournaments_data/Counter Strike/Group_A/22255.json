@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22255,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-21",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-10-22",
+        "HEURE DE FIN": "15:23:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:30:09",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Morrow Esports vs SSins",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "13:30:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "13:31:05",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "15:40:11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:40:13",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Winners' Match: DM vs Morrow Esports",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-21",
+            "HEURE DE DEBUT": "17:09:17",
+            "DATE DE FIN": "2026-10-21",
+            "HEURE DE FIN": "19:23:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:23:29",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Decider Match: SSins vs DM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-22",
+            "HEURE PRÉVUE": "13:10:00",
+            "DATE DE DEBUT": "2026-10-22",
+            "HEURE DE DEBUT": "13:12:38",
+            "DATE DE FIN": "2026-10-22",
+            "HEURE DE FIN": "15:23:38",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:23:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=WfsAjLPw54o"
+            }
+        },
+        {
+            "NOM": "G1 vs DM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:59:43",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Elimination Match: G1 vs SSins",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-21",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "Date incon",
+            "HEURE DE DEBUT": "ue",
+            "DATE DE FIN": "Date incon",
+            "HEURE DE FIN": "ue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:11:41",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-9-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 128519,
+            "NOM": "GenOne",
+            "LOCALISATION": "FR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:07:31",
+            "ACRONYME": "G1"
+        },
+        {
+            "ID": 138694,
+            "NOM": "Dark Moon",
+            "LOCALISATION": "KZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:05:43",
+            "ACRONYME": "DM"
+        },
+        {
+            "ID": 139111,
+            "NOM": "Morrow Esports",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:00:59",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139149,
+            "NOM": "Saint Sinners",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:03:36",
+            "ACRONYME": "SSins"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 128519,
+                "NOM": "GenOne",
+                "LOCALISATION": "FR",
+                "ACRONYME": "G1",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:07:31"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17708,
+                    "PSEUDO": "SIXER",
+                    "ROLE": null,
+                    "PRENOM": "Christophe",
+                    "NOM": "Xia",
+                    "AGE": 35,
+                    "DATE DE NAISSANCE": "1991-04-21",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:31"
+                },
+                {
+                    "ID": 20932,
+                    "PSEUDO": "Keoz",
+                    "ROLE": null,
+                    "PRENOM": "Nicolas",
+                    "NOM": "Dgus",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-29",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:31"
+                },
+                {
+                    "ID": 29153,
+                    "PSEUDO": "Djoko",
+                    "ROLE": null,
+                    "PRENOM": "Thomas",
+                    "NOM": "Pavoni",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-04-16",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:31"
+                },
+                {
+                    "ID": 40697,
+                    "PSEUDO": "Brooxsy",
+                    "ROLE": null,
+                    "PRENOM": "Hugo",
+                    "NOM": "Di Bono",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:30"
+                },
+                {
+                    "ID": 61362,
+                    "PSEUDO": "bL4SEZ",
+                    "ROLE": null,
+                    "PRENOM": "Elyas",
+                    "NOM": "Amiar",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:07:26"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138694,
+                "NOM": "Dark Moon",
+                "LOCALISATION": "KZ",
+                "ACRONYME": "DM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:05:43"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 50797,
+                    "PSEUDO": "Maison",
+                    "ROLE": null,
+                    "PRENOM": "Gani",
+                    "NOM": "Kelgenbay",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-08-21",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:05:42"
+                },
+                {
+                    "ID": 57328,
+                    "PSEUDO": "dako",
+                    "ROLE": null,
+                    "PRENOM": "Daulet",
+                    "NOM": "Ondassynov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-06-28",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:05:42"
+                },
+                {
+                    "ID": 62084,
+                    "PSEUDO": "modeSavage",
+                    "ROLE": null,
+                    "PRENOM": "Adil",
+                    "NOM": "Tleuliyev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:26:05"
+                },
+                {
+                    "ID": 64269,
+                    "PSEUDO": "keiyon",
+                    "ROLE": null,
+                    "PRENOM": "Ibragim",
+                    "NOM": "Atchibayev",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:05:42"
+                },
+                {
+                    "ID": 68504,
+                    "PSEUDO": "while",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:26:05"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139111,
+                "NOM": "Morrow Esports",
+                "LOCALISATION": "RU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:00:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 44181,
+                    "PSEUDO": "Wign",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Petrov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                },
+                {
+                    "ID": 51580,
+                    "PSEUDO": "K014NZ",
+                    "ROLE": null,
+                    "PRENOM": "Nikolay",
+                    "NOM": "Glushnev",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                },
+                {
+                    "ID": 59445,
+                    "PSEUDO": "facer",
+                    "ROLE": null,
+                    "PRENOM": "Vyacheslav",
+                    "NOM": "Grudin",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:59"
+                },
+                {
+                    "ID": 63998,
+                    "PSEUDO": "yoyoS2",
+                    "ROLE": null,
+                    "PRENOM": "Abuladze",
+                    "NOM": "Daniil",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:59"
+                },
+                {
+                    "ID": 65152,
+                    "PSEUDO": "norescue",
+                    "ROLE": null,
+                    "PRENOM": "Maxim",
+                    "NOM": "Shashkin",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:59"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139149,
+                "NOM": "Saint Sinners",
+                "LOCALISATION": "RU",
+                "ACRONYME": "SSins",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:03:36"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 36651,
+                    "PSEUDO": "deb0",
+                    "ROLE": null,
+                    "PRENOM": "Arlind",
+                    "NOM": "Sadiku",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-03",
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:03:36"
+                },
+                {
+                    "ID": 37149,
+                    "PSEUDO": "Caleyy",
+                    "ROLE": null,
+                    "PRENOM": "Ensar",
+                    "NOM": "Ersuzi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-25",
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:03:36"
+                },
+                {
+                    "ID": 51720,
+                    "PSEUDO": "pavlysha666",
+                    "ROLE": null,
+                    "PRENOM": "Pavel",
+                    "NOM": "Shafranski",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:03:36"
+                },
+                {
+                    "ID": 66088,
+                    "PSEUDO": "Halfjix",
+                    "ROLE": null,
+                    "PRENOM": "Ilya",
+                    "NOM": "Pogodin",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:03:36"
+                },
+                {
+                    "ID": 66089,
+                    "PSEUDO": "iRV1NG",
+                    "ROLE": null,
+                    "PRENOM": "Ilya",
+                    "NOM": "Rusin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:03:36"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "ESL Challenger League",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "SERIE": {
+        "NOM": "Europe Cup #9 season 52 2026",
+        "ANNEE": 2026,
+        "SAISON": "52",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:30:09",
+        "ID DU VAINQUEUR": null
+    }
+}
