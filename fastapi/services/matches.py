@@ -79,31 +79,32 @@ def get_matches_by_period(
     date2: date,
 ) -> list[dict[str, Any]]:
     """Renvoie les matchs du jeu dont la série est entièrement dans la période."""
-    game_folder = (MATCHES_FOLDER / videogame_name).resolve()
+    for category_folder in MATCHES_FOLDER.iterdir():
+        game_folder = (category_folder / videogame_name).resolve()
 
-    # Empêche qu'un nom de jeu reçu dans l'URL sorte du dossier des matchs.
-    try:
-        game_folder.relative_to(MATCHES_FOLDER.resolve())
-    except ValueError:
-        raise FileNotFoundError("Jeu introuvable")
+        # Empêche qu'un nom de jeu reçu dans l'URL sorte du dossier des matchs.
+        try:
+            game_folder.relative_to(MATCHES_FOLDER.resolve())
+        except ValueError:
+            raise FileNotFoundError("Jeu introuvable")
 
-    if not game_folder.is_dir():
-        raise FileNotFoundError("Jeu introuvable")
+        if not game_folder.is_dir():
+            raise FileNotFoundError("Jeu introuvable")
 
-    matching_matches = []
+        matching_matches = []
 
-    # Chaque match est stocké dans son propre dossier avec un fichier JSON.
-    for match_path in sorted(game_folder.glob("*/*.json")):
-        with match_path.open(encoding="utf-8") as file:
-            match_data = json.load(file)
+        # Chaque match est stocké dans son propre dossier avec un fichier JSON.
+        for match_path in sorted(game_folder.glob("*/*.json")):
+            with match_path.open(encoding="utf-8") as file:
+                match_data = json.load(file)
 
-        matches_data = match_data["DONNEES GENERALES DU MATCH"]
-        matches_start = date.fromisoformat(matches_data["DATE DE DEBUT"])
-        matches_end = date.fromisoformat(matches_data["DATE DE FIN"])
+            matches_data = match_data["DONNEES GENERALES DU MATCH"]
+            matches_start = date.fromisoformat(matches_data["DATE DE DEBUT"])
+            matches_end = date.fromisoformat(matches_data["DATE DE FIN"])
 
-        # Le tournoi doit commencer après date1 et finir avant date2 (bornes incluses).
-        if date1 <= matches_start and matches_end <= date2:
-            matching_matches.append(match_data)
+            # Le tournoi doit commencer après date1 et finir avant date2 (bornes incluses).
+            if date1 <= matches_start and matches_end <= date2:
+                matching_matches.append(match_data)
 
     return matching_matches
 
