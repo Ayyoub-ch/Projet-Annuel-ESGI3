@@ -39,7 +39,7 @@ def get_matches_by_time_period(
         matches_data = match_data["DONNEES GENERALES DU MATCH"]
         matches_start = date.fromisoformat(matches_data["DATE DE DEBUT"])
         matches_end = date.fromisoformat(matches_data["DATE DE FIN"])
-
+        
         if date1 <= matches_start and matches_end <= date2:
             matching_matches.append(match_data)
             
