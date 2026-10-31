@@ -13,7 +13,7 @@ router = APIRouter(prefix="/tournament", tags=["tournament"])
 def download_tournaments_by_now(
     videogame_name: str
     ):
-    """Renvoie toutes les tournois du jeu comprises à la date d'aujourd"hui.
+    """Renvoie toutes les tournois à la date d'aujourd'hui.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     """
     date_now = date.today()

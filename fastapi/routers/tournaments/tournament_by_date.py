@@ -14,7 +14,7 @@ def download_tournaments_by_date(
     videogame_name: str,
     date1: date
     ):
-    """Renvoie toutes les tournois du jeu comprises dans la date demandée.
+    """Renvoie toutes les tournois du jeu compris dans la date demandée.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     \nDate au format : YYYY-MM-DD"""
     try:

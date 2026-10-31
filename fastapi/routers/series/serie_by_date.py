@@ -14,7 +14,7 @@ def download_series_by_date(
     videogame_name: str,
     date1: date
     ):
-    """Renvoie toutes les series du jeu comprises dans la date demandée.
+    """Renvoie toutes les series à la date demandée.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     \nDate au format : YYYY-MM-DD"""
     try:

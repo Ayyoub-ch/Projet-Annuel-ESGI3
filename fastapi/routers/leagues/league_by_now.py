@@ -13,7 +13,7 @@ router = APIRouter(prefix="/league", tags=["league"])
 def download_leagues_by_now(
     videogame_name: str
     ):
-    """Renvoie toutes les ligues du jeu comprises à la date d'aujourd"hui.
+    """Renvoie toutes les ligues comprises entre les dates inférieures ou égales à la date d'aujourd'hui.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     """
     date_now = date.today()

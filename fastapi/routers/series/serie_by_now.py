@@ -13,7 +13,7 @@ router = APIRouter(prefix="/serie", tags=["serie"])
 def download_series_by_now(
     videogame_name: str
     ):
-    """Renvoie toutes les series du jeu comprises à la date d'aujourd"hui.
+    """Renvoie toutes les series du jeu comprises entre la date d'aujourd'hui et celles inférieures ou égales à elle.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     """
     date_now = date.today()

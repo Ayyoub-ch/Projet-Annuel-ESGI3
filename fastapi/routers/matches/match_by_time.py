@@ -14,7 +14,7 @@ def download_matches_by_time(
     videogame_name: str,
     time: str
     ):
-    """Renvoie toutes les matchs du jeu comprises dans la date demandée.
+    """Renvoie toutes les matchs issues du temps demandé.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     \nTime : choisir entre upcoming, past et running pour avoir les matchs récents, passés et en cours"""
     try:

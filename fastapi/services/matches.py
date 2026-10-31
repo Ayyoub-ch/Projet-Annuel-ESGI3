@@ -13,7 +13,7 @@ MATCHES_FOLDER = (
 
 def get_matches_canceled(
 ) -> list[dict[str, Any]]:
-    """Renvoie les matchs du jeu dont la série est entièrement dans la période."""
+    """Renvoie les matchs annulés."""
     game_folder = (MATCHES_FOLDER / "past").resolve()
 
     # Empêche qu'un nom de jeu reçu dans l'URL sorte du dossier des matchs.

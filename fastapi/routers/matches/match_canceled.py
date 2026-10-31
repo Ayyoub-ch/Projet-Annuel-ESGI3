@@ -12,9 +12,7 @@ router = APIRouter(prefix="/match", tags=["match"])
 @router.get("/cancel")
 def download__matches_canceled(
     ):
-    """Renvoie toutes les matchs du jeu comprises dans la date demandée.
-    \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
-    \nDate au format : YYYY-MM-DD"""
+    """Renvoie toutes les matchs annulés"""
     try:
         matches = get_matches_canceled()
     except FileNotFoundError:

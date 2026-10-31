@@ -13,7 +13,7 @@ router = APIRouter(prefix="/match", tags=["match"])
 def download_matches_by_now(
     videogame_name: str
     ):
-    """Renvoie toutes les matchs du jeu comprises à la date d'aujourd"hui.
+    """Renvoie toutes les matchs compris entre la date d'aujourd'hui et les dates inférieures ou égal à elle-même.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     """
     date_now = date.today()

@@ -15,7 +15,7 @@ def download_leagues_by_period(
     date1: date,
     date2: date,
 ):
-    """Renvoie toutes les ligues du jeu comprises dans la période demandée.
+    """Renvoie toutes les ligues comprises entre deux dates.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     \nDate au format : YYYY-MM-DD"""
     if date1 > date2:

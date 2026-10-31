@@ -15,7 +15,7 @@ def download_matches_by_period(
     date1: date,
     date2: date,
 ):
-    """Renvoie toutes les matchs du jeu comprises dans la période demandée.
+    """Renvoie toutes les matchs compris entre les deux dates.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     \nDate au format : YYYY-MM-DD"""
     if date1 > date2:

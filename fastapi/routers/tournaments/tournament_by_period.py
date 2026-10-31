@@ -15,7 +15,7 @@ def download_tournaments_by_period(
     date1: date,
     date2: date,
 ):
-    """Renvoie toutes les tournois du jeu comprises dans la période demandée.
+    """Renvoie toutes les tournois compris dans la période demandée.
     \nJeu Vidéo : Sans Espace + Avec Majuscule pour chaque Mot
     \nDate au format : YYYY-MM-DD"""
     if date1 > date2:
