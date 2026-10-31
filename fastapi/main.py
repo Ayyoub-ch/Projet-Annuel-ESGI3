@@ -20,24 +20,26 @@ from routers.matches.match_by_period import router as match_period_router
 from routers.matches.match_by_date import router as match_date_router
 from routers.matches.match_by_now import router as match_now_router
 from routers.matches.match_by_time import router as match_time_router
-from routers.matches.match_by_time_period import router as match_time_period_router
 
 
 app = FastAPI()
+
 app.include_router(league_period_router)
 app.include_router(league_date_router)
 app.include_router(league_now_router)
+
 app.include_router(serie_period_router)
 app.include_router(serie_date_router)
 app.include_router(serie_now_router)
+
 app.include_router(tournament_period_router)
 app.include_router(tournament_date_router)
 app.include_router(tournament_now_router)
+
 app.include_router(match_period_router)
 app.include_router(match_date_router)
 app.include_router(match_now_router)
 app.include_router(match_time_router)
-app.include_router(match_time_period_router)
 
 @app.get("/")
 async def read_root():
