@@ -660,6 +660,7 @@ elif router_choice == "E-Sport":
                             st.dataframe(df)
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
+                            
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
         
