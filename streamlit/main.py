@@ -155,6 +155,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour Call of Duty à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                             "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -188,6 +191,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour Counter Strike à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -221,6 +227,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour Dota 2 à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                             "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -254,6 +263,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour King of Glory à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                             "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -288,6 +300,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour League of Legends à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                             "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -322,6 +337,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour Mobile Legends : Bang Bang à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                             "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -355,6 +373,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour Rainbow 6 Siege à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                             "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -388,6 +409,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour Starcraft 2 à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                             "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -421,6 +445,9 @@ elif router_choice == "E-Sport":
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                     df = pd.json_normalize(fetch_data(endpoint))
+                    if df.empty:
+                        st.warning("Aucune donnée disponible pour Valorant à ce moment.")
+                        st.stop()
                     df = df.rename(
                         columns = {
                             "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
@@ -611,6 +638,10 @@ elif router_choice == "E-Sport":
                     if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                         df = pd.json_normalize(fetch_data(endpoint))
                         
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Counter Strike à ce moment.")
+                            st.stop()
+                            
                         # Suppression de la colonne Tournois pour l'affichage
                         df_tn = df.drop(columns=["TOURNOIS"])
                         
@@ -659,6 +690,9 @@ elif router_choice == "E-Sport":
                     if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                         df = pd.json_normalize(fetch_data(endpoint))
                         
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Dota 2 à ce moment.")
+                            st.stop()
                         # Suppression de la colonne Tournois pour l'affichage
                         df_tn = df.drop(columns=["TOURNOIS"])
                         
@@ -707,7 +741,18 @@ elif router_choice == "E-Sport":
                     
                     if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                         df = pd.json_normalize(fetch_data(endpoint))
-                        df = df.rename(
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour King of Glory à ce moment.")
+                            st.stop()
+                            
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                        
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
                             columns = {
                                 "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
                                 "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
@@ -730,7 +775,10 @@ elif router_choice == "E-Sport":
                             }
                         )
                         st.write("Données récupérées pour King of Glory avec succès !")
-                        st.dataframe(df)
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
                     if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -744,7 +792,18 @@ elif router_choice == "E-Sport":
                     
                     if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                         df = pd.json_normalize(fetch_data(endpoint))
-                        df = df.rename(
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour League of Legends à ce moment.")
+                            st.stop()
+                            
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                        
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
                             columns = {
                                 "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
                                 "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
@@ -766,7 +825,10 @@ elif router_choice == "E-Sport":
                             }
                         )
                         st.write("Données récupérées pour League of Legends avec succès !")
-                        st.dataframe(df)
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
                     if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -780,7 +842,18 @@ elif router_choice == "E-Sport":
                     
                     if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                         df = pd.json_normalize(fetch_data(endpoint))
-                        df = df.rename(
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Mobile Legends : Bang Bang à ce moment.")
+                            st.stop()
+                            
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                        
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])    
+                        
+                        df_tn = df_tn.rename(
                         columns = {
                             "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
                             "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
@@ -802,7 +875,10 @@ elif router_choice == "E-Sport":
                         }
                     )
                         st.write("Données récupérées pour Mobile Legends : Bang Bang avec succès !")
-                        st.dataframe(df)
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
                     if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -815,7 +891,18 @@ elif router_choice == "E-Sport":
                     
                     if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                         df = pd.json_normalize(fetch_data(endpoint))
-                        df = df.rename(
+                        
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Dota 2 à ce moment.")
+                            st.stop()
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                        
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
                             columns = {
                                 "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
                                 "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
@@ -838,7 +925,10 @@ elif router_choice == "E-Sport":
                             }
                         )
                         st.write("Données récupérées pour Rainbow 6 Siege avec succès !")
-                        st.dataframe(df)
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
                     if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -851,6 +941,17 @@ elif router_choice == "E-Sport":
                     
                     if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                         df = pd.json_normalize(fetch_data(endpoint))
+                        
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Dota 2 à ce moment.")
+                            st.stop()
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                        
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
                         df = df.rename(
                             columns = {
                                 "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
@@ -873,7 +974,11 @@ elif router_choice == "E-Sport":
                             }
                         )
                         st.write("Données récupérées pour Starcraft 2 avec succès !")
-                        st.dataframe(df)
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                                                
+                                                
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
                     if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -886,7 +991,18 @@ elif router_choice == "E-Sport":
                     
                     if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                         df = pd.json_normalize(fetch_data(endpoint))
-                        df = df.rename(
+                        
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Dota 2 à ce moment.")
+                            st.stop()
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                        
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                                                
+                        df_tn = df_tn.rename(
                             columns = {
                                 "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
                                 "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
@@ -908,8 +1024,12 @@ elif router_choice == "E-Sport":
                                 
                             }
                         )
-                        st.write("Données récupérées pour Valorant avec succès !")
-                        st.dataframe(df)
+                        
+                        st.write("Données récupérées pour Dota 2 avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
                     if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -1024,13 +1144,25 @@ elif router_choice == "E-Sport":
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
                             df = pd.json_normalize(fetch_data(endpoint))
-                            if not df.empty:
-                                # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(df_e["EQUIPES"])
+                                membres_equipes_details = pd.json_normalize(df_m["MEMBRES DE L'EQUIPE"],record_path=["JOUEURS"])
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1044,10 +1176,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1061,11 +1189,15 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
+                            st.write("Données récupérées pour Counter Strike avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
                             
-                            
-                            
-                            st.write("Données récupérées pour Call of Duty avec succès !")
-                            st.dataframe(df)
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                             
@@ -1079,13 +1211,25 @@ elif router_choice == "E-Sport":
                         
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
-                            if not df.empty:
-                                # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(df_e["EQUIPES"])
+                                membres_equipes_details = pd.json_normalize(df_m["MEMBRES DE L'EQUIPE"],record_path=["JOUEURS"])
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1099,10 +1243,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1116,9 +1256,16 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            
                             st.write("Données récupérées pour Counter Strike avec succès !")
-                            st.dataframe(df)
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+
+                            
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -1131,13 +1278,30 @@ elif router_choice == "E-Sport":
                         
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
-                            if not df.empty:
-                            # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1151,10 +1315,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1168,9 +1328,15 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            
-                            st.write("Données récupérées pour Dota 2 avec succès !")
-                            st.dataframe(df)
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                                                        
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -1183,13 +1349,25 @@ elif router_choice == "E-Sport":
                         
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
-                            if not df.empty:
-                            # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(df_e["EQUIPES"])
+                                membres_equipes_details = pd.json_normalize(df_m["MEMBRES DE L'EQUIPE"],record_path=["JOUEURS"])
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1203,10 +1381,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1220,8 +1394,15 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            st.write("Données récupérées pour King of Glory avec succès !")
-                            st.dataframe(df)
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                                                        
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -1235,13 +1416,27 @@ elif router_choice == "E-Sport":
                         
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
-                            if not df.empty:
-                                # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(df_e["EQUIPES"])
+                                membres_equipes_details = pd.json_normalize(df_m["MEMBRES DE L'EQUIPE"],record_path=["JOUEURS"])
+                             
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1255,10 +1450,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1272,10 +1463,15 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            
-                            
-                            st.write("Données récupérées pour League of Legends avec succès !")
-                            st.dataframe(df)
+                            st.write(f"Données récupérées pour League of Legends avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                                                        
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -1290,13 +1486,25 @@ elif router_choice == "E-Sport":
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
                             
-                            if not df.empty:
-                                # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(df_e["EQUIPES"])
+                                membres_equipes_details = pd.json_normalize(df_m["MEMBRES DE L'EQUIPE"],record_path=["JOUEURS"])
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1310,10 +1518,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1327,9 +1531,15 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            
-                            st.write("Données récupérées pour Mobile Legends Bang Bang avec succès !")
-                            st.dataframe(df)
+                            st.write(f"Données récupérées pour Mobile Legends : Bang Bang avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                                                        
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -1342,13 +1552,25 @@ elif router_choice == "E-Sport":
                         
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
-                            if not df.empty:
-                                # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(df_e["EQUIPES"])
+                                membres_equipes_details = pd.json_normalize(df_m["MEMBRES DE L'EQUIPE"],record_path=["JOUEURS"])
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1362,10 +1584,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1379,9 +1597,15 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            
-                            st.write("Données récupérées pour Rainbow 6 Siege avec succès !")
-                            st.dataframe(df)
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                                                        
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -1395,13 +1619,25 @@ elif router_choice == "E-Sport":
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
                             
-                            if not df.empty:
-                                # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(df_e["EQUIPES"])
+                                membres_equipes_details = pd.json_normalize(df_m["MEMBRES DE L'EQUIPE"],record_path=["JOUEURS"])
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1415,10 +1651,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1432,8 +1664,15 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            st.write("Données récupérées pour Starcraft 2 avec succès !")
-                            st.dataframe(df)
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                                                        
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
@@ -1447,13 +1686,25 @@ elif router_choice == "E-Sport":
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
                             
-                            if not df.empty:
-                                # C'est ici que Pandas envoie chaque ligne une par une dans 'val' :
-                                df["EQUIPES"] = df["EQUIPES"].apply(extract_name)
-                                df["MEMBRES DE L'EQUIPE"] = df["MEMBRES DE L'EQUIPE"].apply(extract_name)
-                                df["MATCHES"] = df["MATCHES"].apply(extract_name)
+                            if df.empty:
+                                st.warning("Aucune donnée disponible pour le moment.")
+                                st.stop()
+                            else:
                                 
-                                df = df.rename(
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(df_e["EQUIPES"])
+                                membres_equipes_details = pd.json_normalize(df_m["MEMBRES DE L'EQUIPE"],record_path=["JOUEURS"])
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -1467,10 +1718,6 @@ elif router_choice == "E-Sport":
                                     "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
                                     "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
                                     "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
-                                    # Listes imbriquées et autres objets
-                                    "MATCHES": "Matchs",
-                                    "EQUIPES": "Équipes",
-                                    "MEMBRES DE L'EQUIPE": "Membres de l'équipe",
                                     # Données de la ligue 
                                     "LIGUE.NOM": "Nom de la ligue",
                                     "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
@@ -1484,8 +1731,15 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            st.write("Données récupérées pour Valorant avec succès !")
-                            st.dataframe(df)
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                                                        
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
