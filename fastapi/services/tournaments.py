@@ -72,10 +72,11 @@ def get_tournaments_by_date(
 
         tournaments_data = tournament_data["DONNEES GENERALES DU TOURNOIS"]
         tournaments_start = date.fromisoformat(tournaments_data["DATE DE DEBUT"])
+        
 
         # La série doit commencer après date1 et finir avant date2 (bornes incluses).
-        if date1 == tournaments_start:
-            matching_tournaments.append(tournaments_data)
+        if date1 == tournaments_start :
+            matching_tournaments.append(tournament_data)
 
     return matching_tournaments
 

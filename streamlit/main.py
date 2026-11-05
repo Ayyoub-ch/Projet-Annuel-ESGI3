@@ -498,7 +498,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -544,7 +544,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -590,7 +590,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -637,7 +637,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -684,7 +684,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -731,7 +731,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -777,7 +777,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -823,7 +823,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -870,7 +870,7 @@ elif router_choice == "E-Sport":
                     df = pd.json_normalize(fetch_data(endpoint, params=params))
                     
                     if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                         st.stop()
                         
                     df = df.rename(
@@ -921,6 +921,7 @@ elif router_choice == "E-Sport":
                 filename = f"ligues_{videogame}_date.json"
             
             elif videogame == "League of Legends":
+                videogame = "LoL"
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
             
@@ -1438,7 +1439,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1498,7 +1499,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1558,7 +1559,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1618,7 +1619,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1679,7 +1680,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1740,7 +1741,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1800,7 +1801,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1860,7 +1861,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1920,7 +1921,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -1969,41 +1970,512 @@ elif router_choice == "E-Sport":
                 videogame = st.selectbox("Jeu Vidéo :", jeux)
             
                 if videogame == "Call of Duty":
-                    endpoint = f"/{cat}/{videogame}/date"
-                    filename = f"series_{videogame}_date.json"
-                        
-                elif videogame == "Counter Strike":
-                    endpoint = f"/{cat}/{videogame}/date"
-                    filename = f"series_{videogame}_date.json"
-                            
-                elif videogame == "Dota 2":
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                elif videogame == "King of Glory":
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        
+                        
+                        
+                elif videogame == "Counter Strike":
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
+                    
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                            
+                elif videogame == "Dota 2":
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
+                    endpoint = f"/{cat}/{videogame}/date"
+                    filename = f"series_{videogame}_date.json"
+                    
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    
+                elif videogame == "King of Glory":
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
+                    endpoint = f"/{cat}/{videogame}/date"
+                    filename = f"series_{videogame}_date.json"
+                    
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
                 elif videogame == "League of Legends":
+                    videogame = "LoL"
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
+                    
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour League of Legends pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour League of Legends avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
                 elif videogame == "Mobile Legends : Bang Bang":
                     videogame = "Mobile Legends Bang Bang"
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
+                    
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour Mobile Legends : Bang Bang pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour Mobile Legends : Bang Bang avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                 elif videogame == "Rainbow 6 Siege":
-                    endpoint = f"/{cat}/{videogame}/date"
-                    filename = f"series_{videogame}_date.json"
-                
-                elif videogame == "Starcraft 2":
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                elif videogame == "Valorant":
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                
+                elif videogame == "Starcraft 2":
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
                     endpoint = f"/{cat}/{videogame}/date"
-                    filename = f"series_{videogame}_date.json"   
+                    filename = f"series_{videogame}_date.json"
+                    
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    
+                elif videogame == "Valorant":
+                    date1 = st.date_input("Date de début :", value=datetime.date.today())
+                    params = {
+                        "date1": date1
+                    }
+                    endpoint = f"/{cat}/{videogame}/date"
+                    filename = f"series_{videogame}_date.json"
+                    
+                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
+                        
+                        # Suppression de la colonne Tournois pour l'affichage
+                        df_tn = df.drop(columns=["TOURNOIS"])
+                                                
+                        # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                        df_exploded = df.explode("TOURNOIS").reset_index(drop=True)
+                        tournois_details = pd.json_normalize(df_exploded["TOURNOIS"])
+                        
+                        df_tn = df_tn.rename(
+                        columns = {
+                            "DONNEES GENERALES DE LA SERIE.ID": "ID Série",
+                            "DONNEES GENERALES DE LA SERIE.NOM": "Nom de la Série",
+                            "DONNEES GENERALES DE LA SERIE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA SERIE.ANNEE": "Année de la Série",
+                            "DONNEES GENERALES DE LA SERIE.SAISON": "Saison de la Série",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE DEBUT": "Date de début",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE DEBUT": "Heure de début",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE FIN": "Date de fin",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE FIN": "Heure de fin",
+                            "DONNEES GENERALES DE LA SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
+                            "DONNEES GENERALES DE LA SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                        
+                            "LIGUE.ID": "ID Ligue",
+                            "LIGUE.NOM": "Nom de la Ligue",
+                            "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date dernière modification Ligue",
+                            "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure dernière modification Ligue",
+                            
+                            
+                            }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df_tn)
+                        st.write("Données des tournois :")
+                        st.dataframe(tournois_details)
+                        
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
                     
                     
     if category == "Tournois" :
@@ -2652,7 +3124,7 @@ elif router_choice == "E-Sport":
                             df = pd.json_normalize(fetch_data(endpoint, params=params))
                             
                             if df.empty:
-                                st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
                                 st.stop()
                             else:
                                                             
@@ -2701,7 +3173,7 @@ elif router_choice == "E-Sport":
                                     "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
                                 }
                         )
-                            st.write("Données récupérées pour Counter Strike avec succès !")
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
                             st.dataframe(df_l)
                             st.write("Données des matchs :")
                             st.dataframe(matchs_details)
@@ -2716,7 +3188,1427 @@ elif router_choice == "E-Sport":
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
-    
+
+                    if videogame == "Counter Strike":     
+                        date1 = st.date_input("Date de début :", value=datetime.date.today())
+                        date2 = st.date_input("Date de fin :", value=datetime.date(2026, 12, 31))
+                        params = {
+                            "date1": date1,
+                            "date2": date2
+                        }
+                        endpoint = f"/{cat}/{videogame}/period"
+                        filename = f"tournois_{videogame}_period.json"
+                        
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            date2_str = date2.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}&date2={date2_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                                st.stop()
+                            else:
+                                                            
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                            
+                            st.write("Données brutes :")
+                            st.json(fetch_data(endpoint, params))
+                            
+                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                            
+                    if videogame == "Dota 2":
+                        date1 = st.date_input("Date de début :", value=datetime.date.today())
+                        date2 = st.date_input("Date de fin :", value=datetime.date(2026, 12, 31))
+                        params = {
+                            "date1": date1,
+                            "date2": date2
+                        }
+                        endpoint = f"/{cat}/{videogame}/period"
+                        filename = f"tournois_{videogame}_period.json"
+                        
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            date2_str = date2.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}&date2={date2_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                                st.stop()
+                            else:
+                                                            
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                            
+                            st.write("Données brutes :")
+                            st.json(fetch_data(endpoint, params))
+                            
+                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            st.success(f"Les données ont été téléchargées sous le nom {filename}.")     
+                    
+                    if videogame == "King of Glory":
+                        date1 = st.date_input("Date de début :", value=datetime.date.today())
+                        date2 = st.date_input("Date de fin :", value=datetime.date(2026, 12, 31))
+                        params = {
+                            "date1": date1,
+                            "date2": date2
+                        }
+                        endpoint = f"/{cat}/{videogame}/period"
+                        filename = f"tournois_{videogame}_period.json"
+                        
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            date2_str = date2.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}&date2={date2_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                                st.stop()
+                            else:
+                                                            
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                            
+                            st.write("Données brutes :")
+                            st.json(fetch_data(endpoint, params))
+                            
+                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            st.success(f"Les données ont été téléchargées sous le nom {filename}.")  
+                            
+                                   
+                    if videogame == "League of Legends":
+                        videogame = "Lol"
+                        date1 = st.date_input("Date de début :", value=datetime.date.today())
+                        date2 = st.date_input("Date de fin :", value=datetime.date(2026, 12, 31))
+                        params = {
+                            "date1": date1,
+                            "date2": date2
+                        }
+                        endpoint = f"/{cat}/{videogame}/period"
+                        filename = f"tournois_{videogame}_period.json"
+                        
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            date2_str = date2.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}&date2={date2_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                                st.stop()
+                            else:
+                                                            
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                            st.write("Données récupérées pour League of Legends avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                            
+                            st.write("Données brutes :")
+                            st.json(fetch_data(endpoint, params))
+                            
+                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            st.success(f"Les données ont été téléchargées sous le nom {filename}.")  
+                            
+                    if videogame == "Mobile Legends : Bang Bang":
+                        videogame = "Mobile Legends  Bang Bang"
+                        date1 = st.date_input("Date de début :", value=datetime.date.today())
+                        date2 = st.date_input("Date de fin :", value=datetime.date(2026, 12, 31))
+                        params = {
+                            "date1": date1,
+                            "date2": date2
+                        }
+                        endpoint = f"/{cat}/{videogame}/period"
+                        filename = f"tournois_{videogame}_period.json"
+                        
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            date2_str = date2.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}&date2={date2_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} à pour cette période.")
+                                st.stop()
+                            else:
+                                                            
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                            st.write("Données récupérées pour Mobile Legends : Bang Bang avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                            
+                            st.write("Données brutes :")
+                            st.json(fetch_data(endpoint, params))
+                            
+                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            st.success(f"Les données ont été téléchargées sous le nom {filename}.")          
+                            
+                            
+                            
+                    if videogame == "Rainbow 6 Siege":
+                        date1 = st.date_input("Date de début :", value=datetime.date.today())
+                        date2 = st.date_input("Date de fin :", value=datetime.date(2026, 12, 31))
+                        params = {
+                            "date1": date1,
+                            "date2": date2
+                        }
+                        endpoint = f"/{cat}/{videogame}/period"
+                        filename = f"tournois_{videogame}_period.json"
+                        
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            date2_str = date2.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}&date2={date2_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                                st.stop()
+                            else:
+                                                            
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                            
+                            st.write("Données brutes :")
+                            st.json(fetch_data(endpoint, params))
+                            
+                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
+                            
+                            
+                    if videogame == "Starcraft 2":
+                        date1 = st.date_input("Date de début :", value=datetime.date.today())
+                        date2 = st.date_input("Date de fin :", value=datetime.date(2026, 12, 31))
+                        params = {
+                            "date1": date1,
+                            "date2": date2
+                        }
+                        endpoint = f"/{cat}/{videogame}/period"
+                        filename = f"tournois_{videogame}_period.json"
+                        
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            date2_str = date2.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}&date2={date2_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                                st.stop()
+                            else:
+                                                            
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                            
+                            st.write("Données brutes :")
+                            st.json(fetch_data(endpoint, params))
+                            
+                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            st.success(f"Les données ont été téléchargées sous le nom {filename}.")  
+                    
+                    if videogame == "Valorant":
+                        date1 = st.date_input("Date de début :", value=datetime.date.today())
+                        date2 = st.date_input("Date de fin :", value=datetime.date(2026, 12, 31))
+                        params = {
+                            "date1": date1,
+                            "date2": date2
+                        }
+                        endpoint = f"/{cat}/{videogame}/period"
+                        filename = f"tournois_{videogame}_period.json"
+                        
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            date2_str = date2.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}&date2={date2_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                                st.stop()
+                            else:
+                                                            
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
+                            st.dataframe(df_l)
+                            st.write("Données des matchs :")
+                            st.dataframe(matchs_details)
+                            st.write("Données des équipes :")
+                            st.dataframe(equipes_details)
+                            st.write("Données des membres des équipes :")
+                            st.dataframe(membres_equipes_details)
+                            
+                            st.write("Données brutes :")
+                            st.json(fetch_data(endpoint, params))
+                            
+                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            st.success(f"Les données ont été téléchargées sous le nom {filename}.")  
+                            
+                if moments == "Par Date":
+                            
+                    videogame = st.selectbox("Jeu Vidéo :", jeux)
+                    
+                    if videogame == "Call of Duty":
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                # Suppression de la colonne Tournois pour l'affichage
+                                df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                
+                                
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                
+                                # transition
+                                equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                equipes_details = pd.json_normalize(equipes_propres)
+                                membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+                                # st.write(df.columns.tolist())
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                st.write("Données des matchs :")
+                                st.dataframe(matchs_details)
+                                st.write("Données des équipes :")
+                                st.dataframe(equipes_details)
+                                st.write("Données des membres des équipes :")
+                                st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                                
+                    elif videogame == "Counter Strike":
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                colonnes_supplementaires = ["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"]
+                                # On n'exécute le drop que si TOUTES les colonnes sont bien présentes
+                                if all(col in df.columns for col in colonnes_supplementaires):
+                                    # Suppression de la colonne Tournois pour l'affichage
+                                    df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                    
+                                    
+                                    # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                    df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                    df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                    df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                    
+                                    # transition
+                                    equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                    membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                    
+                                    # Applatissement des colonnes imbriquées pour l'affichage
+                                    matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                    equipes_details = pd.json_normalize(equipes_propres)
+                                    membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                if "MATCHES" in df.columns:
+                                    st.write("Données des matchs :")
+                                    st.dataframe(matchs_details)
+                                if "EQUIPES" in df.columns:
+                                    st.write("Données des équipes :")
+                                    st.dataframe(equipes_details)
+                                if "MEMBRES_EQUIPES" in df.columns:
+                                    st.write("Données des membres des équipes :")
+                                    st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                                
+                    elif videogame == "Dota 2":
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                colonnes_supplementaires = ["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"]
+                                # On n'exécute le drop que si TOUTES les colonnes sont bien présentes
+                                if all(col in df.columns for col in colonnes_supplementaires):
+                                    # Suppression de la colonne Tournois pour l'affichage
+                                    df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                    
+                                    
+                                    # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                    df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                    df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                    df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                    
+                                    # transition
+                                    equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                    membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                    
+                                    # Applatissement des colonnes imbriquées pour l'affichage
+                                    matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                    equipes_details = pd.json_normalize(equipes_propres)
+                                    membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                if "MATCHES" in df.columns:
+                                    st.write("Données des matchs :")
+                                    st.dataframe(matchs_details)
+                                if "EQUIPES" in df.columns:
+                                    st.write("Données des équipes :")
+                                    st.dataframe(equipes_details)
+                                if "MEMBRES_EQUIPES" in df.columns:
+                                    st.write("Données des membres des équipes :")
+                                    st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        
+                    elif videogame == "King of Glory":
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                colonnes_supplementaires = ["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"]
+                                # On n'exécute le drop que si TOUTES les colonnes sont bien présentes
+                                if all(col in df.columns for col in colonnes_supplementaires):
+                                    # Suppression de la colonne Tournois pour l'affichage
+                                    df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                    
+                                    
+                                    # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                    df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                    df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                    df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                    
+                                    # transition
+                                    equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                    membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                    
+                                    # Applatissement des colonnes imbriquées pour l'affichage
+                                    matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                    equipes_details = pd.json_normalize(equipes_propres)
+                                    membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                if "MATCHES" in df.columns:
+                                    st.write("Données des matchs :")
+                                    st.dataframe(matchs_details)
+                                if "EQUIPES" in df.columns:
+                                    st.write("Données des équipes :")
+                                    st.dataframe(equipes_details)
+                                if "MEMBRES_EQUIPES" in df.columns:
+                                    st.write("Données des membres des équipes :")
+                                    st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+
+                    elif videogame == "League of Legends":
+                        videogame = "LoL"
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                colonnes_supplementaires = ["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"]
+                                # On n'exécute le drop que si TOUTES les colonnes sont bien présentes
+                                if all(col in df.columns for col in colonnes_supplementaires):
+                                    # Suppression de la colonne Tournois pour l'affichage
+                                    df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                    
+                                    
+                                    # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                    df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                    df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                    df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                    
+                                    # transition
+                                    equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                    membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                    
+                                    # Applatissement des colonnes imbriquées pour l'affichage
+                                    matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                    equipes_details = pd.json_normalize(equipes_propres)
+                                    membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                if "MATCHES" in df.columns:
+                                    st.write("Données des matchs :")
+                                    st.dataframe(matchs_details)
+                                if "EQUIPES" in df.columns:
+                                    st.write("Données des équipes :")
+                                    st.dataframe(equipes_details)
+                                if "MEMBRES_EQUIPES" in df.columns:
+                                    st.write("Données des membres des équipes :")
+                                    st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    
+                    elif videogame == "Mobile Legends : Bang Bang":
+                        videogame = "Mobile Legends  Bang Bang"
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                colonnes_supplementaires = ["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"]
+                                # On n'exécute le drop que si TOUTES les colonnes sont bien présentes
+                                if all(col in df.columns for col in colonnes_supplementaires):
+                                    # Suppression de la colonne Tournois pour l'affichage
+                                    df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                    
+                                    
+                                    # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                    df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                    df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                    df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                    
+                                    # transition
+                                    equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                    membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                    
+                                    # Applatissement des colonnes imbriquées pour l'affichage
+                                    matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                    equipes_details = pd.json_normalize(equipes_propres)
+                                    membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                if "MATCHES" in df.columns:
+                                    st.write("Données des matchs :")
+                                    st.dataframe(matchs_details)
+                                if "EQUIPES" in df.columns:
+                                    st.write("Données des équipes :")
+                                    st.dataframe(equipes_details)
+                                if "MEMBRES_EQUIPES" in df.columns:
+                                    st.write("Données des membres des équipes :")
+                                    st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        
+                    elif videogame == "Rainbow 6 Siege":
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                colonnes_supplementaires = ["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"]
+                                # On n'exécute le drop que si TOUTES les colonnes sont bien présentes
+                                if all(col in df.columns for col in colonnes_supplementaires):
+                                    # Suppression de la colonne Tournois pour l'affichage
+                                    df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                    
+                                    
+                                    # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                    df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                    df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                    df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                    
+                                    # transition
+                                    equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                    membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                    
+                                    # Applatissement des colonnes imbriquées pour l'affichage
+                                    matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                    equipes_details = pd.json_normalize(equipes_propres)
+                                    membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                if "MATCHES" in df.columns:
+                                    st.write("Données des matchs :")
+                                    st.dataframe(matchs_details)
+                                if "EQUIPES" in df.columns:
+                                    st.write("Données des équipes :")
+                                    st.dataframe(equipes_details)
+                                if "MEMBRES_EQUIPES" in df.columns:
+                                    st.write("Données des membres des équipes :")
+                                    st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    
+                    elif videogame == "Starcraft 2":
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                colonnes_supplementaires = ["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"]
+                                # On n'exécute le drop que si TOUTES les colonnes sont bien présentes
+                                if all(col in df.columns for col in colonnes_supplementaires):
+                                    # Suppression de la colonne Tournois pour l'affichage
+                                    df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                    
+                                    
+                                    # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                    df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                    df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                    df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                    
+                                    # transition
+                                    equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                    membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                    
+                                    # Applatissement des colonnes imbriquées pour l'affichage
+                                    matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                    equipes_details = pd.json_normalize(equipes_propres)
+                                    membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                if "MATCHES" in df.columns:
+                                    st.write("Données des matchs :")
+                                    st.dataframe(matchs_details)
+                                if "EQUIPES" in df.columns:
+                                    st.write("Données des équipes :")
+                                    st.dataframe(equipes_details)
+                                if "MEMBRES_EQUIPES" in df.columns:
+                                    st.write("Données des membres des équipes :")
+                                    st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        
+                    elif videogame == "Valorant":
+                        date1 = st.date_input("Date :", value=datetime.date.today())
+                        params = {
+                            "date1": date1,
+                        }
+                        endpoint = f"/{cat}/{videogame}/date"
+                        filename = f"tournois_{videogame}_date.json"
+                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                            date1_str = date1.strftime("%Y-%m-%d")
+                            params = f"date1={date1_str}"
+                            df = pd.json_normalize(fetch_data(endpoint, params=params))
+                            
+                            if df.empty:
+                                st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                                st.stop()
+                            else:
+                                colonnes_supplementaires = ["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"]
+                                # On n'exécute le drop que si TOUTES les colonnes sont bien présentes
+                                if all(col in df.columns for col in colonnes_supplementaires):
+                                    # Suppression de la colonne Tournois pour l'affichage
+                                    df_l = df.drop(columns=["MATCHES", "EQUIPES", "MEMBRES DE L'EQUIPE"])
+                                    
+                                    
+                                    # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                    df_mt_exploded = df.explode("MATCHES").reset_index(drop=True)
+                                    df_e = df.explode("EQUIPES").reset_index(drop=True)
+                                    df_m = df.explode("MEMBRES DE L'EQUIPE").reset_index(drop=True)
+                                    
+                                    # transition
+                                    equipes_propres = df_e["EQUIPES"][df_e["EQUIPES"].apply(lambda x: isinstance(x, dict))]
+                                    membres_propres = df_m["MEMBRES DE L'EQUIPE"][df_m["MEMBRES DE L'EQUIPE"].apply(lambda x: isinstance(x, dict))]
+                                    
+                                    # Applatissement des colonnes imbriquées pour l'affichage
+                                    matchs_details = pd.json_normalize(df_mt_exploded["MATCHES"])
+                                    equipes_details = pd.json_normalize(equipes_propres)
+                                    membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
+                                    
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df.rename(
+                                columns={
+                                    # Données générales du tournoi
+                                    "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.NOM": "Nom du Tournoi",
+                                    "DONNEES GENERALES DU TOURNOIS.JEU VIDEO": "Jeu Vidéo",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE DEBUT": "Date de début",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE DEBUT": "Heure de début",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE FIN": "Date de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE FIN": "Heure de fin",
+                                    "DONNEES GENERALES DU TOURNOIS.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                    "DONNEES GENERALES DU TOURNOIS.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                    "DONNEES GENERALES DU TOURNOIS.ANNEE": "Année",
+                                    "DONNEES GENERALES DU TOURNOIS.SAISON": "Saison",
+                                    # Données de la ligue 
+                                    "LIGUE.NOM": "Nom de la ligue",
+                                    "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la ligue",
+                                    "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la ligue",
+                                    # Données de la série
+                                    "SERIE.NOM": "Nom de la série",
+                                    "SERIE.ANNEE": "Année de la série",
+                                    "SERIE.SAISON": "Saison de la série",
+                                    "SERIE.DATE DE LA DERNIERE MODIFICATION": "Date de modification de la série",
+                                    "SERIE.HEURE DE LA DERNIERE MODIFICATION": "Heure de modification de la série",
+                                    "SERIE.ID DU VAINQUEUR": "ID du vainqueur de la série",
+                                }
+                        )
+
+                                st.write(f"Données récupérées pour {videogame} avec succès !")
+                                st.dataframe(df_l)
+                                if "MATCHES" in df.columns:
+                                    st.write("Données des matchs :")
+                                    st.dataframe(matchs_details)
+                                if "EQUIPES" in df.columns:
+                                    st.write("Données des équipes :")
+                                    st.dataframe(equipes_details)
+                                if "MEMBRES_EQUIPES" in df.columns:
+                                    st.write("Données des membres des équipes :")
+                                    st.dataframe(membres_equipes_details)
+                                
+                                
+                                st.write("Données brutes :")
+                                st.json(fetch_data(endpoint, params))
+                                
+                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                st.success(f"Les données ont été téléchargées sous le nom {filename}.")            
+                                                   
     if category == "Matchs" :
                 st.header("Matchs")
                 st.markdown("Récupère les données des matchs E-Sport. ")
@@ -2740,7 +4632,7 @@ elif router_choice == "E-Sport":
                         
                         if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             df = pd.json_normalize(fetch_data(endpoint))
-                            st.write("Données récupérées pour Call of Duty avec succès !")
+                            st.write(f"Données récupérées pour {videogame} avec succès !")
                             st.dataframe(df)
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
