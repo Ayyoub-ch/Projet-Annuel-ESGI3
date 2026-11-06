@@ -1,0 +1,163 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1774463,
+        "NOM": "MIN_vs_CRR",
+        "JEU VIDEO": "Call of Duty",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "18:26:22",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "20:04:59",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 9709,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 606,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "18:26:23",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "18:36:29",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137600,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9710,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 848,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "18:46:20",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "19:00:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133864,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9711,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 889,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "19:06:54",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "19:21:43",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133864,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9712,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 566,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "19:27:58",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "19:37:24",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137600,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9713,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 1164,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "19:45:35",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "20:04:59",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137600,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137600,
+            "NOM": "G2 Minnesota",
+            "LOCALISATION": "US",
+            "ACRONYME": "MIN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:52:29"
+        },
+        {
+            "ID": 133864,
+            "NOM": "Carolina Royal Ravens",
+            "LOCALISATION": "US",
+            "ACRONYME": "CRR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:32:18"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 137600
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 133864
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22303,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "s",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "08:15:19",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5577,
+        "NOM": "Monster Launch Invitational",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:56:36"
+    },
+    "SERIE": {
+        "ID": 11150,
+        "NOM": "2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06"
+    }
+}

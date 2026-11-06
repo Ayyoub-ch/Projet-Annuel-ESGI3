@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1774502,
+        "NOM": "PAR_vs_C9.NY",
+        "JEU VIDEO": "Call of Duty",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "20:28:11",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "21:10:02",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 9799,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 574,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "20:28:11",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "20:37:46",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137632,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9800,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 839,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "20:41:27",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "20:55:27",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137632,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9801,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 603,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "20:59:59",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "21:10:03",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137632,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137632,
+            "NOM": "Paris Gentle Mates",
+            "LOCALISATION": "FR",
+            "ACRONYME": "PAR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:45:19"
+        },
+        {
+            "ID": 135904,
+            "NOM": "Cloud9 New York",
+            "LOCALISATION": "US",
+            "ACRONYME": "C9.NY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:53:30"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 137632
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135904
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22306,
+        "NOM": "Group D",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "s",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "08:18:22",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5577,
+        "NOM": "Monster Launch Invitational",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:56:36"
+    },
+    "SERIE": {
+        "ID": 11150,
+        "NOM": "2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06"
+    }
+}

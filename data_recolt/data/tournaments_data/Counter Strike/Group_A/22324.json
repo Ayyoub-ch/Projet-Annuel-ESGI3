@@ -5,10 +5,10 @@
         "JEU VIDEO": "Counter Strike",
         "DATE DE DEBUT": "2026-10-29",
         "HEURE DE DEBUT": "09:00:00",
-        "DATE DE FIN": "2026-11-02",
-        "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-        "HEURE DE LA DERNIERE MODIFICATION": "16:05:11",
+        "DATE DE FIN": "2026-10-30",
+        "HEURE DE FIN": "17:05:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:38:19",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,22 +16,47 @@
         {
             "NOM": "Leo vs maybe",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-10-29",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "09:15:00",
             "DATE DE DEBUT": "2026-10-29",
-            "HEURE DE DEBUT": "09:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:00:54",
+            "HEURE DE DEBUT": "2026-10-29",
+            "DATE DE FIN": "2026-10-29",
+            "HEURE DE FIN": "2026-10-29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:05:02",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-a",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
+            }
+        },
+        {
+            "NOM": "Winners' Match: Leo vs Honvéd",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-30",
+            "HEURE PRÉVUE": "15:10:00",
+            "DATE DE DEBUT": "2026-10-30",
+            "HEURE DE DEBUT": "2026-10-30",
+            "DATE DE FIN": "2026-10-30",
+            "HEURE DE FIN": "2026-10-30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:08:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
@@ -41,22 +66,22 @@
         {
             "NOM": "Honvéd vs Morrow Esports",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-10-29",
-            "HEURE PRÉVUE": "12:00:00",
-            "DATE DE DEBUT": "2026-10-29",
-            "HEURE DE DEBUT": "12:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:00:54",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:01:56",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-a",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
+            "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
@@ -64,24 +89,24 @@
             }
         },
         {
-            "NOM": "Elimination Match: TBD vs TBD",
+            "NOM": "Elimination Match: maybe vs Morrow Esports",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-10-30",
             "HEURE PRÉVUE": "09:00:00",
-            "DATE DE DEBUT": "2026-10-30",
-            "HEURE DE DEBUT": "09:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:00:55",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:01:56",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-a",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
+            "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
@@ -89,49 +114,24 @@
             }
         },
         {
-            "NOM": "Winners' Match: TBD vs TBD",
+            "NOM": "Decider Match: maybe vs Honvéd",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-10-30",
-            "HEURE PRÉVUE": "15:00:00",
-            "DATE DE DEBUT": "2026-10-30",
-            "HEURE DE DEBUT": "15:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:00:55",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-a",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
-            }
-        },
-        {
-            "NOM": "Decider Match: TBD vs TBD",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-02",
             "HEURE PRÉVUE": "09:00:00",
-            "DATE DE DEBUT": "2026-11-02",
-            "HEURE DE DEBUT": "09:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:00:55",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:46:35",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-a",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
+            "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
@@ -144,32 +144,32 @@
             "ID": 128887,
             "NOM": "Honvéd",
             "LOCALISATION": "HU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:00:52",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:10:12",
             "ACRONYME": null
         },
         {
             "ID": 133269,
             "NOM": "Leo Team",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:00:57",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:48:31",
             "ACRONYME": "Leo"
         },
         {
             "ID": 138899,
             "NOM": "maybe",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:00:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:29:45",
             "ACRONYME": null
         },
         {
             "ID": 139111,
             "NOM": "Morrow Esports",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:00:59",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:52:42",
             "ACRONYME": null
         }
     ],
@@ -180,8 +180,8 @@
                 "NOM": "Honvéd",
                 "LOCALISATION": "HU",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:00:52"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:10:12"
             },
             "JOUEURS": [
                 {
@@ -194,8 +194,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "HU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:51"
                 },
                 {
                     "ID": 49427,
@@ -207,8 +207,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "HU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:51"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:52"
                 },
                 {
                     "ID": 51728,
@@ -220,8 +220,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "HU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:47:58"
                 },
                 {
                     "ID": 61211,
@@ -233,8 +233,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "HU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:52"
                 },
                 {
                     "ID": 63695,
@@ -246,8 +246,21 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "HU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:52"
+                },
+                {
+                    "ID": 65741,
+                    "PSEUDO": "excien",
+                    "ROLE": null,
+                    "PRENOM": "Titusz",
+                    "NOM": "Botzheim",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:10:12"
                 }
             ]
         },
@@ -257,8 +270,8 @@
                 "NOM": "Leo Team",
                 "LOCALISATION": "UA",
                 "ACRONYME": "Leo",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:00:57"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:48:31"
             },
             "JOUEURS": [
                 {
@@ -271,8 +284,8 @@
                     "DATE DE NAISSANCE": "1998-09-09",
                     "NATIONALITE": "FR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:57"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:48:29"
                 },
                 {
                     "ID": 38537,
@@ -284,8 +297,8 @@
                     "DATE DE NAISSANCE": "2005-02-04",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:48:30"
                 },
                 {
                     "ID": 39936,
@@ -297,8 +310,8 @@
                     "DATE DE NAISSANCE": "2004-08-01",
                     "NATIONALITE": "PL",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:48:31"
                 },
                 {
                     "ID": 40699,
@@ -310,8 +323,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:48:31"
                 },
                 {
                     "ID": 47099,
@@ -323,8 +336,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "PL",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:57"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:48:31"
                 }
             ]
         },
@@ -334,10 +347,23 @@
                 "NOM": "maybe",
                 "LOCALISATION": "UA",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:29:45"
             },
             "JOUEURS": [
+                {
+                    "ID": 49420,
+                    "PSEUDO": "m4d4ra",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Nikolskiy",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:45"
+                },
                 {
                     "ID": 53412,
                     "PSEUDO": "edixenn",
@@ -348,8 +374,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:45"
                 },
                 {
                     "ID": 55996,
@@ -361,8 +387,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:47"
                 },
                 {
                     "ID": 66717,
@@ -374,8 +400,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:57"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:45"
                 },
                 {
                     "ID": 66719,
@@ -387,8 +413,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:45"
                 },
                 {
                     "ID": 66720,
@@ -400,8 +426,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:45"
                 }
             ]
         },
@@ -411,8 +437,8 @@
                 "NOM": "Morrow Esports",
                 "LOCALISATION": "RU",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:00:59"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:52:42"
             },
             "JOUEURS": [
                 {
@@ -425,8 +451,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:12"
                 },
                 {
                     "ID": 51580,
@@ -438,8 +464,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:12"
                 },
                 {
                     "ID": 59445,
@@ -451,8 +477,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:59"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:12"
                 },
                 {
                     "ID": 63998,
@@ -464,8 +490,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:59"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:13"
                 },
                 {
                     "ID": 65152,
@@ -477,8 +503,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:00:59"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:17:55"
                 }
             ]
         }
@@ -492,8 +518,8 @@
         "NOM": "Closed Qualifier: Series #13 2026",
         "ANNEE": 2026,
         "SAISON": null,
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-        "HEURE DE LA DERNIERE MODIFICATION": "16:05:11",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:38:19",
         "ID DU VAINQUEUR": null
     }
 }

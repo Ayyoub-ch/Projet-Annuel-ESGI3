@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1783580,
+        "NOM": "CH_vs_BEN",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "13:52:48",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "14:46:39",
+        "DATE DE MODIFICATION": "2026-10-31",
+        "HEURE DE MODIFICATION": "18:11:41",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 31930,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 659,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "13:52:48",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "14:03:47",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139484,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31931,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1087,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "14:09:34",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "14:27:41",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139484,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31932,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 731,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "14:34:28",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "14:46:40",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139484,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139486,
+            "NOM": "CantHear",
+            "LOCALISATION": "TH",
+            "ACRONYME": "CH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:04:20"
+        },
+        {
+            "ID": 139484,
+            "NOM": "Team Benxxn",
+            "LOCALISATION": "",
+            "ACRONYME": "BEN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:55:02"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139486
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 139484
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22338,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-31",
+        "HEURE DE MODIFICATION": "18:36:31",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11162,
+        "NOM": "Pacific Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "19:30:00",
+        "DATE DE MODIFICATION": "2026-10-31",
+        "HEURE DE MODIFICATION": "18:11:41"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1758412,
+        "NOM": "Quarterfinal_2__Rush_vs_MEIA_NOITE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "21:36:57",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "00:28:26",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "08:34:53",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 236280,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1893,
+            "DATE DE DEBUT DE PARTIE": "2026-11-05",
+            "HEURE DE DEBUT DE PARTIE": "21:36:57",
+            "DATE DE FIN DE PARTIE": "2026-11-05",
+            "HEURE DE FIN DE PARTIE": "22:08:31",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139026,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236281,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3594,
+            "DATE DE DEBUT DE PARTIE": "2026-11-05",
+            "HEURE DE DEBUT DE PARTIE": "22:29:01",
+            "DATE DE FIN DE PARTIE": "2026-11-05",
+            "HEURE DE FIN DE PARTIE": "23:28:56",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138939,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236282,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2799,
+            "DATE DE DEBUT DE PARTIE": "2026-11-05",
+            "HEURE DE DEBUT DE PARTIE": "23:41:47",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "00:28:27",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138939,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138939,
+            "NOM": "Rush",
+            "LOCALISATION": "BR",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:58"
+        },
+        {
+            "ID": 139026,
+            "NOM": "MEIA NOITE",
+            "LOCALISATION": "BR",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:59"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138939
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139026
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22242,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": "10,000 Brazilian Real",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "07:52:30",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4554,
+        "NOM": "Gamers Club Liga Série A",
+        "DATE DE MODIFICATION": "2022-08-12",
+        "HEURE DE MODIFICATION": "14:23:59"
+    },
+    "SERIE": {
+        "ID": 11127,
+        "NOM": "October 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-16",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-10-19",
+        "HEURE DE MODIFICATION": "08:34:53"
+    }
+}

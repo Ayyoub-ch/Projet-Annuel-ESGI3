@@ -6,8 +6,8 @@
         "VERSION ACTUELLE DU JEU": "Version indisponible",
         "STATUT": "finished",
         "NOMBRE DE PARTIE": 3,
-        "DATE DE DEBUT": "2026-10-28",
-        "HEURE DE DEBUT": "18:36:14",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "23:07:06",
         "DATE DE FIN": "Date de fin non définie",
         "HEURE DE FIN": "Heure de fin non définie",
         "DATE DE MODIFICATION": "2025-06-24",
@@ -32,10 +32,7 @@
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
             "DETAIL STAT": false,
             "FORFAIT": true,
-            "VAINQUEUR": {
-                "ID": 135505,
-                "TYPE": "Team"
-            },
+            "ID DU VAINQUEUR": 135505,
             "TYPE DU VAINQUEUR": "Team"
         },
         {
@@ -50,10 +47,7 @@
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
             "DETAIL STAT": false,
             "FORFAIT": true,
-            "VAINQUEUR": {
-                "ID": 135505,
-                "TYPE": "Team"
-            },
+            "ID DU VAINQUEUR": 135505,
             "TYPE DU VAINQUEUR": "Team"
         }
     ],
@@ -63,16 +57,16 @@
             "NOM": "BESTIA Academy",
             "LOCALISATION": "BR",
             "ACRONYME": "BST.A",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:03:12"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:34:36"
         },
         {
             "ID": 135505,
             "NOM": "RED Canids Academy",
             "LOCALISATION": "BR",
             "ACRONYME": "RED.A",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:01:39"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:57"
         }
     ],
     "RESULTATS": [

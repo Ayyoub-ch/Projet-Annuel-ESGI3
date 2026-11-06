@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1775623,
+        "NOM": "Upper_Bracket_Semifinal_2__DZ_vs_LOS",
+        "JEU VIDEO": "Rainbow 6 Siege",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "04:18:04",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "05:57:05",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "18:40:09",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 14601,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2320,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "04:18:04",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "04:56:45",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126926,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 14602,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2987,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "05:07:18",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "05:57:06",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126926,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 126926,
+            "NOM": "DarkZero Esports",
+            "LOCALISATION": "US",
+            "ACRONYME": "DZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:37"
+        },
+        {
+            "ID": 135639,
+            "NOM": "LOS",
+            "LOCALISATION": "BR",
+            "ACRONYME": "LOS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:38:39"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 126926
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135639
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22314,
+        "NOM": "Phase 1",
+        "TYPE": "offline",
+        "PAYS": "JP",
+        "REGION": "ASIA",
+        "TIER": "s",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "00:30:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "10:30:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "14:50:34",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4999,
+        "NOM": "BLAST R6 Major",
+        "DATE DE MODIFICATION": "2023-04-19",
+        "HEURE DE MODIFICATION": "18:17:38"
+    },
+    "SERIE": {
+        "ID": 11152,
+        "NOM": "Osaka 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "00:30:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "18:40:09"
+    }
+}

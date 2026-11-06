@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22383,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:33:35",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "SINNERS Legacy vs Monkeys",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-04",
+            "HEURE PRÉVUE": "17:15:00",
+            "DATE DE DEBUT": "2026-11-04",
+            "HEURE DE DEBUT": "2026-11-04",
+            "DATE DE FIN": "2026-11-04",
+            "HEURE DE FIN": "2026-11-04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:02:58",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "UNiTY vs Thousand",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-04",
+            "HEURE PRÉVUE": "18:30:00",
+            "DATE DE DEBUT": "2026-11-04",
+            "HEURE DE DEBUT": "2026-11-04",
+            "DATE DE FIN": "2026-11-04",
+            "HEURE DE FIN": "2026-11-04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:11:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "Winners match: Monkeys vs UNiTY",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-05",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-11-05",
+            "HEURE DE DEBUT": "2026-11-05",
+            "DATE DE FIN": "2026-11-05",
+            "HEURE DE FIN": "2026-11-05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:33:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=i4HMIH6Op-E"
+            }
+        },
+        {
+            "NOM": "Elimination match: SINNERS Legacy vs Thousand",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "2026-11-06",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "2026-11-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:44:37",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=o-m7UuH0mio"
+            }
+        },
+        {
+            "NOM": "Decider match: Monkeys vs SINNERS Legacy",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "2026-11-07",
+            "DATE DE FIN": "2026-11-07",
+            "HEURE DE FIN": "2026-11-07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:44:37",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 133063,
+            "NOM": "UNiTY esports",
+            "LOCALISATION": "SK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:12",
+            "ACRONYME": "UNiTY"
+        },
+        {
+            "ID": 139503,
+            "NOM": "Thousand",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:57:20",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139504,
+            "NOM": "Monkeys",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:57:20",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139506,
+            "NOM": "SINNERS Legacy",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:57:16",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 133063,
+                "NOM": "UNiTY esports",
+                "LOCALISATION": "SK",
+                "ACRONYME": "UNiTY",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28703,
+                    "PSEUDO": "Dytor",
+                    "ROLE": null,
+                    "PRENOM": "Martin",
+                    "NOM": "Handl",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-24",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:11"
+                },
+                {
+                    "ID": 32000,
+                    "PSEUDO": "KWERTZZ",
+                    "ROLE": null,
+                    "PRENOM": "Simon",
+                    "NOM": "Horák",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-10-31",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+                },
+                {
+                    "ID": 33543,
+                    "PSEUDO": "Sn0w",
+                    "ROLE": null,
+                    "PRENOM": "Timmy",
+                    "NOM": "Brun",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+                },
+                {
+                    "ID": 34081,
+                    "PSEUDO": "M1key",
+                    "ROLE": null,
+                    "PRENOM": "Jakub",
+                    "NOM": "Krausko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-03-17",
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+                },
+                {
+                    "ID": 39682,
+                    "PSEUDO": "2high",
+                    "ROLE": null,
+                    "PRENOM": "Ahmet",
+                    "NOM": "Baftijari",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-08",
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139503,
+                "NOM": "Thousand",
+                "LOCALISATION": "CZ",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 42305,
+                    "PSEUDO": "woozzzi",
+                    "ROLE": null,
+                    "PRENOM": "Ruslan",
+                    "NOM": "Aliev",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+                },
+                {
+                    "ID": 51432,
+                    "PSEUDO": "olik",
+                    "ROLE": null,
+                    "PRENOM": "Samuel",
+                    "NOM": "Pokorný",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+                },
+                {
+                    "ID": 52021,
+                    "PSEUDO": "MahaR",
+                    "ROLE": null,
+                    "PRENOM": "Samuel",
+                    "NOM": "Horáček",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:19"
+                },
+                {
+                    "ID": 52221,
+                    "PSEUDO": "FAZERY",
+                    "ROLE": null,
+                    "PRENOM": "David ",
+                    "NOM": "Procházka",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                },
+                {
+                    "ID": 55160,
+                    "PSEUDO": "luckzeN",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139504,
+                "NOM": "Monkeys",
+                "LOCALISATION": "CZ",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28702,
+                    "PSEUDO": "twist",
+                    "ROLE": null,
+                    "PRENOM": "Matěj",
+                    "NOM": "Petráš",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-06-04",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+                },
+                {
+                    "ID": 48402,
+                    "PSEUDO": "Jimmbo",
+                    "ROLE": null,
+                    "PRENOM": "Jiří",
+                    "NOM": "Jaroslav Kamenický",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+                },
+                {
+                    "ID": 55158,
+                    "PSEUDO": "SanyxX",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+                },
+                {
+                    "ID": 60590,
+                    "PSEUDO": "neptun",
+                    "ROLE": null,
+                    "PRENOM": "Lukáš ",
+                    "NOM": "Bašník",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+                },
+                {
+                    "ID": 66939,
+                    "PSEUDO": "TeeShine",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:20"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139506,
+                "NOM": "SINNERS Legacy",
+                "LOCALISATION": "CZ",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:57:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17661,
+                    "PSEUDO": "oskar",
+                    "ROLE": null,
+                    "PRENOM": "Tomáš",
+                    "NOM": "Šťastný",
+                    "AGE": 35,
+                    "DATE DE NAISSANCE": "1991-06-27",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:15"
+                },
+                {
+                    "ID": 26584,
+                    "PSEUDO": "NEOFRAG",
+                    "ROLE": null,
+                    "PRENOM": "Adam",
+                    "NOM": "Zouhar",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-19",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:16"
+                },
+                {
+                    "ID": 29151,
+                    "PSEUDO": "majky",
+                    "ROLE": null,
+                    "PRENOM": "Michal ",
+                    "NOM": "Švancara",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-11-16",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:16"
+                },
+                {
+                    "ID": 29639,
+                    "PSEUDO": "MoriiSko",
+                    "ROLE": null,
+                    "PRENOM": "Josef",
+                    "NOM": "Maurenc",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-15",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:16"
+                },
+                {
+                    "ID": 36111,
+                    "PSEUDO": "naturaL",
+                    "ROLE": null,
+                    "PRENOM": "Peter ",
+                    "NOM": "Turčan",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:57:16"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "MČR",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:46:26"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:11:32",
+        "ID DU VAINQUEUR": null
+    }
+}

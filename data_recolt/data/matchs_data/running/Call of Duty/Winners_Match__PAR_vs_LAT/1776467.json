@@ -1,0 +1,163 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1776467,
+        "NOM": "Winners_Match__PAR_vs_LAT",
+        "JEU VIDEO": "Call of Duty",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "21:51:57",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 9839,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 604,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "21:51:57",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "22:02:02",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137632,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9840,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 864,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "22:07:55",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "22:22:20",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128027,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9841,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 803,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "22:27:41",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "22:41:04",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137632,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9842,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 599,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "22:45:59",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "22:55:58",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128027,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9843,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 5,
+            "STATUT": "running",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "22:59:31",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137632,
+            "NOM": "Paris Gentle Mates",
+            "LOCALISATION": "FR",
+            "ACRONYME": "PAR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:45:19"
+        },
+        {
+            "ID": 128027,
+            "NOM": "Los Angeles Thieves",
+            "LOCALISATION": "US",
+            "ACRONYME": "LAT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:42:40"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137632
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 128027
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22306,
+        "NOM": "Group D",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "s",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "08:18:22",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5577,
+        "NOM": "Monster Launch Invitational",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:56:36"
+    },
+    "SERIE": {
+        "ID": 11150,
+        "NOM": "2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06"
+    }
+}

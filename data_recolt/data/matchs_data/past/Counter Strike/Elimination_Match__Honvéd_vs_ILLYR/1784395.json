@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1784395,
+        "NOM": "Elimination_Match__Honvéd_vs_ILLYR",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "12:11:40",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "14:33:21",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "16:57:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237821,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2142,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "12:11:42",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "12:47:24",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128887,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237822,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2851,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "12:54:46",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "13:42:17",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130980,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237823,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2538,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "13:51:03",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "14:33:22",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130980,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 128887,
+            "NOM": "Honvéd",
+            "LOCALISATION": "HU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:10:12"
+        },
+        {
+            "ID": 130980,
+            "NOM": "ILLYRIANS",
+            "LOCALISATION": "",
+            "ACRONYME": "ILLYR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:47:55"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 128887
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 130980
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22342,
+        "NOM": "Play-In Group C",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 130794,
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "16:57:19",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5437,
+        "NOM": "NODWIN Clutch Series",
+        "DATE DE MODIFICATION": "2025-09-25",
+        "HEURE DE MODIFICATION": "15:53:21"
+    },
+    "SERIE": {
+        "ID": 11163,
+        "NOM": "Season 14 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "18:00:00",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "16:57:19"
+    }
+}

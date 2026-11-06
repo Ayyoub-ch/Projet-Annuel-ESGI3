@@ -1,0 +1,148 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1776464,
+        "NOM": "Winners_Match__TEX_vs_MIN",
+        "JEU VIDEO": "Call of Duty",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "21:32:01",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "22:30:06",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 9824,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 523,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "21:32:01",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "21:40:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137600,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9825,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 620,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "21:45:45",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "21:56:06",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130157,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9826,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 672,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "22:01:51",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "22:13:04",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130157,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9827,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 613,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "22:19:53",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "22:30:07",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130157,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 130157,
+            "NOM": "OpTic Texas",
+            "LOCALISATION": "US",
+            "ACRONYME": "TEX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:49:36"
+        },
+        {
+            "ID": 137600,
+            "NOM": "G2 Minnesota",
+            "LOCALISATION": "US",
+            "ACRONYME": "MIN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:52:29"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 130157
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137600
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22303,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "s",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "08:15:19",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5577,
+        "NOM": "Monster Launch Invitational",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:56:36"
+    },
+    "SERIE": {
+        "ID": 11150,
+        "NOM": "2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06"
+    }
+}

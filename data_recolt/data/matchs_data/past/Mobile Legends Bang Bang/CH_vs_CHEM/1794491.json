@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1794491,
+        "NOM": "CH_vs_CHEM",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "14:33:16",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "15:29:35",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "08:04:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8449,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1907,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "14:33:16",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "15:05:04",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136538,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8450,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1174,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "15:10:01",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "15:29:35",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136538,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136538,
+            "NOM": "Cyber Hero",
+            "LOCALISATION": "RU",
+            "ACRONYME": "CH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:27:12"
+        },
+        {
+            "ID": 139497,
+            "NOM": "Chempiki",
+            "LOCALISATION": "",
+            "ACRONYME": "CHEM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:26:21"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 136538
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139497
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22369,
+        "NOM": "Group C",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "07:27:59",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5304,
+        "NOM": "BetBoom Rise of Legends",
+        "DATE DE MODIFICATION": "2024-10-17",
+        "HEURE DE MODIFICATION": "12:16:30"
+    },
+    "SERIE": {
+        "ID": 11168,
+        "NOM": "Season 11 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "08:04:58"
+    }
+}

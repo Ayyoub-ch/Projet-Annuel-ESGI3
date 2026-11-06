@@ -53,12 +53,13 @@ for tournament in tournaments:
         # que cela doit se faire dans le cas où la valeur est nulle.
         
         year= tournament.get("year", "Année inconnue")
+        begin_at = tournament.get("begin_at")
+        date_debut = begin_at[0:10] if begin_at else "Date de debut inconnue"
+        heure_debut = begin_at[11:19] if begin_at else "Heure de debut inconnue"
         
-        date_debut = tournament.get("begin_at", "Date et Heure inconnue")[0:10]
-        heure_debut = tournament.get("begin_at", "Date et Heure inconnue")[11:19]
-        
-        date_fin = tournament.get("end_at", "Date et Heure inconnue")[0:10]
-        heure_fin = tournament.get("end_at", "Date et Heure inconnue")[11:19]
+        end_at = tournament.get("end_at")
+        date_fin = end_at[0:10] if end_at else "Date de fin inconnue"
+        heure_fin = end_at[11:19] if end_at else "Heure de fin inconnue"
         
         date_modif = tournament.get("modified_at", "Date de modification inconnue")[0:10]
         heure_modif = tournament.get("modified_at", "Heure de modification inconnue")[11:19]
@@ -183,15 +184,21 @@ for tournament in tournaments:
             if not isinstance(match, dict):
                 continue
 
-            modified_at = match.get("modified_at") or "Date inconnue"
-            begin_at = match.get("begin_at") or "Date inconnue"
-            end_at = match.get("end_at") or "Date inconnue"
+            modified_at = match.get("modified_at")
+            match_begin_at = match.get("begin_at")
+            match_end_at = match.get("end_at")
+            
+            match_begin_jour = match_begin_at[0:10] if match_begin_at else "Date de debut de match inconnue"
+            match_begin_heure = match_begin_at[0:10] if match_begin_at else "Date de debut de match inconnue"
+            
+            match_end_jour = match_begin_at[0:10] if match_begin_at else "Date de debut de match inconnue"
+            match_end_heure = match_begin_at[0:10] if match_begin_at else "Date de debut de match inconnue"
+            
             
             infos_streams = [match.get("streams_list", [{}])[0]] if match.get("streams_list") else [{}]  # Récupère le premier élément de la liste ou un dictionnaire vide si la liste est vide
             main= infos_streams[0].get("main")
             language= infos_streams[0].get("language")
             url= infos_streams[0].get("raw_url")
-            
             
             
             matches_metadata.append({
@@ -205,11 +212,11 @@ for tournament in tournaments:
                 "DATE PRÉVUE": match.get("scheduled_at", "Date prévue du match inconnue")[0:10],
                 "HEURE PRÉVUE": match.get("scheduled_at", "Heure prévue du match inconnue")[11:19],
                 
-                "DATE DE DEBUT": begin_at[0:10],
-                "HEURE DE DEBUT": begin_at[11:19],
+                "DATE DE DEBUT": match_begin_jour,
+                "HEURE DE DEBUT": match_begin_heure,
                 
-                "DATE DE FIN": end_at[0:10],
-                "HEURE DE FIN": end_at[11:19],
+                "DATE DE FIN": match_end_jour,
+                "HEURE DE FIN": match_end_heure,
                 
                 "DATE DE LA DERNIERE MODIFICATION": modified_at[0:10],
                 "HEURE DE LA DERNIERE MODIFICATION": modified_at[11:19],

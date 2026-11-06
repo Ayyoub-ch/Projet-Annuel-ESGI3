@@ -1,0 +1,474 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22346,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-31",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-02",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+        "HEURE DE LA DERNIERE MODIFICATION": "00:50:27",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: LAG vs Sutti's Money Crew",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "22:30:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "2026-10-31",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "2026-10-31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:05:09",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nstlga-league-texas-open-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/nstlga_gg"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: NT vs Holly Molly",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "01:40:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "2026-11-01",
+            "DATE DE FIN": "2026-11-01",
+            "HEURE DE FIN": "2026-11-01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:02:51",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nstlga-league-texas-open-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/nstlga_gg"
+            }
+        },
+        {
+            "NOM": "3rd Place Match: SMC vs Holly Molly",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "17:10:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "2026-11-01",
+            "DATE DE FIN": "2026-11-01",
+            "HEURE DE FIN": "2026-11-01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:49:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nstlga-league-texas-open-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/nstlga_gg"
+            }
+        },
+        {
+            "NOM": "Grand Final: LAG vs NT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "21:25:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "2026-11-01",
+            "DATE DE FIN": "2026-11-01",
+            "HEURE DE FIN": "2026-11-01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:58:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nstlga-league-texas-open-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/nstlga_gg"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 132366,
+            "NOM": "LAG Gaming",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:58:15",
+            "ACRONYME": "LAG"
+        },
+        {
+            "ID": 134300,
+            "NOM": "NuTorious",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:58:16",
+            "ACRONYME": "NT"
+        },
+        {
+            "ID": 134807,
+            "NOM": "Holly Molly",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:01:49",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139488,
+            "NOM": "Sutti's Money Crew",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:04:05",
+            "ACRONYME": "SMC"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 132366,
+                "NOM": "LAG Gaming",
+                "LOCALISATION": "US",
+                "ACRONYME": "LAG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:58:15"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23743,
+                    "PSEUDO": "Bwills",
+                    "ROLE": null,
+                    "PRENOM": "Brendan",
+                    "NOM": "Williams",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-11",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:12"
+                },
+                {
+                    "ID": 23776,
+                    "PSEUDO": "djay",
+                    "ROLE": null,
+                    "PRENOM": "Jonathan",
+                    "NOM": "Dallal",
+                    "AGE": 33,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:14"
+                },
+                {
+                    "ID": 25284,
+                    "PSEUDO": "SLIGHT",
+                    "ROLE": null,
+                    "PRENOM": "Keller",
+                    "NOM": "Nilan",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-10-24",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:15"
+                },
+                {
+                    "ID": 32107,
+                    "PSEUDO": "Cryptic",
+                    "ROLE": null,
+                    "PRENOM": "Matthew",
+                    "NOM": "Whitmore",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-25",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:14"
+                },
+                {
+                    "ID": 39725,
+                    "PSEUDO": "Sandman",
+                    "ROLE": null,
+                    "PRENOM": "Justin",
+                    "NOM": "Saulle",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:14"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134300,
+                "NOM": "NuTorious",
+                "LOCALISATION": "US",
+                "ACRONYME": "NT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:58:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27471,
+                    "PSEUDO": "Maze",
+                    "ROLE": null,
+                    "PRENOM": "Mikkel",
+                    "NOM": "Sparvath",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-19",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:16"
+                },
+                {
+                    "ID": 40538,
+                    "PSEUDO": "Kermi",
+                    "ROLE": null,
+                    "PRENOM": "Andrew ",
+                    "NOM": "Cretella",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:15"
+                },
+                {
+                    "ID": 44688,
+                    "PSEUDO": "neight",
+                    "ROLE": null,
+                    "PRENOM": "Nathaniel",
+                    "NOM": "Bell",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:16"
+                },
+                {
+                    "ID": 56502,
+                    "PSEUDO": "cmrn",
+                    "ROLE": null,
+                    "PRENOM": "Cameron",
+                    "NOM": "Longman",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:15"
+                },
+                {
+                    "ID": 61733,
+                    "PSEUDO": "bones",
+                    "ROLE": null,
+                    "PRENOM": "Thomas",
+                    "NOM": "Degenhardt",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:58:15"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134807,
+                "NOM": "Holly Molly",
+                "LOCALISATION": "US",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:01:49"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26389,
+                    "PSEUDO": "flash",
+                    "ROLE": null,
+                    "PRENOM": "Ethan",
+                    "NOM": "Beck",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:07"
+                },
+                {
+                    "ID": 44540,
+                    "PSEUDO": "omoo",
+                    "ROLE": null,
+                    "PRENOM": "Tyler",
+                    "NOM": "Horton",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:05"
+                },
+                {
+                    "ID": 53918,
+                    "PSEUDO": "sveetea",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:05"
+                },
+                {
+                    "ID": 68639,
+                    "PSEUDO": "Larryw1k",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:02"
+                },
+                {
+                    "ID": 68640,
+                    "PSEUDO": "terrk1s",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:05:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139488,
+                "NOM": "Sutti's Money Crew",
+                "LOCALISATION": "US",
+                "ACRONYME": "SMC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:04:05"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27450,
+                    "PSEUDO": "hate",
+                    "ROLE": null,
+                    "PRENOM": "Nicholas ",
+                    "NOM": "Yang",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-27",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:05:44"
+                },
+                {
+                    "ID": 32075,
+                    "PSEUDO": "Gabe",
+                    "ROLE": null,
+                    "PRENOM": "Gabriel ",
+                    "NOM": "Shah",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-24",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:35"
+                },
+                {
+                    "ID": 44681,
+                    "PSEUDO": "Lysander",
+                    "ROLE": null,
+                    "PRENOM": "Nicholas",
+                    "NOM": "LaValley",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:05:37"
+                },
+                {
+                    "ID": 68641,
+                    "PSEUDO": "Sutti",
+                    "ROLE": null,
+                    "PRENOM": "Martin",
+                    "NOM": "Sutti",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:19:34"
+                },
+                {
+                    "ID": 68642,
+                    "PSEUDO": "Jesse",
+                    "ROLE": null,
+                    "PRENOM": "Jesse",
+                    "NOM": "Smith",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:21"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "NSTLGA League",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-06-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:39:35"
+    },
+    "SERIE": {
+        "NOM": "Texas Open 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:53:26",
+        "ID DU VAINQUEUR": null
+    }
+}

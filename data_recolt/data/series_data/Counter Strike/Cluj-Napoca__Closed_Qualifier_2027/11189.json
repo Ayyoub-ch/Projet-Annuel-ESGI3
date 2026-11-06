@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11189,
+        "NOM": "Cluj-Napoca__Closed_Qualifier",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "18:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:02:57",
+        "ANNEE": 2027,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5365,
+        "NOM": "PGL",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-02-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:08:30"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "18:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:09:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

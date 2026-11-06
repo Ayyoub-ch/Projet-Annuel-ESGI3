@@ -1,0 +1,163 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1732451,
+        "NOM": "Upper_Bracket_Final__NAVI_vs_TLID",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "13:11:12",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "16:30:36",
+        "DATE DE MODIFICATION": "2026-09-12",
+        "HEURE DE MODIFICATION": "13:18:24",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8166,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1658,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "13:11:13",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "13:38:51",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135297,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8167,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1378,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "13:54:34",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "14:17:33",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136562,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8168,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1312,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "14:38:44",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "15:00:36",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135297,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8169,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1356,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "15:15:25",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "15:38:02",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136562,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8170,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 1996,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "15:57:20",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "16:30:37",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136562,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136562,
+            "NOM": "Natus Vincere",
+            "LOCALISATION": "ID",
+            "ACRONYME": "NAVI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:48:42"
+        },
+        {
+            "ID": 135297,
+            "NOM": "Team Liquid ID",
+            "LOCALISATION": "ID",
+            "ACRONYME": "TLID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:17:07"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 136562
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135297
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22134,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "ID",
+        "REGION": "ASIA",
+        "TIER": "a",
+        "CASH PRIZE": "4,860,000,000 Indonesian Rupiah",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "12:48:42",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5276,
+        "NOM": "MPL Indonesia",
+        "DATE DE MODIFICATION": "2024-07-22",
+        "HEURE DE MODIFICATION": "12:13:27"
+    },
+    "SERIE": {
+        "ID": 10855,
+        "NOM": "Season 18 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-08-14",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-09-12",
+        "HEURE DE MODIFICATION": "13:18:24"
+    }
+}

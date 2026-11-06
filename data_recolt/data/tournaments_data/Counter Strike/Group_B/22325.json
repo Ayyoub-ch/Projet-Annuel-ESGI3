@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-10-29",
         "HEURE DE DEBUT": "15:00:00",
         "DATE DE FIN": "2026-11-02",
-        "HEURE DE FIN": "15:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-        "HEURE DE LA DERNIERE MODIFICATION": "16:05:11",
+        "HEURE DE FIN": "13:38:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:38:19",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,22 +16,72 @@
         {
             "NOM": "TS.A vs MEGO",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-10-29",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "15:50:00",
             "DATE DE DEBUT": "2026-10-29",
-            "HEURE DE DEBUT": "15:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:01:06",
+            "HEURE DE DEBUT": "2026-10-29",
+            "DATE DE FIN": "2026-10-29",
+            "HEURE DE FIN": "2026-10-29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-29",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:25:05",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-b",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
+            }
+        },
+        {
+            "NOM": "Winners' Match: TS.A vs FAL.F",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-30",
+            "HEURE PRÉVUE": "18:25:00",
+            "DATE DE DEBUT": "2026-10-30",
+            "HEURE DE DEBUT": "2026-10-30",
+            "DATE DE FIN": "2026-10-30",
+            "HEURE DE FIN": "2026-10-30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:36:13",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
+            }
+        },
+        {
+            "NOM": "Decider Match: MEGO vs FAL.F",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-02",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-02",
+            "HEURE DE DEBUT": "2026-11-02",
+            "DATE DE FIN": "2026-11-02",
+            "HEURE DE FIN": "2026-11-02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:53:03",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
@@ -41,22 +91,22 @@
         {
             "NOM": "mellren vs FAL.F",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-10-29",
-            "HEURE PRÉVUE": "18:00:00",
-            "DATE DE DEBUT": "2026-10-29",
-            "HEURE DE DEBUT": "18:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:01:06",
+            "HEURE PRÉVUE": "19:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:02:16",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-b",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
+            "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
@@ -64,74 +114,24 @@
             }
         },
         {
-            "NOM": "Elimination Match: TBD vs TBD",
+            "NOM": "Elimination Match: MELL vs MEGO",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-10-30",
             "HEURE PRÉVUE": "12:00:00",
-            "DATE DE DEBUT": "2026-10-30",
-            "HEURE DE DEBUT": "12:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:01:07",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:02:16",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-b",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
-            }
-        },
-        {
-            "NOM": "Winners' Match: TBD vs TBD",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-10-30",
-            "HEURE PRÉVUE": "18:00:00",
-            "DATE DE DEBUT": "2026-10-30",
-            "HEURE DE DEBUT": "18:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:01:07",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-b",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
-            }
-        },
-        {
-            "NOM": "Decider Match: TBD vs TBD",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-02",
-            "HEURE PRÉVUE": "12:00:00",
-            "DATE DE DEBUT": "2026-11-02",
-            "HEURE DE DEBUT": "12:00:00",
-            "DATE DE FIN": "Date incon",
-            "HEURE DE FIN": "ue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:01:07",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-cct-europe-closed-qualifier-series-13-2026-group-b",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
+            "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
@@ -144,33 +144,33 @@
             "ID": 128629,
             "NOM": "megoshort",
             "LOCALISATION": "SE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:02:24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:40:16",
             "ACRONYME": "MEGO"
         },
         {
             "ID": 128766,
             "NOM": "Spirit Academy",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:02:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:32:50",
             "ACRONYME": "TS.A"
         },
         {
             "ID": 137508,
             "NOM": "Falcons Force",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:02:30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:29:29",
             "ACRONYME": "FAL.F"
         },
         {
             "ID": 138400,
             "NOM": "mellren",
             "LOCALISATION": "BY",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:02:31",
-            "ACRONYME": null
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:17:12",
+            "ACRONYME": "MELL"
         }
     ],
     "MEMBRES DE L'EQUIPE": [
@@ -180,8 +180,8 @@
                 "NOM": "megoshort",
                 "LOCALISATION": "SE",
                 "ACRONYME": "MEGO",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:02:24"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:40:16"
             },
             "JOUEURS": [
                 {
@@ -194,8 +194,8 @@
                     "DATE DE NAISSANCE": "1995-02-03",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:23"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:02:07"
                 },
                 {
                     "ID": 18314,
@@ -207,8 +207,8 @@
                     "DATE DE NAISSANCE": "1997-06-17",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:24"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:02:06"
                 },
                 {
                     "ID": 32357,
@@ -220,8 +220,8 @@
                     "DATE DE NAISSANCE": "2000-10-17",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:02:07"
                 },
                 {
                     "ID": 33030,
@@ -233,8 +233,21 @@
                     "DATE DE NAISSANCE": "2001-01-18",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:23"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:02:07"
+                },
+                {
+                    "ID": 33625,
+                    "PSEUDO": "Ariant0",
+                    "ROLE": null,
+                    "PRENOM": "Jimmy",
+                    "NOM": "Husseini",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-29",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:30:35"
                 },
                 {
                     "ID": 42663,
@@ -246,8 +259,21 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:24"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:02:07"
+                },
+                {
+                    "ID": 46303,
+                    "PSEUDO": "qvick",
+                    "ROLE": null,
+                    "PRENOM": "Jacob",
+                    "NOM": "Antal",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-29",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:30:37"
                 }
             ]
         },
@@ -257,8 +283,8 @@
                 "NOM": "Spirit Academy",
                 "LOCALISATION": "RU",
                 "ACRONYME": "TS.A",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:02:28"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:32:50"
             },
             "JOUEURS": [
                 {
@@ -271,8 +297,8 @@
                     "DATE DE NAISSANCE": "2005-07-14",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:28"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:49"
                 },
                 {
                     "ID": 61765,
@@ -284,8 +310,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:24"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:45"
                 },
                 {
                     "ID": 62212,
@@ -297,8 +323,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:28"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:50"
                 },
                 {
                     "ID": 63733,
@@ -310,8 +336,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:27"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:50"
                 },
                 {
                     "ID": 66079,
@@ -323,8 +349,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:28"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:49"
                 }
             ]
         },
@@ -334,10 +360,23 @@
                 "NOM": "Falcons Force",
                 "LOCALISATION": "",
                 "ACRONYME": "FAL.F",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:02:30"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:29:29"
             },
             "JOUEURS": [
+                {
+                    "ID": 29109,
+                    "PSEUDO": "dan1",
+                    "ROLE": null,
+                    "PRENOM": "Daniel ",
+                    "NOM": "Gligorov",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-18",
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:59"
+                },
                 {
                     "ID": 32584,
                     "PSEUDO": "Tapewaare",
@@ -348,8 +387,8 @@
                     "DATE DE NAISSANCE": "2004-06-06",
                     "NATIONALITE": "NO",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:29"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:03:48"
                 },
                 {
                     "ID": 36452,
@@ -361,8 +400,21 @@
                     "DATE DE NAISSANCE": "2005-04-21",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:30"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+                    "HEURE DE LA DERNIERE MODIFICATION": "05:10:27"
+                },
+                {
+                    "ID": 38395,
+                    "PSEUDO": "waZz",
+                    "ROLE": null,
+                    "PRENOM": "Lipoșteanu Andrei",
+                    "NOM": "Corneliu",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:43:15"
                 },
                 {
                     "ID": 57882,
@@ -374,8 +426,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:30"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:43:54"
                 },
                 {
                     "ID": 61452,
@@ -387,8 +439,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RS",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:29"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:03:47"
                 },
                 {
                     "ID": 62203,
@@ -396,12 +448,12 @@
                     "ROLE": null,
                     "PRENOM": "Matej",
                     "NOM": "Trajkoski",
-                    "AGE": 17,
+                    "AGE": 18,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "MK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:29"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:03:48"
                 }
             ]
         },
@@ -410,9 +462,9 @@
                 "ID": 138400,
                 "NOM": "mellren",
                 "LOCALISATION": "BY",
-                "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:02:31"
+                "ACRONYME": "MELL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:17:12"
             },
             "JOUEURS": [
                 {
@@ -425,8 +477,8 @@
                     "DATE DE NAISSANCE": "1996-06-21",
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:30"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:11"
                 },
                 {
                     "ID": 47057,
@@ -438,8 +490,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:30"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:12"
                 },
                 {
                     "ID": 51717,
@@ -451,8 +503,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:31"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:12"
                 },
                 {
                     "ID": 63996,
@@ -464,8 +516,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:31"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:12"
                 },
                 {
                     "ID": 65151,
@@ -477,8 +529,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:02:31"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:12"
                 }
             ]
         }
@@ -492,8 +544,8 @@
         "NOM": "Closed Qualifier: Series #13 2026",
         "ANNEE": 2026,
         "SAISON": null,
-        "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-        "HEURE DE LA DERNIERE MODIFICATION": "16:05:11",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:38:19",
         "ID DU VAINQUEUR": null
     }
 }

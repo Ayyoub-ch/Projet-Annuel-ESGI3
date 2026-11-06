@@ -1,0 +1,525 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22365,
+        "NOM": "Group_C",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "18:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:18:59",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "SAW.Y vs 4M",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "2026-11-06",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "2026-11-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:54:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-14-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/jester_andrew"
+            }
+        },
+        {
+            "NOM": "SKR vs MSC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "2026-11-06",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "2026-11-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-14-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/jester_andrew"
+            }
+        },
+        {
+            "NOM": "Elimination match: 4M vs MSC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "2026-11-07",
+            "DATE DE FIN": "2026-11-07",
+            "HEURE DE FIN": "2026-11-07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:17:16",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-14-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/cct_cs2"
+            }
+        },
+        {
+            "NOM": "Winners match: SAW.Y vs SKR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "2026-11-07",
+            "DATE DE FIN": "2026-11-07",
+            "HEURE DE FIN": "2026-11-07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:19:27",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-14-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/cct_cs2"
+            }
+        },
+        {
+            "NOM": "Decider match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-08",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-08",
+            "HEURE DE DEBUT": "2026-11-08",
+            "DATE DE FIN": "2026-11-08",
+            "HEURE DE FIN": "2026-11-08",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:18:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-14-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/cct_cs2"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 127911,
+            "NOM": "MASONIC",
+            "LOCALISATION": "DK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:54:33",
+            "ACRONYME": "MSC"
+        },
+        {
+            "ID": 129405,
+            "NOM": "SAW Youngsters",
+            "LOCALISATION": "PT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:54:28",
+            "ACRONYME": "SAW.Y"
+        },
+        {
+            "ID": 137551,
+            "NOM": "Four Magic",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:54:34",
+            "ACRONYME": "4M"
+        },
+        {
+            "ID": 139343,
+            "NOM": "Sökerorg",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:59",
+            "ACRONYME": "SKR"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 127911,
+                "NOM": "MASONIC",
+                "LOCALISATION": "DK",
+                "ACRONYME": "MSC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "00:54:33"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 19957,
+                    "PSEUDO": "b0RUP",
+                    "ROLE": null,
+                    "PRENOM": "Johannes ",
+                    "NOM": "Borup",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-09-29",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:32"
+                },
+                {
+                    "ID": 53928,
+                    "PSEUDO": "Botman",
+                    "ROLE": null,
+                    "PRENOM": "Niklas",
+                    "NOM": "Vestergaard",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:29"
+                },
+                {
+                    "ID": 53931,
+                    "PSEUDO": "Bukhavez",
+                    "ROLE": null,
+                    "PRENOM": "Jonas",
+                    "NOM": "Vestergaard",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:33"
+                },
+                {
+                    "ID": 60790,
+                    "PSEUDO": "KralleJ",
+                    "ROLE": null,
+                    "PRENOM": "Kristian",
+                    "NOM": "Jensen",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:32"
+                },
+                {
+                    "ID": 65406,
+                    "PSEUDO": "slexa",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Marrup",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:33"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 129405,
+                "NOM": "SAW Youngsters",
+                "LOCALISATION": "PT",
+                "ACRONYME": "SAW.Y",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "00:54:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 37899,
+                    "PSEUDO": "tuxa",
+                    "ROLE": null,
+                    "PRENOM": "Daniel",
+                    "NOM": "Esteves",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:27"
+                },
+                {
+                    "ID": 44446,
+                    "PSEUDO": "snowiee",
+                    "ROLE": null,
+                    "PRENOM": "Guilherme",
+                    "NOM": "Martins",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:28"
+                },
+                {
+                    "ID": 45434,
+                    "PSEUDO": "M1KA",
+                    "ROLE": null,
+                    "PRENOM": "Miguel",
+                    "NOM": "Moreira",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:28"
+                },
+                {
+                    "ID": 53025,
+                    "PSEUDO": "Jayy2s",
+                    "ROLE": null,
+                    "PRENOM": "Gonçalo",
+                    "NOM": "Machado\t",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:28"
+                },
+                {
+                    "ID": 61285,
+                    "PSEUDO": "jERK0z",
+                    "ROLE": null,
+                    "PRENOM": "Rodrigo ",
+                    "NOM": "Costa",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:28"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137551,
+                "NOM": "Four Magic",
+                "LOCALISATION": "BR",
+                "ACRONYME": "4M",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "00:54:34"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 59540,
+                    "PSEUDO": "statikS",
+                    "ROLE": null,
+                    "PRENOM": "Fynn",
+                    "NOM": "Szusdziara",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:34"
+                },
+                {
+                    "ID": 61539,
+                    "PSEUDO": "LkS",
+                    "ROLE": null,
+                    "PRENOM": "Adrian ",
+                    "NOM": "Alexandru Dușmanu",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:34"
+                },
+                {
+                    "ID": 65974,
+                    "PSEUDO": "GeGo",
+                    "ROLE": null,
+                    "PRENOM": "Georgi",
+                    "NOM": "Gospodinov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:34"
+                },
+                {
+                    "ID": 66708,
+                    "PSEUDO": "St1xsy",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:34"
+                },
+                {
+                    "ID": 67965,
+                    "PSEUDO": "sensey",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:54:34"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139343,
+                "NOM": "Sökerorg",
+                "LOCALISATION": "",
+                "ACRONYME": "SKR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24243,
+                    "PSEUDO": "Sapec",
+                    "ROLE": null,
+                    "PRENOM": "Anton ",
+                    "NOM": "Palmgren",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-05",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                },
+                {
+                    "ID": 29109,
+                    "PSEUDO": "dan1",
+                    "ROLE": null,
+                    "PRENOM": "Daniel ",
+                    "NOM": "Gligorov",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-18",
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:59"
+                },
+                {
+                    "ID": 30018,
+                    "PSEUDO": "Mann3n",
+                    "ROLE": null,
+                    "PRENOM": "Tim",
+                    "NOM": "Isak",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-11-02",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:47:11"
+                },
+                {
+                    "ID": 30413,
+                    "PSEUDO": "dottie",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Alevärn",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                },
+                {
+                    "ID": 35871,
+                    "PSEUDO": " flaw",
+                    "ROLE": null,
+                    "PRENOM": "Adam",
+                    "NOM": "Gustafsson",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                },
+                {
+                    "ID": 35898,
+                    "PSEUDO": "L00m1",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Haukland",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-19",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                },
+                {
+                    "ID": 57760,
+                    "PSEUDO": "BRK",
+                    "ROLE": null,
+                    "PRENOM": "Horomei",
+                    "NOM": "Răzvan",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:58"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "CCT Europe",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-04-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "NOM": "Closed Qualifier: Series #14 2026",
+        "ANNEE": 2026,
+        "SAISON": "#14",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "01:02:36",
+        "ID DU VAINQUEUR": null
+    }
+}

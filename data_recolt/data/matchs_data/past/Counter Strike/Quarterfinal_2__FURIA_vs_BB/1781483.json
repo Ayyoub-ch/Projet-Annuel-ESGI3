@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1781483,
+        "NOM": "Quarterfinal_2__FURIA_vs_BB",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "11:07:04",
+        "DATE DE FIN": "2026-11-06",
+        "HEURE DE FIN": "14:25:35",
+        "DATE DE MODIFICATION": "2026-10-30",
+        "HEURE DE MODIFICATION": "19:01:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-11-06T10:45:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237713,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2311,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "11:07:04",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "11:45:35",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133458,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237714,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3304,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "12:04:21",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "12:59:25",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 124530,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237715,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3996,
+            "DATE DE DEBUT DE PARTIE": "2026-11-06",
+            "HEURE DE DEBUT DE PARTIE": "13:18:59",
+            "DATE DE FIN DE PARTIE": "2026-11-06",
+            "HEURE DE FIN DE PARTIE": "14:25:36",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133458,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 124530,
+            "NOM": "FURIA",
+            "LOCALISATION": "BR",
+            "ACRONYME": "FURIA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:49"
+        },
+        {
+            "ID": 133458,
+            "NOM": "BetBoom Team",
+            "LOCALISATION": "RU",
+            "ACRONYME": "BB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 124530
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 133458
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22333,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "s",
+        "CASH PRIZE": "1,250,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "06:30:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "12:30:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "13:20:58",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 4161,
+        "NOM": "IEM",
+        "DATE DE MODIFICATION": "2019-03-04",
+        "HEURE DE MODIFICATION": "11:00:40"
+    },
+    "SERIE": {
+        "ID": 11136,
+        "NOM": "Beijing 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "02:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "12:30:00",
+        "DATE DE MODIFICATION": "2026-10-30",
+        "HEURE DE MODIFICATION": "19:01:19"
+    }
+}

@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22384,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "19:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "22:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:46:54",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "DE.P vs ESB",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-04",
+            "HEURE PRÉVUE": "19:35:00",
+            "DATE DE DEBUT": "2026-11-04",
+            "HEURE DE DEBUT": "2026-11-04",
+            "DATE DE FIN": "2026-11-04",
+            "HEURE DE FIN": "2026-11-04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:25:47",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "BRUTE.SQ vs B.LINE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-04",
+            "HEURE PRÉVUE": "21:00:00",
+            "DATE DE DEBUT": "2026-11-04",
+            "HEURE DE DEBUT": "2026-11-04",
+            "DATE DE FIN": "2026-11-04",
+            "HEURE DE FIN": "2026-11-04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:04:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "Winners match: ESB vs BRUTE.SQ",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-05",
+            "HEURE PRÉVUE": "20:05:00",
+            "DATE DE DEBUT": "2026-11-05",
+            "HEURE DE DEBUT": "2026-11-05",
+            "DATE DE FIN": "2026-11-05",
+            "HEURE DE FIN": "2026-11-05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:46:55",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=i4HMIH6Op-E"
+            }
+        },
+        {
+            "NOM": "Elimination match: DE.P vs B.LINE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "20:10:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "2026-11-06",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "2026-11-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:21:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "Decider match: BRUTE.SQ vs DE.P",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "19:30:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "2026-11-07",
+            "DATE DE FIN": "2026-11-07",
+            "HEURE DE FIN": "2026-11-07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:21:29",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-mcr-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 127497,
+            "NOM": "eSuba",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:08",
+            "ACRONYME": "ESB"
+        },
+        {
+            "ID": 139014,
+            "NOM": "Dynamo Eclot Phoenix",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:04:52",
+            "ACRONYME": "DE.P"
+        },
+        {
+            "ID": 139502,
+            "NOM": "BRUTE SQ",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:49:59",
+            "ACRONYME": "BRUTE.SQ"
+        },
+        {
+            "ID": 139505,
+            "NOM": "B.LINE",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:04:53",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 127497,
+                "NOM": "eSuba",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "ESB",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:05:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25106,
+                    "PSEUDO": "Crazyy",
+                    "ROLE": null,
+                    "PRENOM": "Ondřej",
+                    "NOM": "Švec",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:07"
+                },
+                {
+                    "ID": 51144,
+                    "PSEUDO": "vANO",
+                    "ROLE": null,
+                    "PRENOM": "Ivan",
+                    "NOM": "Galustyan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:56"
+                },
+                {
+                    "ID": 66042,
+                    "PSEUDO": "Rentlax",
+                    "ROLE": null,
+                    "PRENOM": "Martin",
+                    "NOM": "Křepelka",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:08"
+                },
+                {
+                    "ID": 66043,
+                    "PSEUDO": "shark",
+                    "ROLE": null,
+                    "PRENOM": "Filip",
+                    "NOM": "Táborský",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:08"
+                },
+                {
+                    "ID": 66895,
+                    "PSEUDO": "Ananasino",
+                    "ROLE": null,
+                    "PRENOM": "Vojtěch",
+                    "NOM": "Hanák",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:05"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139014,
+                "NOM": "Dynamo Eclot Phoenix",
+                "LOCALISATION": "",
+                "ACRONYME": "DE.P",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:04:52"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 48878,
+                    "PSEUDO": "luke",
+                    "ROLE": null,
+                    "PRENOM": "Lukáš ",
+                    "NOM": "Vánský",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:52"
+                },
+                {
+                    "ID": 67130,
+                    "PSEUDO": "Hok",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:51"
+                },
+                {
+                    "ID": 67131,
+                    "PSEUDO": "Pr1sty",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:52"
+                },
+                {
+                    "ID": 67132,
+                    "PSEUDO": "rainy",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:52"
+                },
+                {
+                    "ID": 67133,
+                    "PSEUDO": "seva",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:52"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139502,
+                "NOM": "BRUTE SQ",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "BRUTE.SQ",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:49:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25110,
+                    "PSEUDO": "The eLiVe",
+                    "ROLE": null,
+                    "PRENOM": "Erik",
+                    "NOM": "Sith",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:53"
+                },
+                {
+                    "ID": 33554,
+                    "PSEUDO": "heikkoL",
+                    "ROLE": null,
+                    "PRENOM": "Kristián",
+                    "NOM": "Garbera",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:51:03"
+                },
+                {
+                    "ID": 36478,
+                    "PSEUDO": "Frixos",
+                    "ROLE": null,
+                    "PRENOM": "Marek ",
+                    "NOM": "Častulík",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:50:45"
+                },
+                {
+                    "ID": 37257,
+                    "PSEUDO": "w4rden",
+                    "ROLE": null,
+                    "PRENOM": "Jakub ",
+                    "NOM": "Horák",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:59"
+                },
+                {
+                    "ID": 45801,
+                    "PSEUDO": "SiKO",
+                    "ROLE": null,
+                    "PRENOM": "Tibor",
+                    "NOM": "Putera",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139505,
+                "NOM": "B.LINE",
+                "LOCALISATION": "CZ",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:04:53"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 61973,
+                    "PSEUDO": "dragaN",
+                    "ROLE": null,
+                    "PRENOM": "Maroš",
+                    "NOM": "Furin",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:53"
+                },
+                {
+                    "ID": 68672,
+                    "PSEUDO": "Dmitry",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:53"
+                },
+                {
+                    "ID": 68673,
+                    "PSEUDO": "gluMWall",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:53"
+                },
+                {
+                    "ID": 68674,
+                    "PSEUDO": "Pejtr1ck",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:53"
+                },
+                {
+                    "ID": 68675,
+                    "PSEUDO": "fantomlya",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:04:53"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "MČR",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:46:26"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:11:32",
+        "ID DU VAINQUEUR": null
+    }
+}

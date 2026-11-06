@@ -139,10 +139,7 @@ for moment in time:
                         "DETAIL STAT": stats_detail,
                         "FORFAIT": forfait,
                         
-                        "VAINQUEUR" :{
-                            "ID": vainqueur_id,
-                            "TYPE": vainqueur_type
-                        },
+                        "ID DU VAINQUEUR": vainqueur_id,
                         "TYPE DU VAINQUEUR": winner_type
                     })
                     
@@ -328,4 +325,5 @@ for moment in time:
             print(f" Fichier cree '{nom}' sauvegardees dans '{chemin_fichier_json}'")
         
         except Exception as e:
-            print(f" Erreur lors du traitement de la league '{nom}': {e}")
+            message_securise = f" Erreur lors du traitement de la league '{nom}': {e}".encode('utf-8', 'replace').decode('cp1252', 'ignore')
+            print(message_securise)
