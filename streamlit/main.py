@@ -4993,79 +4993,79 @@ elif router_choice == "E-Sport":
                             if df.empty:
                                 st.warning("Aucune donnée disponible pour le moment.")
                                 st.stop()
-                            
-                            # Suppression des autres parties pour un affiche plus aéré
-                            df_l = df.drop(columns=["PARTIES", "ADVERSAIRES", "RESULTATS"])
+                            else:
+                                # Suppression des autres parties pour un affiche plus aéré
+                                df_l = df.drop(columns=["PARTIES", "ADVERSAIRES", "RESULTATS"])
 
-                            # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
-                            df_p = df.explode("PARTIES").reset_index(drop=True)
-                            df_a = df.explode("ADVERSAIRES").reset_index(drop=True)
-                            df_r = df.explode("RESULTATS").reset_index(drop=True)
-                            
-                            # Applatissement des colonnes imbriquées pour l'affichage
-                            parties_details = pd.json_normalize(df_p["PARTIES"])
-                            adversaires_details = pd.json_normalize(df_a["ADVERSAIRES"])
-                            resultats_details = pd.json_normalize(df_r["RESULTATS"])
-                            
-                            # Renommage des colonnes pour une meilleure lisibilité
-                            df_l = df_l.rename(
-                                columns={
-                                    "DONNEES GENERALES DU MATCH.ID": "ID Match" ,
-                                    "DONNEES GENERALES DU MATCH.NOM": "Nom du Match" ,
-                                    "DONNEES GENERALES DU MATCH.JEU VIDEO": "Jeu Vidéo" ,
-                                    "DONNEES GENERALES DU MATCH.VERSION ACTUELLE DU JEU": "Version du Jeu" ,
-                                    "DONNEES GENERALES DU MATCH.STATUT": "Statut du Match" ,
-                                    "DONNEES GENERALES DU MATCH.NOMBRE DE PARTIE": "Nombre de Parties" ,
-                                    "DONNEES GENERALES DU MATCH.DATE DE DEBUT": "Date de Début" ,
-                                    "DONNEES GENERALES DU MATCH.HEURE DE DEBUT": "Heure de Début" ,
-                                    "DONNEES GENERALES DU MATCH.DATE DE FIN": "Date de Fin" ,
-                                    "DONNEES GENERALES DU MATCH.HEURE DE FIN": "Heure de Fin" ,
-                                    "DONNEES GENERALES DU MATCH.DATE DE MODIFICATION": "Date de Modification" ,
-                                    "DONNEES GENERALES DU MATCH.HEURE DE MODIFICATION": "Heure de Modification" ,
-                                    "DONNEES GENERALES DU MATCH.STATS DETAILLEES": "Stats Détaillées" ,
-                                    
-                                    "DONNEES GENERALES DU MATCH.LIVE.SUPPORT": "Live Supporté" ,
-                                    "DONNEES GENERALES DU MATCH.LIVE.OUVERTURE": "Info Ouverture" ,
-                                    
-                                    "DONNEES GENERALES DU MATCH.AVANTAGE DURANT LA PARTIE": "Avantage lors de la partie" ,
-                                    
-                                    # Tournoi
-                                    "TOURNOI.ID": "ID Tournoi",
-                                    "TOURNOI.NOM": "Nom du Tournoi", 
-                                    "TOURNOI.TYPE": "Type du Tournoi", 
-                                    "TOURNOI.PAYS": "Pays du Tournoi", 
-                                    "TOURNOI.REGION": "Région du Tournoi", 
-                                    "TOURNOI.CASH PRIZE": "Cash Prize du Tournoi", 
-                                    "TOURNOI.VAINQUEUR": "Vainqueur du Tournoi", 
-                                    "TOURNOI.DATE DE DEBUT": "Date de Début du Tournoi" ,
-                                    "TOURNOI.HEURE DE DEBUT": "Heure de Début du Tournoi" ,
-                                    "TOURNOI.DATE DE FIN": "Date de Fin du Tournoi" ,
-                                    "TOURNOI.HEURE DE FIN": "Heure de Fin du Tournoi" ,
-                                    "TOURNOI.DATE DE MODIFICATION": "Date de Modification du Tournoi" ,
-                                    "TOURNOI.HEURE DE MODIFICATION": "Heure de Modification du Tournoi" ,
-                                    "TOURNOI.STATS DETAILLEES": "Stats Détaillées du Tournoi", 
-                                    "TOURNOI.LIVE SUPPORT": "Live Supporté du Tournoi", 
-                                    
-                                    # Ligue
-                                    "LIGUE.ID": "ID Ligue",
-                                    "LIGUE.NOM": "Nom de la Ligue",
-                                    "LIGUE.DATE DE MODIFICATION": "Date dernière modification Ligue",
-                                    "LIGUE.HEURE DE MODIFICATION": "Heure dernière modification Ligue",
-                                    
-                                    # Série
-                                    "SERIE.ID": "ID Série",
-                                    "SERIE.NOM": "Nom de la Série",
-                                    "SERIE.ANNEE": "Année de la Série",
-                                    "SERIE.VAINQUEUR": "Vainqueur de la Série",
-                                    "SERIE.DATE DE DEBUT": "Date de début de la Série",
-                                    "SERIE.HEURE DE DEBUT": "Heure de début de la Série",
-                                    "SERIE.DATE DE FIN": "Date de fin de la Série",
-                                    "SERIE.HEURE DE FIN": "Heure de fin de la Série",
-                                    "SERIE.DATE DE MODIFICATION": "Date de Modification de la Série",
-                                    "SERIE.HEURE DE MODIFICATION": "Heure de Modification de la Série",
+                                # Séparation entre les dictionnaires et les listes de dictionnaires pour l'affichage des données tabulaires
+                                df_p = df.explode("PARTIES").reset_index(drop=True)
+                                df_a = df.explode("ADVERSAIRES").reset_index(drop=True)
+                                df_r = df.explode("RESULTATS").reset_index(drop=True)
+                                
+                                # Applatissement des colonnes imbriquées pour l'affichage
+                                parties_details = pd.json_normalize(df_p["PARTIES"])
+                                adversaires_details = pd.json_normalize(df_a["ADVERSAIRES"])
+                                resultats_details = pd.json_normalize(df_r["RESULTATS"])
+                                
+                                # Renommage des colonnes pour une meilleure lisibilité
+                                df_l = df_l.rename(
+                                    columns={
+                                        "DONNEES GENERALES DU MATCH.ID": "ID Match" ,
+                                        "DONNEES GENERALES DU MATCH.NOM": "Nom du Match" ,
+                                        "DONNEES GENERALES DU MATCH.JEU VIDEO": "Jeu Vidéo" ,
+                                        "DONNEES GENERALES DU MATCH.VERSION ACTUELLE DU JEU": "Version du Jeu" ,
+                                        "DONNEES GENERALES DU MATCH.STATUT": "Statut du Match" ,
+                                        "DONNEES GENERALES DU MATCH.NOMBRE DE PARTIE": "Nombre de Parties" ,
+                                        "DONNEES GENERALES DU MATCH.DATE DE DEBUT": "Date de Début" ,
+                                        "DONNEES GENERALES DU MATCH.HEURE DE DEBUT": "Heure de Début" ,
+                                        "DONNEES GENERALES DU MATCH.DATE DE FIN": "Date de Fin" ,
+                                        "DONNEES GENERALES DU MATCH.HEURE DE FIN": "Heure de Fin" ,
+                                        "DONNEES GENERALES DU MATCH.DATE DE MODIFICATION": "Date de Modification" ,
+                                        "DONNEES GENERALES DU MATCH.HEURE DE MODIFICATION": "Heure de Modification" ,
+                                        "DONNEES GENERALES DU MATCH.STATS DETAILLEES": "Stats Détaillées" ,
+                                        
+                                        "DONNEES GENERALES DU MATCH.LIVE.SUPPORT": "Live Supporté" ,
+                                        "DONNEES GENERALES DU MATCH.LIVE.OUVERTURE": "Info Ouverture" ,
+                                        
+                                        "DONNEES GENERALES DU MATCH.AVANTAGE DURANT LA PARTIE": "Avantage lors de la partie" ,
+                                        
+                                        # Tournoi
+                                        "TOURNOI.ID": "ID Tournoi",
+                                        "TOURNOI.NOM": "Nom du Tournoi", 
+                                        "TOURNOI.TYPE": "Type du Tournoi", 
+                                        "TOURNOI.PAYS": "Pays du Tournoi", 
+                                        "TOURNOI.REGION": "Région du Tournoi", 
+                                        "TOURNOI.CASH PRIZE": "Cash Prize du Tournoi", 
+                                        "TOURNOI.VAINQUEUR": "Vainqueur du Tournoi", 
+                                        "TOURNOI.DATE DE DEBUT": "Date de Début du Tournoi" ,
+                                        "TOURNOI.HEURE DE DEBUT": "Heure de Début du Tournoi" ,
+                                        "TOURNOI.DATE DE FIN": "Date de Fin du Tournoi" ,
+                                        "TOURNOI.HEURE DE FIN": "Heure de Fin du Tournoi" ,
+                                        "TOURNOI.DATE DE MODIFICATION": "Date de Modification du Tournoi" ,
+                                        "TOURNOI.HEURE DE MODIFICATION": "Heure de Modification du Tournoi" ,
+                                        "TOURNOI.STATS DETAILLEES": "Stats Détaillées du Tournoi", 
+                                        "TOURNOI.LIVE SUPPORT": "Live Supporté du Tournoi", 
+                                        
+                                        # Ligue
+                                        "LIGUE.ID": "ID Ligue",
+                                        "LIGUE.NOM": "Nom de la Ligue",
+                                        "LIGUE.DATE DE MODIFICATION": "Date dernière modification Ligue",
+                                        "LIGUE.HEURE DE MODIFICATION": "Heure dernière modification Ligue",
+                                        
+                                        # Série
+                                        "SERIE.ID": "ID Série",
+                                        "SERIE.NOM": "Nom de la Série",
+                                        "SERIE.ANNEE": "Année de la Série",
+                                        "SERIE.VAINQUEUR": "Vainqueur de la Série",
+                                        "SERIE.DATE DE DEBUT": "Date de début de la Série",
+                                        "SERIE.HEURE DE DEBUT": "Heure de début de la Série",
+                                        "SERIE.DATE DE FIN": "Date de fin de la Série",
+                                        "SERIE.HEURE DE FIN": "Heure de fin de la Série",
+                                        "SERIE.DATE DE MODIFICATION": "Date de Modification de la Série",
+                                        "SERIE.HEURE DE MODIFICATION": "Heure de Modification de la Série",
 
-                                }
-                            )
+                                    }
+                                )
                             
                             
                             st.write(f"Données récupérées pour {videogame} avec succès !")
