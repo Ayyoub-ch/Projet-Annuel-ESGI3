@@ -4835,7 +4835,7 @@ elif router_choice == "E-Sport":
                                     membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                     
                                 # Renommage des colonnes pour une meilleure lisibilité
-                                df_l = df.rename(
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -4920,7 +4920,7 @@ elif router_choice == "E-Sport":
                                     membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                     
                                 # Renommage des colonnes pour une meilleure lisibilité
-                                df_l = df.rename(
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -5013,7 +5013,7 @@ elif router_choice == "E-Sport":
                                         membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                         
                                     # Renommage des colonnes pour une meilleure lisibilité
-                                    df_l = df.rename(
+                                    df_l = df_l.rename(
                                     columns={
                                         # Données générales du tournoi
                                         "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -5108,7 +5108,7 @@ elif router_choice == "E-Sport":
                                         membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                         
                                     # Renommage des colonnes pour une meilleure lisibilité
-                                    df_l = df.rename(
+                                    df_l = df_l.rename(
                                     columns={
                                         # Données générales du tournoi
                                         "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -5195,7 +5195,7 @@ elif router_choice == "E-Sport":
                                     membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                     
                                 # Renommage des colonnes pour une meilleure lisibilité
-                                df_l = df.rename(
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -5289,7 +5289,7 @@ elif router_choice == "E-Sport":
                                         membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                         
                                     # Renommage des colonnes pour une meilleure lisibilité
-                                    df_l = df.rename(
+                                    df_l = df_l.rename(
                                     columns={
                                         # Données générales du tournoi
                                         "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -5377,7 +5377,7 @@ elif router_choice == "E-Sport":
                                     membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                     
                                 # Renommage des colonnes pour une meilleure lisibilité
-                                df_l = df.rename(
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -5466,7 +5466,7 @@ elif router_choice == "E-Sport":
                                     membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                     
                                 # Renommage des colonnes pour une meilleure lisibilité
-                                df_l = df.rename(
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
@@ -5551,7 +5551,7 @@ elif router_choice == "E-Sport":
                                     membres_equipes_details = pd.json_normalize(membres_propres, record_path=["JOUEURS"])
                                     
                                 # Renommage des colonnes pour une meilleure lisibilité
-                                df_l = df.rename(
+                                df_l = df_l.rename(
                                 columns={
                                     # Données générales du tournoi
                                     "DONNEES GENERALES DU TOURNOIS.ID": "ID Tournoi",
