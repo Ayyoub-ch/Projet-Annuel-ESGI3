@@ -1,0 +1,538 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22359,
+        "NOM": "Group_C",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-11-04",
+        "HEURE DE FIN": "16:53:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:20:53",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Winners' Match: RBLS vs PCIFIC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-03",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-03",
+            "HEURE DE DEBUT": "2026-11-03",
+            "DATE DE FIN": "2026-11-03",
+            "HEURE DE FIN": "2026-11-03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:00:24",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-10-52-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "pt",
+                "LIEN BRUTE": "https://www.twitch.tv/roman"
+            }
+        },
+        {
+            "NOM": "Elimination Match: maybe vs FAL.F",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-03",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-03",
+            "HEURE DE DEBUT": "2026-11-03",
+            "DATE DE FIN": "2026-11-03",
+            "HEURE DE FIN": "2026-11-03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:56:57",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-10-52-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "uk",
+                "LIEN BRUTE": "https://www.twitch.tv/stariy_cast"
+            }
+        },
+        {
+            "NOM": "Decider Match: PCIFIC vs maybe",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-04",
+            "HEURE PRÉVUE": "14:15:00",
+            "DATE DE DEBUT": "2026-11-04",
+            "HEURE DE DEBUT": "2026-11-04",
+            "DATE DE FIN": "2026-11-04",
+            "HEURE DE FIN": "2026-11-04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:04:03",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-10-52-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/trisscary"
+            }
+        },
+        {
+            "NOM": "RBLS vs maybe",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-03",
+            "HEURE PRÉVUE": "14:40:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:52:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-10-52-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/gardemi"
+            }
+        },
+        {
+            "NOM": "PCIFIC vs FAL.F",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-03",
+            "HEURE PRÉVUE": "14:45:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:52:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-10-52-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "tr",
+                "LIEN BRUTE": "https://www.twitch.tv/rowincy"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 134251,
+            "NOM": "Rebels Gaming",
+            "LOCALISATION": "PL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:16:26",
+            "ACRONYME": "RBLS"
+        },
+        {
+            "ID": 137508,
+            "NOM": "Falcons Force",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:29:29",
+            "ACRONYME": "FAL.F"
+        },
+        {
+            "ID": 138660,
+            "NOM": "WRAITH PCIFIC",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:09:42",
+            "ACRONYME": "PCIFIC"
+        },
+        {
+            "ID": 138899,
+            "NOM": "maybe",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:51:20",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 134251,
+                "NOM": "Rebels Gaming",
+                "LOCALISATION": "PL",
+                "ACRONYME": "RBLS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:16:26"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23035,
+                    "PSEUDO": "stadodo",
+                    "ROLE": null,
+                    "PRENOM": "Renato",
+                    "NOM": "Gonçalves",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1996-11-17",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:26"
+                },
+                {
+                    "ID": 24965,
+                    "PSEUDO": "Shr",
+                    "ROLE": null,
+                    "PRENOM": "Jose",
+                    "NOM": "Gil",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-17",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:26"
+                },
+                {
+                    "ID": 29848,
+                    "PSEUDO": "Icarus",
+                    "ROLE": null,
+                    "PRENOM": "Diogo",
+                    "NOM": "Cruz",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-11-13",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:25"
+                },
+                {
+                    "ID": 31208,
+                    "PSEUDO": "arrozdoce",
+                    "ROLE": null,
+                    "PRENOM": "Rafael",
+                    "NOM": "Wing",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-02",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:25"
+                },
+                {
+                    "ID": 46228,
+                    "PSEUDO": "aragornN",
+                    "ROLE": null,
+                    "PRENOM": "António",
+                    "NOM": "Barbosa",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-23",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:23"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137508,
+                "NOM": "Falcons Force",
+                "LOCALISATION": "",
+                "ACRONYME": "FAL.F",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:29:29"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18187,
+                    "PSEUDO": "NaToSaphiX",
+                    "ROLE": null,
+                    "PRENOM": "Niels-Christian ",
+                    "NOM": "Sillassen",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-08-16",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:58:48"
+                },
+                {
+                    "ID": 29109,
+                    "PSEUDO": "dan1",
+                    "ROLE": null,
+                    "PRENOM": "Daniel ",
+                    "NOM": "Gligorov",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-18",
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:09:21"
+                },
+                {
+                    "ID": 32584,
+                    "PSEUDO": "Tapewaare",
+                    "ROLE": null,
+                    "PRENOM": "Sindre ",
+                    "NOM": "Ellefsen",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-06-06",
+                    "NATIONALITE": "NO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:03:48"
+                },
+                {
+                    "ID": 57882,
+                    "PSEUDO": "grecu",
+                    "ROLE": null,
+                    "PRENOM": "Andrei ",
+                    "NOM": "Grecu",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:43:54"
+                },
+                {
+                    "ID": 61452,
+                    "PSEUDO": "VENO",
+                    "ROLE": null,
+                    "PRENOM": "Vladimir",
+                    "NOM": "Stankovic",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:03:47"
+                },
+                {
+                    "ID": 62203,
+                    "PSEUDO": "Nucleonz",
+                    "ROLE": null,
+                    "PRENOM": "Matej",
+                    "NOM": "Trajkoski",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:03:48"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138660,
+                "NOM": "WRAITH PCIFIC",
+                "LOCALISATION": "TR",
+                "ACRONYME": "PCIFIC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:09:42"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27782,
+                    "PSEUDO": "l0gicman",
+                    "ROLE": null,
+                    "PRENOM": "Ekrem",
+                    "NOM": "Aydin",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-07-30",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:17:56"
+                },
+                {
+                    "ID": 44396,
+                    "PSEUDO": "scolleN",
+                    "ROLE": null,
+                    "PRENOM": "Tunahan",
+                    "NOM": "Coşkun",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:11"
+                },
+                {
+                    "ID": 49381,
+                    "PSEUDO": "lugseN",
+                    "ROLE": null,
+                    "PRENOM": "Baha Emir",
+                    "NOM": "Şengül",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:10"
+                },
+                {
+                    "ID": 55435,
+                    "PSEUDO": "jresy",
+                    "ROLE": null,
+                    "PRENOM": "Berat",
+                    "NOM": "Özcan",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:10"
+                },
+                {
+                    "ID": 55441,
+                    "PSEUDO": "rim3",
+                    "ROLE": null,
+                    "PRENOM": "Emir",
+                    "NOM": "Dönmez",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:46"
+                },
+                {
+                    "ID": 61347,
+                    "PSEUDO": "oyesil",
+                    "ROLE": null,
+                    "PRENOM": "Yiğit Güven ",
+                    "NOM": "Yeşil",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:17:10"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138899,
+                "NOM": "maybe",
+                "LOCALISATION": "UA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:51:20"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 49420,
+                    "PSEUDO": "m4d4ra",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Nikolskiy",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:04"
+                },
+                {
+                    "ID": 53412,
+                    "PSEUDO": "edixenn",
+                    "ROLE": null,
+                    "PRENOM": "Eduard",
+                    "NOM": "Liubchenko",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:04"
+                },
+                {
+                    "ID": 55996,
+                    "PSEUDO": "zogeN",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Baranyshyn",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:52"
+                },
+                {
+                    "ID": 66717,
+                    "PSEUDO": "Awi4",
+                    "ROLE": null,
+                    "PRENOM": "Zahar",
+                    "NOM": "Vutkevych",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:03"
+                },
+                {
+                    "ID": 66719,
+                    "PSEUDO": "shallthing",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Vladov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:04"
+                },
+                {
+                    "ID": 66720,
+                    "PSEUDO": "thirtythird",
+                    "ROLE": null,
+                    "PRENOM": "Denys",
+                    "NOM": "Tabaka",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:04"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "ESL Challenger League",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "SERIE": {
+        "NOM": "Europe Cup #10 season 52 2026",
+        "ANNEE": 2026,
+        "SAISON": "52",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:12:02",
+        "ID DU VAINQUEUR": null
+    }
+}

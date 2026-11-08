@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1785746,
+        "NOM": "ICxI_vs_Z10",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "10:04:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "12:06:39",
+        "DATE DE MODIFICATION": "2026-11-01",
+        "HEURE DE MODIFICATION": "20:32:00",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741015,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2386,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "10:04:03",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "10:54:51",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137417,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741016,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2842,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "11:10:50",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "12:06:39",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137417,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137417,
+            "NOM": "Inner Circle x Insanity",
+            "LOCALISATION": "GB",
+            "ACRONYME": "ICxI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:28:16"
+        },
+        {
+            "ID": 135854,
+            "NOM": "Zero Tenacity",
+            "LOCALISATION": "RS",
+            "ACRONYME": "Z10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:47:21"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137417
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135854
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22347,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "12:08:33",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5550,
+        "NOM": "Asgard Championship",
+        "DATE DE MODIFICATION": "2026-08-07",
+        "HEURE DE MODIFICATION": "08:37:45"
+    },
+    "SERIE": {
+        "ID": 11165,
+        "NOM": "Season 2 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-01",
+        "HEURE DE MODIFICATION": "20:32:00"
+    }
+}

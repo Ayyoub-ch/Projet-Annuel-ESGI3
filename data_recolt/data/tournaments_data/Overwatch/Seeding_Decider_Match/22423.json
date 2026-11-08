@@ -1,0 +1,57 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22423,
+        "NOM": "Seeding_Decider_Match",
+        "JEU VIDEO": "Overwatch",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "13:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:02:57",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Seeding Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "first_to",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:01:47",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "ow-overwatch-champions-series-asia-stage-3-2026-seeding-decider-match",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ko",
+                "LIEN BRUTE": "https://www.sooplive.com/station/owesports"
+            }
+        }
+    ],
+    "EQUIPES": "Pas d'informations sur l'equipe",
+    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "LIGUE": {
+        "NOM": "OCS",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-03-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "NOM": "Asia Stage 3 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:34:58",
+        "ID DU VAINQUEUR": null
+    }
+}

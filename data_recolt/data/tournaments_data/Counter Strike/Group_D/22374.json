@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22374,
+        "NOM": "Group_D",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:52:59",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "TCF vs BBV",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "09:15:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "2026-11-06",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "2026-11-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:46:05",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-united21-58-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/united21_en"
+            }
+        },
+        {
+            "NOM": "CW vs PSN.A",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "2026-11-06",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "2026-11-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:21:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-united21-58-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/united21_en"
+            }
+        },
+        {
+            "NOM": "Winners match: BBV vs CW",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:21:29",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-united21-58-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/united21_en"
+            }
+        },
+        {
+            "NOM": "Elimination match: TCF vs PSN.A",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:21:29",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-united21-58-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/united21_en"
+            }
+        },
+        {
+            "NOM": "Decider match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:45:57",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-united21-58-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/united21_en"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 131552,
+            "NOM": "The Chosen Few",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:49:16",
+            "ACRONYME": "TCF"
+        },
+        {
+            "ID": 134261,
+            "NOM": "Copenhagen Wolves",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:49:58",
+            "ACRONYME": "CW"
+        },
+        {
+            "ID": 138281,
+            "NOM": "Passion Academy",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:52:02",
+            "ACRONYME": "PSN.A"
+        },
+        {
+            "ID": 139500,
+            "NOM": "Bad Beavers",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:52:59",
+            "ACRONYME": "BBV"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 131552,
+                "NOM": "The Chosen Few",
+                "LOCALISATION": "TR",
+                "ACRONYME": "TCF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:49:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 44397,
+                    "PSEUDO": "tgN",
+                    "ROLE": null,
+                    "PRENOM": "Görkem",
+                    "NOM": "Çiçek",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:16"
+                },
+                {
+                    "ID": 46176,
+                    "PSEUDO": "Jaex",
+                    "ROLE": null,
+                    "PRENOM": "Ahmet Taylan",
+                    "NOM": "Aygündüz",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:14"
+                },
+                {
+                    "ID": 63146,
+                    "PSEUDO": "hyp3rrrr",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:15"
+                },
+                {
+                    "ID": 65309,
+                    "PSEUDO": "edgyS",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:15"
+                },
+                {
+                    "ID": 67552,
+                    "PSEUDO": "r1tim",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:15"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134261,
+                "NOM": "Copenhagen Wolves",
+                "LOCALISATION": "US",
+                "ACRONYME": "CW",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:49:58"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 52759,
+                    "PSEUDO": "MadeInRed",
+                    "ROLE": null,
+                    "PRENOM": "Erikas",
+                    "NOM": "Musnikas",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:55"
+                },
+                {
+                    "ID": 53668,
+                    "PSEUDO": "Toshas",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Aspin",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:58"
+                },
+                {
+                    "ID": 57895,
+                    "PSEUDO": "Uzman",
+                    "ROLE": null,
+                    "PRENOM": "Deividas",
+                    "NOM": "Narutis",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:57"
+                },
+                {
+                    "ID": 61815,
+                    "PSEUDO": "adex",
+                    "ROLE": null,
+                    "PRENOM": "Adrian",
+                    "NOM": "Łukaszewski",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:57"
+                },
+                {
+                    "ID": 61941,
+                    "PSEUDO": "dyrod",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138281,
+                "NOM": "Passion Academy",
+                "LOCALISATION": "UA",
+                "ACRONYME": "PSN.A",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:52:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 62376,
+                    "PSEUDO": "gazela71",
+                    "ROLE": null,
+                    "PRENOM": "Bartosz",
+                    "NOM": "Pawlak",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:01"
+                },
+                {
+                    "ID": 65742,
+                    "PSEUDO": "Spolo777",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:00"
+                },
+                {
+                    "ID": 67135,
+                    "PSEUDO": "astraki",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:02"
+                },
+                {
+                    "ID": 67790,
+                    "PSEUDO": "Fintik",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:01"
+                },
+                {
+                    "ID": 68770,
+                    "PSEUDO": "weyrifv666",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:02"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139500,
+                "NOM": "Bad Beavers",
+                "LOCALISATION": "TR",
+                "ACRONYME": "BBV",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:52:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 62039,
+                    "PSEUDO": "Hydro2K",
+                    "ROLE": null,
+                    "PRENOM": "Emirhan",
+                    "NOM": "Deniz",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:59"
+                },
+                {
+                    "ID": 62211,
+                    "PSEUDO": "Y4G1Z",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:59"
+                },
+                {
+                    "ID": 62371,
+                    "PSEUDO": "s0nglex",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:59"
+                },
+                {
+                    "ID": 62374,
+                    "PSEUDO": "GAYEW",
+                    "ROLE": null,
+                    "PRENOM": "Emirhan",
+                    "NOM": "Taşdemir",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:59"
+                },
+                {
+                    "ID": 68771,
+                    "PSEUDO": "strafers",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:52:59"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "United21",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:36:10"
+    },
+    "SERIE": {
+        "NOM": "Season 58 2026",
+        "ANNEE": 2026,
+        "SAISON": "58",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:40:35",
+        "ID DU VAINQUEUR": null
+    }
+}

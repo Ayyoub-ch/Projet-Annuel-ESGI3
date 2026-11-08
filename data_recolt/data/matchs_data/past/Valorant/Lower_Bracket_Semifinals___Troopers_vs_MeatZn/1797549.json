@@ -1,0 +1,106 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1797549,
+        "NOM": "Lower_Bracket_Semifinals___Troopers_vs_MeatZn",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "04:24:11",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "04:24:26",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "08:02:37",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52847,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 15,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "04:24:11",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "04:24:26",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139553,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139552,
+            "NOM": " Troopers",
+            "LOCALISATION": "AU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:29:03"
+        },
+        {
+            "ID": 139553,
+            "NOM": "MeatZn",
+            "LOCALISATION": "AU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:31:23"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139552
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139553
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22418,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "OCE",
+        "TIER": "d",
+        "CASH PRIZE": "10000 Australian Dollar",
+        "VAINQUEUR": 130277,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "06:32:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "08:02:37",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4860,
+        "NOM": "Asia Pacific Predator League",
+        "DATE DE MODIFICATION": "2024-01-06",
+        "HEURE DE MODIFICATION": "09:08:33"
+    },
+    "SERIE": {
+        "ID": 11191,
+        "NOM": "Oceania 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "06:32:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "08:02:37"
+    }
+}

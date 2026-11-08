@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1792514,
+        "NOM": "PlayTime_vs_HULIGANI",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "21:18:04",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "00:43:43",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "21:56:24",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741440,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2988,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "21:18:10",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "22:19:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138842,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741441,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2657,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "22:28:23",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "23:30:57",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137885,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741442,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3532,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "23:44:51",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "00:43:43",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137885,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137885,
+            "NOM": "PlayTime",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:43:07"
+        },
+        {
+            "ID": 138842,
+            "NOM": "HULIGANI",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137885
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138842
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22395,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-11",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "18:22:09",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5528,
+        "NOM": "1win Essence",
+        "DATE DE MODIFICATION": "2026-04-29",
+        "HEURE DE MODIFICATION": "11:30:42"
+    },
+    "SERIE": {
+        "ID": 11184,
+        "NOM": "Play-in season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "21:56:24"
+    }
+}

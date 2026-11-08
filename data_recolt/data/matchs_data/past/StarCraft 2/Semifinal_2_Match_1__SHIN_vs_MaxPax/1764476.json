@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1764476,
+        "NOM": "Semifinal_2_Match_1__SHIN_vs_MaxPax",
+        "JEU VIDEO": "StarCraft 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "12:14:01",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "13:07:37",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "07:15:43",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19634,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1619,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "12:14:01",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "12:41:00",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 44154,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19635,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 538,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "12:41:02",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "12:50:01",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43052,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19636,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 946,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "12:51:51",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "13:07:37",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 44154,
+            "TYPE DU VAINQUEUR": "Player"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 43052,
+            "NOM": "SHIN",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:28"
+        },
+        {
+            "ID": 44154,
+            "NOM": "MaxPax",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:28"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22284,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "KR",
+        "REGION": "ASIA",
+        "TIER": "a",
+        "CASH PRIZE": "3,000,000 South Korean Won",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "10:08:32",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5574,
+        "NOM": "IntoTheTV x SOOP SC2 League",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "07:15:45"
+    },
+    "SERIE": {
+        "ID": 11141,
+        "NOM": "Premier 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-20",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-10-22",
+        "HEURE DE MODIFICATION": "07:15:43"
+    }
+}

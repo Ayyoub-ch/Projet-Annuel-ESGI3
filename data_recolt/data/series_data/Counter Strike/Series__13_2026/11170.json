@@ -1,0 +1,57 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11170,
+        "NOM": "Series__13_2026",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:35:51",
+        "ANNEE": 2026,
+        "SAISON": "Series #13"
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-04-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:58:18"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-04",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:52:20",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-series-13-2026-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-16",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:35:51",
+            "PRIZEPOOL": "25000 United States Dollar",
+            "SLUG": "cs-go-cct-europe-series-13-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

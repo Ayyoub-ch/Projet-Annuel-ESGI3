@@ -1,0 +1,525 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22342,
+        "NOM": "Play-In_Group_C",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "14:32:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:09:19",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "BAKS vs Honvéd",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-05",
+            "HEURE PRÉVUE": "09:10:00",
+            "DATE DE DEBUT": "2026-11-05",
+            "HEURE DE DEBUT": "2026-11-05",
+            "DATE DE FIN": "2026-11-05",
+            "HEURE DE FIN": "2026-11-05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:06:01",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nodwin-clutch-series-14-2026-play-in-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/scoresight"
+            }
+        },
+        {
+            "NOM": "FF vs ILLYR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-05",
+            "HEURE PRÉVUE": "12:15:00",
+            "DATE DE DEBUT": "2026-11-05",
+            "HEURE DE DEBUT": "2026-11-05",
+            "DATE DE FIN": "2026-11-05",
+            "HEURE DE FIN": "2026-11-05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:06:18",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nodwin-clutch-series-14-2026-play-in-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/scoresight"
+            }
+        },
+        {
+            "NOM": "Winners' Match: BAKS vs FF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "2026-11-06",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "2026-11-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:00:48",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nodwin-clutch-series-14-2026-play-in-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/scoresight"
+            }
+        },
+        {
+            "NOM": "Elimination Match: Honvéd vs ILLYR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-06",
+            "HEURE PRÉVUE": "12:15:00",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "2026-11-06",
+            "DATE DE FIN": "2026-11-06",
+            "HEURE DE FIN": "2026-11-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:35:38",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nodwin-clutch-series-14-2026-play-in-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/scoresight"
+            }
+        },
+        {
+            "NOM": "Decider Match: FF vs ILLYR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-07",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-07",
+            "HEURE DE DEBUT": "2026-11-07",
+            "DATE DE FIN": "2026-11-07",
+            "HEURE DE FIN": "2026-11-07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:39:56",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-nodwin-clutch-series-14-2026-play-in-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/scoresight"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 128887,
+            "NOM": "Honvéd",
+            "LOCALISATION": "HU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:09:19",
+            "ACRONYME": null
+        },
+        {
+            "ID": 130794,
+            "NOM": "BakS eSports",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:04:27",
+            "ACRONYME": "BAKS"
+        },
+        {
+            "ID": 130980,
+            "NOM": "ILLYRIANS",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:03:29",
+            "ACRONYME": "ILLYR"
+        },
+        {
+            "ID": 135474,
+            "NOM": "Fire Flux Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:18:17",
+            "ACRONYME": "FF"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 128887,
+                "NOM": "Honvéd",
+                "LOCALISATION": "HU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:09:19"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 37262,
+                    "PSEUDO": "1NSERT2",
+                    "ROLE": null,
+                    "PRENOM": "Dominik",
+                    "NOM": "Gerencsér",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:05"
+                },
+                {
+                    "ID": 49427,
+                    "PSEUDO": "noleN",
+                    "ROLE": null,
+                    "PRENOM": "Nolen",
+                    "NOM": "Vida",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:05"
+                },
+                {
+                    "ID": 51728,
+                    "PSEUDO": "zs0lt1",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:47:58"
+                },
+                {
+                    "ID": 55087,
+                    "PSEUDO": "miwo",
+                    "ROLE": null,
+                    "PRENOM": "Miro",
+                    "NOM": "Marjanovic",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ME",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:06"
+                },
+                {
+                    "ID": 61211,
+                    "PSEUDO": "marTineZ",
+                    "ROLE": null,
+                    "PRENOM": "Martin ",
+                    "NOM": "Vers",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:56:52"
+                },
+                {
+                    "ID": 63695,
+                    "PSEUDO": "esor",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Tóth",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:05"
+                },
+                {
+                    "ID": 65741,
+                    "PSEUDO": "excien",
+                    "ROLE": null,
+                    "PRENOM": "Titusz",
+                    "NOM": "Botzheim",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:09:19"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130794,
+                "NOM": "BakS eSports",
+                "LOCALISATION": "RU",
+                "ACRONYME": "BAKS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:04:27"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25546,
+                    "PSEUDO": "Norwi",
+                    "ROLE": null,
+                    "PRENOM": "Evgeny",
+                    "NOM": "Ermolin",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-20",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:04:26"
+                },
+                {
+                    "ID": 26158,
+                    "PSEUDO": "glowiing",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Matsievich",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1993-12-06",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:04:26"
+                },
+                {
+                    "ID": 40975,
+                    "PSEUDO": "Danistzz",
+                    "ROLE": null,
+                    "PRENOM": "Danil",
+                    "NOM": "Roslyakov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-18",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:04:25"
+                },
+                {
+                    "ID": 55517,
+                    "PSEUDO": "whisper",
+                    "ROLE": null,
+                    "PRENOM": "Gadel",
+                    "NOM": "Galimullin",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:04:27"
+                },
+                {
+                    "ID": 56820,
+                    "PSEUDO": "turbo",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Dobryshev",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-06-29",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:04:27"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130980,
+                "NOM": "ILLYRIANS",
+                "LOCALISATION": "",
+                "ACRONYME": "ILLYR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:03:29"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30443,
+                    "PSEUDO": "BledarD",
+                    "ROLE": null,
+                    "PRENOM": "Bledar ",
+                    "NOM": "Dula",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2001-12-11",
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:25:27"
+                },
+                {
+                    "ID": 30444,
+                    "PSEUDO": "cerber",
+                    "ROLE": null,
+                    "PRENOM": "Serdar",
+                    "NOM": "Mahmuti",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-08-03",
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:25:28"
+                },
+                {
+                    "ID": 41858,
+                    "PSEUDO": "ammar",
+                    "ROLE": null,
+                    "PRENOM": "Ammar ",
+                    "NOM": "Grashtica",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:25:28"
+                },
+                {
+                    "ID": 54714,
+                    "PSEUDO": "rosoneriii",
+                    "ROLE": null,
+                    "PRENOM": "Gentrit",
+                    "NOM": "Hetemi",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:25:29"
+                },
+                {
+                    "ID": 61729,
+                    "PSEUDO": "Lewis",
+                    "ROLE": null,
+                    "PRENOM": "Diart",
+                    "NOM": "Zhushi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:25:28"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135474,
+                "NOM": "Fire Flux Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "FF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:18:17"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 29942,
+                    "PSEUDO": "Cizzx",
+                    "ROLE": null,
+                    "PRENOM": "Can",
+                    "NOM": "Pars",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-22",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:15"
+                },
+                {
+                    "ID": 46178,
+                    "PSEUDO": "Quality",
+                    "ROLE": null,
+                    "PRENOM": "Ali Furkan",
+                    "NOM": "Avcı",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:17"
+                },
+                {
+                    "ID": 60644,
+                    "PSEUDO": "zer0UKY",
+                    "ROLE": null,
+                    "PRENOM": "Ubeyde",
+                    "NOM": "Yalçin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:17"
+                },
+                {
+                    "ID": 61349,
+                    "PSEUDO": "zemix",
+                    "ROLE": null,
+                    "PRENOM": "Semih",
+                    "NOM": "Baykara",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:17"
+                },
+                {
+                    "ID": 62034,
+                    "PSEUDO": "xEternaLxx",
+                    "ROLE": null,
+                    "PRENOM": "Eyüphan",
+                    "NOM": "Büken",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:18:17"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "NODWIN Clutch Series",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-09-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:53:21"
+    },
+    "SERIE": {
+        "NOM": "Season 14 2026",
+        "ANNEE": 2026,
+        "SAISON": "14",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:57:19",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -1,0 +1,550 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22424,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:34:47",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Upper Bracket Quarterfinal 1: BOOM vs GAS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:35:34",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 2: SLG vs SUR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:35:35",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 3: Alter Ego x Kertanegara vs GAS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:35:36",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 4: Straight outta PIK vs HE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:35:36",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 128744,
+            "NOM": "BOOM Esports",
+            "LOCALISATION": "ID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:01:40",
+            "ACRONYME": "BOOM"
+        },
+        {
+            "ID": 139555,
+            "NOM": "Alter Ego x Kertanegara",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:12:45",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139556,
+            "NOM": "Seventh Letter Gaming",
+            "LOCALISATION": "SG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:22:19",
+            "ACRONYME": "SLG"
+        },
+        {
+            "ID": 139557,
+            "NOM": "Straight outta PIK",
+            "LOCALISATION": "ID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:34:47",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139558,
+            "NOM": "GAS Esports",
+            "LOCALISATION": "ID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:27:03",
+            "ACRONYME": "GAS"
+        },
+        {
+            "ID": 139559,
+            "NOM": "Rojali",
+            "LOCALISATION": "ID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:27:56",
+            "ACRONYME": "RJL"
+        },
+        {
+            "ID": 139560,
+            "NOM": "Hertz Esport",
+            "LOCALISATION": "ID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:32:17",
+            "ACRONYME": "HE"
+        },
+        {
+            "ID": 139561,
+            "NOM": "Surprise",
+            "LOCALISATION": "ID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:29:15",
+            "ACRONYME": "SUR"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 128744,
+                "NOM": "BOOM Esports",
+                "LOCALISATION": "ID",
+                "ACRONYME": "BOOM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:01:40"
+            },
+            "JOUEURS": []
+        },
+        {
+            "EQUIPE": {
+                "ID": 139555,
+                "NOM": "Alter Ego x Kertanegara",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:12:45"
+            },
+            "JOUEURS": []
+        },
+        {
+            "EQUIPE": {
+                "ID": 139556,
+                "NOM": "Seventh Letter Gaming",
+                "LOCALISATION": "SG",
+                "ACRONYME": "SLG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:22:19"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 38957,
+                    "PSEUDO": "JayH",
+                    "ROLE": null,
+                    "PRENOM": "Wong Jia",
+                    "NOM": "Heng",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:18"
+                },
+                {
+                    "ID": 47403,
+                    "PSEUDO": "AmerNone",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:18"
+                },
+                {
+                    "ID": 52966,
+                    "PSEUDO": "SCar",
+                    "ROLE": null,
+                    "PRENOM": "Bryan Ashley",
+                    "NOM": "Go Yudianto",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-02",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:19"
+                },
+                {
+                    "ID": 54762,
+                    "PSEUDO": "BEASTJefz",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:18"
+                },
+                {
+                    "ID": 68862,
+                    "PSEUDO": "netlov",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:19"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139557,
+                "NOM": "Straight outta PIK",
+                "LOCALISATION": "ID",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:34:47"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 36355,
+                    "PSEUDO": "Lmemore",
+                    "ROLE": null,
+                    "PRENOM": "Hagai",
+                    "NOM": "Kristen Yesyurun Tewuh",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-06",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:19"
+                },
+                {
+                    "ID": 68868,
+                    "PSEUDO": "Symphony",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:34:47"
+                },
+                {
+                    "ID": 68869,
+                    "PSEUDO": "kivar",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:34:47"
+                },
+                {
+                    "ID": 68870,
+                    "PSEUDO": "Lexierna",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:34:47"
+                },
+                {
+                    "ID": 68871,
+                    "PSEUDO": "zui",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:34:47"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139558,
+                "NOM": "GAS Esports",
+                "LOCALISATION": "ID",
+                "ACRONYME": "GAS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:27:03"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54766,
+                    "PSEUDO": "PadangRice",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:27:03"
+                },
+                {
+                    "ID": 68863,
+                    "PSEUDO": "TeukuUmar",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:27:03"
+                },
+                {
+                    "ID": 68864,
+                    "PSEUDO": "6ixkey",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:27:02"
+                },
+                {
+                    "ID": 68865,
+                    "PSEUDO": "Kahlheit",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:27:03"
+                },
+                {
+                    "ID": 68866,
+                    "PSEUDO": "movi",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:27:03"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139559,
+                "NOM": "Rojali",
+                "LOCALISATION": "ID",
+                "ACRONYME": "RJL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:27:56"
+            },
+            "JOUEURS": []
+        },
+        {
+            "EQUIPE": {
+                "ID": 139560,
+                "NOM": "Hertz Esport",
+                "LOCALISATION": "ID",
+                "ACRONYME": "HE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:32:17"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 36374,
+                    "PSEUDO": "heyNF",
+                    "ROLE": null,
+                    "PRENOM": "Hanif ",
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:32:38"
+                },
+                {
+                    "ID": 41703,
+                    "PSEUDO": "Lilo",
+                    "ROLE": null,
+                    "PRENOM": "Ryan",
+                    "NOM": "Betrand",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-30",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:32:17"
+                },
+                {
+                    "ID": 47393,
+                    "PSEUDO": "k1ngkappa",
+                    "ROLE": null,
+                    "PRENOM": "Muhammad ",
+                    "NOM": "Axel Syahbanna Dadan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-05",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:32:17"
+                },
+                {
+                    "ID": 56856,
+                    "PSEUDO": "artaa",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:32:17"
+                },
+                {
+                    "ID": 68867,
+                    "PSEUDO": "akumaiL",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:32:17"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139561,
+                "NOM": "Surprise",
+                "LOCALISATION": "ID",
+                "ACRONYME": "SUR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:29:15"
+            },
+            "JOUEURS": []
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Asia Pacific Predator League",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-01-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:08:33"
+    },
+    "SERIE": {
+        "NOM": "Indonesia 2027",
+        "ANNEE": 2027,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:11:01",
+        "ID DU VAINQUEUR": null
+    }
+}
