@@ -110,6 +110,8 @@ def get_matches_by_date(
     date1: date
 ) -> list[dict[str, Any]]:
     """Renvoie les matchs du jeu dont la date de début du tournoi est entièrement dans la date."""
+    
+    matching_matches = []
     # Parcourt toutes les catégories pour trouver le jeu sans demander la catégorie.
     for category_folder in MATCHES_FOLDER.iterdir():
         game_folder = (category_folder / videogame_name).resolve()
@@ -121,9 +123,10 @@ def get_matches_by_date(
             raise FileNotFoundError("Jeu introuvable")
 
         if not game_folder.is_dir():
-            raise FileNotFoundError("Jeu introuvable")
+            continue
+            
 
-        matching_matches = []
+        
 
         # Chaque match est stocké dans son propre dossier avec un fichier JSON.
         for match_path in sorted(game_folder.glob("*/*.json")):
@@ -133,9 +136,8 @@ def get_matches_by_date(
             matches_data = match_data["DONNEES GENERALES DU MATCH"]
             matches_start = date.fromisoformat(matches_data["DATE DE DEBUT"])
 
-            # La série doit commencer après date1 et finir avant date2 (bornes incluses).
             if date1 == matches_start:
-                matching_matches.append(matches_data)
+                matching_matches.append(match_data)
 
     return matching_matches
 
