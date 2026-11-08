@@ -873,7 +873,7 @@ elif router_choice == "E-Sport":
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
-                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
+                        st.warning(f"Aucune ligue trouvée pour {videogame}.")
                         st.stop()
                     else:
                     
@@ -883,7 +883,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                             
                         df = df.rename(
@@ -926,7 +926,7 @@ elif router_choice == "E-Sport":
                     api_response = fetch_data(endpoint,params)
                     
                     if api_response is None:
-                        st.warning(f"Aucun match en cours trouvé pour {videogame}.")
+                        st.warning(f"Aucune ligue trouvée pour {videogame}.")
                         st.stop()
                     else :
                     
@@ -936,7 +936,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(api_response)
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                             
                         df = df.rename(
@@ -980,7 +980,7 @@ elif router_choice == "E-Sport":
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
-                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
+                        st.warning(f"Aucune ligue trouvée pour {videogame}.")
                         st.stop()
                     else:
                     
@@ -990,7 +990,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                             
                         df = df.rename(
@@ -1034,7 +1034,7 @@ elif router_choice == "E-Sport":
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
-                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
+                        st.warning(f"Aucune ligue trouvée pour {videogame}.")
                         st.stop()
                     else:
                         date1_str = date1.strftime("%Y-%m-%d")
@@ -1043,7 +1043,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                             
                         df = df.rename(
@@ -1087,7 +1087,7 @@ elif router_choice == "E-Sport":
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
-                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
+                        st.warning(f"Aucune ligue trouvée pour {videogame}.")
                         st.stop()
                     else:
                         date1_str = date1.strftime("%Y-%m-%d")
@@ -1096,7 +1096,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                             
                         df = df.rename(
@@ -2245,7 +2245,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -2305,7 +2305,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -2365,7 +2365,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -2425,7 +2425,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -2486,7 +2486,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -2547,7 +2547,7 @@ elif router_choice == "E-Sport":
                         df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
                         if df.empty:
-                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.warning(f"Aucune donnée disponible pour entre le {date1} et le {date2} pour {videogame}.")
                             st.stop()
                         
                         # Suppression de la colonne Tournois pour l'affichage
@@ -2603,7 +2603,7 @@ elif router_choice == "E-Sport":
                         api_response = fetch_data(endpoint,params)
                                                     
                         if api_response is None:
-                            st.warning(f"Aucun tournoi trouvé pour {videogame}.")
+                            st.warning(f"Aucune série trouvée pour {videogame}.")
                             st.stop()
                         else:
                             date1_str = date1.strftime("%Y-%m-%d")
