@@ -158,144 +158,169 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning("Aucune donnée disponible pour Call of Duty à ce moment.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint)
+                                                
+                    if api_response is None:
+                        st.warning(f"Aucun match en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                        }
-                    )
-                    st.write("Données récupérées pour Counter Strike avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Call of Duty à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                            }
+                        )
+                        st.write("Données récupérées pour Counter Strike avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
             
             elif videogame == "Counter Strike":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning("Aucune donnée disponible pour Counter Strike à ce moment.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint)
+                                                                    
+                    if api_response is None:
+                        st.warning(f"Aucun match en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                           "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                           "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                           "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                           "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                           "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                           "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                           "SERIE.ID": "ID Série",
-                           "SERIE.NOM": "Nom de la Série",
-                           "SERIE.ANNEE": "Année de la Série",
-                           "SERIE.SAISON": "Saison de la Série",
-                           "SERIE.DATE DE DEBUT": "Date de début",
-                           "SERIE.HEURE DE DEBUT": "Heure de début",
-                           "SERIE.DATE DE FIN": "Date de fin",
-                           "SERIE.HEURE DE FIN": "Heure de fin"
-                        }
-                    )
-                    st.write("Données récupérées pour Counter Strike avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Counter Strike à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                            "SERIE.ID": "ID Série",
+                            "SERIE.NOM": "Nom de la Série",
+                            "SERIE.ANNEE": "Année de la Série",
+                            "SERIE.SAISON": "Saison de la Série",
+                            "SERIE.DATE DE DEBUT": "Date de début",
+                            "SERIE.HEURE DE DEBUT": "Heure de début",
+                            "SERIE.DATE DE FIN": "Date de fin",
+                            "SERIE.HEURE DE FIN": "Heure de fin"
+                            }
+                        )
+                        st.write("Données récupérées pour Counter Strike avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
 
             elif videogame == "Dota 2":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning("Aucune donnée disponible pour Dota 2 à ce moment.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint)
+                    
+                    if api_response is None:
+                        st.warning(f"Aucun match en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write("Données récupérées pour Dota 2 avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Dota 2 à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write("Données récupérées pour Dota 2 avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
             elif videogame == "King of Glory":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning("Aucune donnée disponible pour King of Glory à ce moment.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint)
+                                        
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write("Données récupérées pour King of Glory avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                    
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour King of Glory à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write("Données récupérées pour King of Glory avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
             elif videogame == "League of Legends":
@@ -303,36 +328,43 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning("Aucune donnée disponible pour League of Legends à ce moment.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint)
+                                        
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write("Données récupérées pour League of Legends avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                    
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour League of Legends à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write("Données récupérées pour League of Legends avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
             
             elif videogame == "Mobile Legends : Bang Bang":
@@ -340,36 +372,42 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning("Aucune donnée disponible pour Mobile Legends : Bang Bang à ce moment.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write("Données récupérées pour Mobile Legends : Bang Bang avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Mobile Legends : Bang Bang à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write("Données récupérées pour Mobile Legends : Bang Bang avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
             elif videogame == "Overwatch":
                 endpoint = f"/{cat}/{videogame}/now"
@@ -420,36 +458,44 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning("Aucune donnée disponible pour Rainbow 6 Siege à ce moment.")
+                if st.button("Récupérer les données"):
+                    
+                    api_response = fetch_data(endpoint)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write("Données récupérées pour Rainbow 6 Siege avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                    
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Rainbow 6 Siege à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write("Données récupérées pour Rainbow 6 Siege avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
             
             elif videogame == "Starcraft 2":
@@ -457,35 +503,43 @@ elif router_choice == "E-Sport":
                 filename = f"ligues_{videogame}_now.json"
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning("Aucune donnée disponible pour Starcraft 2 à ce moment.")
+                    api_response = fetch_data(endpoint)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write("Données récupérées pour Starcraft 2 avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                    
+                    
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning("Aucune donnée disponible pour Starcraft 2 à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write("Données récupérées pour Starcraft 2 avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                 
             elif videogame == "Valorant":
@@ -493,35 +547,42 @@ elif router_choice == "E-Sport":
                 filename = f"ligues_{videogame}_now.json"
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
-                    df = pd.json_normalize(fetch_data(endpoint))
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                    api_response = fetch_data(endpoint)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
-                            
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write("Données récupérées pour Valorant avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                    else:
+                    
+                        df = pd.json_normalize(fetch_data(endpoint))
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} à ce moment.")
+                            st.stop()
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write("Données récupérées pour Valorant avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
         # mettre le tableau en DF
@@ -540,41 +601,48 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+
 
             elif videogame == "Counter Strike":
                 date1 = st.date_input("Date de début :", value=datetime.date.today())
@@ -587,40 +655,47 @@ elif router_choice == "E-Sport":
                 filename = f"ligues_{videogame}_period.json"
                 
                 if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                    api_response = fetch_data(endpoint,params)
+                                                                                
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                    
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
             elif videogame == "Dota 2":
                 date1 = st.date_input("Date de début :", value=datetime.date.today())
@@ -632,41 +707,47 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                 
             elif videogame == "King of Glory":
@@ -679,41 +760,49 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
+                if st.button("Récupérer les données"):
                     
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                    api_response = fetch_data(endpoint,params)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                    
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "League of Legends":
                 videogame = "LoL"
@@ -726,41 +815,48 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                    
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Mobile Legends : Bang Bang":
                 videogame = "Mobile Legends Bang Bang"
@@ -773,41 +869,49 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
+                if st.button("Récupérer les données"):
                     
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                    api_response = fetch_data(endpoint,params)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                    
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Overwatch":
                 date1 = st.date_input("Date de début :", value=datetime.date.today())
@@ -873,41 +977,48 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                    
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Starcraft 2":
                 date1 = st.date_input("Date de début :", value=datetime.date(2026, 1, 1))
@@ -919,41 +1030,48 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
+                if st.button("Récupérer les données"):
                     
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                    api_response = fetch_data(endpoint,params)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                 
             elif videogame == "Valorant":
@@ -966,41 +1084,47 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    date2_str = date2.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}&date2={date2_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                                            
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        date2_str = date2.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}&date2={date2_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette période.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
         if moments == "Par Date":
@@ -1015,40 +1139,47 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                                                                
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                    
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
             elif videogame == "Counter Strike":
                 date1 = st.date_input("Date :", value=datetime.date.today())
@@ -1058,40 +1189,47 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
+                if st.button("Récupérer les données"):
                     
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                    api_response = fetch_data(endpoint,params)
+                                                                                
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
             elif videogame == "Dota 2":
                 date1 = st.date_input("Date :", value=datetime.date.today())
@@ -1101,40 +1239,47 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                                                                
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
             elif videogame == "King of Glory":
                 date1 = st.date_input("Date :", value=datetime.date.today())
@@ -1144,40 +1289,47 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                                                                
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
+                        
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "League of Legends":
                 videogame = "LoL"
@@ -1188,40 +1340,46 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
                     
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour League of Legends pour cette date.")
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour League of Legends pour cette date.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                        }
-                    )
-                    st.write(f"Données récupérées pour League of Legends avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                            }
+                        )
+                        st.write(f"Données récupérées pour League of Legends avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Mobile Legends : Bang Bang":
                 videogame = "Mobile Legends Bang Bang"
@@ -1232,40 +1390,47 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
+                if st.button("Récupérer les données"):
                     
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour Mobile Legends : Bang Bang pour cette date.")
+                    api_response = fetch_data(endpoint,params)
+                                        
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour Mobile Legends : Bang Bang pour cette date.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour Mobile Legends : Bang Bang avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour Mobile Legends : Bang Bang avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
             
             
@@ -1329,40 +1494,46 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                        
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Starcraft 2":
                 date1 = st.date_input("Date :", value=datetime.date.today())
@@ -1372,40 +1543,46 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
-                    date1_str = date1.strftime("%Y-%m-%d")
-                    params = f"date1={date1_str}"
-                    df = pd.json_normalize(fetch_data(endpoint, params=params))
-                    
-                    if df.empty:
-                        st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                if st.button("Récupérer les données"):
+                    api_response = fetch_data(endpoint,params)
+                                        
+                    if api_response is None:
+                        st.warning(f"Aucun ligue en cours trouvé pour {videogame}.")
                         st.stop()
+                    else:
+                        date1_str = date1.strftime("%Y-%m-%d")
+                        params = f"date1={date1_str}"
+                        df = pd.json_normalize(fetch_data(endpoint, params=params))
                         
-                    df = df.rename(
-                        columns = {
-                            "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
-                            "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
-                            "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
-                            "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
-                            "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                        if df.empty:
+                            st.warning(f"Aucune donnée disponible pour {videogame} pour cette date.")
+                            st.stop()
                             
-                            "SERIE.ID": "ID Série",
-                            "SERIE.NOM": "Nom de la Série",
-                            "SERIE.ANNEE": "Année de la Série",
-                            "SERIE.SAISON": "Saison de la Série",
-                            "SERIE.DATE DE DEBUT": "Date de début",
-                            "SERIE.HEURE DE DEBUT": "Heure de début",
-                            "SERIE.DATE DE FIN": "Date de fin",
-                            "SERIE.HEURE DE FIN": "Heure de fin"
-                                                }
-                    )
-                    st.write(f"Données récupérées pour {videogame} avec succès !")
-                    st.dataframe(df)
-                    st.write("Données brutes :")
-                    st.json(fetch_data(endpoint, params=params))
-                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
-                    st.success(f"Les données ont été téléchargées sous le nom {filename}.")
+                        df = df.rename(
+                            columns = {
+                                "DONNEES GENERALES DE LA LIGUE.ID": "ID Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.NOM": "Nom de la Ligue",
+                                "DONNEES GENERALES DE LA LIGUE.JEU VIDEO": "Jeu Vidéo",
+                                "DONNEES GENERALES DE LA LIGUE.VERSION ACTUELLE DU JEU": "Version Actuelle",
+                                "DONNEES GENERALES DE LA LIGUE.DATE DE LA DERNIERE MODIFICATION": "Dernière modification",
+                                "DONNEES GENERALES DE LA LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure modification",
+                                
+                                "SERIE.ID": "ID Série",
+                                "SERIE.NOM": "Nom de la Série",
+                                "SERIE.ANNEE": "Année de la Série",
+                                "SERIE.SAISON": "Saison de la Série",
+                                "SERIE.DATE DE DEBUT": "Date de début",
+                                "SERIE.HEURE DE DEBUT": "Heure de début",
+                                "SERIE.DATE DE FIN": "Date de fin",
+                                "SERIE.HEURE DE FIN": "Heure de fin"
+                                                    }
+                        )
+                        st.write(f"Données récupérées pour {videogame} avec succès !")
+                        st.dataframe(df)
+                        st.write("Données brutes :")
+                        st.json(fetch_data(endpoint, params=params))
+                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
             elif videogame == "Valorant":
                 date1 = st.date_input("Date :", value=datetime.date.today())
@@ -1503,8 +1680,8 @@ elif router_choice == "E-Sport":
                             
                                 "LIGUE.ID": "ID Ligue",
                                 "LIGUE.NOM": "Nom de la Ligue",
-                                "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification",
-                                "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification",
+                                "LIGUE.DATE DE LA DERNIERE MODIFICATION": "Date de la dernière modification de la Ligue",
+                                "LIGUE.HEURE DE LA DERNIERE MODIFICATION": "Heure de la dernière modification de la Ligue",
                                 
                                 
                             }
