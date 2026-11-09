@@ -1,0 +1,744 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22336,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-10-31",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "17:05:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:07:31",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Upper Bracket Semifinal 1: TLR vs  ThePigs",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "2026-10-31",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "2026-10-31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:48:32",
+            "PRIZEPOOL": "5000 British Pound",
+            "SLUG": "cs-go-epic-lan-49-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Upper Bracket Semifinal 2: Ryvex vs PG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "13:35:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "2026-10-31",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "2026-10-31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:49:12",
+            "PRIZEPOOL": "5000 British Pound",
+            "SLUG": "cs-go-epic-lan-49-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epiclan1"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Quarterfinal 1:  ThePigs vs 29AvgAge",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "2026-10-31",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "2026-10-31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:38:59",
+            "PRIZEPOOL": "5000 British Pound",
+            "SLUG": "cs-go-epic-lan-49-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Lower Bracket Quarterfinal 2: PG vs CTRL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "17:30:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "2026-10-31",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "2026-10-31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:15:37",
+            "PRIZEPOOL": "5000 British Pound",
+            "SLUG": "cs-go-epic-lan-49-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/analyticvictor"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Final: TLR vs Ryvex",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "2026-10-31",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "2026-10-31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:33:42",
+            "PRIZEPOOL": "5000 British Pound",
+            "SLUG": "cs-go-epic-lan-49-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epiclan1"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Semifinal:  ThePigs vs CTRL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-10-31",
+            "HEURE PRÉVUE": "21:00:00",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "2026-10-31",
+            "DATE DE FIN": "2026-10-31",
+            "HEURE DE FIN": "2026-10-31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:05:26",
+            "PRIZEPOOL": "5000 British Pound",
+            "SLUG": "cs-go-epic-lan-49-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epiclan1"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Final: Ryvex vs  ThePigs",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "2026-11-01",
+            "DATE DE FIN": "2026-11-01",
+            "HEURE DE FIN": "2026-11-01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:35:59",
+            "PRIZEPOOL": "5000 British Pound",
+            "SLUG": "cs-go-epic-lan-49-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epiclan1"
+            }
+        },
+        {
+            "NOM": "Grand Final: TLR vs Ryvex",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-01",
+            "HEURE PRÉVUE": "15:30:00",
+            "DATE DE DEBUT": "2026-11-01",
+            "HEURE DE DEBUT": "2026-11-01",
+            "DATE DE FIN": "2026-11-01",
+            "HEURE DE FIN": "2026-11-01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:58:47",
+            "PRIZEPOOL": "5000 British Pound",
+            "SLUG": "cs-go-epic-lan-49-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epiclan1"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 130590,
+            "NOM": "The Last Resort",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:26:23",
+            "ACRONYME": "TLR"
+        },
+        {
+            "ID": 138117,
+            "NOM": "CTRL Esports",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:19:18",
+            "ACRONYME": "CTRL"
+        },
+        {
+            "ID": 138631,
+            "NOM": "Privateer Gaming",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:43:16",
+            "ACRONYME": "PG"
+        },
+        {
+            "ID": 139041,
+            "NOM": "Ryvex",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:16:36",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139480,
+            "NOM": " ThePigs",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:43:16",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139483,
+            "NOM": "29AvgAge",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:19:18",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 130590,
+                "NOM": "The Last Resort",
+                "LOCALISATION": "GB",
+                "ACRONYME": "TLR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:26:23"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27734,
+                    "PSEUDO": "Girafffe",
+                    "ROLE": null,
+                    "PRENOM": "Callum",
+                    "NOM": "Jones",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-02",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:26:22"
+                },
+                {
+                    "ID": 27738,
+                    "PSEUDO": "arTisT",
+                    "ROLE": null,
+                    "PRENOM": "Tom",
+                    "NOM": "Clarke",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-05-31",
+                    "NATIONALITE": "IE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:26:22"
+                },
+                {
+                    "ID": 29919,
+                    "PSEUDO": "Extinct",
+                    "ROLE": null,
+                    "PRENOM": "Matas",
+                    "NOM": "Strumila",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-03",
+                    "NATIONALITE": "IE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:26:23"
+                },
+                {
+                    "ID": 31424,
+                    "PSEUDO": "Vacancy",
+                    "ROLE": null,
+                    "PRENOM": "Mason",
+                    "NOM": "Haines",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:26:22"
+                },
+                {
+                    "ID": 33162,
+                    "PSEUDO": "bevve",
+                    "ROLE": null,
+                    "PRENOM": "James",
+                    "NOM": "Slinn",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-02-13",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:26:21"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138117,
+                "NOM": "CTRL Esports",
+                "LOCALISATION": "GB",
+                "ACRONYME": "CTRL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 29920,
+                    "PSEUDO": "Xeth",
+                    "ROLE": null,
+                    "PRENOM": "Seth ",
+                    "NOM": "Jackson",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-08-01",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:17"
+                },
+                {
+                    "ID": 48971,
+                    "PSEUDO": "GodkU",
+                    "ROLE": null,
+                    "PRENOM": "Joseph ",
+                    "NOM": "Fowkes",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+                },
+                {
+                    "ID": 50105,
+                    "PSEUDO": "Finui",
+                    "ROLE": null,
+                    "PRENOM": "Connor",
+                    "NOM": "Finucane",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:17"
+                },
+                {
+                    "ID": 61217,
+                    "PSEUDO": "Rhyza",
+                    "ROLE": null,
+                    "PRENOM": "Riley",
+                    "NOM": "Hope",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+                },
+                {
+                    "ID": 61218,
+                    "PSEUDO": "AliBond",
+                    "ROLE": null,
+                    "PRENOM": "Alastair",
+                    "NOM": "Bond",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138631,
+                "NOM": "Privateer Gaming",
+                "LOCALISATION": "GB",
+                "ACRONYME": "PG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27499,
+                    "PSEUDO": "Frazehh",
+                    "ROLE": null,
+                    "PRENOM": "Fraser ",
+                    "NOM": "Sollom",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-10-29",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:15"
+                },
+                {
+                    "ID": 31458,
+                    "PSEUDO": "PrimeOPI",
+                    "ROLE": null,
+                    "PRENOM": "Michael",
+                    "NOM": "Fury",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+                },
+                {
+                    "ID": 36624,
+                    "PSEUDO": "moz",
+                    "ROLE": null,
+                    "PRENOM": "Matthew",
+                    "NOM": "Gelder",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+                },
+                {
+                    "ID": 58775,
+                    "PSEUDO": "M1n1maL",
+                    "ROLE": null,
+                    "PRENOM": "Liam",
+                    "NOM": "Reynolds",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:15"
+                },
+                {
+                    "ID": 68275,
+                    "PSEUDO": "Amqn",
+                    "ROLE": null,
+                    "PRENOM": "Mason",
+                    "NOM": "Egan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139041,
+                "NOM": "Ryvex",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:16:36"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23127,
+                    "PSEUDO": "jeyN",
+                    "ROLE": null,
+                    "PRENOM": "Jérémy",
+                    "NOM": "Nguyen",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-15",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:00:49"
+                },
+                {
+                    "ID": 24721,
+                    "PSEUDO": "Swaggy",
+                    "ROLE": null,
+                    "PRENOM": "Kyle",
+                    "NOM": "Wilson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-14",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:00:50"
+                },
+                {
+                    "ID": 33160,
+                    "PSEUDO": "oskvr",
+                    "ROLE": null,
+                    "PRENOM": "Oskar",
+                    "NOM": "Myszka",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:00:50"
+                },
+                {
+                    "ID": 36623,
+                    "PSEUDO": "WFN",
+                    "ROLE": null,
+                    "PRENOM": "William",
+                    "NOM": "Maskrey",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:16:36"
+                },
+                {
+                    "ID": 36679,
+                    "PSEUDO": "N0R1",
+                    "ROLE": null,
+                    "PRENOM": "Dragos",
+                    "NOM": "Negrea",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:00:50"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139480,
+                "NOM": " ThePigs",
+                "LOCALISATION": "GB",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 31415,
+                    "PSEUDO": "moshi",
+                    "ROLE": null,
+                    "PRENOM": "Harry",
+                    "NOM": "Raines",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+                },
+                {
+                    "ID": 31416,
+                    "PSEUDO": "JAUSTERE",
+                    "ROLE": null,
+                    "PRENOM": "Josh",
+                    "NOM": "Philpott",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-08-06",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+                },
+                {
+                    "ID": 40622,
+                    "PSEUDO": "MMS",
+                    "ROLE": null,
+                    "PRENOM": "Marco",
+                    "NOM": "Salomone",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-10",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+                },
+                {
+                    "ID": 44369,
+                    "PSEUDO": "Bigun007",
+                    "ROLE": null,
+                    "PRENOM": "Connor",
+                    "NOM": "Suddons",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+                },
+                {
+                    "ID": 51053,
+                    "PSEUDO": "Rhys",
+                    "ROLE": null,
+                    "PRENOM": "Rhys",
+                    "NOM": "Stumbles",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:43:16"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139483,
+                "NOM": "29AvgAge",
+                "LOCALISATION": "GB",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27739,
+                    "PSEUDO": "Nukeddog",
+                    "ROLE": null,
+                    "PRENOM": "Harry",
+                    "NOM": "Jenkins",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-05-28",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+                },
+                {
+                    "ID": 27740,
+                    "PSEUDO": "Murky",
+                    "ROLE": null,
+                    "PRENOM": "Liam",
+                    "NOM": "Smallwood",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+                },
+                {
+                    "ID": 31443,
+                    "PSEUDO": "Nem",
+                    "ROLE": null,
+                    "PRENOM": "Luke",
+                    "NOM": "Mear",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+                },
+                {
+                    "ID": 35033,
+                    "PSEUDO": "dexie",
+                    "ROLE": null,
+                    "PRENOM": "Joe",
+                    "NOM": "Demmon",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:18"
+                },
+                {
+                    "ID": 68626,
+                    "PSEUDO": "dell",
+                    "ROLE": null,
+                    "PRENOM": "Brandon",
+                    "NOM": "Townsend",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:52:25"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "EPIC.LAN",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-07-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:34:01"
+    },
+    "SERIE": {
+        "NOM": "Season 49 2026",
+        "ANNEE": 2026,
+        "SAISON": "49",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:07:23",
+        "ID DU VAINQUEUR": 130590
+    }
+}

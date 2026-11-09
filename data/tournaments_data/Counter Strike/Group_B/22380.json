@@ -1,0 +1,525 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22380,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:57:37",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Elimination match: WAL vs Noir Verse",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-09",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-09",
+            "HEURE DE DEBUT": "2026-11-09",
+            "DATE DE FIN": "2026-11-09",
+            "HEURE DE FIN": "2026-11-09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:33:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-10-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "pl",
+                "LIEN BRUTE": "https://www.twitch.tv/luffastream"
+            }
+        },
+        {
+            "NOM": "Winners match: BAL vs ex-ENCE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-09",
+            "HEURE PRÉVUE": "12:30:00",
+            "DATE DE DEBUT": "2026-11-09",
+            "HEURE DE DEBUT": "2026-11-09",
+            "DATE DE FIN": "2026-11-09",
+            "HEURE DE FIN": "2026-11-09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:35:01",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-10-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/asimasimov"
+            }
+        },
+        {
+            "NOM": "Decider match: Noir Verse vs ex-ENCE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:57:37",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-10-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "WAL vs BAL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-05",
+            "HEURE PRÉVUE": "09:10:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:27:57",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-10-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "pl",
+                "LIEN BRUTE": "https://www.twitch.tv/luffastream"
+            }
+        },
+        {
+            "NOM": "ex-ENCE vs Noir Verse",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-05",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:51:32",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-10-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 138470,
+            "NOM": "ex-ENCE",
+            "LOCALISATION": "FI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:32:45",
+            "ACRONYME": null
+        },
+        {
+            "ID": 138610,
+            "NOM": "Walczaki",
+            "LOCALISATION": "PL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:39:37",
+            "ACRONYME": "WAL"
+        },
+        {
+            "ID": 138812,
+            "NOM": "Noir Verse",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:32:44",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139529,
+            "NOM": "Balkan Outlaws",
+            "LOCALISATION": "RO",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:37:31",
+            "ACRONYME": "BAL"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 138470,
+                "NOM": "ex-ENCE",
+                "LOCALISATION": "FI",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:32:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26602,
+                    "PSEUDO": "HENU",
+                    "ROLE": null,
+                    "PRENOM": "Henri",
+                    "NOM": "Ylilehto",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-01",
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:45"
+                },
+                {
+                    "ID": 40637,
+                    "PSEUDO": "Millert",
+                    "ROLE": null,
+                    "PRENOM": "Aleksi ",
+                    "NOM": "Lehtopuu",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:44"
+                },
+                {
+                    "ID": 45482,
+                    "PSEUDO": "teme",
+                    "ROLE": null,
+                    "PRENOM": "Teemu",
+                    "NOM": "Korva",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-04-15",
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:44"
+                },
+                {
+                    "ID": 54147,
+                    "PSEUDO": "Schwarz",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:45"
+                },
+                {
+                    "ID": 58770,
+                    "PSEUDO": "joeski",
+                    "ROLE": null,
+                    "PRENOM": "Joe",
+                    "NOM": "Holmes",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:45"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138610,
+                "NOM": "Walczaki",
+                "LOCALISATION": "PL",
+                "ACRONYME": "WAL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:39:37"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25658,
+                    "PSEUDO": "reiko",
+                    "ROLE": null,
+                    "PRENOM": "Kamil ",
+                    "NOM": "Cegiełko",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-09-04",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:20:05"
+                },
+                {
+                    "ID": 30049,
+                    "PSEUDO": "OLIMP",
+                    "ROLE": null,
+                    "PRENOM": "Patryk ",
+                    "NOM": "Woźniak ",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-02-07",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:20:05"
+                },
+                {
+                    "ID": 30317,
+                    "PSEUDO": "sNx",
+                    "ROLE": null,
+                    "PRENOM": "Rafal",
+                    "NOM": "Snopek",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:39:37"
+                },
+                {
+                    "ID": 38983,
+                    "PSEUDO": "bajmi",
+                    "ROLE": null,
+                    "PRENOM": "Wojciech",
+                    "NOM": "Strzelczyk",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-20",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "01:20:04"
+                },
+                {
+                    "ID": 63003,
+                    "PSEUDO": "Eskyy",
+                    "ROLE": null,
+                    "PRENOM": "Bartosz",
+                    "NOM": "Tomaszewski",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:44:42"
+                },
+                {
+                    "ID": 68670,
+                    "PSEUDO": "mrouz",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:43:32"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138812,
+                "NOM": "Noir Verse",
+                "LOCALISATION": "UA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:32:44"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 59753,
+                    "PSEUDO": "Naginat",
+                    "ROLE": null,
+                    "PRENOM": "Max",
+                    "NOM": "Basistyi",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:43"
+                },
+                {
+                    "ID": 60164,
+                    "PSEUDO": "kirxttu",
+                    "ROLE": null,
+                    "PRENOM": "Andrii",
+                    "NOM": "Osinskyi",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:44"
+                },
+                {
+                    "ID": 63211,
+                    "PSEUDO": "xeNji",
+                    "ROLE": null,
+                    "PRENOM": "Nazar",
+                    "NOM": "Horbovyi",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:44"
+                },
+                {
+                    "ID": 66382,
+                    "PSEUDO": "wh1temink",
+                    "ROLE": null,
+                    "PRENOM": "Yehor",
+                    "NOM": "Hryhoriev",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:44"
+                },
+                {
+                    "ID": 66388,
+                    "PSEUDO": "Santuriano",
+                    "ROLE": null,
+                    "PRENOM": "Elvinas",
+                    "NOM": "Kovaliovas",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:44"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139529,
+                "NOM": "Balkan Outlaws",
+                "LOCALISATION": "RO",
+                "ACRONYME": "BAL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:37:31"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35037,
+                    "PSEUDO": "Ersin",
+                    "ROLE": null,
+                    "PRENOM": "Ersin",
+                    "NOM": "Chiriac",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2001-12-28",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:31"
+                },
+                {
+                    "ID": 36588,
+                    "PSEUDO": "Ciocardau",
+                    "ROLE": null,
+                    "PRENOM": "Daniel-Cătălin",
+                    "NOM": "Purice",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-27",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:03"
+                },
+                {
+                    "ID": 36590,
+                    "PSEUDO": "d1maje",
+                    "ROLE": null,
+                    "PRENOM": "Tudor ",
+                    "NOM": "Aparaschivei",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:03"
+                },
+                {
+                    "ID": 36591,
+                    "PSEUDO": "starplajerz",
+                    "ROLE": null,
+                    "PRENOM": "Gyorfy ",
+                    "NOM": "Gabriel",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:03"
+                },
+                {
+                    "ID": 38395,
+                    "PSEUDO": "waZz",
+                    "ROLE": null,
+                    "PRENOM": "Lipoșteanu Andrei",
+                    "NOM": "Corneliu",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:43:15"
+                },
+                {
+                    "ID": 57882,
+                    "PSEUDO": "grecu",
+                    "ROLE": null,
+                    "PRENOM": "Andrei ",
+                    "NOM": "Grecu",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:03"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "European Pro League",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "NOM": "Season 10 2026",
+        "ANNEE": 2026,
+        "SAISON": "10",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:50:19",
+        "ID DU VAINQUEUR": null
+    }
+}

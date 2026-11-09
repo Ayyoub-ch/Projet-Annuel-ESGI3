@@ -1,0 +1,103 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1688015,
+        "NOM": "MASQ_vs_EACE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "18:07:05",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "18:51:18",
+        "DATE DE MODIFICATION": "2026-09-13",
+        "HEURE DE MODIFICATION": "14:59:34",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 231580,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2653,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "18:07:05",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "18:51:19",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139089,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138578,
+            "NOM": "MASQ",
+            "LOCALISATION": "DK",
+            "ACRONYME": "MASQ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:02:53"
+        },
+        {
+            "ID": 139089,
+            "NOM": "EAC Extra",
+            "LOCALISATION": "DK",
+            "ACRONYME": "EACE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:46:06"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 138578
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139089
+        }
+    ],
+    "TOURNOI": {
+        "ID": 21935,
+        "NOM": "Regular Season",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-09-14",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "19:43:22",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4473,
+        "NOM": "Dust2.dk Ligaen",
+        "DATE DE MODIFICATION": "2023-11-09",
+        "HEURE DE MODIFICATION": "13:26:24"
+    },
+    "SERIE": {
+        "ID": 10976,
+        "NOM": "Season 33 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-09-14",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-09-13",
+        "HEURE DE MODIFICATION": "14:59:34"
+    }
+}

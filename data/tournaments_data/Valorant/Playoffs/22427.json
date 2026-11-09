@@ -1,0 +1,474 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22427,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-10",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:02:58",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: xXxMasterProMegaTeamxXx vs F9",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Semifinal 2: Aurora Gaming vs PL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Grand final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "18:30:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "3rd place match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "18:30:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 136225,
+            "NOM": "Pixel Lumina",
+            "LOCALISATION": "HU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:56:27",
+            "ACRONYME": "PL"
+        },
+        {
+            "ID": 137123,
+            "NOM": "F9 EICAR",
+            "LOCALISATION": "FR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:56:25",
+            "ACRONYME": "F9"
+        },
+        {
+            "ID": 139566,
+            "NOM": "Aurora Gaming",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:56:28",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139567,
+            "NOM": "xXxMasterProMegaTeamxXx",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:02:58",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 136225,
+                "NOM": "Pixel Lumina",
+                "LOCALISATION": "HU",
+                "ACRONYME": "PL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:56:27"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25039,
+                    "PSEUDO": "MOLSI",
+                    "ROLE": null,
+                    "PRENOM": "Michał",
+                    "NOM": "Łącki",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-01-26",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:26"
+                },
+                {
+                    "ID": 36051,
+                    "PSEUDO": "Chadi",
+                    "ROLE": null,
+                    "PRENOM": "Farsang ",
+                    "NOM": "Balázs",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-16",
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:25"
+                },
+                {
+                    "ID": 38156,
+                    "PSEUDO": "nataNk",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-02-25",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:26"
+                },
+                {
+                    "ID": 40038,
+                    "PSEUDO": "Saiz",
+                    "ROLE": null,
+                    "PRENOM": "Daniel",
+                    "NOM": "Ruiz",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-05",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:27"
+                },
+                {
+                    "ID": 41709,
+                    "PSEUDO": "Kamisseq",
+                    "ROLE": null,
+                    "PRENOM": "Kamil",
+                    "NOM": "Lepper",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-07-20",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:26"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137123,
+                "NOM": "F9 EICAR",
+                "LOCALISATION": "FR",
+                "ACRONYME": "F9",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:56:25"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27104,
+                    "PSEUDO": "H1BER",
+                    "ROLE": null,
+                    "PRENOM": "Joona",
+                    "NOM": "Parviainen",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-30",
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:25"
+                },
+                {
+                    "ID": 49558,
+                    "PSEUDO": "Kajuks",
+                    "ROLE": null,
+                    "PRENOM": "Kajus",
+                    "NOM": "Skurvydas",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-29",
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:25"
+                },
+                {
+                    "ID": 50609,
+                    "PSEUDO": "Yohpa",
+                    "ROLE": null,
+                    "PRENOM": "Baptiste",
+                    "NOM": "Khoury",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-08-10",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:25"
+                },
+                {
+                    "ID": 61291,
+                    "PSEUDO": "Poeth",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:24"
+                },
+                {
+                    "ID": 63418,
+                    "PSEUDO": "TITOUNE",
+                    "ROLE": null,
+                    "PRENOM": "Titouan",
+                    "NOM": "Houssein",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-06-05",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:24"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139566,
+                "NOM": "Aurora Gaming",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:56:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26563,
+                    "PSEUDO": "Boo",
+                    "ROLE": null,
+                    "PRENOM": "Ričardas",
+                    "NOM": "Lukaševičius",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1997-12-02",
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:27"
+                },
+                {
+                    "ID": 32700,
+                    "PSEUDO": "chiwa",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Stepanyuk",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1997-12-03",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:27"
+                },
+                {
+                    "ID": 32853,
+                    "PSEUDO": "Derke",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Sirmitev",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-06",
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:28"
+                },
+                {
+                    "ID": 33287,
+                    "PSEUDO": "B1SK",
+                    "ROLE": null,
+                    "PRENOM": "Vitaliy",
+                    "NOM": "Emelyanov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-28",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:27"
+                },
+                {
+                    "ID": 33980,
+                    "PSEUDO": "trexx",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Cherednichenko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-24",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:28"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139567,
+                "NOM": "xXxMasterProMegaTeamxXx",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:02:58"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 39455,
+                    "PSEUDO": "moner",
+                    "ROLE": null,
+                    "PRENOM": "Kirill",
+                    "NOM": "Matsanov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-22",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:02:58"
+                },
+                {
+                    "ID": 50816,
+                    "PSEUDO": "Michel",
+                    "ROLE": null,
+                    "PRENOM": "Michel ",
+                    "NOM": "del Castillo",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-21",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:28"
+                },
+                {
+                    "ID": 56459,
+                    "PSEUDO": "ORI4K",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:28"
+                },
+                {
+                    "ID": 63817,
+                    "PSEUDO": "adore",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:56:28"
+                },
+                {
+                    "ID": 68883,
+                    "PSEUDO": "shawN",
+                    "ROLE": null,
+                    "PRENOM": "Deshawn Ricardo",
+                    "NOM": "Anglin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:02:58"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "VCT",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-02-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "NOM": "EMEA Kickoff: Europe Qualifier 2027",
+        "ANNEE": 2027,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+        "ID DU VAINQUEUR": null
+    }
+}
