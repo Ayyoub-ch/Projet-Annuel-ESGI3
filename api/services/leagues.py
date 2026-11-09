@@ -6,7 +6,6 @@ from typing import Any
 # Le chemin est calculé depuis ce fichier, pas depuis le dossier de lancement d'Uvicorn.
 LEAGUES_FOLDER = (
     Path(__file__).resolve().parents[2]
-    / "data_recolt"
     / "data"
     / "leagues_data"
 )
