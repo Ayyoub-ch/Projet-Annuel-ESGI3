@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "13:00:00",
         "DATE DE FIN": "2026-11-16",
         "HEURE DE FIN": "00:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
-        "HEURE DE LA DERNIERE MODIFICATION": "16:14:48",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:13:27",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -389,8 +389,193 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 139098,
+            "NOM": "Low Cortisol",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:13:27",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139495,
+            "NOM": "tao toma",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:11:11",
+            "ACRONYME": "tt"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 139098,
+                "NOM": "Low Cortisol",
+                "LOCALISATION": "BR",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:13:27"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26636,
+                    "PSEUDO": "t9rnay",
+                    "ROLE": null,
+                    "PRENOM": "Henrique",
+                    "NOM": "Menacho",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-10",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:13:27"
+                },
+                {
+                    "ID": 35656,
+                    "PSEUDO": "zede",
+                    "ROLE": null,
+                    "PRENOM": "Vinicius",
+                    "NOM": "Reis Cruz Batista",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-16",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:13:27"
+                },
+                {
+                    "ID": 41141,
+                    "PSEUDO": "fokiu",
+                    "ROLE": null,
+                    "PRENOM": "Marcos",
+                    "NOM": "Paulo",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-16",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:13:26"
+                },
+                {
+                    "ID": 47484,
+                    "PSEUDO": "levi",
+                    "ROLE": null,
+                    "PRENOM": "Guilherme",
+                    "NOM": "Gustavo",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:13:27"
+                },
+                {
+                    "ID": 47643,
+                    "PSEUDO": "stormzin",
+                    "ROLE": null,
+                    "PRENOM": "Vitinho",
+                    "NOM": "Ferreira",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-11-04",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:13:27"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139495,
+                "NOM": "tao toma",
+                "LOCALISATION": "BR",
+                "ACRONYME": "tt",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:11:11"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 21439,
+                    "PSEUDO": "vsm",
+                    "ROLE": null,
+                    "PRENOM": "Vinicius",
+                    "NOM": "Moreira",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-02",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:11:11"
+                },
+                {
+                    "ID": 21440,
+                    "PSEUDO": "hardzao",
+                    "ROLE": null,
+                    "PRENOM": "Wesley",
+                    "NOM": "Lopes",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-16",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:11:11"
+                },
+                {
+                    "ID": 23686,
+                    "PSEUDO": "Lucaozy",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Neves",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-10-16",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:11:11"
+                },
+                {
+                    "ID": 27361,
+                    "PSEUDO": "CutzMeretz",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Freitas",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-03-11",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:11:10"
+                },
+                {
+                    "ID": 34675,
+                    "PSEUDO": "history",
+                    "ROLE": null,
+                    "PRENOM": "Allan",
+                    "NOM": "Lawrenz Santi Botton",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-06-08",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:11:11"
+                },
+                {
+                    "ID": 49446,
+                    "PSEUDO": "machado",
+                    "ROLE": null,
+                    "PRENOM": "Henrique",
+                    "NOM": "Amaral",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:11:11"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "CCT South America",
         "DATE DE LA DERNIERE MODIFICATION": "2022-08-09",

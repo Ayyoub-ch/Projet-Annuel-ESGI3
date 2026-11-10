@@ -1,0 +1,411 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22431,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:17:34",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "REV vs ESB",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "KAMUI vs AUR.YB",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 127497,
+            "NOM": "eSuba",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:17:28",
+            "ACRONYME": "ESB"
+        },
+        {
+            "ID": 133125,
+            "NOM": "Aurora Young Blood",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:17:32",
+            "ACRONYME": "AUR.YB"
+        },
+        {
+            "ID": 139097,
+            "NOM": "Revise",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:17:33",
+            "ACRONYME": "REV"
+        },
+        {
+            "ID": 139219,
+            "NOM": "KAMUI",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:17:34",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 127497,
+                "NOM": "eSuba",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "ESB",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25106,
+                    "PSEUDO": "Crazyy",
+                    "ROLE": null,
+                    "PRENOM": "Ondřej",
+                    "NOM": "Švec",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                },
+                {
+                    "ID": 66042,
+                    "PSEUDO": "Rentlax",
+                    "ROLE": null,
+                    "PRENOM": "Martin",
+                    "NOM": "Křepelka",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:25"
+                },
+                {
+                    "ID": 66043,
+                    "PSEUDO": "shark",
+                    "ROLE": null,
+                    "PRENOM": "Filip",
+                    "NOM": "Táborský",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                },
+                {
+                    "ID": 66044,
+                    "PSEUDO": "Frigo",
+                    "ROLE": null,
+                    "PRENOM": "Petr",
+                    "NOM": "Havránek",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                },
+                {
+                    "ID": 66895,
+                    "PSEUDO": "Ananasino",
+                    "ROLE": null,
+                    "PRENOM": "Vojtěch",
+                    "NOM": "Hanák",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133125,
+                "NOM": "Aurora Young Blood",
+                "LOCALISATION": "RU",
+                "ACRONYME": "AUR.YB",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:17:32"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26548,
+                    "PSEUDO": "Re1GN",
+                    "ROLE": null,
+                    "PRENOM": "Daniil",
+                    "NOM": "Chekanin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:32"
+                },
+                {
+                    "ID": 52004,
+                    "PSEUDO": "Sa1nTy",
+                    "ROLE": null,
+                    "PRENOM": "Grigoriy",
+                    "NOM": "Chernev",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-04-24",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:32"
+                },
+                {
+                    "ID": 56715,
+                    "PSEUDO": "fluffy",
+                    "ROLE": null,
+                    "PRENOM": "Vladislav",
+                    "NOM": "Galimov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-08-26",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:32"
+                },
+                {
+                    "ID": 59396,
+                    "PSEUDO": "meetyoxanaji",
+                    "ROLE": null,
+                    "PRENOM": "Yuriy",
+                    "NOM": "Surmilo",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:29"
+                },
+                {
+                    "ID": 68481,
+                    "PSEUDO": "ms2180",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:32"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139097,
+                "NOM": "Revise",
+                "LOCALISATION": "UA",
+                "ACRONYME": "REV",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 45404,
+                    "PSEUDO": "SuNFiX",
+                    "ROLE": null,
+                    "PRENOM": "Oleg ",
+                    "NOM": "Ataulin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MD",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+                },
+                {
+                    "ID": 67405,
+                    "PSEUDO": "s1ssi",
+                    "ROLE": null,
+                    "PRENOM": "Denys",
+                    "NOM": "Shchebitchenko",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+                },
+                {
+                    "ID": 67406,
+                    "PSEUDO": "WaSdyy",
+                    "ROLE": null,
+                    "PRENOM": "Vitalii",
+                    "NOM": "Kolos",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+                },
+                {
+                    "ID": 67407,
+                    "PSEUDO": "kanode",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Yurchenko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+                },
+                {
+                    "ID": 67408,
+                    "PSEUDO": "nikson",
+                    "ROLE": null,
+                    "PRENOM": "Nikolay",
+                    "NOM": "Suvorov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139219,
+                "NOM": "KAMUI",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:17:34"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 60155,
+                    "PSEUDO": "Kaname",
+                    "ROLE": null,
+                    "PRENOM": "Andrii",
+                    "NOM": "Kashynskyi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+                },
+                {
+                    "ID": 60156,
+                    "PSEUDO": "Scr4pi",
+                    "ROLE": null,
+                    "PRENOM": "Volodymyr",
+                    "NOM": "Yatsik",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:34"
+                },
+                {
+                    "ID": 66718,
+                    "PSEUDO": "nedorufe",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Vysokolian",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:34"
+                },
+                {
+                    "ID": 67785,
+                    "PSEUDO": "Alpina",
+                    "ROLE": null,
+                    "PRENOM": "Rustam",
+                    "NOM": "Rioneli",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Exort Fiesta",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:07:12"
+    },
+    "SERIE": {
+        "NOM": "Closed Qualifier: Series #4 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+        "ID DU VAINQUEUR": null
+    }
+}

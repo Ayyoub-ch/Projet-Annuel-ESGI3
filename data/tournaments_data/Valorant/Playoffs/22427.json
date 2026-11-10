@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-10",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:02:58",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:50:24",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,7 +16,7 @@
         {
             "NOM": "Semifinal 1: xXxMasterProMegaTeamxXx vs F9",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -26,22 +26,22 @@
             "HEURE DE DEBUT": "2026-11-10",
             "DATE DE FIN": "2026-11-10",
             "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:17:46",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/lendothlive"
             }
         },
         {
             "NOM": "Semifinal 2: Aurora Gaming vs PL",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -51,58 +51,58 @@
             "HEURE DE DEBUT": "2026-11-10",
             "DATE DE FIN": "2026-11-10",
             "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:51:38",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pxltv_hu"
             }
         },
         {
-            "NOM": "Grand final: TBD vs TBD",
+            "NOM": "Grand final: Aurora Gaming vs F9",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-10",
-            "HEURE PRÉVUE": "18:30:00",
+            "HEURE PRÉVUE": "18:45:00",
             "DATE DE DEBUT": "2026-11-10",
             "HEURE DE DEBUT": "2026-11-10",
             "DATE DE FIN": "2026-11-10",
             "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:20:42",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/lendothlive"
             }
         },
         {
-            "NOM": "3rd place match: TBD vs TBD",
+            "NOM": "3rd place match: PL vs xXxMasterProMegaTeamxXx",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-10",
-            "HEURE PRÉVUE": "18:30:00",
-            "DATE DE DEBUT": "2026-11-10",
-            "HEURE DE DEBUT": "2026-11-10",
-            "DATE DE FIN": "2026-11-10",
-            "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:59:47",
+            "HEURE PRÉVUE": "18:45:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:55:25",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-playoffs",
             "TIER": "d",
@@ -143,8 +143,8 @@
             "ID": 139567,
             "NOM": "xXxMasterProMegaTeamxXx",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:02:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:50:24",
             "ACRONYME": null
         }
     ],
@@ -386,8 +386,8 @@
                 "NOM": "xXxMasterProMegaTeamxXx",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:02:58"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:50:24"
             },
             "JOUEURS": [
                 {
@@ -454,6 +454,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
                     "HEURE DE LA DERNIERE MODIFICATION": "19:02:58"
+                },
+                {
+                    "ID": 68916,
+                    "PSEUDO": "lʍʍ",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:50:24"
                 }
             ]
         }

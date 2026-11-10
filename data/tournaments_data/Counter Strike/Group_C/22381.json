@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-12",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-        "HEURE DE LA DERNIERE MODIFICATION": "16:09:36",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:29:42",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -64,34 +64,9 @@
             }
         },
         {
-            "NOM": "Elimination match: NAVI.J vs SKR",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-10",
-            "HEURE PRÉVUE": "09:00:00",
-            "DATE DE DEBUT": "2026-11-10",
-            "HEURE DE DEBUT": "2026-11-10",
-            "DATE DE FIN": "2026-11-10",
-            "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:39:23",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-european-pro-league-10-2026-group-c",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/eplcs_en"
-            }
-        },
-        {
             "NOM": "Winners match: FORZE.R vs MOUZ.N",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -101,20 +76,20 @@
             "HEURE DE DEBUT": "2026-11-10",
             "DATE DE FIN": "2026-11-10",
             "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:39:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:33:31",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-10-2026-group-c",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/eplcs_en"
+                "MAIN": false,
+                "LANGUE": "fr",
+                "LIEN BRUTE": "https://www.twitch.tv/nagu_fr"
             }
         },
         {
-            "NOM": "Decider match: TBD vs TBD",
+            "NOM": "Decider match: NAVI.J vs MOUZ.N",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -126,8 +101,33 @@
             "HEURE DE DEBUT": "2026-11-12",
             "DATE DE FIN": "2026-11-12",
             "HEURE DE FIN": "2026-11-12",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:55:37",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:29:42",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-european-pro-league-10-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/eplcs_en"
+            }
+        },
+        {
+            "NOM": "Elimination match: NAVI.J vs SKR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:04:27",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-10-2026-group-c",
             "TIER": "d",
@@ -152,16 +152,16 @@
             "ID": 129160,
             "NOM": "MOUZ NXT",
             "LOCALISATION": "DE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:22:26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:35:18",
             "ACRONYME": "MOUZ.N"
         },
         {
             "ID": 135126,
             "NOM": "FORZE Reload",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:18:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:22:29",
             "ACRONYME": "FORZE.R"
         },
         {
@@ -169,7 +169,7 @@
             "NOM": "Sökerorg",
             "LOCALISATION": "",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:09:36",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:03:16",
             "ACRONYME": "SKR"
         }
     ],
@@ -203,7 +203,7 @@
                     "ROLE": null,
                     "PRENOM": "David ",
                     "NOM": "Procházka",
-                    "AGE": 17,
+                    "AGE": 18,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
@@ -270,8 +270,8 @@
                 "NOM": "MOUZ NXT",
                 "LOCALISATION": "DE",
                 "ACRONYME": "MOUZ.N",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "01:22:26"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:35:18"
             },
             "JOUEURS": [
                 {
@@ -284,8 +284,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "LV",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:13"
                 },
                 {
                     "ID": 55439,
@@ -297,8 +297,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "LV",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:17"
                 },
                 {
                     "ID": 61271,
@@ -310,8 +310,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:18"
                 },
                 {
                     "ID": 61363,
@@ -323,8 +323,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:17"
                 },
                 {
                     "ID": 62444,
@@ -336,8 +336,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CN",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:17"
                 }
             ]
         },
@@ -347,8 +347,8 @@
                 "NOM": "FORZE Reload",
                 "LOCALISATION": "RU",
                 "ACRONYME": "FORZE.R",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:18:55"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:22:29"
             },
             "JOUEURS": [
                 {
@@ -362,7 +362,7 @@
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:18:55"
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:22"
                 },
                 {
                     "ID": 31887,
@@ -375,7 +375,7 @@
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:18:55"
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:23"
                 },
                 {
                     "ID": 42771,
@@ -388,7 +388,7 @@
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:18:54"
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:22"
                 },
                 {
                     "ID": 48844,
@@ -400,8 +400,8 @@
                     "DATE DE NAISSANCE": "2006-02-18",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:21:25"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:22:29"
                 },
                 {
                     "ID": 51586,
@@ -414,7 +414,7 @@
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:18:52"
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:22"
                 }
             ]
         },
@@ -425,7 +425,7 @@
                 "LOCALISATION": "",
                 "ACRONYME": "SKR",
                 "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:09:36"
+                "HEURE DE LA DERNIERE MODIFICATION": "22:03:16"
             },
             "JOUEURS": [
                 {
@@ -438,8 +438,8 @@
                     "DATE DE NAISSANCE": "2002-09-05",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:09:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:20:51"
                 },
                 {
                     "ID": 29109,
@@ -452,7 +452,7 @@
                     "NATIONALITE": "MK",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:09:36"
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:03:16"
                 },
                 {
                     "ID": 30018,
@@ -477,8 +477,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:09:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:20:50"
                 },
                 {
                     "ID": 35871,
@@ -490,8 +490,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:09:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:26"
                 },
                 {
                     "ID": 35898,
@@ -503,8 +503,8 @@
                     "DATE DE NAISSANCE": "2001-04-19",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:26"
                 },
                 {
                     "ID": 57760,
@@ -517,7 +517,7 @@
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:09:36"
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:03:16"
                 }
             ]
         }

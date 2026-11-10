@@ -7,14 +7,14 @@
         "HEURE DE DEBUT": "11:00:00",
         "DATE DE FIN": "2026-11-20",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-        "HEURE DE LA DERNIERE MODIFICATION": "12:10:36",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:19:52",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
         {
-            "NOM": "Upper Bracket Quarterfinal 3: ICE vs BCA",
+            "NOM": "Upper Bracket Quarterfinal 3: ICE vs APG",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -26,8 +26,8 @@
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:11:59",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:53:59",
             "PRIZEPOOL": "100000 United States Dollar",
             "SLUG": "cs-go-stake-ranked-episode-6-2026-playoffs",
             "TIER": "b",
@@ -415,11 +415,11 @@
         },
         {
             "ID": 135381,
-            "NOM": "Betclic Apogee Esports",
+            "NOM": "Apogee Esports",
             "LOCALISATION": "PL",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:01:00",
-            "ACRONYME": "BCA"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:53:59",
+            "ACRONYME": "APG"
         },
         {
             "ID": 136497,
@@ -896,11 +896,11 @@
         {
             "EQUIPE": {
                 "ID": 135381,
-                "NOM": "Betclic Apogee Esports",
+                "NOM": "Apogee Esports",
                 "LOCALISATION": "PL",
-                "ACRONYME": "BCA",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "12:01:00"
+                "ACRONYME": "APG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:53:59"
             },
             "JOUEURS": [
                 {

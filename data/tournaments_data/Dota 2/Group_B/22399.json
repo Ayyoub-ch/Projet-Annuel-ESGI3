@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "13:00:00",
         "DATE DE FIN": "2026-11-14",
         "HEURE DE FIN": "16:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:42:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:05:41",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -89,8 +89,114 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 133882,
+            "NOM": "Aurora",
+            "LOCALISATION": "RS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:30:25",
+            "ACRONYME": "AUR"
+        },
+        {
+            "ID": 137588,
+            "NOM": "GamerLegion",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:05:41",
+            "ACRONYME": "GL"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 133882,
+                "NOM": "Aurora",
+                "LOCALISATION": "RS",
+                "ACRONYME": "AUR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-03",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:30:25"
+            },
+            "JOUEURS": []
+        },
+        {
+            "EQUIPE": {
+                "ID": 137588,
+                "NOM": "GamerLegion",
+                "LOCALISATION": "US",
+                "ACRONYME": "GL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:05:41"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9609,
+                    "PSEUDO": "Bignum",
+                    "ROLE": "4",
+                    "PRENOM": "Danil",
+                    "NOM": "Shekhovtsov",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-04-20",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:41"
+                },
+                {
+                    "ID": 13844,
+                    "PSEUDO": "Speeed",
+                    "ROLE": "5",
+                    "PRENOM": "Paul",
+                    "NOM": "Bocchicchio",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-03",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:41"
+                },
+                {
+                    "ID": 27993,
+                    "PSEUDO": "Fayde",
+                    "ROLE": "3",
+                    "PRENOM": "Victor",
+                    "NOM": "Zuev",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-01",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:40"
+                },
+                {
+                    "ID": 29644,
+                    "PSEUDO": "Yuma",
+                    "ROLE": "1",
+                    "PRENOM": "Yuma Benjamin Langle",
+                    "NOM": "Muckenhirn",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-18",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:39"
+                },
+                {
+                    "ID": 43534,
+                    "PSEUDO": "RCY",
+                    "ROLE": "2",
+                    "PRENOM": "Francis",
+                    "NOM": "Fundemera",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-06-04",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:40"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "1win Essence",
         "DATE DE LA DERNIERE MODIFICATION": "2026-04-29",

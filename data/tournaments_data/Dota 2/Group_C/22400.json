@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-14",
         "HEURE DE FIN": "19:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:42:42",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:06:51",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -89,8 +89,180 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 1647,
+            "NOM": "Team Liquid",
+            "LOCALISATION": "NL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:06:51",
+            "ACRONYME": "Liquid"
+        },
+        {
+            "ID": 1657,
+            "NOM": "LGD Gaming",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:06:45",
+            "ACRONYME": "LGD"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 1647,
+                "NOM": "Team Liquid",
+                "LOCALISATION": "NL",
+                "ACRONYME": "Liquid",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:06:51"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9596,
+                    "PSEUDO": "miCKe",
+                    "ROLE": "1",
+                    "PRENOM": "Michael",
+                    "NOM": "Vu",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-26",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:45"
+                },
+                {
+                    "ID": 13664,
+                    "PSEUDO": "Wisper",
+                    "ROLE": "3",
+                    "PRENOM": "Adrián",
+                    "NOM": "Céspedes Dobles",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-11-03",
+                    "NATIONALITE": "BO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:50"
+                },
+                {
+                    "ID": 13848,
+                    "PSEUDO": "Boxi",
+                    "ROLE": "4",
+                    "PRENOM": "Samuel",
+                    "NOM": "Svahn",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-10",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:50"
+                },
+                {
+                    "ID": 31555,
+                    "PSEUDO": "tOfu",
+                    "ROLE": "5",
+                    "PRENOM": "Erik",
+                    "NOM": "Engel",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-08-14",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:51"
+                },
+                {
+                    "ID": 31707,
+                    "PSEUDO": "Malr1ne",
+                    "ROLE": "2",
+                    "PRENOM": "Potorak",
+                    "NOM": "Stanislav",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-17",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:50"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 1657,
+                "NOM": "LGD Gaming",
+                "LOCALISATION": "CN",
+                "ACRONYME": "LGD",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:06:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9368,
+                    "PSEUDO": "SumaiL",
+                    "ROLE": "2",
+                    "PRENOM": "Syed Sumail",
+                    "NOM": "Hassan",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-02-13",
+                    "NATIONALITE": "PK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:44"
+                },
+                {
+                    "ID": 9493,
+                    "PSEUDO": "Sneyking",
+                    "ROLE": "5",
+                    "PRENOM": "Jingjun",
+                    "NOM": "Wu",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-05-03",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:45"
+                },
+                {
+                    "ID": 9501,
+                    "PSEUDO": "Thiolicor",
+                    "ROLE": "4",
+                    "PRENOM": "Thiago de Oliveira",
+                    "NOM": "Cordeiro",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-10",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:45"
+                },
+                {
+                    "ID": 28075,
+                    "PSEUDO": "Davai Lama",
+                    "ROLE": "3",
+                    "PRENOM": "Cedric",
+                    "NOM": "Deckmyn",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-03",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:44"
+                },
+                {
+                    "ID": 50494,
+                    "PSEUDO": "Wits",
+                    "ROLE": "1",
+                    "PRENOM": "Héctor",
+                    "NOM": "Max Orozco Alza",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-03-06",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:39"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "1win Essence",
         "DATE DE LA DERNIERE MODIFICATION": "2026-04-29",

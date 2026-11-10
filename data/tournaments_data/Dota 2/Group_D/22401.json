@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "19:00:00",
         "DATE DE FIN": "2026-11-14",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:43:17",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:07:46",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -89,8 +89,114 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 1669,
+            "NOM": "Team Spirit",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:07:46",
+            "ACRONYME": "TS"
+        },
+        {
+            "ID": 134536,
+            "NOM": "1w Team",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:48:25",
+            "ACRONYME": "1W"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 1669,
+                "NOM": "Team Spirit",
+                "LOCALISATION": "RU",
+                "ACRONYME": "TS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:07:46"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27480,
+                    "PSEUDO": "Larl",
+                    "ROLE": "2",
+                    "PRENOM": "Denis",
+                    "NOM": "Sigitov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-22",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:45"
+                },
+                {
+                    "ID": 30258,
+                    "PSEUDO": "Yatoro",
+                    "ROLE": "1",
+                    "PRENOM": "Ilya",
+                    "NOM": "Mulyarchuk",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-12",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:42"
+                },
+                {
+                    "ID": 48058,
+                    "PSEUDO": "Batyuk",
+                    "ROLE": "3",
+                    "PRENOM": "Bohdan",
+                    "NOM": "Batiuk",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:44"
+                },
+                {
+                    "ID": 49070,
+                    "PSEUDO": "rue",
+                    "ROLE": "5",
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Filin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:46"
+                },
+                {
+                    "ID": 54351,
+                    "PSEUDO": "not me",
+                    "ROLE": "4",
+                    "PRENOM": "Alexey",
+                    "NOM": "Kosmynin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-27",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:45"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134536,
+                "NOM": "1w Team",
+                "LOCALISATION": "RU",
+                "ACRONYME": "1W",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:48:25"
+            },
+            "JOUEURS": []
+        }
+    ],
     "LIGUE": {
         "NOM": "1win Essence",
         "DATE DE LA DERNIERE MODIFICATION": "2026-04-29",

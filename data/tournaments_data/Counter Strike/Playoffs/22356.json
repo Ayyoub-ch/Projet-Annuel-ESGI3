@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-16",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
-        "HEURE DE LA DERNIERE MODIFICATION": "12:35:51",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:16:15",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -389,8 +389,180 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 137703,
+            "NOM": "ex-Zero Tenacity",
+            "LOCALISATION": "RS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:16:15",
+            "ACRONYME": "ex-ZT"
+        },
+        {
+            "ID": 138975,
+            "NOM": "Butterfly",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:04:21",
+            "ACRONYME": "BTF"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 137703,
+                "NOM": "ex-Zero Tenacity",
+                "LOCALISATION": "RS",
+                "ACRONYME": "ex-ZT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:16:15"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30446,
+                    "PSEUDO": "Dragon",
+                    "ROLE": null,
+                    "PRENOM": "Nikola",
+                    "NOM": "Boskovic",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-12-19",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:15"
+                },
+                {
+                    "ID": 30447,
+                    "PSEUDO": "Kind0",
+                    "ROLE": null,
+                    "PRENOM": "Vladan",
+                    "NOM": "Mandic",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-14",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:14"
+                },
+                {
+                    "ID": 33733,
+                    "PSEUDO": "VLDN",
+                    "ROLE": null,
+                    "PRENOM": "Vladan",
+                    "NOM": "Radevic",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-11-09",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:14"
+                },
+                {
+                    "ID": 37153,
+                    "PSEUDO": "brutmonster",
+                    "ROLE": null,
+                    "PRENOM": "Adin",
+                    "NOM": "Husić",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-20",
+                    "NATIONALITE": "BA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:13"
+                },
+                {
+                    "ID": 37359,
+                    "PSEUDO": "Cjoffo",
+                    "ROLE": null,
+                    "PRENOM": "Andrej ",
+                    "NOM": "Šarac",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-30",
+                    "NATIONALITE": "ME",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:14"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138975,
+                "NOM": "Butterfly",
+                "LOCALISATION": "RU",
+                "ACRONYME": "BTF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:04:21"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23232,
+                    "PSEUDO": "Krad",
+                    "ROLE": null,
+                    "PRENOM": "Vladislav",
+                    "NOM": "Kravchenko",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-01-09",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:04:21"
+                },
+                {
+                    "ID": 30826,
+                    "PSEUDO": "Forester",
+                    "ROLE": null,
+                    "PRENOM": "Igor",
+                    "NOM": "Bezotecheskiy",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-01-03",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:13"
+                },
+                {
+                    "ID": 33183,
+                    "PSEUDO": "nitzie",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Prokhorov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-17",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:12"
+                },
+                {
+                    "ID": 40973,
+                    "PSEUDO": "Kurama",
+                    "ROLE": null,
+                    "PRENOM": "Sergey",
+                    "NOM": "Zhukovich",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:12"
+                },
+                {
+                    "ID": 61761,
+                    "PSEUDO": "ayano",
+                    "ROLE": null,
+                    "PRENOM": "Ruslan",
+                    "NOM": "Gutu",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:12"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "CCT Europe",
         "DATE DE LA DERNIERE MODIFICATION": "2024-04-13",

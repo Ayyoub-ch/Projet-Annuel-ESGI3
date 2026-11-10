@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-14",
         "HEURE DE FIN": "13:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:40:14",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:04:46",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -89,8 +89,114 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 135712,
+            "NOM": "PARIVISION",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:26:03",
+            "ACRONYME": "PARI"
+        },
+        {
+            "ID": 139547,
+            "NOM": "DO KONCA",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:04:45",
+            "ACRONYME": "KONCA"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135712,
+                "NOM": "PARIVISION",
+                "LOCALISATION": "RU",
+                "ACRONYME": "PARI",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:26:03"
+            },
+            "JOUEURS": []
+        },
+        {
+            "EQUIPE": {
+                "ID": 139547,
+                "NOM": "DO KONCA",
+                "LOCALISATION": "",
+                "ACRONYME": "KONCA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23897,
+                    "PSEUDO": "Save-",
+                    "ROLE": "2",
+                    "PRENOM": "Vitalie",
+                    "NOM": "Melnic",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-12",
+                    "NATIONALITE": "MD",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                },
+                {
+                    "ID": 26452,
+                    "PSEUDO": "Kataomi`",
+                    "ROLE": "5",
+                    "PRENOM": "Vladislav",
+                    "NOM": "Semenov",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-01",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                },
+                {
+                    "ID": 28082,
+                    "PSEUDO": "MieRo",
+                    "ROLE": "3",
+                    "PRENOM": "Matvey",
+                    "NOM": "Vasyunin",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-28",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                },
+                {
+                    "ID": 30131,
+                    "PSEUDO": "kiyotaka",
+                    "ROLE": "2",
+                    "PRENOM": "Gleb",
+                    "NOM": "Zyryanov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                },
+                {
+                    "ID": 33451,
+                    "PSEUDO": "Kiritych~",
+                    "ROLE": "1",
+                    "PRENOM": "Ilya",
+                    "NOM": "Ulyanov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-21",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "1win Essence",
         "DATE DE LA DERNIERE MODIFICATION": "2026-04-29",

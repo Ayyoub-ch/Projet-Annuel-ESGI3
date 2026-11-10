@@ -7,16 +7,16 @@
         "HEURE DE DEBUT": "12:00:00",
         "DATE DE FIN": "2026-11-21",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:08:16",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:55:46",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
         {
-            "NOM": "Upper Bracket Quarterfinal 1: BOOM vs RJL",
+            "NOM": "Upper Bracket Quarterfinal 2: SLG vs SUR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -26,8 +26,108 @@
             "HEURE DE DEBUT": "2026-11-10",
             "DATE DE FIN": "2026-11-10",
             "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:55:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:39:50",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Upper bracket quarterfinal 1: BOOM vs GAS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:03:54",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 4: Straight outta PIK vs HE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:56:00",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Upper bracket quarterfinal 3: Alter Ego x Kertanegara vs RJL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-10",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-10",
+            "HEURE DE DEBUT": "2026-11-10",
+            "DATE DE FIN": "2026-11-10",
+            "HEURE DE FIN": "2026-11-10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:46:47",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Lower Bracket Round 1 Match 1: GAS vs SUR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "2026-11-11",
+            "DATE DE FIN": "2026-11-11",
+            "HEURE DE FIN": "2026-11-11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:41:00",
             "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
             "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
             "TIER": "d",
@@ -39,20 +139,195 @@
             }
         },
         {
-            "NOM": "Upper Bracket Quarterfinal 2: SLG vs SUR",
+            "NOM": "Lower Bracket Round 1 Match 2: RJL vs Straight outta PIK",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "2026-11-11",
+            "DATE DE FIN": "2026-11-11",
+            "HEURE DE FIN": "2026-11-11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:43:26",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Semifinal 1: BOOM vs SLG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:49:06",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Semifinal 2: Alter Ego x Kertanegara vs HE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:34:50",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Quarterfinal 1: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:49:08",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Quarterfinal 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:49:09",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Semifinal: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "08:00:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:49:09",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "10:30:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:49:07",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 1: BOOM vs RJL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-10",
             "HEURE PRÉVUE": "12:00:00",
-            "DATE DE DEBUT": "2026-11-10",
-            "HEURE DE DEBUT": "2026-11-10",
-            "DATE DE FIN": "2026-11-10",
-            "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:55:05",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:33:55",
             "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
             "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
             "TIER": "d",
@@ -66,43 +341,18 @@
         {
             "NOM": "Upper Bracket Quarterfinal 3: Alter Ego x Kertanegara vs GAS",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-10",
             "HEURE PRÉVUE": "14:30:00",
-            "DATE DE DEBUT": "2026-11-10",
-            "HEURE DE DEBUT": "2026-11-10",
-            "DATE DE FIN": "2026-11-10",
-            "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:55:25",
-            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
-            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "id",
-                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
-            }
-        },
-        {
-            "NOM": "Upper Bracket Quarterfinal 4: Straight outta PIK vs HE",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-10",
-            "HEURE PRÉVUE": "14:30:00",
-            "DATE DE DEBUT": "2026-11-10",
-            "HEURE DE DEBUT": "2026-11-10",
-            "DATE DE FIN": "2026-11-10",
-            "HEURE DE FIN": "2026-11-10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:55:26",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:33:53",
             "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
             "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
             "TIER": "d",
@@ -119,16 +369,16 @@
             "ID": 128744,
             "NOM": "BOOM Esports",
             "LOCALISATION": "ID",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:41:42",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:50:09",
             "ACRONYME": "BOOM"
         },
         {
             "ID": 139555,
             "NOM": "Alter Ego x Kertanegara",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:42:08",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:46:26",
             "ACRONYME": null
         },
         {
@@ -143,8 +393,8 @@
             "ID": 139557,
             "NOM": "Straight outta PIK",
             "LOCALISATION": "ID",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:38:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:31:08",
             "ACRONYME": null
         },
         {
@@ -159,24 +409,24 @@
             "ID": 139559,
             "NOM": "Rojali",
             "LOCALISATION": "ID",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:42:52",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:33:04",
             "ACRONYME": "RJL"
         },
         {
             "ID": 139560,
             "NOM": "Hertz Esport",
             "LOCALISATION": "ID",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:38:22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:55:46",
             "ACRONYME": "HE"
         },
         {
             "ID": 139561,
             "NOM": "Surprise",
             "LOCALISATION": "ID",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:37:25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:11:27",
             "ACRONYME": "SUR"
         }
     ],
@@ -187,8 +437,8 @@
                 "NOM": "BOOM Esports",
                 "LOCALISATION": "ID",
                 "ACRONYME": "BOOM",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:41:42"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:50:09"
             },
             "JOUEURS": [
                 {
@@ -255,6 +505,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:40:20"
+                },
+                {
+                    "ID": 63437,
+                    "PSEUDO": "Laze",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:50:09"
                 }
             ]
         },
@@ -264,8 +527,8 @@
                 "NOM": "Alter Ego x Kertanegara",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:42:08"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:46:26"
             },
             "JOUEURS": [
                 {
@@ -345,6 +608,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:41:49"
+                },
+                {
+                    "ID": 66215,
+                    "PSEUDO": "bentley",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:46:26"
                 }
             ]
         },
@@ -431,8 +707,8 @@
                 "NOM": "Straight outta PIK",
                 "LOCALISATION": "ID",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:38:56"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:31:08"
             },
             "JOUEURS": [
                 {
@@ -499,6 +775,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
                     "HEURE DE LA DERNIERE MODIFICATION": "18:34:47"
+                },
+                {
+                    "ID": 68912,
+                    "PSEUDO": "LexVL",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:31:08"
                 }
             ]
         },
@@ -585,8 +874,8 @@
                 "NOM": "Rojali",
                 "LOCALISATION": "ID",
                 "ACRONYME": "RJL",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                "HEURE DE LA DERNIERE MODIFICATION": "18:42:52"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:33:04"
             },
             "JOUEURS": [
                 {
@@ -653,6 +942,32 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
                     "HEURE DE LA DERNIERE MODIFICATION": "18:42:52"
+                },
+                {
+                    "ID": 68913,
+                    "PSEUDO": "LFTenadiz",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:33:04"
+                },
+                {
+                    "ID": 68914,
+                    "PSEUDO": "ヰ世界情緒",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:33:04"
                 }
             ]
         },
@@ -662,8 +977,8 @@
                 "NOM": "Hertz Esport",
                 "LOCALISATION": "ID",
                 "ACRONYME": "HE",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:38:22"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:55:46"
             },
             "JOUEURS": [
                 {
@@ -691,6 +1006,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
                     "HEURE DE LA DERNIERE MODIFICATION": "15:53:36"
+                },
+                {
+                    "ID": 44973,
+                    "PSEUDO": "Tara",
+                    "ROLE": null,
+                    "PRENOM": "Ryona",
+                    "NOM": "Tan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": false,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:55:46"
                 },
                 {
                     "ID": 47393,
@@ -730,6 +1058,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
                     "HEURE DE LA DERNIERE MODIFICATION": "18:32:17"
+                },
+                {
+                    "ID": 68915,
+                    "PSEUDO": "frenzyy",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:55:45"
                 }
             ]
         },
@@ -739,8 +1080,8 @@
                 "NOM": "Surprise",
                 "LOCALISATION": "ID",
                 "ACRONYME": "SUR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:37:25"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:11:27"
             },
             "JOUEURS": [
                 {
@@ -807,6 +1148,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
                     "HEURE DE LA DERNIERE MODIFICATION": "18:42:52"
+                },
+                {
+                    "ID": 68885,
+                    "PSEUDO": "n4ceeR",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:27"
                 }
             ]
         }

@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:24:05",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:22:15",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -91,7 +91,7 @@
         {
             "NOM": "Brest Esport vs regnum4games",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -102,7 +102,7 @@
             "DATE DE FIN": "2026-11-09",
             "HEURE DE FIN": "2026-11-09",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:16:06",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:24:52",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-stage",
             "TIER": "d",
@@ -735,8 +735,8 @@
             "ID": 139519,
             "NOM": "regnum4games",
             "LOCALISATION": "DE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:23:22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:22:15",
             "ACRONYME": null
         },
         {
@@ -759,8 +759,8 @@
             "ID": 139522,
             "NOM": "Brest Esport",
             "LOCALISATION": "DE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:06:14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:22:14",
             "ACRONYME": null
         },
         {
@@ -941,8 +941,8 @@
                 "NOM": "regnum4games",
                 "LOCALISATION": "DE",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:23:22"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:22:15"
             },
             "JOUEURS": [
                 {
@@ -983,6 +983,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:23:22"
+                },
+                {
+                    "ID": 67652,
+                    "PSEUDO": "daiku",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:22:15"
                 },
                 {
                     "ID": 67685,
@@ -1200,8 +1213,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "AT",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:01:52"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:22:14"
                 }
             ]
         },
@@ -1211,10 +1224,23 @@
                 "NOM": "Brest Esport",
                 "LOCALISATION": "DE",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:06:14"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:22:14"
             },
             "JOUEURS": [
+                {
+                    "ID": 68733,
+                    "PSEUDO": " Hesitate",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:22:14"
+                },
                 {
                     "ID": 68734,
                     "PSEUDO": "nic0las",
