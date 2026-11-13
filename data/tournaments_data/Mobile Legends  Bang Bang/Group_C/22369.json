@@ -5,10 +5,10 @@
         "JEU VIDEO": "Mobile Legends  Bang Bang",
         "DATE DE DEBUT": "2026-11-02",
         "HEURE DE DEBUT": "09:00:00",
-        "DATE DE FIN": "2026-11-15",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-        "HEURE DE LA DERNIERE MODIFICATION": "07:27:59",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "14:55:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:07:54",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -241,26 +241,76 @@
         {
             "NOM": "CHEM vs BW",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "15:40:00",
             "DATE DE DEBUT": "2026-11-11",
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:35",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:22:59",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "mlbb-betboom-rise-of-legends-11-2026-group-c",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": true,
+                "MAIN": false,
                 "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/betboom_esports"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=lkBLLwoxN14"
+            }
+        },
+        {
+            "NOM": "CHEM vs CH",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "14:20:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:07:10",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=ntBlGF6-uTg"
+            }
+        },
+        {
+            "NOM": "TST vs BW",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:55:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-group-c",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=6PzspsTSSso"
             }
         }
     ],
@@ -269,8 +319,8 @@
             "ID": 136538,
             "NOM": "Cyber Hero",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:27:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:38",
             "ACRONYME": "CH"
         },
         {
@@ -293,8 +343,8 @@
             "ID": 139497,
             "NOM": "Chempiki",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:26:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:37",
             "ACRONYME": "CHEM"
         }
     ],
@@ -305,8 +355,8 @@
                 "NOM": "Cyber Hero",
                 "LOCALISATION": "RU",
                 "ACRONYME": "CH",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:27:12"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
             },
             "JOUEURS": [
                 {
@@ -319,8 +369,8 @@
                     "DATE DE NAISSANCE": "2003-04-18",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
                 },
                 {
                     "ID": 56720,
@@ -332,8 +382,8 @@
                     "DATE DE NAISSANCE": "2004-11-26",
                     "NATIONALITE": "KG",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
                 },
                 {
                     "ID": 56724,
@@ -345,8 +395,8 @@
                     "DATE DE NAISSANCE": "2009-02-12",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
                 },
                 {
                     "ID": 59756,
@@ -358,8 +408,8 @@
                     "DATE DE NAISSANCE": "2004-04-02",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
                 },
                 {
                     "ID": 60307,
@@ -371,8 +421,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
                 },
                 {
                     "ID": 60729,
@@ -384,8 +434,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
                 }
             ]
         },
@@ -562,8 +612,8 @@
                 "NOM": "Chempiki",
                 "LOCALISATION": "",
                 "ACRONYME": "CHEM",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:26:21"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
             },
             "JOUEURS": [
                 {
@@ -576,8 +626,8 @@
                     "DATE DE NAISSANCE": "2006-08-09",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
                 },
                 {
                     "ID": 56727,
@@ -589,8 +639,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
                 },
                 {
                     "ID": 58663,
@@ -602,8 +652,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
                 },
                 {
                     "ID": 59761,
@@ -615,8 +665,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:41"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
                 },
                 {
                     "ID": 60691,
@@ -628,8 +678,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
                 }
             ]
         }

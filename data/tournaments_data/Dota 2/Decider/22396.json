@@ -5,10 +5,10 @@
         "JEU VIDEO": "Dota 2",
         "DATE DE DEBUT": "2026-11-06",
         "HEURE DE DEBUT": "12:00:00",
-        "DATE DE FIN": "2026-11-11",
-        "HEURE DE FIN": "21:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-        "HEURE DE LA DERNIERE MODIFICATION": "20:28:40",
+        "DATE DE FIN": "2026-11-10",
+        "HEURE DE FIN": "20:27:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:57:04",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -277,57 +277,7 @@
             "DATE DE FIN": "2026-11-10",
             "HEURE DE FIN": "2026-11-10",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:27:18",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dota-2-esports-pro-circuit-3-2026-decider",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
-            }
-        },
-        {
-            "NOM": "Level Up Academy vs RL",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "15:00:00",
-            "DATE DE DEBUT": "2026-11-11",
-            "HEURE DE DEBUT": "2026-11-11",
-            "DATE DE FIN": "2026-11-11",
-            "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:33",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dota-2-esports-pro-circuit-3-2026-decider",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
-            }
-        },
-        {
-            "NOM": "Level Up Academy vs Mena Warriors",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "18:00:00",
-            "DATE DE DEBUT": "2026-11-11",
-            "HEURE DE DEBUT": "2026-11-11",
-            "DATE DE FIN": "2026-11-11",
-            "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:59",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:07:05",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-esports-pro-circuit-3-2026-decider",
             "TIER": "d",
@@ -387,6 +337,56 @@
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://www.twitch.tv/epc_en"
             }
+        },
+        {
+            "NOM": "Level Up Academy vs RL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:15:39",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-decider",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
+        },
+        {
+            "NOM": "Level Up Academy vs Mena Warriors",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:15:35",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-3-2026-decider",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_en"
+            }
         }
     ],
     "EQUIPES": [
@@ -410,8 +410,8 @@
             "ID": 139239,
             "NOM": "Xipto Esports",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:43:09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:26:03",
             "ACRONYME": "XE"
         },
         {
@@ -426,8 +426,8 @@
             "ID": 139391,
             "NOM": " oveA",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:50:37",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:14:31",
             "ACRONYME": null
         },
         {
@@ -652,8 +652,8 @@
                 "NOM": "Xipto Esports",
                 "LOCALISATION": "",
                 "ACRONYME": "XE",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:43:09"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:26:03"
             },
             "JOUEURS": [
                 {
@@ -666,8 +666,8 @@
                     "DATE DE NAISSANCE": "1995-01-09",
                     "NATIONALITE": "MY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:03"
                 },
                 {
                     "ID": 10039,
@@ -679,8 +679,8 @@
                     "DATE DE NAISSANCE": "1997-10-07",
                     "NATIONALITE": "ID",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:02"
                 },
                 {
                     "ID": 14260,
@@ -692,8 +692,8 @@
                     "DATE DE NAISSANCE": "2001-04-27",
                     "NATIONALITE": "ID",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:02"
                 },
                 {
                     "ID": 22810,
@@ -705,8 +705,8 @@
                     "DATE DE NAISSANCE": "2002-03-27",
                     "NATIONALITE": "TH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:02"
                 },
                 {
                     "ID": 25970,
@@ -718,8 +718,8 @@
                     "DATE DE NAISSANCE": "1998-03-05",
                     "NATIONALITE": "TH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:03"
                 }
             ]
         },
@@ -858,8 +858,8 @@
                 "NOM": " oveA",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:50:37"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:14:31"
             },
             "JOUEURS": [
                 {
@@ -872,8 +872,8 @@
                     "DATE DE NAISSANCE": "1994-05-25",
                     "NATIONALITE": "GR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:16:09"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:43:54"
                 },
                 {
                     "ID": 9432,
@@ -885,8 +885,8 @@
                     "DATE DE NAISSANCE": "1997-02-26",
                     "NATIONALITE": "GR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:16:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:43:54"
                 },
                 {
                     "ID": 10366,
@@ -898,8 +898,8 @@
                     "DATE DE NAISSANCE": "1997-05-30",
                     "NATIONALITE": "GR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:16:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:43:54"
                 },
                 {
                     "ID": 66196,
@@ -911,8 +911,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:16:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:43:54"
                 },
                 {
                     "ID": 68314,
@@ -924,8 +924,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:50:37"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:43:54"
                 }
             ]
         },

@@ -5,10 +5,10 @@
         "JEU VIDEO": "Mobile Legends  Bang Bang",
         "DATE DE DEBUT": "2026-11-02",
         "HEURE DE DEBUT": "09:00:00",
-        "DATE DE FIN": "2026-11-15",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-        "HEURE DE LA DERNIERE MODIFICATION": "07:27:44",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "16:46:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:07:24",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -241,26 +241,76 @@
         {
             "NOM": "NVM vs HARD GRIND",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "16:30:00",
+            "HEURE PRÉVUE": "17:40:00",
             "DATE DE DEBUT": "2026-11-11",
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:48",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:22:12",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "mlbb-betboom-rise-of-legends-11-2026-group-d",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": true,
+                "MAIN": false,
                 "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/betboom_esports"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=lkBLLwoxN14"
+            }
+        },
+        {
+            "NOM": "NVM vs Nice Try",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "15:30:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:52:03",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=ntBlGF6-uTg"
+            }
+        },
+        {
+            "NOM": "OMX vs HARD GRIND",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "15:15:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:46:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=6PzspsTSSso"
             }
         }
     ],
@@ -277,16 +327,16 @@
             "ID": 138661,
             "NOM": "Omnix",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:27:42",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:36",
             "ACRONYME": "OMX"
         },
         {
             "ID": 139494,
             "NOM": "Nice Try",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:44:52",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:39",
             "ACRONYME": null
         },
         {
@@ -382,8 +432,8 @@
                 "NOM": "Omnix",
                 "LOCALISATION": "RU",
                 "ACRONYME": "OMX",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:27:42"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
             },
             "JOUEURS": [
                 {
@@ -396,8 +446,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:41"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
                 },
                 {
                     "ID": 62499,
@@ -409,8 +459,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
                 },
                 {
                     "ID": 65829,
@@ -422,8 +472,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:42"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
                 },
                 {
                     "ID": 65852,
@@ -435,8 +485,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:41"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
                 },
                 {
                     "ID": 65853,
@@ -448,8 +498,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:41"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
                 }
             ]
         },
@@ -459,8 +509,8 @@
                 "NOM": "Nice Try",
                 "LOCALISATION": "RU",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "22:44:52"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
             },
             "JOUEURS": [
                 {
@@ -473,8 +523,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
                 },
                 {
                     "ID": 56745,
@@ -486,8 +536,8 @@
                     "DATE DE NAISSANCE": "2000-10-12",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
                 },
                 {
                     "ID": 60307,
@@ -499,8 +549,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
                 },
                 {
                     "ID": 61386,
@@ -512,8 +562,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
                 },
                 {
                     "ID": 65485,
@@ -525,8 +575,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
                 }
             ]
         },
@@ -576,8 +626,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
                 },
                 {
                     "ID": 68661,

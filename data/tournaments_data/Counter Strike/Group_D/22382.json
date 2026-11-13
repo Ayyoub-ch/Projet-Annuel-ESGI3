@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-22",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-        "HEURE DE LA DERNIERE MODIFICATION": "12:26:49",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:57:10",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -41,43 +41,43 @@
         {
             "NOM": "Winners match: G2.A vs LT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "11:30:00",
+            "HEURE PRÉVUE": "12:00:00",
             "DATE DE DEBUT": "2026-11-11",
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:53:48",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-10-2026-group-d",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/eplcs_en"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/Buster"
             }
         },
         {
-            "NOM": "Decider match: maybe vs TBD",
+            "NOM": "Decider match: maybe vs LT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-12",
-            "HEURE PRÉVUE": "11:30:00",
+            "HEURE PRÉVUE": "12:10:00",
             "DATE DE DEBUT": "2026-11-12",
             "HEURE DE DEBUT": "2026-11-12",
             "DATE DE FIN": "2026-11-12",
             "HEURE DE FIN": "2026-11-12",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:06:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:35:52",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-10-2026-group-d",
             "TIER": "d",
@@ -144,32 +144,32 @@
             "ID": 135321,
             "NOM": "G2 Ares",
             "LOCALISATION": "DE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:23:14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:10:15",
             "ACRONYME": "G2.A"
         },
         {
             "ID": 138899,
             "NOM": "maybe",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:51:41",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:27:05",
             "ACRONYME": null
         },
         {
             "ID": 139149,
             "NOM": "Saint Sinners",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:24:39",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:49:38",
             "ACRONYME": "SSins"
         },
         {
             "ID": 139491,
             "NOM": "Lunacy Team",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:46:14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:58:51",
             "ACRONYME": "LT"
         }
     ],
@@ -180,8 +180,8 @@
                 "NOM": "G2 Ares",
                 "LOCALISATION": "DE",
                 "ACRONYME": "G2.A",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                "HEURE DE LA DERNIERE MODIFICATION": "18:23:14"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:10:15"
             },
             "JOUEURS": [
                 {
@@ -194,8 +194,8 @@
                     "DATE DE NAISSANCE": "2002-12-23",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:14"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:10:15"
                 },
                 {
                     "ID": 49179,
@@ -207,8 +207,8 @@
                     "DATE DE NAISSANCE": "2005-11-10",
                     "NATIONALITE": "PT",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:13"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:10:15"
                 },
                 {
                     "ID": 53015,
@@ -220,8 +220,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:11"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:10:15"
                 },
                 {
                     "ID": 55532,
@@ -233,8 +233,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:14"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:10:13"
                 },
                 {
                     "ID": 59530,
@@ -246,8 +246,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:13"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:10:15"
                 }
             ]
         },
@@ -257,8 +257,8 @@
                 "NOM": "maybe",
                 "LOCALISATION": "UA",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "12:51:41"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:27:05"
             },
             "JOUEURS": [
                 {
@@ -271,8 +271,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:04"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:17:35"
                 },
                 {
                     "ID": 53412,
@@ -284,8 +284,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:04"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:17:34"
                 },
                 {
                     "ID": 55996,
@@ -310,8 +310,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:03"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:17:34"
                 },
                 {
                     "ID": 66719,
@@ -323,8 +323,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:04"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:17:35"
                 },
                 {
                     "ID": 66720,
@@ -336,8 +336,21 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:40:04"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:17:35"
+                },
+                {
+                    "ID": 68947,
+                    "PSEUDO": "mooncat",
+                    "ROLE": null,
+                    "PRENOM": "Yakiv ",
+                    "NOM": "Yakushev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:27:05"
                 }
             ]
         },
@@ -347,8 +360,8 @@
                 "NOM": "Saint Sinners",
                 "LOCALISATION": "RU",
                 "ACRONYME": "SSins",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "01:24:39"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:49:38"
             },
             "JOUEURS": [
                 {
@@ -361,8 +374,8 @@
                     "DATE DE NAISSANCE": "1998-09-03",
                     "NATIONALITE": "XK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:24:38"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:49:54"
                 },
                 {
                     "ID": 37149,
@@ -374,8 +387,8 @@
                     "DATE DE NAISSANCE": "2002-01-25",
                     "NATIONALITE": "XK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:24:38"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:49:54"
                 },
                 {
                     "ID": 51720,
@@ -387,8 +400,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:24:38"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:49:54"
                 },
                 {
                     "ID": 66088,
@@ -400,8 +413,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:24:38"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:52:08"
                 },
                 {
                     "ID": 66089,
@@ -413,8 +426,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:24:39"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:52:08"
                 }
             ]
         },
@@ -424,8 +437,8 @@
                 "NOM": "Lunacy Team",
                 "LOCALISATION": "RU",
                 "ACRONYME": "LT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:46:14"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:58:51"
             },
             "JOUEURS": [
                 {
@@ -453,6 +466,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
                     "HEURE DE LA DERNIERE MODIFICATION": "01:24:39"
+                },
+                {
+                    "ID": 38539,
+                    "PSEUDO": "Evelone192",
+                    "ROLE": null,
+                    "PRENOM": "Vadim",
+                    "NOM": "Kozakov",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:58:51"
                 },
                 {
                     "ID": 54002,
@@ -490,8 +516,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:24:39"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:45"
                 }
             ]
         }

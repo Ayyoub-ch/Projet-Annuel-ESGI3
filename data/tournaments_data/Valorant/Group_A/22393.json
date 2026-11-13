@@ -189,31 +189,6 @@
             }
         },
         {
-            "NOM": "Team International vs CGN",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-13",
-            "HEURE PRÉVUE": "18:00:00",
-            "DATE DE DEBUT": "2026-11-13",
-            "HEURE DE DEBUT": "2026-11-13",
-            "DATE DE FIN": "2026-11-13",
-            "HEURE DE FIN": "2026-11-13",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:49:28",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "de",
-                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
-            }
-        },
-        {
             "NOM": "Frankfurt Bahnhofsviertel vs BERG",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
@@ -311,6 +286,31 @@
                 "MAIN": true,
                 "LANGUE": "de",
                 "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
+            }
+        },
+        {
+            "NOM": "Team International vs CGN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-18",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-18",
+            "HEURE DE DEBUT": "2026-11-18",
+            "DATE DE FIN": "2026-11-18",
+            "HEURE DE FIN": "2026-11-18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:56:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
             }
         },
         {

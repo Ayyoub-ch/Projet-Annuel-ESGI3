@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-11-05",
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-12",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-        "HEURE DE LA DERNIERE MODIFICATION": "15:55:24",
+        "HEURE DE FIN": "15:27:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:08:59",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -116,18 +116,18 @@
         {
             "NOM": "Decider match: TheChampionGG vs NAVI.J",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-12",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "14:00:00",
             "DATE DE DEBUT": "2026-11-12",
             "HEURE DE DEBUT": "2026-11-12",
             "DATE DE FIN": "2026-11-12",
             "HEURE DE FIN": "2026-11-12",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:43:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:56",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-58-2026-group-c",
             "TIER": "d",
@@ -144,16 +144,16 @@
             "ID": 126491,
             "NOM": "NAVI Junior",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:55:11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:27:03",
             "ACRONYME": "NAVI.J"
         },
         {
             "ID": 137861,
             "NOM": "STATE",
             "LOCALISATION": "DK",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:49:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:11",
             "ACRONYME": "STA"
         },
         {
@@ -180,8 +180,8 @@
                 "NOM": "NAVI Junior",
                 "LOCALISATION": "UA",
                 "ACRONYME": "NAVI.J",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                "HEURE DE LA DERNIERE MODIFICATION": "09:55:11"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:27:03"
             },
             "JOUEURS": [
                 {
@@ -194,8 +194,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:03"
                 },
                 {
                     "ID": 52221,
@@ -207,8 +207,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:58"
                 },
                 {
                     "ID": 56072,
@@ -220,8 +220,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:02"
                 },
                 {
                     "ID": 56073,
@@ -246,8 +246,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "MK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "01:22:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:03"
                 }
             ]
         },
@@ -257,8 +257,8 @@
                 "NOM": "STATE",
                 "LOCALISATION": "DK",
                 "ACRONYME": "STA",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:49:06"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
             },
             "JOUEURS": [
                 {
@@ -271,8 +271,8 @@
                     "DATE DE NAISSANCE": "2000-07-20",
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:49:05"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
                 },
                 {
                     "ID": 25123,
@@ -284,8 +284,8 @@
                     "DATE DE NAISSANCE": "1999-07-15",
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:49:06"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
                 },
                 {
                     "ID": 31967,
@@ -297,8 +297,8 @@
                     "DATE DE NAISSANCE": "2003-07-08",
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:49:04"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
                 },
                 {
                     "ID": 36785,
@@ -310,8 +310,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:49:06"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:10"
                 },
                 {
                     "ID": 49769,
@@ -323,8 +323,8 @@
                     "DATE DE NAISSANCE": "2006-01-13",
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:49:06"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
                 }
             ]
         },

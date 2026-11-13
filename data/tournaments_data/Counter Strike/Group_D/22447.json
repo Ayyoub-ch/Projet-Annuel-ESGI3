@@ -1,0 +1,525 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22447,
+        "NOM": "Group_D",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "15:22:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:07:33",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "BAL vs KSM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:40:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/dutchboycasts"
+            }
+        },
+        {
+            "NOM": "SSins vs TitanFlow",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "14:25:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:40:52",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Elimination Match: BAL vs TitanFlow",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:37:46",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://kick.com/sv_theunknown"
+            }
+        },
+        {
+            "NOM": "Winners' Match: KSM vs SSins",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:36:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "fi",
+                "LIEN BRUTE": "https://www.twitch.tv/kuusamogg"
+            }
+        },
+        {
+            "NOM": "Decider Match: SSins vs BAL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:24:15",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-d",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/mgfongabe"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 130733,
+            "NOM": "KUUSAMO.gg",
+            "LOCALISATION": "FI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:33:50",
+            "ACRONYME": "KSM"
+        },
+        {
+            "ID": 139149,
+            "NOM": "Saint Sinners",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:49:38",
+            "ACRONYME": "SSins"
+        },
+        {
+            "ID": 139210,
+            "NOM": "TitanFlow",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:16:12",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139529,
+            "NOM": "Balkan Outlaws",
+            "LOCALISATION": "RO",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:06:29",
+            "ACRONYME": "BAL"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 130733,
+                "NOM": "KUUSAMO.gg",
+                "LOCALISATION": "FI",
+                "ACRONYME": "KSM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:33:50"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 40639,
+                    "PSEUDO": "Rbm",
+                    "ROLE": null,
+                    "PRENOM": "Niklas",
+                    "NOM": "Nieminen",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:50"
+                },
+                {
+                    "ID": 41097,
+                    "PSEUDO": "epik",
+                    "ROLE": null,
+                    "PRENOM": "Elias",
+                    "NOM": "Kyllönen",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:50"
+                },
+                {
+                    "ID": 41124,
+                    "PSEUDO": "osku",
+                    "ROLE": null,
+                    "PRENOM": "Eetu-Oskari",
+                    "NOM": "Ojalainen",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:49"
+                },
+                {
+                    "ID": 51712,
+                    "PSEUDO": "Keksimage",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Kuntsi",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:49"
+                },
+                {
+                    "ID": 54465,
+                    "PSEUDO": "matz",
+                    "ROLE": null,
+                    "PRENOM": "Matti",
+                    "NOM": "Alatalo",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:48"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139149,
+                "NOM": "Saint Sinners",
+                "LOCALISATION": "RU",
+                "ACRONYME": "SSins",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:49:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 19245,
+                    "PSEUDO": "facecrack",
+                    "ROLE": null,
+                    "PRENOM": "Dmitriy",
+                    "NOM": "Alekseyev",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-04-22",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:52:07"
+                },
+                {
+                    "ID": 29251,
+                    "PSEUDO": "notorious",
+                    "ROLE": null,
+                    "PRENOM": "Ryan",
+                    "NOM": "Gordon",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": false,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:49:38"
+                },
+                {
+                    "ID": 36651,
+                    "PSEUDO": "deb0",
+                    "ROLE": null,
+                    "PRENOM": "Arlind",
+                    "NOM": "Sadiku",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-03",
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:49:54"
+                },
+                {
+                    "ID": 37149,
+                    "PSEUDO": "Caleyy",
+                    "ROLE": null,
+                    "PRENOM": "Ensar",
+                    "NOM": "Ersuzi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-25",
+                    "NATIONALITE": "XK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:49:54"
+                },
+                {
+                    "ID": 51720,
+                    "PSEUDO": "pavlysha666",
+                    "ROLE": null,
+                    "PRENOM": "Pavel",
+                    "NOM": "Shafranski",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:49:54"
+                },
+                {
+                    "ID": 66088,
+                    "PSEUDO": "Halfjix",
+                    "ROLE": null,
+                    "PRENOM": "Ilya",
+                    "NOM": "Pogodin",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:52:08"
+                },
+                {
+                    "ID": 66089,
+                    "PSEUDO": "iRV1NG",
+                    "ROLE": null,
+                    "PRENOM": "Ilya",
+                    "NOM": "Rusin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:52:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139210,
+                "NOM": "TitanFlow",
+                "LOCALISATION": "RU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:16:12"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 37570,
+                    "PSEUDO": "Henma",
+                    "ROLE": null,
+                    "PRENOM": "Siarhei",
+                    "NOM": "Katseruba",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:20"
+                },
+                {
+                    "ID": 38796,
+                    "PSEUDO": "ZzZoOm",
+                    "ROLE": null,
+                    "PRENOM": "Mihail",
+                    "NOM": "Andreev",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:21"
+                },
+                {
+                    "ID": 66809,
+                    "PSEUDO": "Saiman Strit",
+                    "ROLE": null,
+                    "PRENOM": "Timofey",
+                    "NOM": "Lunev",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:21"
+                },
+                {
+                    "ID": 67758,
+                    "PSEUDO": "ynkesu",
+                    "ROLE": null,
+                    "PRENOM": "Vitaly",
+                    "NOM": "Kamyshev",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:21"
+                },
+                {
+                    "ID": 68952,
+                    "PSEUDO": "Zerya",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:26:48"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139529,
+                "NOM": "Balkan Outlaws",
+                "LOCALISATION": "RO",
+                "ACRONYME": "BAL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 36588,
+                    "PSEUDO": "Ciocardau",
+                    "ROLE": null,
+                    "PRENOM": "Daniel-Cătălin",
+                    "NOM": "Purice",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-27",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:28"
+                },
+                {
+                    "ID": 36590,
+                    "PSEUDO": "d1maje",
+                    "ROLE": null,
+                    "PRENOM": "Tudor ",
+                    "NOM": "Aparaschivei",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:28"
+                },
+                {
+                    "ID": 36591,
+                    "PSEUDO": "starplajerz",
+                    "ROLE": null,
+                    "PRENOM": "Gyorfy ",
+                    "NOM": "Gabriel",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+                },
+                {
+                    "ID": 38395,
+                    "PSEUDO": "waZz",
+                    "ROLE": null,
+                    "PRENOM": "Lipoșteanu Andrei",
+                    "NOM": "Corneliu",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:29:22"
+                },
+                {
+                    "ID": 57882,
+                    "PSEUDO": "grecu",
+                    "ROLE": null,
+                    "PRENOM": "Andrei ",
+                    "NOM": "Grecu",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:28"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "ESL Challenger League",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "SERIE": {
+        "NOM": "Europe Cup #12 season 52 2026",
+        "ANNEE": 2026,
+        "SAISON": "52",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-16",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:19:21",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:19:38",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,18 +16,18 @@
         {
             "NOM": "4M vs ASTRON",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-13",
             "HEURE PRÉVUE": "09:00:00",
-            "DATE DE DEBUT": "2026-11-13",
-            "HEURE DE DEBUT": "2026-11-13",
-            "DATE DE FIN": "2026-11-13",
-            "HEURE DE FIN": "2026-11-13",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:17:11",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
             "TIER": "d",
@@ -77,8 +77,8 @@
             "ID": 137551,
             "NOM": "Four Magic",
             "LOCALISATION": "BR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:19:20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:29:44",
             "ACRONYME": "4M"
         },
         {
@@ -93,8 +93,8 @@
             "ID": 139578,
             "NOM": "ASTRON",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:19:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:19:38",
             "ACRONYME": null
         }
     ],
@@ -182,8 +182,8 @@
                 "NOM": "Four Magic",
                 "LOCALISATION": "BR",
                 "ACRONYME": "4M",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:19:20"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:29:44"
             },
             "JOUEURS": [
                 {
@@ -196,8 +196,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:28"
                 },
                 {
                     "ID": 59540,
@@ -209,8 +209,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
                 },
                 {
                     "ID": 61539,
@@ -222,8 +222,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:28"
                 },
                 {
                     "ID": 65974,
@@ -235,8 +235,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BG",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
                 },
                 {
                     "ID": 67965,
@@ -248,8 +248,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
                 }
             ]
         },
@@ -336,8 +336,8 @@
                 "NOM": "ASTRON",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:19:38"
             },
             "JOUEURS": [
                 {
@@ -378,6 +378,32 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
                     "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                },
+                {
+                    "ID": 68921,
+                    "PSEUDO": "letmecry",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:19:51"
+                },
+                {
+                    "ID": 68922,
+                    "PSEUDO": "Rob1N",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:19:53"
                 }
             ]
         }

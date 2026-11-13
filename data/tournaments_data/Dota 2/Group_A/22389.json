@@ -5,10 +5,10 @@
         "JEU VIDEO": "Dota 2",
         "DATE DE DEBUT": "2026-11-06",
         "HEURE DE DEBUT": "09:00:00",
-        "DATE DE FIN": "2026-11-11",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-        "HEURE DE LA DERNIERE MODIFICATION": "13:32:38",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "16:33:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:10:05",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -566,7 +566,7 @@
         {
             "NOM": "PlayTime vs TS",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -576,8 +576,8 @@
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:42:53",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:51:28",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dreamleague-division-2-5-2026-group-a",
             "TIER": "c",
@@ -585,99 +585,24 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "en",
-                "LIEN BRUTE": "https://www.youtube.com/watch?v=_2ygEahGZz0"
-            }
-        },
-        {
-            "NOM": "PlayTime vs Zenith",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "13:00:00",
-            "DATE DE DEBUT": "2026-11-11",
-            "HEURE DE DEBUT": "2026-11-11",
-            "DATE DE FIN": "2026-11-11",
-            "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:14",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dreamleague-division-2-5-2026-group-a",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.youtube.com/watch?v=_2ygEahGZz0"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=8lqbgr7QjRs"
             }
         },
         {
             "NOM": "XE vs Froglings",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "16:00:00",
+            "HEURE PRÉVUE": "17:40:00",
             "DATE DE DEBUT": "2026-11-11",
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:43",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dreamleague-division-2-5-2026-group-a",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.youtube.com/watch?v=bZB3vXEpGr4"
-            }
-        },
-        {
-            "NOM": "P- vs Zenith",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "16:00:00",
-            "DATE DE DEBUT": "2026-11-11",
-            "HEURE DE DEBUT": "2026-11-11",
-            "DATE DE FIN": "2026-11-11",
-            "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:44",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dreamleague-division-2-5-2026-group-a",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.youtube.com/watch?v=wCW-RfVioVI"
-            }
-        },
-        {
-            "NOM": "Froglings vs Nemiga",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "19:00:00",
-            "DATE DE DEBUT": "2026-11-11",
-            "HEURE DE DEBUT": "2026-11-11",
-            "DATE DE FIN": "2026-11-11",
-            "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:44:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:01:24",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dreamleague-division-2-5-2026-group-a",
             "TIER": "c",
@@ -691,18 +616,18 @@
         {
             "NOM": "P- vs PR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "19:00:00",
+            "HEURE PRÉVUE": "20:10:00",
             "DATE DE DEBUT": "2026-11-11",
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:44:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:06:31",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dreamleague-division-2-5-2026-group-a",
             "TIER": "c",
@@ -712,6 +637,156 @@
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://www.youtube.com/watch?v=wCW-RfVioVI"
             }
+        },
+        {
+            "NOM": "Froglings vs Nemiga",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "20:15:00",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "2026-11-11",
+            "DATE DE FIN": "2026-11-11",
+            "HEURE DE FIN": "2026-11-11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:38:42",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-division-2-5-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=bZB3vXEpGr4"
+            }
+        },
+        {
+            "NOM": "Nemiga vs PR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:37:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-division-2-5-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/pro_cast2"
+            }
+        },
+        {
+            "NOM": "TS vs PR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "14:15:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:46:57",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-division-2-5-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/pro_cast2"
+            }
+        },
+        {
+            "NOM": "TS vs Nemiga",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "15:20:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:06:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-division-2-5-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/pro_cast2"
+            }
+        },
+        {
+            "NOM": "P- vs Zenith",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:17:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-division-2-5-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=wCW-RfVioVI"
+            }
+        },
+        {
+            "NOM": "PlayTime vs Zenith",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:17:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-division-2-5-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/esl_dota2ember"
+            }
         }
     ],
     "EQUIPES": [
@@ -719,48 +794,48 @@
             "ID": 2227,
             "NOM": "Nemiga Gaming",
             "LOCALISATION": "BY",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:25:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:05:55",
             "ACRONYME": "Nemiga"
         },
         {
             "ID": 129222,
             "NOM": "potn9ki",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:23:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:16:54",
             "ACRONYME": "P-"
         },
         {
             "ID": 137870,
             "NOM": "Power Rangers",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:01:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:06:12",
             "ACRONYME": "PR"
         },
         {
             "ID": 137885,
             "NOM": "PlayTime",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:43:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:35:14",
             "ACRONYME": null
         },
         {
             "ID": 139124,
             "NOM": "Team Synapse",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:23:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:08:08",
             "ACRONYME": "TS"
         },
         {
             "ID": 139239,
             "NOM": "Xipto Esports",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:43:09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:26:03",
             "ACRONYME": "XE"
         },
         {
@@ -775,8 +850,8 @@
             "ID": 139517,
             "NOM": "Froglings",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:09:17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:19:07",
             "ACRONYME": null
         }
     ],
@@ -787,8 +862,8 @@
                 "NOM": "Nemiga Gaming",
                 "LOCALISATION": "BY",
                 "ACRONYME": "Nemiga",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "11:25:02"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:05:55"
             },
             "JOUEURS": [
                 {
@@ -801,8 +876,8 @@
                     "DATE DE NAISSANCE": "1995-09-20",
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:54"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:05:55"
                 },
                 {
                     "ID": 10779,
@@ -814,8 +889,8 @@
                     "DATE DE NAISSANCE": "2001-01-29",
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:51"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:05:55"
                 },
                 {
                     "ID": 46576,
@@ -853,8 +928,8 @@
                     "DATE DE NAISSANCE": "1999-01-15",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:54"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:05:55"
                 },
                 {
                     "ID": 60538,
@@ -877,8 +952,8 @@
                 "NOM": "potn9ki",
                 "LOCALISATION": "UA",
                 "ACRONYME": "P-",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:23:56"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:16:54"
             },
             "JOUEURS": [
                 {
@@ -891,8 +966,8 @@
                     "DATE DE NAISSANCE": "2003-07-15",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:55"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:05"
                 },
                 {
                     "ID": 56178,
@@ -904,8 +979,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:15:02"
                 },
                 {
                     "ID": 62642,
@@ -917,8 +992,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:55"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:15:04"
                 },
                 {
                     "ID": 63481,
@@ -930,8 +1005,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:55"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:15:05"
                 },
                 {
                     "ID": 66541,
@@ -943,8 +1018,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:55"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:04"
                 }
             ]
         },
@@ -954,8 +1029,8 @@
                 "NOM": "Power Rangers",
                 "LOCALISATION": "",
                 "ACRONYME": "PR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:01:58"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:06:12"
             },
             "JOUEURS": [
                 {
@@ -968,8 +1043,8 @@
                     "DATE DE NAISSANCE": "1998-08-09",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                    "HEURE DE LA DERNIERE MODIFICATION": "17:13:24"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:06"
                 },
                 {
                     "ID": 37182,
@@ -981,8 +1056,8 @@
                     "DATE DE NAISSANCE": "2003-09-12",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:06"
                 },
                 {
                     "ID": 38313,
@@ -994,8 +1069,8 @@
                     "DATE DE NAISSANCE": "2003-10-20",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:11"
                 },
                 {
                     "ID": 41064,
@@ -1007,8 +1082,8 @@
                     "DATE DE NAISSANCE": "2002-02-22",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:14"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:11"
                 },
                 {
                     "ID": 47619,
@@ -1020,8 +1095,8 @@
                     "DATE DE NAISSANCE": "2004-05-28",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:12"
                 },
                 {
                     "ID": 53503,
@@ -1033,8 +1108,21 @@
                     "DATE DE NAISSANCE": "2007-07-23",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:26:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:12"
+                },
+                {
+                    "ID": 60562,
+                    "PSEUDO": "bottega",
+                    "ROLE": "1",
+                    "PRENOM": "Andrei",
+                    "NOM": "Kopytko",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2008-12-04",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:28:42"
                 }
             ]
         },
@@ -1044,8 +1132,8 @@
                 "NOM": "PlayTime",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:43:07"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:35:14"
             },
             "JOUEURS": [
                 {
@@ -1058,8 +1146,8 @@
                     "DATE DE NAISSANCE": "1994-10-15",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:06"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:13"
                 },
                 {
                     "ID": 20097,
@@ -1071,8 +1159,8 @@
                     "DATE DE NAISSANCE": "2001-03-07",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:06"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:13"
                 },
                 {
                     "ID": 23114,
@@ -1084,8 +1172,8 @@
                     "DATE DE NAISSANCE": "1998-09-01",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:14"
                 },
                 {
                     "ID": 24901,
@@ -1097,8 +1185,8 @@
                     "DATE DE NAISSANCE": "1999-10-18",
                     "NATIONALITE": "NL",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:05"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:12"
                 },
                 {
                     "ID": 27632,
@@ -1110,8 +1198,8 @@
                     "DATE DE NAISSANCE": "2000-09-06",
                     "NATIONALITE": "LB",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:06"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:13"
                 }
             ]
         },
@@ -1121,8 +1209,8 @@
                 "NOM": "Team Synapse",
                 "LOCALISATION": "",
                 "ACRONYME": "TS",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:23:58"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:08:08"
             },
             "JOUEURS": [
                 {
@@ -1135,8 +1223,8 @@
                     "DATE DE NAISSANCE": "2003-02-13",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:09"
                 },
                 {
                     "ID": 44811,
@@ -1148,8 +1236,8 @@
                     "DATE DE NAISSANCE": "2000-08-17",
                     "NATIONALITE": "TR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:09"
                 },
                 {
                     "ID": 45715,
@@ -1161,8 +1249,8 @@
                     "DATE DE NAISSANCE": "2000-10-02",
                     "NATIONALITE": "TR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:08:08"
                 },
                 {
                     "ID": 46359,
@@ -1174,8 +1262,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "TR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:10"
                 },
                 {
                     "ID": 53502,
@@ -1187,8 +1275,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "MD",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:23:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:08:08"
                 }
             ]
         },
@@ -1198,8 +1286,8 @@
                 "NOM": "Xipto Esports",
                 "LOCALISATION": "",
                 "ACRONYME": "XE",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:43:09"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:26:03"
             },
             "JOUEURS": [
                 {
@@ -1212,8 +1300,8 @@
                     "DATE DE NAISSANCE": "1995-01-09",
                     "NATIONALITE": "MY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:03"
                 },
                 {
                     "ID": 10039,
@@ -1225,8 +1313,8 @@
                     "DATE DE NAISSANCE": "1997-10-07",
                     "NATIONALITE": "ID",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:02"
                 },
                 {
                     "ID": 14260,
@@ -1238,8 +1326,8 @@
                     "DATE DE NAISSANCE": "2001-04-27",
                     "NATIONALITE": "ID",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:02"
                 },
                 {
                     "ID": 22810,
@@ -1251,8 +1339,8 @@
                     "DATE DE NAISSANCE": "2002-03-27",
                     "NATIONALITE": "TH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:02"
                 },
                 {
                     "ID": 25970,
@@ -1264,8 +1352,8 @@
                     "DATE DE NAISSANCE": "1998-03-05",
                     "NATIONALITE": "TH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:26:03"
                 }
             ]
         },
@@ -1352,8 +1440,8 @@
                 "NOM": "Froglings",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                "HEURE DE LA DERNIERE MODIFICATION": "11:09:17"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
             },
             "JOUEURS": [
                 {
@@ -1366,8 +1454,8 @@
                     "DATE DE NAISSANCE": "1997-11-20",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
                 },
                 {
                     "ID": 14854,
@@ -1379,8 +1467,8 @@
                     "DATE DE NAISSANCE": "2000-10-13",
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
                 },
                 {
                     "ID": 18127,
@@ -1392,8 +1480,8 @@
                     "DATE DE NAISSANCE": "2000-08-11",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
                 },
                 {
                     "ID": 26887,
@@ -1405,8 +1493,8 @@
                     "DATE DE NAISSANCE": "1999-10-23",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
                 },
                 {
                     "ID": 42027,
@@ -1418,8 +1506,8 @@
                     "DATE DE NAISSANCE": "1998-11-28",
                     "NATIONALITE": "MK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
                 }
             ]
         }
@@ -1433,8 +1521,8 @@
         "NOM": "Division 2 season 5 2026",
         "ANNEE": 2026,
         "SAISON": "5",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:36:27",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:06:53",
         "ID DU VAINQUEUR": null
     }
 }

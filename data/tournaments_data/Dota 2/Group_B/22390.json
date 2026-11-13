@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-11-06",
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-11",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:59:55",
+        "HEURE DE FIN": "20:01:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:25:13",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -151,8 +151,8 @@
             "HEURE DE DEBUT": "2026-11-07",
             "DATE DE FIN": "2026-11-07",
             "HEURE DE FIN": "2026-11-07",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:20:49",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:59:00",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dreamleague-division-2-5-2026-group-b",
             "TIER": "c",
@@ -564,34 +564,9 @@
             }
         },
         {
-            "NOM": "HULIGANI vs YB",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "10:00:00",
-            "DATE DE DEBUT": "2026-11-11",
-            "HEURE DE DEBUT": "2026-11-11",
-            "DATE DE FIN": "2026-11-11",
-            "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:42:54",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dreamleague-division-2-5-2026-group-b",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.youtube.com/watch?v=4bK79PqOS7g"
-            }
-        },
-        {
             "NOM": "CH vs ICxI",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -601,8 +576,8 @@
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:42:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:39:04",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dreamleague-division-2-5-2026-group-b",
             "TIER": "c",
@@ -610,13 +585,13 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "en",
-                "LIEN BRUTE": "https://www.youtube.com/watch?v=-51Rdba81YQ"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=8sK13744XIE"
             }
         },
         {
             "NOM": "IAC vs Z10",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -626,8 +601,8 @@
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:42:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:54:55",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dreamleague-division-2-5-2026-group-b",
             "TIER": "c",
@@ -635,49 +610,99 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "en",
-                "LIEN BRUTE": "https://www.youtube.com/watch?v=RFEBbSoeBe4"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=1Wsm0OsW7mo"
             }
         },
         {
-            "NOM": "HULIGANI vs PckCp",
+            "NOM": "HULIGANI vs YB",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "13:00:00",
+            "HEURE PRÉVUE": "10:00:00",
             "DATE DE DEBUT": "2026-11-11",
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:43:28",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dreamleague-division-2-5-2026-group-b",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
+                "MAIN": false,
                 "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/esl_dota2"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=uveSwt8-LYE"
+            }
+        },
+        {
+            "NOM": "HULIGANI vs PckCp",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "13:40:00",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "2026-11-11",
+            "DATE DE FIN": "2026-11-11",
+            "HEURE DE FIN": "2026-11-11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:35:05",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-division-2-5-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=uveSwt8-LYE"
             }
         },
         {
             "NOM": "IAC vs Amaru Gaming",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "13:00:00",
+            "HEURE PRÉVUE": "14:00:00",
             "DATE DE DEBUT": "2026-11-11",
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:16",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:41:55",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dreamleague-division-2-5-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=8sK13744XIE"
+            }
+        },
+        {
+            "NOM": "CH vs Z10",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "16:50:00",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "2026-11-11",
+            "DATE DE FIN": "2026-11-11",
+            "HEURE DE FIN": "2026-11-11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:27:35",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dreamleague-division-2-5-2026-group-b",
             "TIER": "c",
@@ -687,31 +712,6 @@
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://www.twitch.tv/esl_dota2storm"
             }
-        },
-        {
-            "NOM": "CH vs Z10",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "16:00:00",
-            "DATE DE DEBUT": "2026-11-11",
-            "HEURE DE DEBUT": "2026-11-11",
-            "DATE DE FIN": "2026-11-11",
-            "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:43:45",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dreamleague-division-2-5-2026-group-b",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/esl_dota2ember"
-            }
         }
     ],
     "EQUIPES": [
@@ -719,40 +719,40 @@
             "ID": 128357,
             "NOM": "PuckChamp",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:28:19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:08:08",
             "ACRONYME": "PckCp"
         },
         {
             "ID": 129891,
             "NOM": "InterActive Philippines",
             "LOCALISATION": "PH",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:28:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:08:04",
             "ACRONYME": "IAC"
         },
         {
             "ID": 135697,
             "NOM": "Yakult Brothers",
             "LOCALISATION": "CN",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:28:20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:29:21",
             "ACRONYME": "YB"
         },
         {
             "ID": 135854,
             "NOM": "Zero Tenacity",
             "LOCALISATION": "RS",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:47:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:44:18",
             "ACRONYME": "Z10"
         },
         {
             "ID": 137417,
             "NOM": "Inner Circle x Insanity",
             "LOCALISATION": "GB",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:35:17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:19:06",
             "ACRONYME": "ICxI"
         },
         {
@@ -767,16 +767,16 @@
             "ID": 138842,
             "NOM": "HULIGANI",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:59:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:35:17",
             "ACRONYME": null
         },
         {
             "ID": 139339,
             "NOM": "CyberHero",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:09:16",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:20:46",
             "ACRONYME": "CH"
         }
     ],
@@ -787,8 +787,8 @@
                 "NOM": "PuckChamp",
                 "LOCALISATION": "RU",
                 "ACRONYME": "PckCp",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:28:19"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:08:08"
             },
             "JOUEURS": [
                 {
@@ -801,8 +801,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:18"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:07"
                 },
                 {
                     "ID": 62074,
@@ -814,8 +814,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:18"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:07"
                 },
                 {
                     "ID": 62075,
@@ -827,8 +827,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:18"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:14:48"
                 },
                 {
                     "ID": 62191,
@@ -840,8 +840,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:18"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:14:50"
                 },
                 {
                     "ID": 64019,
@@ -853,8 +853,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:08"
                 }
             ]
         },
@@ -864,8 +864,8 @@
                 "NOM": "InterActive Philippines",
                 "LOCALISATION": "PH",
                 "ACRONYME": "IAC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:28:18"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:08:04"
             },
             "JOUEURS": [
                 {
@@ -878,8 +878,8 @@
                     "DATE DE NAISSANCE": "1998-03-17",
                     "NATIONALITE": "PH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:04"
                 },
                 {
                     "ID": 23093,
@@ -891,8 +891,8 @@
                     "DATE DE NAISSANCE": "1996-06-22",
                     "NATIONALITE": "PH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:18"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:04"
                 },
                 {
                     "ID": 35854,
@@ -904,8 +904,8 @@
                     "DATE DE NAISSANCE": "2002-12-07",
                     "NATIONALITE": "PH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:03"
                 },
                 {
                     "ID": 37361,
@@ -917,8 +917,8 @@
                     "DATE DE NAISSANCE": "2003-08-08",
                     "NATIONALITE": "PH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:02"
                 },
                 {
                     "ID": 62931,
@@ -930,8 +930,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "PH",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:04"
                 }
             ]
         },
@@ -941,8 +941,8 @@
                 "NOM": "Yakult Brothers",
                 "LOCALISATION": "CN",
                 "ACRONYME": "YB",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:28:20"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:29:21"
             },
             "JOUEURS": [
                 {
@@ -998,6 +998,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "14:28:19"
                 },
                 {
+                    "ID": 30575,
+                    "PSEUDO": "生死",
+                    "ROLE": "3",
+                    "PRENOM": "Xiao",
+                    "NOM": "Yihu",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-02-27",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:29:21"
+                },
+                {
                     "ID": 38281,
                     "PSEUDO": "lou",
                     "ROLE": "1",
@@ -1018,8 +1031,8 @@
                 "NOM": "Zero Tenacity",
                 "LOCALISATION": "RS",
                 "ACRONYME": "Z10",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:47:21"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:44:18"
             },
             "JOUEURS": [
                 {
@@ -1032,8 +1045,21 @@
                     "DATE DE NAISSANCE": "1997-02-24",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:21"
+                },
+                {
+                    "ID": 33458,
+                    "PSEUDO": "laise",
+                    "ROLE": "3",
+                    "PRENOM": "Vladislav",
+                    "NOM": "Lais",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-15",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:44:18"
                 },
                 {
                     "ID": 33881,
@@ -1045,8 +1071,8 @@
                     "DATE DE NAISSANCE": "1999-11-19",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:23"
                 },
                 {
                     "ID": 40300,
@@ -1058,8 +1084,8 @@
                     "DATE DE NAISSANCE": "2000-12-26",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:23"
                 },
                 {
                     "ID": 50405,
@@ -1071,8 +1097,8 @@
                     "DATE DE NAISSANCE": "2002-05-29",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:47:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:25:04"
                 },
                 {
                     "ID": 56184,
@@ -1084,8 +1110,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:23"
                 }
             ]
         },
@@ -1095,8 +1121,8 @@
                 "NOM": "Inner Circle x Insanity",
                 "LOCALISATION": "GB",
                 "ACRONYME": "ICxI",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:35:17"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:19:06"
             },
             "JOUEURS": [
                 {
@@ -1122,8 +1148,8 @@
                     "DATE DE NAISSANCE": "2002-03-09",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
                 },
                 {
                     "ID": 48654,
@@ -1135,8 +1161,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
                 },
                 {
                     "ID": 53045,
@@ -1148,8 +1174,8 @@
                     "DATE DE NAISSANCE": "2003-07-25",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
                 },
                 {
                     "ID": 53133,
@@ -1157,12 +1183,12 @@
                     "ROLE": "1",
                     "PRENOM": "Oleg",
                     "NOM": "Mikhaylov",
-                    "AGE": 23,
+                    "AGE": 24,
                     "DATE DE NAISSANCE": "2002-11-13",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:18"
                 },
                 {
                     "ID": 54491,
@@ -1174,8 +1200,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
                 }
             ]
         },
@@ -1301,8 +1327,8 @@
                 "NOM": "HULIGANI",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:59:55"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:35:17"
             },
             "JOUEURS": [
                 {
@@ -1315,8 +1341,8 @@
                     "DATE DE NAISSANCE": "2000-05-22",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:16"
                 },
                 {
                     "ID": 25505,
@@ -1328,8 +1354,8 @@
                     "DATE DE NAISSANCE": "2001-06-13",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:17"
                 },
                 {
                     "ID": 40599,
@@ -1341,8 +1367,8 @@
                     "DATE DE NAISSANCE": "2001-02-21",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:17"
                 },
                 {
                     "ID": 45013,
@@ -1354,8 +1380,8 @@
                     "DATE DE NAISSANCE": "2003-02-24",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:43:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:16"
                 },
                 {
                     "ID": 46360,
@@ -1380,8 +1406,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:52:25"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:16"
                 }
             ]
         },
@@ -1391,8 +1417,8 @@
                 "NOM": "CyberHero",
                 "LOCALISATION": "RU",
                 "ACRONYME": "CH",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                "HEURE DE LA DERNIERE MODIFICATION": "11:09:16"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:20:46"
             },
             "JOUEURS": [
                 {
@@ -1405,8 +1431,8 @@
                     "DATE DE NAISSANCE": "1999-09-24",
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:47"
                 },
                 {
                     "ID": 38121,
@@ -1418,8 +1444,8 @@
                     "DATE DE NAISSANCE": "2002-09-25",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:47"
                 },
                 {
                     "ID": 41872,
@@ -1431,8 +1457,8 @@
                     "DATE DE NAISSANCE": "2003-10-07",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:47"
                 },
                 {
                     "ID": 53184,
@@ -1444,8 +1470,8 @@
                     "DATE DE NAISSANCE": "2007-09-16",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:47"
                 },
                 {
                     "ID": 58408,
@@ -1457,8 +1483,8 @@
                     "DATE DE NAISSANCE": "2003-03-07",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:09:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:47"
                 }
             ]
         }
@@ -1472,8 +1498,8 @@
         "NOM": "Division 2 season 5 2026",
         "ANNEE": 2026,
         "SAISON": "5",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:36:27",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:06:53",
         "ID DU VAINQUEUR": null
     }
 }

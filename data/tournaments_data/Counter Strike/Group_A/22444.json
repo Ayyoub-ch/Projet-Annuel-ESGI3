@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22444,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:27:59",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "ALL vs 4M",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:53:58",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "sv",
+                "LIEN BRUTE": "https://www.twitch.tv/esportstudion"
+            }
+        },
+        {
+            "NOM": "Noir Verse vs Morrow Esports",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "14:10:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:05:02",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://kick.com/sv_theunknown"
+            }
+        },
+        {
+            "NOM": "Winners' Match: ALL vs Noir Verse",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:32:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "sv",
+                "LIEN BRUTE": "https://www.twitch.tv/esportstudion"
+            }
+        },
+        {
+            "NOM": "Elimination Match: 4M vs Morrow Esports",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:36:10",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/sweg_patron"
+            }
+        },
+        {
+            "NOM": "Decider Match: 4M vs ALL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:09:05",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esl-challenger-league-europe-cup-12-52-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "sv",
+                "LIEN BRUTE": "https://www.twitch.tv/esportstudion"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 133725,
+            "NOM": "Alliance",
+            "LOCALISATION": "SE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:19:08",
+            "ACRONYME": "ALL"
+        },
+        {
+            "ID": 137551,
+            "NOM": "Four Magic",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:29:44",
+            "ACRONYME": "4M"
+        },
+        {
+            "ID": 138812,
+            "NOM": "Noir Verse",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:33:51",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139111,
+            "NOM": "Morrow Esports",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:06:29",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 133725,
+                "NOM": "Alliance",
+                "LOCALISATION": "SE",
+                "ACRONYME": "ALL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17546,
+                    "PSEUDO": "twist",
+                    "ROLE": null,
+                    "PRENOM": "Simon",
+                    "NOM": "Eliasson",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1994-12-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+                },
+                {
+                    "ID": 24217,
+                    "PSEUDO": "eraa",
+                    "ROLE": null,
+                    "PRENOM": "Sean",
+                    "NOM": "Knutsson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+                },
+                {
+                    "ID": 32351,
+                    "PSEUDO": "bobeksde",
+                    "ROLE": null,
+                    "PRENOM": "Jonatan",
+                    "NOM": "Persson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-21",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+                },
+                {
+                    "ID": 45899,
+                    "PSEUDO": "upE",
+                    "ROLE": null,
+                    "PRENOM": "Markus",
+                    "NOM": "Johansson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+                },
+                {
+                    "ID": 46304,
+                    "PSEUDO": "avid",
+                    "ROLE": null,
+                    "PRENOM": "Arvid",
+                    "NOM": "Åberg",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-02",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:05"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137551,
+                "NOM": "Four Magic",
+                "LOCALISATION": "BR",
+                "ACRONYME": "4M",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:29:44"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 55885,
+                    "PSEUDO": "bekker",
+                    "ROLE": null,
+                    "PRENOM": "Tobias",
+                    "NOM": "Bekker",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:28"
+                },
+                {
+                    "ID": 59540,
+                    "PSEUDO": "statikS",
+                    "ROLE": null,
+                    "PRENOM": "Fynn",
+                    "NOM": "Szusdziara",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
+                },
+                {
+                    "ID": 61539,
+                    "PSEUDO": "LkS",
+                    "ROLE": null,
+                    "PRENOM": "Adrian ",
+                    "NOM": "Alexandru Dușmanu",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:28"
+                },
+                {
+                    "ID": 65974,
+                    "PSEUDO": "GeGo",
+                    "ROLE": null,
+                    "PRENOM": "Georgi",
+                    "NOM": "Gospodinov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
+                },
+                {
+                    "ID": 67965,
+                    "PSEUDO": "sensey",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138812,
+                "NOM": "Noir Verse",
+                "LOCALISATION": "UA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:33:51"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 59753,
+                    "PSEUDO": "Naginat",
+                    "ROLE": null,
+                    "PRENOM": "Max",
+                    "NOM": "Basistyi",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:51"
+                },
+                {
+                    "ID": 60164,
+                    "PSEUDO": "kirxttu",
+                    "ROLE": null,
+                    "PRENOM": "Andrii",
+                    "NOM": "Osinskyi",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:51"
+                },
+                {
+                    "ID": 63211,
+                    "PSEUDO": "xeNji",
+                    "ROLE": null,
+                    "PRENOM": "Nazar",
+                    "NOM": "Horbovyi",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:51"
+                },
+                {
+                    "ID": 66382,
+                    "PSEUDO": "wh1temink",
+                    "ROLE": null,
+                    "PRENOM": "Yehor",
+                    "NOM": "Hryhoriev",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:51"
+                },
+                {
+                    "ID": 66388,
+                    "PSEUDO": "Santuriano",
+                    "ROLE": null,
+                    "PRENOM": "Elvinas",
+                    "NOM": "Kovaliovas",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:33:50"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139111,
+                "NOM": "Morrow Esports",
+                "LOCALISATION": "RU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 44181,
+                    "PSEUDO": "Wign",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Petrov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+                },
+                {
+                    "ID": 51580,
+                    "PSEUDO": "K014NZ",
+                    "ROLE": null,
+                    "PRENOM": "Nikolay",
+                    "NOM": "Glushnev",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+                },
+                {
+                    "ID": 59445,
+                    "PSEUDO": "facer",
+                    "ROLE": null,
+                    "PRENOM": "Vyacheslav",
+                    "NOM": "Grudin",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+                },
+                {
+                    "ID": 63998,
+                    "PSEUDO": "yoyoS2",
+                    "ROLE": null,
+                    "PRENOM": "Abuladze",
+                    "NOM": "Daniil",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+                },
+                {
+                    "ID": 65044,
+                    "PSEUDO": "f1chper",
+                    "ROLE": null,
+                    "PRENOM": "Evgenii",
+                    "NOM": "Kurganov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "ESL Challenger League",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "SERIE": {
+        "NOM": "Europe Cup #12 season 52 2026",
+        "ANNEE": 2026,
+        "SAISON": "52",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:22:24",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-11-04",
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-11",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:49:20",
+        "HEURE DE FIN": "13:05:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:29:36",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -116,18 +116,18 @@
         {
             "NOM": "Decider match: EAC vs EYE",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-11",
-            "HEURE PRÉVUE": "11:30:00",
+            "HEURE PRÉVUE": "11:45:00",
             "DATE DE DEBUT": "2026-11-11",
             "HEURE DE DEBUT": "2026-11-11",
             "DATE DE FIN": "2026-11-11",
             "HEURE DE FIN": "2026-11-11",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:42:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:05:49",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-58-2026-group-b",
             "TIER": "d",
@@ -144,8 +144,8 @@
             "ID": 131189,
             "NOM": "EYEBALLERS",
             "LOCALISATION": "SE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:49:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:27:09",
             "ACRONYME": "EYE"
         },
         {
@@ -160,16 +160,16 @@
             "ID": 138685,
             "NOM": "Esport Academy Copenhagen",
             "LOCALISATION": "DK",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:49:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:16",
             "ACRONYME": "EAC"
         },
         {
             "ID": 139502,
             "NOM": "BRUTE SQ",
             "LOCALISATION": "CZ",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:20:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:27:13",
             "ACRONYME": "BRUTE.SQ"
         }
     ],
@@ -180,8 +180,8 @@
                 "NOM": "EYEBALLERS",
                 "LOCALISATION": "SE",
                 "ACRONYME": "EYE",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "12:49:56"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:27:09"
             },
             "JOUEURS": [
                 {
@@ -194,8 +194,8 @@
                     "DATE DE NAISSANCE": "1995-02-23",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:04"
                 },
                 {
                     "ID": 17564,
@@ -207,8 +207,8 @@
                     "DATE DE NAISSANCE": "1994-04-25",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:09"
                 },
                 {
                     "ID": 33056,
@@ -220,8 +220,8 @@
                     "DATE DE NAISSANCE": "2004-08-06",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:08"
                 },
                 {
                     "ID": 35056,
@@ -233,8 +233,8 @@
                     "DATE DE NAISSANCE": "2004-07-31",
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:08"
                 },
                 {
                     "ID": 46590,
@@ -347,8 +347,8 @@
                 "NOM": "Esport Academy Copenhagen",
                 "LOCALISATION": "DK",
                 "ACRONYME": "EAC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "12:49:58"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
             },
             "JOUEURS": [
                 {
@@ -361,8 +361,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
                 },
                 {
                     "ID": 55886,
@@ -374,8 +374,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
                 },
                 {
                     "ID": 60351,
@@ -387,8 +387,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
                 },
                 {
                     "ID": 61244,
@@ -400,8 +400,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:57"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
                 },
                 {
                     "ID": 65405,
@@ -413,8 +413,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:58"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
                 }
             ]
         },
@@ -424,8 +424,8 @@
                 "NOM": "BRUTE SQ",
                 "LOCALISATION": "CZ",
                 "ACRONYME": "BRUTE.SQ",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                "HEURE DE LA DERNIERE MODIFICATION": "03:20:44"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:27:13"
             },
             "JOUEURS": [
                 {
@@ -438,8 +438,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                    "HEURE DE LA DERNIERE MODIFICATION": "03:20:44"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:13"
                 },
                 {
                     "ID": 36478,
@@ -451,8 +451,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                    "HEURE DE LA DERNIERE MODIFICATION": "03:20:44"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:13"
                 },
                 {
                     "ID": 37257,
@@ -464,8 +464,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                    "HEURE DE LA DERNIERE MODIFICATION": "03:20:44"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:12"
                 },
                 {
                     "ID": 45801,
@@ -477,8 +477,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                    "HEURE DE LA DERNIERE MODIFICATION": "03:20:44"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:12"
                 },
                 {
                     "ID": 53123,
@@ -490,8 +490,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                    "HEURE DE LA DERNIERE MODIFICATION": "03:20:44"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:13"
                 }
             ]
         }

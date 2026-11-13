@@ -1,0 +1,474 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22436,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:49:42",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "SIN vs NXS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-17",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "2026-11-17",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "2026-11-17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tipsport-rush-brno-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "ALL vs IS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-17",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "2026-11-17",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "2026-11-17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tipsport-rush-brno-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "Elimination match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-18",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-18",
+            "HEURE DE DEBUT": "2026-11-18",
+            "DATE DE FIN": "2026-11-18",
+            "HEURE DE FIN": "2026-11-18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tipsport-rush-brno-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "Winners match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-18",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-18",
+            "HEURE DE DEBUT": "2026-11-18",
+            "DATE DE FIN": "2026-11-18",
+            "HEURE DE FIN": "2026-11-18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tipsport-rush-brno-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 126699,
+            "NOM": "Nexus",
+            "LOCALISATION": "RO",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:13:59",
+            "ACRONYME": "NXS"
+        },
+        {
+            "ID": 127014,
+            "NOM": "Sinners",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:43:17",
+            "ACRONYME": "SIN"
+        },
+        {
+            "ID": 133725,
+            "NOM": "Alliance",
+            "LOCALISATION": "SE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:19:08",
+            "ACRONYME": "ALL"
+        },
+        {
+            "ID": 136319,
+            "NOM": "Iberian Soul",
+            "LOCALISATION": "ES",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:18:40",
+            "ACRONYME": "IS"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 126699,
+                "NOM": "Nexus",
+                "LOCALISATION": "RO",
+                "ACRONYME": "NXS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:13:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28479,
+                    "PSEUDO": "shield",
+                    "ROLE": null,
+                    "PRENOM": "Roberts",
+                    "NOM": "Tipsis",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-19",
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:13:59"
+                },
+                {
+                    "ID": 29181,
+                    "PSEUDO": "fNk",
+                    "ROLE": null,
+                    "PRENOM": "Mihai ",
+                    "NOM": "Costache",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-07",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:13:51"
+                },
+                {
+                    "ID": 29416,
+                    "PSEUDO": "s0und",
+                    "ROLE": null,
+                    "PRENOM": "Alexandru ",
+                    "NOM": "Ștefan",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-25",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:13:58"
+                },
+                {
+                    "ID": 32758,
+                    "PSEUDO": "Nexius",
+                    "ROLE": null,
+                    "PRENOM": "Bram",
+                    "NOM": "Campana",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-12-19",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:13:58"
+                },
+                {
+                    "ID": 61609,
+                    "PSEUDO": "HOLY",
+                    "ROLE": null,
+                    "PRENOM": "Radu",
+                    "NOM": "Vrânceanu",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:13:57"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 127014,
+                "NOM": "Sinners",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "SIN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:43:17"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25109,
+                    "PSEUDO": "SHOCK",
+                    "ROLE": null,
+                    "PRENOM": "Max",
+                    "NOM": "Kvapil",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-29",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:43:16"
+                },
+                {
+                    "ID": 25111,
+                    "PSEUDO": "beastik",
+                    "ROLE": null,
+                    "PRENOM": "Sebastian",
+                    "NOM": "Dano",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-05",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:43:07"
+                },
+                {
+                    "ID": 36286,
+                    "PSEUDO": "MoDo",
+                    "ROLE": null,
+                    "PRENOM": "Mădălin-Andrei",
+                    "NOM": "Mirea",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-06-01",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:43:16"
+                },
+                {
+                    "ID": 48862,
+                    "PSEUDO": "stressarN",
+                    "ROLE": null,
+                    "PRENOM": "Jordan ",
+                    "NOM": "Manevski",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:43:17"
+                },
+                {
+                    "ID": 49146,
+                    "PSEUDO": "kisserek",
+                    "ROLE": null,
+                    "PRENOM": "Kamil",
+                    "NOM": "Banak",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-13",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:43:16"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133725,
+                "NOM": "Alliance",
+                "LOCALISATION": "SE",
+                "ACRONYME": "ALL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17546,
+                    "PSEUDO": "twist",
+                    "ROLE": null,
+                    "PRENOM": "Simon",
+                    "NOM": "Eliasson",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1994-12-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+                },
+                {
+                    "ID": 24217,
+                    "PSEUDO": "eraa",
+                    "ROLE": null,
+                    "PRENOM": "Sean",
+                    "NOM": "Knutsson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+                },
+                {
+                    "ID": 32351,
+                    "PSEUDO": "bobeksde",
+                    "ROLE": null,
+                    "PRENOM": "Jonatan",
+                    "NOM": "Persson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-21",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+                },
+                {
+                    "ID": 45899,
+                    "PSEUDO": "upE",
+                    "ROLE": null,
+                    "PRENOM": "Markus",
+                    "NOM": "Johansson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:08"
+                },
+                {
+                    "ID": 46304,
+                    "PSEUDO": "avid",
+                    "ROLE": null,
+                    "PRENOM": "Arvid",
+                    "NOM": "Åberg",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-02",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:19:05"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136319,
+                "NOM": "Iberian Soul",
+                "LOCALISATION": "ES",
+                "ACRONYME": "IS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:18:40"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 20595,
+                    "PSEUDO": "mopoz",
+                    "ROLE": null,
+                    "PRENOM": "Alejandro",
+                    "NOM": "Fernández-Quejo Cano",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-08-07",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:54"
+                },
+                {
+                    "ID": 20596,
+                    "PSEUDO": "alex",
+                    "ROLE": null,
+                    "PRENOM": "Alejandro",
+                    "NOM": "Masanet",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1995-12-15",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:53"
+                },
+                {
+                    "ID": 24619,
+                    "PSEUDO": "dav1g",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Granado Bermudo",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-06",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:54"
+                },
+                {
+                    "ID": 25097,
+                    "PSEUDO": "sausol",
+                    "ROLE": null,
+                    "PRENOM": "Pere",
+                    "NOM": "Solsona Saumell",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-31",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:12:54"
+                },
+                {
+                    "ID": 31151,
+                    "PSEUDO": "Ag1l",
+                    "ROLE": null,
+                    "PRENOM": "André ",
+                    "NOM": "Gil",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-02",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:18:40"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "RUSH",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:36:38"
+    },
+    "SERIE": {
+        "NOM": "Brno 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:49:42",
+        "ID DU VAINQUEUR": null
+    }
+}

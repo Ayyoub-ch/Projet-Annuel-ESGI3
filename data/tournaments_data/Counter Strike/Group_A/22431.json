@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "15:00:00",
         "DATE DE FIN": "2026-11-16",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:17:34",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:18:12",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,18 +16,18 @@
         {
             "NOM": "REV vs ESB",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-13",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "15:20:00",
             "DATE DE DEBUT": "2026-11-13",
             "HEURE DE DEBUT": "2026-11-13",
             "DATE DE FIN": "2026-11-13",
             "HEURE DE FIN": "2026-11-13",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:35:49",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-a",
             "TIER": "d",
@@ -41,18 +41,18 @@
         {
             "NOM": "KAMUI vs AUR.YB",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-13",
-            "HEURE PRÉVUE": "18:00:00",
+            "HEURE PRÉVUE": "18:20:00",
             "DATE DE DEBUT": "2026-11-13",
             "HEURE DE DEBUT": "2026-11-13",
             "DATE DE FIN": "2026-11-13",
             "HEURE DE FIN": "2026-11-13",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:51:52",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-a",
             "TIER": "d",
@@ -69,8 +69,8 @@
             "ID": 127497,
             "NOM": "eSuba",
             "LOCALISATION": "CZ",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:17:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:18:10",
             "ACRONYME": "ESB"
         },
         {
@@ -93,8 +93,8 @@
             "ID": 139219,
             "NOM": "KAMUI",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:17:34",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:18:12",
             "ACRONYME": null
         }
     ],
@@ -105,8 +105,8 @@
                 "NOM": "eSuba",
                 "LOCALISATION": "CZ",
                 "ACRONYME": "ESB",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:18:10"
             },
             "JOUEURS": [
                 {
@@ -121,6 +121,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
                     "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                },
+                {
+                    "ID": 51144,
+                    "PSEUDO": "vANO",
+                    "ROLE": null,
+                    "PRENOM": "Ivan",
+                    "NOM": "Galustyan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:18:10"
                 },
                 {
                     "ID": 66042,
@@ -142,19 +155,6 @@
                     "PRENOM": "Filip",
                     "NOM": "Táborský",
                     "AGE": 19,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "CZ",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
-                },
-                {
-                    "ID": 66044,
-                    "PSEUDO": "Frigo",
-                    "ROLE": null,
-                    "PRENOM": "Petr",
-                    "NOM": "Havránek",
-                    "AGE": 24,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
@@ -209,8 +209,8 @@
                     "DATE DE NAISSANCE": "2006-04-24",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:32"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:49:54"
                 },
                 {
                     "ID": 56715,
@@ -336,8 +336,8 @@
                 "NOM": "KAMUI",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:17:34"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:18:12"
             },
             "JOUEURS": [
                 {
@@ -391,6 +391,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
                     "HEURE DE LA DERNIERE MODIFICATION": "19:17:33"
+                },
+                {
+                    "ID": 68920,
+                    "PSEUDO": "Nothing91Say",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:18:19"
                 }
             ]
         }
