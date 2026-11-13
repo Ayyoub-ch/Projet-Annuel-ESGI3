@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11081,
+        "NOM": "Promotion__Wild_Card",
+        "JEU VIDEO": "LoL",
+        "DATE DE DEBUT": "2026-10-10",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-10-13",
+        "HEURE DE FIN": "15:58:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:39:37",
+        "ANNEE": 2027,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5351,
+        "NOM": "LCP",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-01-06",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:48:59"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-10-10",
+            "HEURE DE DEBUT": "08:00:00",
+            "DATE DE FIN": "2026-10-13",
+            "HEURE DE FIN": "15:58:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:39:37",
+            "PRIZEPOOL": "5,000 United States Dollar",
+            "SLUG": "league-of-legends-lcp-promotion-wild-card-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}
