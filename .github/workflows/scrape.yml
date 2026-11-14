@@ -4,12 +4,14 @@ on:
   schedule:
     # Exécution toutes les 30 minutes (Format Cron)
     - cron: '*/30 * * * *'
-  # Permet aussi de lancer le script manuellement depuis l'onglet "Actions" de GitHub
+  # Permet aussi de lancer le script manuellement depuis l'onglet "Actions"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run-scraping:
-  # Utilise une image Ubuntu Linux standard fournie par GitHub
     runs-on: ubuntu-latest
 
     steps:
@@ -26,6 +28,13 @@ jobs:
 
       # 3. Installer les dépendances nécessaires au script de récolte
       - name: Installation des dépendances
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('data_recolt/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Installer les packages
         run: |
           python -m pip install --upgrade pip
           if [ -f data_recolt/requirements.txt ]; then pip install -r data_recolt/requirements.txt; fi
@@ -35,15 +44,13 @@ jobs:
         run: |
           python data_recolt/main.py
 
-      # 5. Configurer l'identité Git pour valider les modifications
-      - name: Configuration Git
+      # 5. Configurer l'identité Git et pousser proprement
+      - name: Valider et pousser les modifications sur le dépôt
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      # 6. Ajouter les nouveaux fichiers JSON modifiés/créés
-      - name: Valider et pousser les modifications sur le dépôt
-        run: |
+          
           git add data/
-
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise automatique des données e-sport [skip ci]" && git push)
+          
+          # Vérifie s'il y a des changements à commiter
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise automatique des données e-sport [skip ci]" && git pull --rebase origin main && git push origin HEAD:main)
