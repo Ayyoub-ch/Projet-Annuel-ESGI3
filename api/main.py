@@ -49,7 +49,7 @@ app.include_router(match_canceled_router)
 
 @app.get("/")
 async def read_root():
-    return {"message": "E-Sport API !!!  Tapez /docs après l'URL pour accéder au Swagger !"} 
+    return {"message": "API E-Sport - SportSphere opérationnel"} 
 
 app.on_event("startup")
 async def startup_event():
