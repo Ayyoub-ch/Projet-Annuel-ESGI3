@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-18",
         "HEURE DE FIN": "18:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:05:48",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:51:03",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -316,7 +316,7 @@
         {
             "NOM": "Round 3: FORZE.R vs Nice Try",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -326,8 +326,8 @@
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:07:39",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:11:02",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-group-stage",
             "TIER": "d",
@@ -339,7 +339,7 @@
             }
         },
         {
-            "NOM": "Round 3: ACES vs ILLYR",
+            "NOM": "Round 3: PHA vs HT",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -351,8 +351,8 @@
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:14:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:51:01",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-group-stage",
             "TIER": "d",
@@ -489,7 +489,7 @@
             }
         },
         {
-            "NOM": "Round 3: PHA vs ex-ZT",
+            "NOM": "Round 3: ACES vs ILLYR",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -501,8 +501,8 @@
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:11:15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:51:54",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-group-stage",
             "TIER": "d",
@@ -983,6 +983,14 @@
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
             "HEURE DE LA DERNIERE MODIFICATION": "23:38:57",
             "ACRONYME": "LUN"
+        },
+        {
+            "ID": 139603,
+            "NOM": "Hype Tech",
+            "LOCALISATION": "RS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:51:03",
+            "ACRONYME": "HT"
         }
     ],
     "MEMBRES DE L'EQUIPE": [
@@ -1662,8 +1670,8 @@
                     "DATE DE NAISSANCE": "1999-12-19",
                     "NATIONALITE": "RS",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:54:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:02"
                 },
                 {
                     "ID": 30447,
@@ -1675,8 +1683,8 @@
                     "DATE DE NAISSANCE": "2002-01-14",
                     "NATIONALITE": "RS",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:54:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:03"
                 },
                 {
                     "ID": 33733,
@@ -1688,8 +1696,8 @@
                     "DATE DE NAISSANCE": "2000-11-09",
                     "NATIONALITE": "RS",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:54:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:03"
                 },
                 {
                     "ID": 37151,
@@ -1714,8 +1722,8 @@
                     "DATE DE NAISSANCE": "2001-08-20",
                     "NATIONALITE": "BA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:54:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:02"
                 },
                 {
                     "ID": 37359,
@@ -1727,8 +1735,8 @@
                     "DATE DE NAISSANCE": "2004-07-30",
                     "NATIONALITE": "ME",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:54:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:02"
                 }
             ]
         },
@@ -2159,7 +2167,7 @@
                     "ROLE": null,
                     "PRENOM": "Ernest ",
                     "NOM": "Kazakov",
-                    "AGE": 20,
+                    "AGE": 21,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
@@ -2525,6 +2533,83 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "23:38:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139603,
+                "NOM": "Hype Tech",
+                "LOCALISATION": "RS",
+                "ACRONYME": "HT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:51:03"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30446,
+                    "PSEUDO": "Dragon",
+                    "ROLE": null,
+                    "PRENOM": "Nikola",
+                    "NOM": "Boskovic",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-12-19",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:02"
+                },
+                {
+                    "ID": 30447,
+                    "PSEUDO": "Kind0",
+                    "ROLE": null,
+                    "PRENOM": "Vladan",
+                    "NOM": "Mandic",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-14",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:03"
+                },
+                {
+                    "ID": 33733,
+                    "PSEUDO": "VLDN",
+                    "ROLE": null,
+                    "PRENOM": "Vladan",
+                    "NOM": "Radevic",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-11-09",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:03"
+                },
+                {
+                    "ID": 37153,
+                    "PSEUDO": "brutmonster",
+                    "ROLE": null,
+                    "PRENOM": "Adin",
+                    "NOM": "Husić",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-20",
+                    "NATIONALITE": "BA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:02"
+                },
+                {
+                    "ID": 37359,
+                    "PSEUDO": "Cjoffo",
+                    "ROLE": null,
+                    "PRENOM": "Andrej ",
+                    "NOM": "Šarac",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-30",
+                    "NATIONALITE": "ME",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:51:02"
                 }
             ]
         }

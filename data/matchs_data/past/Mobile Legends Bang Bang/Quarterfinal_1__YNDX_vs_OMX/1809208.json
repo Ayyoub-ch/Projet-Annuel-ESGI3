@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1809208,
+        "NOM": "Quarterfinal_1__YNDX_vs_OMX",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "10:08:51",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "11:23:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "08:04:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8539,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1215,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "10:08:51",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "10:29:06",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138521,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8540,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1202,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "10:35:47",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "10:55:50",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138521,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8541,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1280,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "11:01:40",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "11:23:01",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138521,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138521,
+            "NOM": "Team Yandex",
+            "LOCALISATION": "",
+            "ACRONYME": "YNDX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+        },
+        {
+            "ID": 138661,
+            "NOM": "Omnix",
+            "LOCALISATION": "RU",
+            "ACRONYME": "OMX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 138521
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 138661
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22455,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "5000000 Russian Ruble",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "19:28:40",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5304,
+        "NOM": "BetBoom Rise of Legends",
+        "DATE DE MODIFICATION": "2024-10-17",
+        "HEURE DE MODIFICATION": "12:16:30"
+    },
+    "SERIE": {
+        "ID": 11168,
+        "NOM": "Season 11 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "08:04:58"
+    }
+}

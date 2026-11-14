@@ -116,7 +116,7 @@
         {
             "NOM": "YG vs FPX",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -127,21 +127,21 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:00:05",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:22:27",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-group-b",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://live.bilibili.com/9459454"
             }
         },
         {
             "NOM": "LGD vs XJG",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -151,8 +151,8 @@
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:54:50",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:56:41",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-group-b",
             "TIER": "c",
@@ -160,7 +160,7 @@
             "INFO DE STREAMING": {
                 "MAIN": true,
                 "LANGUE": "zh",
-                "LIEN BRUTE": "https://weibo.com/7864854446"
+                "LIEN BRUTE": "https://live.bilibili.com/9459454"
             }
         },
         {

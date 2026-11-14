@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1803635,
+        "NOM": "Round_1_match_1__G1_vs_BAL",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "09:18:17",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239101,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 4462,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "09:18:19",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "10:32:42",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128519,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239102,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2929,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "10:50:39",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "11:39:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139529,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239103,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 128519,
+            "NOM": "GenOne",
+            "LOCALISATION": "FR",
+            "ACRONYME": "G1",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:06:27"
+        },
+        {
+            "ID": 139529,
+            "NOM": "Balkan Outlaws",
+            "LOCALISATION": "RO",
+            "ACRONYME": "BAL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:35:37"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 128519
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139529
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22429,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "20000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "10:35:37",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11177,
+        "NOM": "Season 10 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19"
+    }
+}
