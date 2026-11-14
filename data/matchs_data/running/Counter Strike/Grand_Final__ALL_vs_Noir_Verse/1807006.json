@@ -22,7 +22,7 @@
     "PARTIES": [
         {
             "ID": 239407,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 8225,
@@ -39,10 +39,10 @@
             "ID": 239408,
             "PARTIE FINIE": false,
             "POSITION PARTIE": 2,
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LONGUEUR": "Pas de longueur disponible",
-            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
-            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "20:37:49",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
             "DETAIL STAT": true,

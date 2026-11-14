@@ -27,25 +27,25 @@
             "ID": 284795,
             "PARTIE FINIE": false,
             "POSITION PARTIE": 1,
-            "STATUT": "running",
-            "LONGUEUR": "Pas de longueur disponible",
+            "STATUT": "finished",
+            "LONGUEUR": 2336,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "19:45:31",
-            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
-            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "20:33:23",
             "DETAIL STAT": true,
             "FORFAIT": false,
-            "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
+            "ID DU VAINQUEUR": 2882,
             "TYPE DU VAINQUEUR": "Team"
         },
         {
             "ID": 284796,
             "PARTIE FINIE": false,
             "POSITION PARTIE": 2,
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LONGUEUR": "Pas de longueur disponible",
-            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
-            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "20:52:04",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
             "DETAIL STAT": true,
@@ -123,7 +123,7 @@
             "ID EQUIPE": 1566
         },
         {
-            "SCORE": 0,
+            "SCORE": 1,
             "ID EQUIPE": 2882
         }
     ],

@@ -22,10 +22,10 @@
     "PARTIES": [
         {
             "ID": 741336,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
-            "LONGUEUR": 3519,
+            "LONGUEUR": 2415,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "10:00:23",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -37,10 +37,10 @@
         },
         {
             "ID": 741337,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
-            "LONGUEUR": 2680,
+            "LONGUEUR": 1998,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "11:11:33",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -52,10 +52,10 @@
         },
         {
             "ID": 741338,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 3,
             "STATUT": "finished",
-            "LONGUEUR": 4452,
+            "LONGUEUR": 3626,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "12:07:36",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -80,8 +80,8 @@
             "NOM": "Nemiga Gaming",
             "LOCALISATION": "BY",
             "ACRONYME": "Nemiga",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:05:55"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:44:59"
         }
     ],
     "RESULTATS": [
@@ -108,7 +108,7 @@
         "DATE DE FIN": "2026-11-20",
         "HEURE DE FIN": "22:00:00",
         "DATE DE MODIFICATION": "2026-11-14",
-        "HEURE DE MODIFICATION": "19:59:45",
+        "HEURE DE MODIFICATION": "20:44:59",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-16",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-        "HEURE DE LA DERNIERE MODIFICATION": "22:07:50",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:47:21",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -227,7 +227,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:58:20",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:48:26",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "dota-2-esports-pro-circuit-3-2026-playoffs",
             "TIER": "d",
@@ -241,7 +241,7 @@
         {
             "NOM": "Lower Bracket Quarterfinal 2: Z10 vs NH",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -252,7 +252,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:13:32",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:11:29",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "dota-2-esports-pro-circuit-3-2026-playoffs",
             "TIER": "d",
@@ -289,7 +289,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Semifinal: angry birds vs TBD",
+            "NOM": "Lower Bracket Semifinal: angry birds vs Z10",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -302,7 +302,7 @@
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:58:21",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:11:29",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "dota-2-esports-pro-circuit-3-2026-playoffs",
             "TIER": "d",
@@ -467,8 +467,8 @@
             "ID": 139391,
             "NOM": " oveA",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:14:31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:47:21",
             "ACRONYME": null
         },
         {
@@ -988,8 +988,8 @@
                 "NOM": " oveA",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "15:14:31"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:47:21"
             },
             "JOUEURS": [
                 {
@@ -1045,6 +1045,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "23:43:54"
                 },
                 {
+                    "ID": 55405,
+                    "PSEUDO": "Locomonski",
+                    "ROLE": "4",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:47:21"
+                },
+                {
                     "ID": 66196,
                     "PSEUDO": "L4rks",
                     "ROLE": "2",
@@ -1082,6 +1095,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:32:24"
+                },
+                {
+                    "ID": 68977,
+                    "PSEUDO": "D̷a̷r̷k̷y̷y̷",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:47:20"
                 }
             ]
         },

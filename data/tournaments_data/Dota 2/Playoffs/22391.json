@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-20",
         "HEURE DE FIN": "22:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:59:45",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:44:59",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -102,7 +102,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:21:50",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:45:43",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -127,7 +127,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:00:04",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:51:23",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -141,7 +141,7 @@
         {
             "NOM": "Lower Bracket Round 1 match 1: PlayTime vs PR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -152,7 +152,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:02:03",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:33:42",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -264,7 +264,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 2 match 1: Z10 vs TBD",
+            "NOM": "Lower Bracket Round 2 match 1: Z10 vs PlayTime",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -277,7 +277,7 @@
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:54:16",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:33:43",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -469,8 +469,8 @@
             "ID": 2227,
             "NOM": "Nemiga Gaming",
             "LOCALISATION": "BY",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:05:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:44:59",
             "ACRONYME": "Nemiga"
         },
         {
@@ -569,8 +569,8 @@
                 "NOM": "Nemiga Gaming",
                 "LOCALISATION": "BY",
                 "ACRONYME": "Nemiga",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:05:55"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:44:59"
             },
             "JOUEURS": [
                 {
@@ -613,6 +613,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "17:05:50"
                 },
                 {
+                    "ID": 46576,
+                    "PSEUDO": "VaniLLl",
+                    "ROLE": "5",
+                    "PRENOM": "Daniil",
+                    "NOM": "Sokolov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:44:59"
+                },
+                {
                     "ID": 53371,
                     "PSEUDO": "Covisnine",
                     "ROLE": "3",
@@ -626,6 +639,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "17:05:55"
                 },
                 {
+                    "ID": 54573,
+                    "PSEUDO": "мистер мораль",
+                    "ROLE": "3",
+                    "PRENOM": "Ivan",
+                    "NOM": "Ilichev",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:44:58"
+                },
+                {
                     "ID": 55501,
                     "PSEUDO": "ariel",
                     "ROLE": "4",
@@ -637,6 +663,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "17:05:55"
+                },
+                {
+                    "ID": 60538,
+                    "PSEUDO": "byun",
+                    "ROLE": "1",
+                    "PRENOM": "Kirill",
+                    "NOM": "Himpel",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:44:54"
                 }
             ]
         },
