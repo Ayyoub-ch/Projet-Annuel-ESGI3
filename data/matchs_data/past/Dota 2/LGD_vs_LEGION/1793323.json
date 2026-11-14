@@ -22,10 +22,10 @@
     "PARTIES": [
         {
             "ID": 741506,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
-            "LONGUEUR": 5592,
+            "LONGUEUR": 3857,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "09:02:32",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -37,10 +37,10 @@
         },
         {
             "ID": 741507,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
-            "LONGUEUR": 3561,
+            "LONGUEUR": 2378,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "10:46:34",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -93,7 +93,7 @@
         "DATE DE FIN": "2026-11-14",
         "HEURE DE FIN": "19:00:00",
         "DATE DE MODIFICATION": "2026-11-14",
-        "HEURE DE MODIFICATION": "11:48:09",
+        "HEURE DE MODIFICATION": "19:49:54",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

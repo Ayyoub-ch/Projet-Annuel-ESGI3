@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1811244,
+        "NOM": "Lower_Bracket_Quarterfinal_2__Z10_vs_NH",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "18:16:57",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:27:12",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741747,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3263,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "18:16:57",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "19:11:21",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137658,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741748,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2836,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "19:26:15",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "20:13:32",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135854,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741749,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135854,
+            "NOM": "Zero Tenacity",
+            "LOCALISATION": "RS",
+            "ACRONYME": "Z10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:59:42"
+        },
+        {
+            "ID": 137658,
+            "NOM": "No Hoodwink",
+            "LOCALISATION": "RU",
+            "ACRONYME": "NH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:43:54"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135854
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137658
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22435,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": null,
+        "TIER": "d",
+        "CASH PRIZE": "20000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "22:07:50",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5576,
+        "NOM": "Esports Pro Circuit ",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:23:08"
+    },
+    "SERIE": {
+        "ID": 11149,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:27:12"
+    }
+}

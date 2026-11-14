@@ -22,10 +22,10 @@
     "PARTIES": [
         {
             "ID": 741351,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
-            "LONGUEUR": 4498,
+            "LONGUEUR": 3570,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "14:32:39",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -65,8 +65,8 @@
             "NOM": "Zero Tenacity",
             "LOCALISATION": "RS",
             "ACRONYME": "Z10",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:44:18"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:59:42"
         }
     ],
     "RESULTATS": [
@@ -92,8 +92,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-20",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE MODIFICATION": "2026-11-12",
-        "HEURE DE MODIFICATION": "17:08:08",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "19:59:45",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

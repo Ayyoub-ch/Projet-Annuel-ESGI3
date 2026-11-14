@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1786831,
+        "NOM": "Round_of_16_match_4__IS_vs_FORZE.R",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "15:08:25",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "18:18:35",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "12:35:51",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238143,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3209,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "15:08:27",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "16:01:57",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136319,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238144,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3147,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "16:16:34",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "17:09:01",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135126,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238145,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3225,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "17:24:50",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "18:18:35",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136319,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136319,
+            "NOM": "Iberian Soul",
+            "LOCALISATION": "ES",
+            "ACRONYME": "IS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:18:40"
+        },
+        {
+            "ID": 135126,
+            "NOM": "FORZE Reload",
+            "LOCALISATION": "RU",
+            "ACRONYME": "FORZE.R",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:10:13"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 136319
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135126
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22356,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "25000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "19:54:14",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11170,
+        "NOM": "Series #13 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "12:35:51"
+    }
+}
