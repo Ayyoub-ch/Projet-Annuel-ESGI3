@@ -1,0 +1,48 @@
+name: Automatisation Recolte E-sport
+
+on:
+  schedule:
+    # Exécution toutes les 30 minutes (Format Cron)
+    - cron: '*/30 * * * *'
+  # Permet aussi de lancer le script manuellement depuis l'onglet "Actions" de GitHub
+  workflow_dispatch:
+
+jobs:
+  run-scraping:
+  # Utilise une image Ubuntu Linux standard fournie par GitHub
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Récupérer le code source du projet
+      - name: Checkout du code
+        uses: actions/checkout@v4
+
+      # 2. Configurer l'environnement Python
+      - name: Configuration de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      # 3. Installer les dépendances nécessaires au script de récolte
+      - name: Installation des dépendances
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f data_recolt/requirements.txt ]; then pip install -r data_recolt/requirements.txt; fi
+
+      # 4. Exécuter le script principal de récolte
+      - name: Lancement de la récolte
+        run: |
+          python data_recolt/main.py
+
+      # 5. Configurer l'identité Git pour valider les modifications
+      - name: Configuration Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 6. Ajouter les nouveaux fichiers JSON modifiés/créés
+      - name: Valider et pousser les modifications sur le dépôt
+        run: |
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise automatique des données e-sport [skip ci]" && git push)
