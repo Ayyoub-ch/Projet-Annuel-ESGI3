@@ -122,9 +122,9 @@ if router_choice =="Accueil":
     
     ### Services disponibles
     
-    | Service | Description |
-    | ------- | ----------- |
-    | **E-Sport** | Récupère les données de l'E-Sport |
+    | Service | Description | Limite d'appel de l'API | Temps de recharge de l'API |
+    | ------- | ----------- | ----------- | ----------- |
+    | **E-Sport** | Récupère les données de l'E-Sport | 1000 requêtes | 30 minutes |
     
     ### Statut des APIs 
     """)
