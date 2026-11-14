@@ -49,3 +49,4 @@ Par exemple :
 On obtiendra comme chemin suivant après le traitement des données de l'API:
 
 data_recolt\data\tournaments_data\Counter-Strike\Playoffs\22202.json
+
