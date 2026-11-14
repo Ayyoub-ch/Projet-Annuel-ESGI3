@@ -1,52 +1,47 @@
-# Projet-Annuel-ESGI3
+# Module E-Sport - Documentation de la Branche `feature/e-sport`
 
-# Présentation globale du projet
-## Contexte :
+Cette branche est exclusivement dédiée à la gestion, à la collecte automatisée et à la mise à disposition des données liées au secteur de l'e-sport.
 
-Dans le cadre de notre formation en 3e Année de Bachelor à l'ESGI de Lille, nous sommes amenés à réaliser un projet par groupe de 3 à 4 personnes. Le thème est au choix.
-Le projet sera présenté en classe, le tout avec une soutenance orale.
+---
 
-## But
+## Architecture et Flux de Données
 
-- Pouvoir travailler en groupe avec des gens ayants plusieurs compétences différentes afin de réaliser un projet complet et pertinent 
-- Le jury s'appuiera essentiellement sur la structure du projet et son architecture
+<p align="center">
+  <!-- Insérer le chemin vers l'image du schéma ci-dessous -->
+  <img src="chemin/vers/ton/schema.png" alt="Schéma de l'architecture des données e-sport" width="700px">
+</p>
 
+Ce diagramme présente le flux complet de traitement des données : de l'exécution planifiée du script de collecte via GitHub Actions jusqu'au stockage des fichiers JSON sur le dépôt, permettant l'actualisation continue de l'application front-end.
 
-# Présentation détaillée du projet
-## Thème et Déroulement du projet
+---
 
-Ce projet se porte sur le thème du sport dans sa globalité, cela englobera les sports tradtionnels (football, basketball, rugby) jusqu'aux sports non "conventionnels" comme les échecs ou l'e-sport.
-Le projet doit aboutir à une plateforme qui permet de récupérer les données des différents sports, afin que les utilisateurs puissent utiliser, récupérer et explorer les données qui leur conviennent.
-Le tout en centralisant les différentes API liées au sport.
+## Structure du Projet
 
+L'arborescence de cette branche est organisée en trois composants principaux :
 
-On travaille exclusivement avec Python et ses librairies ( FastApi et Streamlit)
+### 1. Recolte de Données
+* **`data_recolt/`** : 
+  * `main.py` et `league.py` : Scripts responsables de l'extraction des informations et de l'interrogation de l'API externe.
+* **`data/`** : Répertoire de stockage centralisant les fichiers JSON de données brutes, actualisés automatiquement lors de chaque détection de nouvelles informations par le bot de GitHub Actions.
+* **`.github/workflows/`** : Contient le fichier de configuration CI/CD (`scrape.yml`) responsable du déclenchement automatisé de la collecte.
 
+### 2. API (Back-End)
+* **`api/`** : Contient le service dorsal développé sous FastAPI, structuré pour exposer les données :
+  * `routers/` : Endpoints modulaires classés par thématiques (leagues, matches, series, tournaments) permettant des requêtes par date, période ou en temps réel.
+  * `services/` : Logique métiers pour la manipulation et la récupération des données.
+  * `main.py` : Point d'entrée de l'application API.
+  * `requirements.txt` : Dépendances techniques du back-end.
 
-##  Partie 1: Récolte, Traitement et Nettoyage des données 
+### 3. Interface (Front-End)
+* **`app/`** : Contient l'application utilisateur (Streamlit) :
+  * `main.py` : Point d'entrée de l'interface graphique.
+  * `Dockerfile` : Fichier de configuration pour la conteneurisation.
+  * `requirements.txt` et `style.css` : Dépendances et feuilles de style graphiques de l'interface.
 
-Pour commencer, il faut qu'on sache comment on trouve les données, pour cela on a du chercher des APIS d'Opend Data, soit des Apis donnant l'accès à des données dites libres d'accès, donc non soumis à une réglementation ou à un abonnement à payer pour utiliser ou voir 
-les données.
+---
 
-Après avoir choisi et tester l'API via un outil comme Postman, qui permet de lecteut d'url API afin de vérifier et tester si les données sont correctes et comment elles sont structurées. Par ailleurs on regarde aussi via la documentation des APIS, les différents Endpoints
-possibles, afin d'avoir accès à différent types de données.
+## Accès à l'Application
 
-Après avoir vérifié que les données testées sont opérationnelles, on les nettoie et range par dossier et fichier json avec les informations les plus importantes.
+L'interface de visualisation et les tableaux de bord interactifs sont accessibles en ligne à l'adresse suivante :
 
-On va illustrer avec le cas de  l'e-sport:
-
-On a dans data_recolt, chacun des scripts de traitement pour un endpoint particulier:
-
-/tournament
-/serie
-/matches
-/league
-
-Lors du traitement de chacun on les place en fonction du nom du jeu puis du nom tout court et on met le fichier par id 
-
-Par exemple :
-
-On obtiendra comme chemin suivant après le traitement des données de l'API:
-
-data_recolt\data\tournaments_data\Counter-Strike\Playoffs\22202.json
-
+**[Accéder à l'application Streamlit E-Sport](https://sportsphere--e-sport--su5tg7bewzslvsuaku85vv.streamlit.app/)**
