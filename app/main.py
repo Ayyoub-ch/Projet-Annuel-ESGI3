@@ -158,12 +158,13 @@ elif router_choice == "E-Sport":
         if moments == "Maintenant":
             
             videogame = st.selectbox("Jeu Vidéo :", jeux)
+            col1, col2 = st.columns(2)
             
             if videogame == "Call of Duty":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint)
                                                 
                     if api_response is None:
@@ -197,7 +198,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
             
@@ -205,7 +206,7 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint)
                                                                     
                     if api_response is None:
@@ -239,7 +240,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
 
@@ -247,7 +248,7 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint)
                     
                     if api_response is None:
@@ -281,7 +282,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
@@ -289,7 +290,7 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint)
                                         
                     if api_response is None:
@@ -324,7 +325,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
@@ -333,7 +334,7 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint)
                                         
                     if api_response is None:
@@ -368,7 +369,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
             
@@ -377,7 +378,7 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint)
                                                             
                     if api_response is None:
@@ -411,14 +412,14 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
             elif videogame == "Overwatch":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     
                     api_response = fetch_data(endpoint)
                     
@@ -455,7 +456,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")    
                     
                     
@@ -463,7 +464,7 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     
                     api_response = fetch_data(endpoint)
                                                             
@@ -499,7 +500,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
             
@@ -507,7 +508,7 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint)
                                                             
                     if api_response is None:
@@ -543,7 +544,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                 
@@ -551,7 +552,7 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/now"
                 filename = f"ligues_{videogame}_now.json"
                 
-                if st.button("Récupérer les données"):
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint)
                                                             
                     if api_response is None:
@@ -586,7 +587,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
@@ -605,7 +606,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
@@ -644,7 +646,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
@@ -658,7 +660,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                                                 
                     if api_response is None:
@@ -698,7 +701,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
             elif videogame == "Dota 2":
@@ -711,7 +714,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
@@ -750,7 +754,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                 
@@ -764,7 +768,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     
                     api_response = fetch_data(endpoint,params)
                                                             
@@ -805,7 +810,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "League of Legends":
@@ -819,7 +824,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
@@ -859,7 +865,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Mobile Legends : Bang Bang":
@@ -873,7 +879,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     
                     api_response = fetch_data(endpoint,params)
                                                             
@@ -914,7 +921,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Overwatch":
@@ -927,7 +934,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                     
                     if api_response is None:
@@ -967,7 +975,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(api_response)
-                    if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
                 
@@ -981,7 +989,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
@@ -1021,7 +1030,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Starcraft 2":
@@ -1034,7 +1043,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     
                     api_response = fetch_data(endpoint,params)
                                                             
@@ -1074,7 +1084,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                 
@@ -1088,7 +1098,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/period"
                 filename = f"ligues_{videogame}_period.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
@@ -1127,7 +1138,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
@@ -1143,7 +1154,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                                                 
                     if api_response is None:
@@ -1182,7 +1194,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
             elif videogame == "Counter Strike":
@@ -1193,7 +1205,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     
                     api_response = fetch_data(endpoint,params)
                                                                                 
@@ -1232,7 +1245,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
             elif videogame == "Dota 2":
@@ -1243,7 +1256,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                                                 
                     if api_response is None:
@@ -1282,7 +1296,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
             elif videogame == "King of Glory":
@@ -1293,7 +1307,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                                                 
                     if api_response is None:
@@ -1332,7 +1347,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "League of Legends":
@@ -1344,7 +1359,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                     
                     if api_response is None:
@@ -1382,7 +1398,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Mobile Legends : Bang Bang":
@@ -1394,7 +1410,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     
                     api_response = fetch_data(endpoint,params)
                                         
@@ -1433,7 +1450,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
             
@@ -1446,7 +1463,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     
                     api_response = fetch_data(endpoint,params)
                     
@@ -1486,7 +1504,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             
@@ -1498,7 +1516,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                         
                     if api_response is None:
@@ -1536,7 +1555,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
             elif videogame == "Starcraft 2":
@@ -1547,7 +1566,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                         
                     if api_response is None:
@@ -1585,7 +1605,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
             elif videogame == "Valorant":
@@ -1596,7 +1616,8 @@ elif router_choice == "E-Sport":
                 endpoint = f"/{cat}/{videogame}/date"
                 filename = f"ligues_{videogame}_date.json"
                 
-                if st.button("Récupérer les données"):
+                col1, col2 = st.columns(2)
+                if col1.button("Récupérer les données"):
                     api_response = fetch_data(endpoint,params)
                                                             
                     if api_response is None:
@@ -1634,7 +1655,7 @@ elif router_choice == "E-Sport":
                         st.dataframe(df)
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
         # Explications
@@ -1662,7 +1683,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint)
                                                                 
                         if api_response is None:
@@ -1713,7 +1735,7 @@ elif router_choice == "E-Sport":
                         
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                     
@@ -1721,7 +1743,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint)
                                                                                         
                         if api_response is None:
@@ -1771,7 +1794,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                             
@@ -1779,7 +1802,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint)
                                                                                                                 
                         if api_response is None:
@@ -1829,7 +1853,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                     
@@ -1837,7 +1861,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint)
                                                                                                                 
                         if api_response is None:
@@ -1885,7 +1910,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                 
@@ -1894,7 +1919,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint)
                                                                                                                 
                         if api_response is None:
@@ -1941,7 +1967,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                 
@@ -1950,7 +1976,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint)
                                                                                                                 
                         if api_response is None:
@@ -1997,7 +2024,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                     
@@ -2005,7 +2032,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         
                         api_response = fetch_data(endpoint,)
                                                     
@@ -2055,7 +2083,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
                 
@@ -2066,7 +2094,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,)
                                                                                                                 
                         if api_response is None:
@@ -2114,7 +2143,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                 
@@ -2122,7 +2151,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,)
                                                                                                                 
                         if api_response is None:
@@ -2170,7 +2200,7 @@ elif router_choice == "E-Sport":
                                                     
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                     
@@ -2178,7 +2208,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/now"
                     filename = f"series_{videogame}_now.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,)
                                                                                                                 
                         if api_response is None:
@@ -2228,7 +2259,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                     
@@ -2246,7 +2277,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -2298,7 +2330,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                         
@@ -2312,7 +2344,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                                                 
                         if api_response is None:
@@ -2364,7 +2397,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                             
@@ -2378,7 +2411,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                                                 
                         if api_response is None:
@@ -2430,7 +2464,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                     
@@ -2444,7 +2478,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                                             
                         if api_response is None:
@@ -2497,7 +2532,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                 
@@ -2512,7 +2547,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
                         date1_str = date1.strftime("%Y-%m-%d")
                         date2_str = date2.strftime("%Y-%m-%d")
                         params = f"date1={date1_str}&date2={date2_str}"
@@ -2558,7 +2594,7 @@ elif router_choice == "E-Sport":
                         
                         st.write("Données brutes :")
                         st.json(fetch_data(endpoint, params=params))
-                    if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                    if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                 
@@ -2573,7 +2609,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -2625,7 +2662,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                 elif videogame == "Overwatch":
@@ -2638,7 +2675,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                     
                         if api_response is None:
@@ -2690,7 +2728,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                         
                                         
@@ -2706,7 +2744,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -2758,7 +2797,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                 
@@ -2772,7 +2811,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -2824,7 +2864,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                     
@@ -2838,7 +2878,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/period"
                     filename = f"series_{videogame}_period.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -2890,7 +2931,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
         
                       
@@ -2907,7 +2948,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -2958,7 +3000,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
                         
@@ -2971,7 +3013,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -3022,7 +3065,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                             
                 elif videogame == "Dota 2":
@@ -3033,7 +3076,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -3084,7 +3128,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                 elif videogame == "King of Glory":
@@ -3095,7 +3139,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -3146,7 +3191,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
                 elif videogame == "League of Legends":
@@ -3158,7 +3203,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -3209,7 +3255,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                 elif videogame == "Mobile Legends : Bang Bang":
@@ -3221,7 +3267,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -3272,7 +3319,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
                     
@@ -3284,7 +3331,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         
                         api_response = fetch_data(endpoint,params)
                         
@@ -3336,7 +3384,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(api_response)
-                        if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
                 
@@ -3348,7 +3396,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -3399,7 +3448,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
                 elif videogame == "Starcraft 2":
@@ -3410,7 +3459,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données", on_click=fetch_data, args=(endpoint,params)):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -3461,7 +3511,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
                 elif videogame == "Valorant":
@@ -3472,7 +3522,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/{videogame}/date"
                     filename = f"series_{videogame}_date.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,params)
                                                         
                         if api_response is None:
@@ -3523,7 +3574,7 @@ elif router_choice == "E-Sport":
                             
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint, params=params))
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
         
             # Explications
@@ -3604,7 +3655,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                            api_response = fetch_data(endpoint,)
                                                                                
                            if api_response is None:
@@ -3679,7 +3731,7 @@ elif router_choice == "E-Sport":
                                 
                                 st.json(fetch_data(endpoint))
                                 
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
     
                     
@@ -3687,7 +3739,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                                                     
@@ -3763,7 +3816,7 @@ elif router_choice == "E-Sport":
                                 
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
         
                             
@@ -3771,7 +3824,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,)
                                                     
                             if api_response is None:
@@ -3840,7 +3894,7 @@ elif router_choice == "E-Sport":
                                                             
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
                         
@@ -3848,7 +3902,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                                                         
@@ -3914,7 +3969,7 @@ elif router_choice == "E-Sport":
                                                             
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
                     
@@ -3923,7 +3978,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                             
@@ -3991,7 +4047,7 @@ elif router_choice == "E-Sport":
                                                             
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
                         
@@ -4000,7 +4056,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,)
                                                     
                             if api_response is None:
@@ -4065,7 +4122,7 @@ elif router_choice == "E-Sport":
                                                             
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
         
                     
@@ -4073,7 +4130,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,)
                                                     
                             if api_response is None:
@@ -4137,7 +4195,7 @@ elif router_choice == "E-Sport":
                                                             
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                     
@@ -4146,7 +4204,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,)
                                                     
                             if api_response is None:
@@ -4210,7 +4269,7 @@ elif router_choice == "E-Sport":
                                                             
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
         
                     
@@ -4218,7 +4277,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                             
@@ -4294,7 +4354,7 @@ elif router_choice == "E-Sport":
 
                                 st.write("Données brutes :")
                                 st.json(api_response)
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
             
                         
@@ -4302,7 +4362,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"tournois_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,)
                                                     
                             if api_response is None:
@@ -4367,7 +4428,7 @@ elif router_choice == "E-Sport":
                                                             
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                 
                                 
@@ -4386,7 +4447,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                     
                             if api_response is None:
@@ -4460,7 +4522,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
@@ -4474,7 +4536,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                     
                             if api_response is None:
@@ -4548,7 +4611,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                             
                     if videogame == "Dota 2":
@@ -4561,7 +4624,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                     
                             if api_response is None:
@@ -4635,7 +4699,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")     
                     
                     if videogame == "King of Glory":
@@ -4648,7 +4712,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                             
                             if api_response is None:
@@ -4722,7 +4787,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")  
                             
                                    
@@ -4737,7 +4802,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -4812,7 +4878,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")  
                             
                             
@@ -4827,7 +4893,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                 
                             if api_response is None:
@@ -4901,7 +4968,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")          
                                 
                             
@@ -4916,7 +4983,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint,params)
                                                         
@@ -4992,7 +5060,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
                     
                     
@@ -5007,7 +5075,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                     
                             if api_response is None:
@@ -5081,7 +5150,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
                             
                             
@@ -5095,7 +5164,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                     
                             if api_response is None:
@@ -5169,7 +5239,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")  
                     
                     if videogame == "Valorant":
@@ -5182,7 +5252,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"tournois_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                     
                             if api_response is None:
@@ -5256,7 +5327,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint, params))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")  
                             
                 if moments == "Par Date":
@@ -5270,7 +5341,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                 
                             if api_response is None:
@@ -5346,7 +5418,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                 
                     elif videogame == "Counter Strike":
@@ -5356,7 +5428,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                                             
                             if api_response is None:
@@ -5437,7 +5510,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                     
                     elif videogame == "Dota 2":
@@ -5447,7 +5520,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                     
                             if api_response is None:
@@ -5528,7 +5602,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
                     elif videogame == "King of Glory":
@@ -5538,7 +5612,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint, params=params)
                             
@@ -5621,7 +5696,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
 
@@ -5633,7 +5708,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint, params=params)
                                                         
@@ -5716,7 +5792,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
                         
@@ -5728,7 +5804,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -5809,7 +5886,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
                     
@@ -5821,7 +5898,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint,params)
                             
@@ -5903,7 +5981,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
                     
@@ -5916,7 +5994,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                     
                             if api_response is None:
@@ -5997,7 +6076,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                     
@@ -6011,7 +6090,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                     
                             if api_response is None:
@@ -6092,7 +6172,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                         
                     elif videogame == "Valorant":
@@ -6102,7 +6182,8 @@ elif router_choice == "E-Sport":
                         }
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"tournois_{videogame}_date.json"
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                     
                             if api_response is None:
@@ -6183,7 +6264,7 @@ elif router_choice == "E-Sport":
                                     st.write("Données brutes :")
                                     st.json(fetch_data(endpoint, params))
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")            
                                                    
                 
@@ -6264,7 +6345,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données", on_click=fetch_data, args=(endpoint,)):
                             api_response = fetch_data(endpoint,)
                                                                                     
                             if api_response is None:
@@ -6363,7 +6445,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                 
                             
@@ -6372,7 +6454,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint)
                                                                                                                     
                             if api_response is None:
@@ -6470,7 +6553,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                             
@@ -6479,7 +6562,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint)
                                                                                                                     
                             if api_response is None:
@@ -6577,7 +6661,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                             
                             
@@ -6585,7 +6669,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                             
@@ -6684,7 +6769,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")        
                      
                      
@@ -6693,7 +6778,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint)
                                                                                                                     
                             if api_response is None:
@@ -6792,7 +6878,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")       
                             
 
@@ -6801,7 +6887,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint)
                                                                                                                     
                             if api_response is None:
@@ -6899,7 +6986,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(fetch_data(endpoint))
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
                             
 
@@ -6908,7 +6995,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                             
@@ -7007,7 +7095,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
                     
                     
@@ -7016,7 +7104,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                             
@@ -7115,7 +7204,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")        
                                 
                                 
@@ -7124,7 +7213,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                             
@@ -7223,7 +7313,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.") 
                                 
                                 
@@ -7231,7 +7321,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/now"
                         filename = f"matchs_{videogame}_now.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint)
                             
@@ -7331,7 +7422,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.") 
         
         
@@ -7350,7 +7441,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -7449,7 +7541,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                 
                             
@@ -7464,7 +7556,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                                                     
                             if api_response is None:
@@ -7562,7 +7655,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
 
                             
@@ -7577,7 +7670,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                                                     
                             if api_response is None:
@@ -7675,7 +7769,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                             
                             
@@ -7689,7 +7783,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint,params)
                             
@@ -7788,7 +7883,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")        
                         
                         
@@ -7804,7 +7899,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                                                     
                             if api_response is None:
@@ -7903,7 +7999,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")       
                             
 
@@ -7918,7 +8014,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                                                     
                             if api_response is None:
@@ -8016,7 +8113,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
                             
 
@@ -8031,7 +8128,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint,params)
                             
@@ -8130,7 +8228,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
                     
                     
@@ -8145,7 +8243,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint,params)
                             
@@ -8244,7 +8343,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")        
                                 
                                 
@@ -8259,7 +8358,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint,params)
                             
@@ -8358,7 +8458,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.") 
                                 
                                 
@@ -8372,7 +8472,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/period"
                         filename = f"matchs_{videogame}_period.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             
                             api_response = fetch_data(endpoint,params)
                             
@@ -8472,7 +8573,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.") 
                     
                     
@@ -8491,7 +8592,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -8602,7 +8704,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                     
                                 
@@ -8615,7 +8717,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -8726,7 +8829,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                             
@@ -8738,7 +8841,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -8849,7 +8953,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                             
@@ -8861,7 +8965,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -8972,7 +9077,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                         
@@ -8986,7 +9091,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                                                     
                             if api_response is None:
@@ -9085,7 +9191,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")       
                             
 
@@ -9098,7 +9204,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -9209,7 +9316,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
 
@@ -9222,7 +9329,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -9333,7 +9441,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                     
@@ -9346,7 +9454,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -9457,7 +9566,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                                 
@@ -9470,7 +9579,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -9581,7 +9691,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                                 
@@ -9593,7 +9703,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/date"
                         filename = f"matchs_{videogame}_date.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -9704,7 +9815,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                     
@@ -9727,7 +9838,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -9835,7 +9947,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                     
                                 
@@ -9854,7 +9966,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -9964,7 +10077,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                             
@@ -9982,7 +10095,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -10091,7 +10205,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                             
@@ -10109,7 +10223,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -10218,7 +10333,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                         
@@ -10238,7 +10353,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                                                                                     
                             if api_response is None:
@@ -10337,7 +10453,7 @@ elif router_choice == "E-Sport":
                                 st.write("Données brutes :")
                                 st.json(api_response)
                                 
-                            if st.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
+                            if col2.download_button(label="Télécharger les données",data=json.dumps(api_response, indent=4),file_name=filename,mime="application/json"):
                                 st.success(f"Les données ont été téléchargées sous le nom {filename}.")       
                             
 
@@ -10356,7 +10472,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -10465,7 +10582,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
 
@@ -10484,7 +10601,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -10593,7 +10711,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                     
@@ -10612,7 +10730,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -10721,7 +10840,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                                 
@@ -10740,7 +10859,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -10849,7 +10969,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                                             
                                 
@@ -10867,7 +10987,8 @@ elif router_choice == "E-Sport":
                         endpoint = f"/{cat}/{videogame}/time"
                         filename = f"matchs_{videogame}_time.json"
                         
-                        if st.button("Récupérer les données"):
+                        col1, col2 = st.columns(2)
+                        if col1.button("Récupérer les données"):
                             api_response = fetch_data(endpoint,params)
                                                         
                             if api_response is None:
@@ -10976,7 +11097,7 @@ elif router_choice == "E-Sport":
                                         st.write("Données brutes :")
                                         st.json(api_response)
                                     
-                                if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
+                                if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                     
                     
@@ -10985,7 +11106,8 @@ elif router_choice == "E-Sport":
                     endpoint = f"/{cat}/cancel"
                     filename = f"matchs_cancel.json"
                     
-                    if st.button("Récupérer les données"):
+                    col1, col2 = st.columns(2)
+                    if col1.button("Récupérer les données"):
                         api_response = fetch_data(endpoint,)
                                                         
                         if api_response is None:
@@ -11084,7 +11206,7 @@ elif router_choice == "E-Sport":
                             st.write("Données brutes :")
                             st.json(fetch_data(endpoint))
                             
-                        if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
+                        if col2.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                 
                 # Explications
