@@ -1,1 +1,84 @@
-/* Cette page contient les styles CSS. */
+/* ==========================================================================
+   STYLE CSS - APPLICATION OPEN DATA E-SPORT (FOND UNIFIÉ, SANS ENCADRÉS)
+   - Fond global : Dégradé radial violet sombre appliqué partout.
+   - Éléments (Tableaux, JSON, Sidebar) : Intégrés en douceur dans le thème.
+   - Boutons : VOLONTAIREMENT NON TOUCHÉS (laissés à l'identique).
+   ========================================================================== */
+
+/* 1. Fond global de l'application Streamlit */
+.stApp {
+    background: radial-gradient(circle at 50% 30%, #1a0b2e 0%, #0d0714 50%, #050308 100%);
+    color: #f1f5f9;
+}
+
+/* Style des boutons (st.button et st.download_button) */
+.stButton > button, .stDownloadButton > button {
+    background: linear-gradient(135deg, #6b21a8 0%, #4c1d95 100%);
+    color: #ffffff;
+    border: 1px solid #9333ea;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(147, 51, 234, 0.3);
+    transition: all 0.3s ease;
+}
+
+/* Effet au survol des boutons */
+.stButton > button:hover, .stDownloadButton > button:hover {
+    background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);
+    border-color: #c084fc;
+    box-shadow: 0 6px 16px rgba(168, 85, 247, 0.5);
+    color: #ffffff;
+}
+
+/* Masquer les éléments natifs superflus */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+
+/* 2. Harmonisation de tous les textes et titres en blanc cassé */
+h1, h2, h3, h4, h5, h6, p, span, label {
+    color: #f1f5f9 !important;
+}
+
+/* 3. Suppression totale des encadrés et boîtes rigides disgracieuses */
+div.stExpander, 
+div[data-testid="stVerticalBlock"] > div > div.stMarkdown,
+div[data-testid="stMetric"] {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0px;
+}
+
+/* 4. Tableaux de données (st.dataframe) : fond unifié semi-transparent */
+div[data-testid="stDataFrame"] {
+    border: 1px solid rgba(147, 51, 234, 0.25);
+    border-radius: 8px;
+    background-color: rgba(13, 7, 20, 0.5);
+}
+
+/* 5. Blocs de code et JSON : intégrés proprement dans l'ambiance sombre */
+pre, code, div[data-testid="stCodeBlock"] {
+    background-color: rgba(13, 7, 20, 0.6) !important;
+    border: 1px solid rgba(147, 51, 234, 0.2) !important;
+    border-radius: 8px !important;
+    color: #f1f5f9 !important;
+}
+
+/* Le JSON doit laisser apparaître le fond global de l'application. */
+div[data-testid="stJson"],
+div[data-testid="stJson"] .react-json-view {
+    background-color: transparent !important;
+}
+
+div[data-testid="stJson"] pre,
+div[data-testid="stJson"] code {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+/* 6. Panneau latéral (Sidebar) harmonisé */
+section[data-testid="stSidebar"] {
+    background-color: #09040e;
+    border-right: 1px solid rgba(147, 51, 234, 0.15);
+}

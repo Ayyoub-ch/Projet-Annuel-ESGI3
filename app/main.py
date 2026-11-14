@@ -113,6 +113,9 @@ router_choice = st.sidebar.radio(
 # Pages
 # ========================================
 
+with open("style.css") as f:
+    st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
 if router_choice =="Accueil":
     st.header("Bienvenue sur l'interface SportSphere pour les données E-Sports")
     
