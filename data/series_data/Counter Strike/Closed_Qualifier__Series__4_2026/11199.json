@@ -1,0 +1,91 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11199,
+        "NOM": "Closed_Qualifier__Series__4",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-11",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5551,
+        "NOM": "Exort Fiesta",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:07:12"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group C",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-16",
+            "HEURE DE FIN": "23:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:15:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group D",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-11",
+            "HEURE DE DEBUT": "12:00:00",
+            "DATE DE FIN": "2026-11-16",
+            "HEURE DE FIN": "23:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:23:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-16",
+            "HEURE DE FIN": "23:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:19:38",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group A",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "15:00:00",
+            "DATE DE FIN": "2026-11-16",
+            "HEURE DE FIN": "23:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:18:12",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

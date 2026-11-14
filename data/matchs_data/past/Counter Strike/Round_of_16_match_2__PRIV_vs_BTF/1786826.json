@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1786826,
+        "NOM": "Round_of_16_match_2__PRIV_vs_BTF",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "12:32:13",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "15:10:18",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "12:35:51",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238128,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2127,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "12:32:16",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "13:07:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139320,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238129,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2445,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "13:24:59",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "14:05:45",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138975,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238130,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2908,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "14:21:50",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "15:10:19",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139320,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139320,
+            "NOM": "PRIVATE",
+            "LOCALISATION": "RU",
+            "ACRONYME": "PRIV",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:06:28"
+        },
+        {
+            "ID": 138975,
+            "NOM": "Butterfly",
+            "LOCALISATION": "RU",
+            "ACRONYME": "BTF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:16:17"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139320
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138975
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22356,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "25000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "19:54:26",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11170,
+        "NOM": "Series #13 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "12:35:51"
+    }
+}

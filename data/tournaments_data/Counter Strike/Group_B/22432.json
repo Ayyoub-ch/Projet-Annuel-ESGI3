@@ -1,0 +1,474 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22432,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:19:38",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Winners match: ASTRON vs ABT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:11:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Elimination match: 4M vs DINERO",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "postponed",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:00:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "4M vs ASTRON",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:17:11",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "ABT vs DINERO",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 131984,
+            "NOM": "ABT Esports",
+            "LOCALISATION": "PT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:19:20",
+            "ACRONYME": "ABT"
+        },
+        {
+            "ID": 137551,
+            "NOM": "Four Magic",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:29:44",
+            "ACRONYME": "4M"
+        },
+        {
+            "ID": 139225,
+            "NOM": "DINERO",
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:19:21",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139578,
+            "NOM": "ASTRON",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:19:38",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 131984,
+                "NOM": "ABT Esports",
+                "LOCALISATION": "PT",
+                "ACRONYME": "ABT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:19:20"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 38171,
+                    "PSEUDO": "Thozor",
+                    "ROLE": null,
+                    "PRENOM": "Antonio",
+                    "NOM": "Ramos",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-25",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:24:17"
+                },
+                {
+                    "ID": 44957,
+                    "PSEUDO": "BeiranZz",
+                    "ROLE": null,
+                    "PRENOM": "Pedro",
+                    "NOM": "Santos",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:24:23"
+                },
+                {
+                    "ID": 50773,
+                    "PSEUDO": "Ruy2k",
+                    "ROLE": null,
+                    "PRENOM": "Rui",
+                    "NOM": "Araújo",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:24:22"
+                },
+                {
+                    "ID": 59116,
+                    "PSEUDO": "hK",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:24:20"
+                },
+                {
+                    "ID": 61284,
+                    "PSEUDO": "blaze",
+                    "ROLE": null,
+                    "PRENOM": "Alexandre",
+                    "NOM": "Alves",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:20"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137551,
+                "NOM": "Four Magic",
+                "LOCALISATION": "BR",
+                "ACRONYME": "4M",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:29:44"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 55885,
+                    "PSEUDO": "bekker",
+                    "ROLE": null,
+                    "PRENOM": "Tobias",
+                    "NOM": "Bekker",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:28"
+                },
+                {
+                    "ID": 59540,
+                    "PSEUDO": "statikS",
+                    "ROLE": null,
+                    "PRENOM": "Fynn",
+                    "NOM": "Szusdziara",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
+                },
+                {
+                    "ID": 61539,
+                    "PSEUDO": "LkS",
+                    "ROLE": null,
+                    "PRENOM": "Adrian ",
+                    "NOM": "Alexandru Dușmanu",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:28"
+                },
+                {
+                    "ID": 65974,
+                    "PSEUDO": "GeGo",
+                    "ROLE": null,
+                    "PRENOM": "Georgi",
+                    "NOM": "Gospodinov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
+                },
+                {
+                    "ID": 67965,
+                    "PSEUDO": "sensey",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:27"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139225,
+                "NOM": "DINERO",
+                "LOCALISATION": "UA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30932,
+                    "PSEUDO": "neiter",
+                    "ROLE": null,
+                    "PRENOM": "Roman",
+                    "NOM": "Brul",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2001-12-01",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                },
+                {
+                    "ID": 51700,
+                    "PSEUDO": "s1an",
+                    "ROLE": null,
+                    "PRENOM": "Petro ",
+                    "NOM": "Melezhyk",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                },
+                {
+                    "ID": 55028,
+                    "PSEUDO": "wast3d",
+                    "ROLE": null,
+                    "PRENOM": "Oleh ",
+                    "NOM": "Hrek",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                },
+                {
+                    "ID": 66450,
+                    "PSEUDO": "SUNset",
+                    "ROLE": null,
+                    "PRENOM": "Pavlo",
+                    "NOM": "Shchepaniuk",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                },
+                {
+                    "ID": 66451,
+                    "PSEUDO": "w1deboy",
+                    "ROLE": null,
+                    "PRENOM": "Nazarii",
+                    "NOM": "Shovkoplias",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139578,
+                "NOM": "ASTRON",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:19:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54482,
+                    "PSEUDO": "xxlafy",
+                    "ROLE": null,
+                    "PRENOM": "Vladyslav",
+                    "NOM": "Rudas",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                },
+                {
+                    "ID": 56537,
+                    "PSEUDO": "shen",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:24:20"
+                },
+                {
+                    "ID": 66383,
+                    "PSEUDO": "Trozor",
+                    "ROLE": null,
+                    "PRENOM": "Dmytro",
+                    "NOM": "Lishchenko",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:19:21"
+                },
+                {
+                    "ID": 68921,
+                    "PSEUDO": "letmecry",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:19:51"
+                },
+                {
+                    "ID": 68922,
+                    "PSEUDO": "Rob1N",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:19:53"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Exort Fiesta",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:07:12"
+    },
+    "SERIE": {
+        "NOM": "Closed Qualifier: Series #4 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+        "ID DU VAINQUEUR": null
+    }
+}

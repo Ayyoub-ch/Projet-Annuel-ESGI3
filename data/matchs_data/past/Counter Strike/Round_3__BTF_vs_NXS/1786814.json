@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1786814,
+        "NOM": "Round_3__BTF_vs_NXS",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "15:05:03",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "17:36:02",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "12:35:51",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238092,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2156,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "15:05:06",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "15:41:02",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138975,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238093,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2044,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "15:56:33",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "16:30:38",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126699,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238094,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2727,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "16:50:35",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "17:36:03",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138975,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138975,
+            "NOM": "Butterfly",
+            "LOCALISATION": "RU",
+            "ACRONYME": "BTF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:19:04"
+        },
+        {
+            "ID": 126699,
+            "NOM": "Nexus",
+            "LOCALISATION": "RO",
+            "ACRONYME": "NXS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:48:27"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138975
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 126699
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22355,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-07",
+        "HEURE DE MODIFICATION": "09:52:20",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11170,
+        "NOM": "Series #13 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "12:35:51"
+    }
+}

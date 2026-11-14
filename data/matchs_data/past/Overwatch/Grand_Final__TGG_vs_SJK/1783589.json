@@ -1,0 +1,148 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1783589,
+        "NOM": "Grand_Final__TGG_vs_SJK",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 4,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "16:10:45",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "17:09:15",
+        "DATE DE MODIFICATION": "2026-10-31",
+        "HEURE DE MODIFICATION": "18:11:41",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 31993,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 622,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "16:10:45",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "16:21:07",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136940,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31994,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 417,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "16:29:05",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "16:36:02",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136940,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31995,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 754,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "16:39:35",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "16:52:10",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136940,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31996,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 939,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "16:53:36",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "17:09:15",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136940,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136940,
+            "NOM": "The Gatos Guapos",
+            "LOCALISATION": "AU",
+            "ACRONYME": "TGG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+        },
+        {
+            "ID": 139197,
+            "NOM": "SeijiKING",
+            "LOCALISATION": "",
+            "ACRONYME": "SJK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:15:51"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 4,
+            "ID EQUIPE": 136940
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139197
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22339,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": "6,000 United States Dollar",
+        "VAINQUEUR": 136940,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "19:30:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "17:09:16",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11162,
+        "NOM": "Pacific Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "19:30:00",
+        "DATE DE MODIFICATION": "2026-10-31",
+        "HEURE DE MODIFICATION": "18:11:41"
+    }
+}

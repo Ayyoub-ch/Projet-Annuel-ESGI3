@@ -1,0 +1,148 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1784666,
+        "NOM": "Lower_Bracket_Semifinal__OUG_vs_AG",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "09:05:56",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "10:24:45",
+        "DATE DE MODIFICATION": "2026-09-30",
+        "HEURE DE MODIFICATION": "14:46:46",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 32030,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 811,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "09:05:56",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "09:19:28",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138367,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 32031,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 754,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "09:27:18",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "09:39:52",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139333,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 32032,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 678,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "09:47:55",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "09:59:13",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138367,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 32033,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1150,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "10:05:35",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "10:24:46",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138367,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139333,
+            "NOM": "OU Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "OUG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:53:26"
+        },
+        {
+            "ID": 138367,
+            "NOM": "All Gamers",
+            "LOCALISATION": "CN",
+            "ACRONYME": "AG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:53:28"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139333
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 138367
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22345,
+        "NOM": "Regional Playoffs",
+        "TYPE": "online",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": "700000 Chinese Yuan",
+        "VAINQUEUR": 137196,
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "16:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "14:05:26",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11027,
+        "NOM": "China Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-03",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-09-30",
+        "HEURE DE MODIFICATION": "14:46:46"
+    }
+}

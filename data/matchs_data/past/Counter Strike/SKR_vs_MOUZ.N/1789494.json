@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1789494,
+        "NOM": "SKR_vs_MOUZ.N",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "15:15:04",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "17:39:22",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238638,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2716,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "15:15:06",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "16:00:22",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139343,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238639,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2224,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "16:11:18",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "16:48:22",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129160,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238640,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2353,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "17:00:09",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "17:39:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129160,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139343,
+            "NOM": "Sökerorg",
+            "LOCALISATION": "",
+            "ACRONYME": "SKR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:09:36"
+        },
+        {
+            "ID": 129160,
+            "NOM": "MOUZ NXT",
+            "LOCALISATION": "DE",
+            "ACRONYME": "MOUZ.N",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "01:22:26"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139343
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 129160
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22381,
+        "NOM": "Group C",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "16:09:36",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11177,
+        "NOM": "Season 10 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1781487,
+        "NOM": "Third_Place_Match__NAVI_vs_BB",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "04:06:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "05:53:27",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "12:56:55",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-11-08T03:45:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237727,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2647,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "04:06:00",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "04:50:07",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3216,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237728,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2686,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "05:08:41",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "05:53:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3216,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 3216,
+            "NOM": "Natus Vincere",
+            "LOCALISATION": "UA",
+            "ACRONYME": "NAVI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:45"
+        },
+        {
+            "ID": 133458,
+            "NOM": "BetBoom Team",
+            "LOCALISATION": "RU",
+            "ACRONYME": "BB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 3216
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 133458
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22333,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "s",
+        "CASH PRIZE": "1,250,000 United States Dollar",
+        "VAINQUEUR": 3240,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "06:30:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "10:08:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "12:56:55",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 4161,
+        "NOM": "IEM",
+        "DATE DE MODIFICATION": "2019-03-04",
+        "HEURE DE MODIFICATION": "11:00:40"
+    },
+    "SERIE": {
+        "ID": 11136,
+        "NOM": "Beijing 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": 3240,
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "02:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "10:08:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "12:56:55"
+    }
+}

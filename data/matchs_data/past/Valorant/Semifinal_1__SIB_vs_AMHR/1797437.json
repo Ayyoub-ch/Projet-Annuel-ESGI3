@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1797437,
+        "NOM": "Semifinal_1__SIB_vs_AMHR",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "05:35:21",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "08:07:08",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "16:40:24",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52830,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2158,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "05:35:21",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "06:11:20",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139534,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52831,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2579,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "06:25:47",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "07:08:46",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135962,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52832,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2800,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "07:20:28",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "08:07:09",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139534,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135962,
+            "NOM": "Team SEIBI",
+            "LOCALISATION": "JP",
+            "ACRONYME": "SIB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:10:43"
+        },
+        {
+            "ID": 139534,
+            "NOM": "雨のち晴れ",
+            "LOCALISATION": "JP",
+            "ACRONYME": "AMHR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:42:22"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135962
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139534
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22403,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "JP",
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": "1000000 Japanese Yen",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "05:30:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "07:42:22",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4860,
+        "NOM": "Asia Pacific Predator League",
+        "DATE DE MODIFICATION": "2024-01-06",
+        "HEURE DE MODIFICATION": "09:08:33"
+    },
+    "SERIE": {
+        "ID": 11186,
+        "NOM": "Japan 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "05:30:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "16:40:24"
+    }
+}

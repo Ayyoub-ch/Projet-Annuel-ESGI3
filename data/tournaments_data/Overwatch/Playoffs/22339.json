@@ -1,0 +1,578 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22339,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Overwatch",
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "17:09:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:18:48",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: TGG vs Stronghold",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "first_to",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-09",
+            "HEURE PRÉVUE": "11:20:00",
+            "DATE DE DEBUT": "2026-11-09",
+            "HEURE DE DEBUT": "2026-11-09",
+            "DATE DE FIN": "2026-11-09",
+            "HEURE DE FIN": "2026-11-09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:12:53",
+            "PRIZEPOOL": "6,000 United States Dollar",
+            "SLUG": "ow-overwatch-champions-series-pacific-stage-3-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "th",
+                "LIEN BRUTE": "https://www.twitch.tv/ow_esports_th"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: SJK vs BEN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "first_to",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-09",
+            "HEURE PRÉVUE": "12:30:00",
+            "DATE DE DEBUT": "2026-11-09",
+            "HEURE DE DEBUT": "2026-11-09",
+            "DATE DE FIN": "2026-11-09",
+            "HEURE DE FIN": "2026-11-09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:21:06",
+            "PRIZEPOOL": "6,000 United States Dollar",
+            "SLUG": "ow-overwatch-champions-series-pacific-stage-3-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "th",
+                "LIEN BRUTE": "https://www.twitch.tv/ow_esports_th"
+            }
+        },
+        {
+            "NOM": "Third Place Match: Stronghold vs BEN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "first_to",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-09",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-09",
+            "HEURE DE DEBUT": "2026-11-09",
+            "DATE DE FIN": "2026-11-09",
+            "HEURE DE FIN": "2026-11-09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:54:28",
+            "PRIZEPOOL": "6,000 United States Dollar",
+            "SLUG": "ow-overwatch-champions-series-pacific-stage-3-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "th",
+                "LIEN BRUTE": "https://www.twitch.tv/ow_esports_th"
+            }
+        },
+        {
+            "NOM": "Grand Final: TGG vs SJK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "first_to",
+            "NOMBRE DE PARTIES": 4,
+            "DATE PRÉVUE": "2026-11-09",
+            "HEURE PRÉVUE": "16:15:00",
+            "DATE DE DEBUT": "2026-11-09",
+            "HEURE DE DEBUT": "2026-11-09",
+            "DATE DE FIN": "2026-11-09",
+            "HEURE DE FIN": "2026-11-09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:09:16",
+            "PRIZEPOOL": "6,000 United States Dollar",
+            "SLUG": "ow-overwatch-champions-series-pacific-stage-3-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "th",
+                "LIEN BRUTE": "https://www.twitch.tv/ow_esports_th"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 136940,
+            "NOM": "The Gatos Guapos",
+            "LOCALISATION": "AU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:14:56",
+            "ACRONYME": "TGG"
+        },
+        {
+            "ID": 137299,
+            "NOM": "Stronghold",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:01:24",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139197,
+            "NOM": "SeijiKING",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:00:05",
+            "ACRONYME": "SJK"
+        },
+        {
+            "ID": 139484,
+            "NOM": "Team Benxxn",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:15:52",
+            "ACRONYME": "BEN"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 136940,
+                "NOM": "The Gatos Guapos",
+                "LOCALISATION": "AU",
+                "ACRONYME": "TGG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17318,
+                    "PSEUDO": "Punk",
+                    "ROLE": "Flex",
+                    "PRENOM": "Leyton",
+                    "NOM": "Gilchrist",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-10-22",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:14:55"
+                },
+                {
+                    "ID": 18396,
+                    "PSEUDO": "ColourHex",
+                    "ROLE": "damage",
+                    "PRENOM": "Kelsey",
+                    "NOM": "Birse",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1997-11-17",
+                    "NATIONALITE": "NZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+                },
+                {
+                    "ID": 24399,
+                    "PSEUDO": "kame",
+                    "ROLE": null,
+                    "PRENOM": "Marcus ",
+                    "NOM": "Kwa",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-05",
+                    "NATIONALITE": "SG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+                },
+                {
+                    "ID": 51104,
+                    "PSEUDO": "Ackyyy",
+                    "ROLE": "support",
+                    "PRENOM": "Isaac ",
+                    "NOM": "Berry",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-11-05",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+                },
+                {
+                    "ID": 53265,
+                    "PSEUDO": "sgy",
+                    "ROLE": "damage",
+                    "PRENOM": "Joshua",
+                    "NOM": "Lim",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-09-11",
+                    "NATIONALITE": "SG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+                },
+                {
+                    "ID": 58946,
+                    "PSEUDO": "Regr3T",
+                    "ROLE": "damage",
+                    "PRENOM": "Gabriel",
+                    "NOM": "Walsh",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-18",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+                },
+                {
+                    "ID": 60341,
+                    "PSEUDO": "hamster",
+                    "ROLE": "support",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137299,
+                "NOM": "Stronghold",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:01:24"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30915,
+                    "PSEUDO": "Abbs",
+                    "ROLE": null,
+                    "PRENOM": "Aabid",
+                    "NOM": "Chaudhry",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-02-06",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 53242,
+                    "PSEUDO": "Hope",
+                    "ROLE": "damage",
+                    "PRENOM": "Jerry",
+                    "NOM": "Ho",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-20",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:51:10"
+                },
+                {
+                    "ID": 53249,
+                    "PSEUDO": "Lumi",
+                    "ROLE": null,
+                    "PRENOM": "Manfred",
+                    "NOM": "Sit",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-07",
+                    "NATIONALITE": "SG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 53279,
+                    "PSEUDO": "Yunko",
+                    "ROLE": null,
+                    "PRENOM": "Ang Rui",
+                    "NOM": "Ze",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-24",
+                    "NATIONALITE": "SG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 58939,
+                    "PSEUDO": "Jae",
+                    "ROLE": null,
+                    "PRENOM": "Jaylen",
+                    "NOM": "Cuthbertson",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-28",
+                    "NATIONALITE": "VN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 61639,
+                    "PSEUDO": "Pugz",
+                    "ROLE": "support",
+                    "PRENOM": "Jasper",
+                    "NOM": "Bennett",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:52:00"
+                },
+                {
+                    "ID": 61823,
+                    "PSEUDO": "Setsuna",
+                    "ROLE": "damage",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-10-31",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:01:24"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139197,
+                "NOM": "SeijiKING",
+                "LOCALISATION": "",
+                "ACRONYME": "SJK",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:00:05"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 51109,
+                    "PSEUDO": "HyVision",
+                    "ROLE": null,
+                    "PRENOM": "Nathawit ",
+                    "NOM": "Prajong",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-11-26",
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:51"
+                },
+                {
+                    "ID": 58944,
+                    "PSEUDO": "Beeple",
+                    "ROLE": null,
+                    "PRENOM": "Luca",
+                    "NOM": "Nicolopoulos",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-26",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:51"
+                },
+                {
+                    "ID": 60275,
+                    "PSEUDO": "Sp1nel",
+                    "ROLE": null,
+                    "PRENOM": "Chang-sub",
+                    "NOM": "Lee ",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-11",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:00:05"
+                },
+                {
+                    "ID": 61636,
+                    "PSEUDO": "Jamorant",
+                    "ROLE": null,
+                    "PRENOM": "Harun",
+                    "NOM": "Rashid",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-09",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:51"
+                },
+                {
+                    "ID": 66294,
+                    "PSEUDO": "tavi",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:51"
+                },
+                {
+                    "ID": 67542,
+                    "PSEUDO": "Kamo",
+                    "ROLE": null,
+                    "PRENOM": "Su-ho",
+                    "NOM": "Lee",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-16",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:51"
+                },
+                {
+                    "ID": 68632,
+                    "PSEUDO": "Avianne",
+                    "ROLE": "tank",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:51"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139484,
+                "NOM": "Team Benxxn",
+                "LOCALISATION": "",
+                "ACRONYME": "BEN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 58947,
+                    "PSEUDO": "Despair",
+                    "ROLE": null,
+                    "PRENOM": "Choy",
+                    "NOM": "Yu-ting",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-06-12",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 65122,
+                    "PSEUDO": "brysonbtw",
+                    "ROLE": null,
+                    "PRENOM": "Ho Tsz",
+                    "NOM": "Kit",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-09-10",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 65126,
+                    "PSEUDO": "FEI",
+                    "ROLE": null,
+                    "PRENOM": "Sung",
+                    "NOM": "Hsia-fei",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-24",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 65789,
+                    "PSEUDO": "Zephyr",
+                    "ROLE": null,
+                    "PRENOM": "Yu-li",
+                    "NOM": "Lai",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-03",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 68628,
+                    "PSEUDO": "KarsonLo",
+                    "ROLE": "tank",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 68629,
+                    "PSEUDO": "Senorita",
+                    "ROLE": "tank",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                },
+                {
+                    "ID": 68630,
+                    "PSEUDO": "RoundCat",
+                    "ROLE": "support",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "OCS",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-03-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "NOM": "Pacific Stage 3 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:18:48",
+        "ID DU VAINQUEUR": null
+    }
+}

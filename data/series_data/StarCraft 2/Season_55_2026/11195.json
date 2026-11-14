@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11195,
+        "NOM": "Season_55_2026",
+        "JEU VIDEO": "StarCraft 2",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:54:21",
+        "ANNEE": 2026,
+        "SAISON": "55"
+    },
+    "LIGUE": {
+        "ID": 5310,
+        "NOM": "LiuLi Cup",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-10-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:34:31"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "CN",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "11:00:00",
+            "DATE DE FIN": "2026-11-18",
+            "HEURE DE FIN": "14:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:57:49",
+            "PRIZEPOOL": "850 United States Dollar",
+            "SLUG": "starcraft-2-liuli-cup-55-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

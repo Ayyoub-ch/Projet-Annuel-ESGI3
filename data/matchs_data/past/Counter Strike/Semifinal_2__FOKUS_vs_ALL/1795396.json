@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1795396,
+        "NOM": "Semifinal_2__FOKUS_vs_ALL",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "14:03:04",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "17:04:11",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "09:50:34",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238865,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2733,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "14:03:05",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "14:48:39",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133725,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238866,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3681,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "14:56:55",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "15:58:17",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137699,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238867,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3314,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "16:08:57",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "17:04:12",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137699,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137699,
+            "NOM": "FOKUS",
+            "LOCALISATION": "",
+            "ACRONYME": "FOKUS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:37:10"
+        },
+        {
+            "ID": 133725,
+            "NOM": "Alliance",
+            "LOCALISATION": "SE",
+            "ACRONYME": "ALL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:37:09"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137699
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 133725
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22412,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "7000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "19:05:21",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4734,
+        "NOM": "ESL Challenger League",
+        "DATE DE MODIFICATION": "2022-01-19",
+        "HEURE DE MODIFICATION": "21:26:41"
+    },
+    "SERIE": {
+        "ID": 11188,
+        "NOM": "Europe Cup #11 season 52 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "09:50:34"
+    }
+}

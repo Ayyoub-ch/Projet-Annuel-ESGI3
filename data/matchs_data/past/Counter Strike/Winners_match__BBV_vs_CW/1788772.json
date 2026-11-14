@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1788772,
+        "NOM": "Winners_match__BBV_vs_CW",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "09:11:20",
+        "DATE DE FIN": "2026-11-10",
+        "HEURE DE FIN": "10:47:31",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "07:40:35",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238411,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2226,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "09:11:20",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "09:48:27",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134261,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238412,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2027,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "10:13:44",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "10:47:31",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134261,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139500,
+            "NOM": "Bad Beavers",
+            "LOCALISATION": "TR",
+            "ACRONYME": "BBV",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:11:32"
+        },
+        {
+            "ID": 134261,
+            "NOM": "Copenhagen Wolves",
+            "LOCALISATION": "US",
+            "ACRONYME": "CW",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:49:58"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139500
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 134261
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22374,
+        "NOM": "Group D",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 134261,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-10",
+        "HEURE DE MODIFICATION": "10:47:32",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5078,
+        "NOM": "United21",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:36:10"
+    },
+    "SERIE": {
+        "ID": 11173,
+        "NOM": "Season 58 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "07:40:35"
+    }
+}

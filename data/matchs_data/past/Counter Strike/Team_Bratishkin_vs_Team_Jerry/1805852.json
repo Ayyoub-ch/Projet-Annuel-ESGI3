@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1805852,
+        "NOM": "Team_Bratishkin_vs_Team_Jerry",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "10:32:07",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "13:08:47",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "10:38:48",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239281,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2715,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "10:32:07",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "11:17:23",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139587,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239282,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2222,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "11:28:26",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "12:05:28",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138137,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239283,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3066,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "12:17:41",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "13:08:47",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139587,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138137,
+            "NOM": "Team Bratishkin",
+            "LOCALISATION": "RU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:15:25"
+        },
+        {
+            "ID": 139587,
+            "NOM": "Team Jerry",
+            "LOCALISATION": "RU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:38:31"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138137
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139587
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22440,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "11:37:22",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5500,
+        "NOM": "Winline Star Series",
+        "DATE DE MODIFICATION": "2026-02-24",
+        "HEURE DE MODIFICATION": "13:21:41"
+    },
+    "SERIE": {
+        "ID": 11201,
+        "NOM": "Season 4 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "10:38:48"
+    }
+}

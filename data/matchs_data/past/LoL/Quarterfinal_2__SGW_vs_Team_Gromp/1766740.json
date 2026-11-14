@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1766740,
+        "NOM": "Quarterfinal_2__SGW_vs_Team_Gromp",
+        "JEU VIDEO": "LoL",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "16.22.1",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "07:57:13",
+        "DATE DE FIN": "2026-11-10",
+        "HEURE DE FIN": "10:15:09",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "11:44:59",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 284875,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1545,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "07:57:13",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "08:31:22",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138127,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284876,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2297,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "08:42:46",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "09:31:54",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138127,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284877,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1467,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "09:44:05",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "10:15:09",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138127,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138127,
+            "NOM": "Saigon Warriors",
+            "LOCALISATION": "VN",
+            "ACRONYME": "SGW",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:59:23"
+        },
+        {
+            "ID": 139117,
+            "NOM": "Team Gromp",
+            "LOCALISATION": "AU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:32:30"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 138127
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139117
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22293,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "VN",
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "10:32:31",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5351,
+        "NOM": "LCP",
+        "DATE DE MODIFICATION": "2025-01-06",
+        "HEURE DE MODIFICATION": "09:48:59"
+    },
+    "SERIE": {
+        "ID": 11144,
+        "NOM": "Promotion 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "11:44:59"
+    }
+}

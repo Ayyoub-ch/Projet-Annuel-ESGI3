@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1783587,
+        "NOM": "Semifinal_1__TGG_vs_Stronghold",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "11:22:54",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "12:12:51",
+        "DATE DE MODIFICATION": "2026-10-31",
+        "HEURE DE MODIFICATION": "18:11:41",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 31979,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1207,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "11:22:54",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "11:43:02",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136940,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31980,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 752,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "11:44:25",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "11:56:58",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136940,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 31981,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 581,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "12:03:10",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "12:12:52",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136940,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136940,
+            "NOM": "The Gatos Guapos",
+            "LOCALISATION": "AU",
+            "ACRONYME": "TGG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:14:56"
+        },
+        {
+            "ID": 137299,
+            "NOM": "Stronghold",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:15:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 136940
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 137299
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22339,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": "6,000 United States Dollar",
+        "VAINQUEUR": 136940,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "19:30:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "17:09:16",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11162,
+        "NOM": "Pacific Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "19:30:00",
+        "DATE DE MODIFICATION": "2026-10-31",
+        "HEURE DE MODIFICATION": "18:11:41"
+    }
+}

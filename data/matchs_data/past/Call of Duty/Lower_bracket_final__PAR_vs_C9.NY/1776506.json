@@ -1,0 +1,148 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1776506,
+        "NOM": "Lower_bracket_final__PAR_vs_C9.NY",
+        "JEU VIDEO": "Call of Duty",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "21:52:54",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "22:48:20",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "14:04:02",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 9944,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 484,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "21:52:54",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "22:00:58",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137632,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9945,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 839,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "22:04:40",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "22:18:40",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135904,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9946,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 752,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "22:21:46",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "22:34:19",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137632,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9947,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 521,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "22:39:39",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "22:48:20",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137632,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137632,
+            "NOM": "Paris Gentle Mates",
+            "LOCALISATION": "FR",
+            "ACRONYME": "PAR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:45:25"
+        },
+        {
+            "ID": 135904,
+            "NOM": "Cloud9 New York",
+            "LOCALISATION": "US",
+            "ACRONYME": "C9.NY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:45:21"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 137632
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135904
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22323,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "s",
+        "CASH PRIZE": "100000 United States Dollar",
+        "VAINQUEUR": 137601,
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "00:55:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "14:04:02",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5577,
+        "NOM": "Monster Launch Invitational",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:56:36"
+    },
+    "SERIE": {
+        "ID": 11150,
+        "NOM": "2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": 137601,
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "00:55:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "14:04:02"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11101,
+        "NOM": "Bucharest_Open_Qualifier__1",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-10-11",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-10-13",
+        "HEURE DE FIN": "00:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:58:38",
+        "ANNEE": 2027,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5365,
+        "NOM": "PGL",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-02-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:08:30"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-10-11",
+            "HEURE DE DEBUT": "16:10:00",
+            "DATE DE FIN": "2026-10-13",
+            "HEURE DE FIN": "00:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:06:09",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-bucharest-open-qualifier-1-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

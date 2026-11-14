@@ -1,0 +1,163 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1788781,
+        "NOM": "Upper_bracket_round_1_match_4__Percival_vs_Shameless",
+        "JEU VIDEO": "StarCraft 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "13:15:41",
+        "DATE DE FIN": "2026-11-10",
+        "HEURE DE FIN": "14:15:35",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "08:12:48",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19659,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 501,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "13:15:42",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "13:24:03",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 58653,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19660,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 613,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "13:25:02",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "13:35:15",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 58653,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19661,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 810,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "13:38:25",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "13:51:55",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 61136,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19662,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 660,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "13:56:35",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "14:07:36",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 61136,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19663,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 378,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "14:09:17",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "14:15:35",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 58653,
+            "TYPE DU VAINQUEUR": "Player"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 58653,
+            "NOM": "Percival",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:28"
+        },
+        {
+            "ID": 61136,
+            "NOM": "Shameless",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:28"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22375,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "a",
+        "CASH PRIZE": "3,500 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "08:12:48",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4840,
+        "NOM": "WardiTV",
+        "DATE DE MODIFICATION": "2024-04-17",
+        "HEURE DE MODIFICATION": "21:06:28"
+    },
+    "SERIE": {
+        "ID": 11174,
+        "NOM": "Championship Not-Summer 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "08:12:48"
+    }
+}

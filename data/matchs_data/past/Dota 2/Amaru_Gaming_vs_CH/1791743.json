@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1791743,
+        "NOM": "Amaru_Gaming_vs_CH",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "16:14:08",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "18:21:32",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "14:36:27",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741279,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1854,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "16:14:08",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "17:01:40",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139339,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741280,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3836,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "17:17:36",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "18:21:33",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139339,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137685,
+            "NOM": "Amaru Gaming",
+            "LOCALISATION": "PE",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:20:34"
+        },
+        {
+            "ID": 139339,
+            "NOM": "CyberHero",
+            "LOCALISATION": "RU",
+            "ACRONYME": "CH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:09:16"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 137685
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139339
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22390,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-11",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "18:22:58",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4125,
+        "NOM": "DreamLeague",
+        "DATE DE MODIFICATION": "2019-03-05",
+        "HEURE DE MODIFICATION": "11:02:02"
+    },
+    "SERIE": {
+        "ID": 11182,
+        "NOM": "Division 2 season 5 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-19",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "14:36:27"
+    }
+}

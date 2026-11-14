@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1805880,
+        "NOM": "Victory_No_Limits_vs_AT",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "10:29:51",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "12:51:01",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52958,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2355,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "10:29:51",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "11:09:06",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139027,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52959,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2497,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "11:21:56",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "12:03:34",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139455,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52960,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2103,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "12:15:58",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "12:51:01",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139027,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139455,
+            "NOM": "Victory No Limits",
+            "LOCALISATION": "CN",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:54:46"
+        },
+        {
+            "ID": 139027,
+            "NOM": "A Team",
+            "LOCALISATION": "CN",
+            "ACRONYME": "AT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:54:45"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139455
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139027
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22442,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "19:55:51",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5585,
+        "NOM": "China National Tournament",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18"
+    },
+    "SERIE": {
+        "ID": 11202,
+        "NOM": "Split Omega: Pro Division 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18"
+    }
+}

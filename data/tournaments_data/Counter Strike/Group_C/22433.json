@@ -1,0 +1,474 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22433,
+        "NOM": "Group_C",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-11",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:15:22",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Winners match: FCF vs evermore",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "15:15:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:44:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "FCF vs EP",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Ryvex vs evermore",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-11",
+            "HEURE PRÉVUE": "15:20:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:52:20",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Elimination Match: EP vs Ryvex",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:18:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135978,
+            "NOM": "eternal premium",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:21:45",
+            "ACRONYME": "EP"
+        },
+        {
+            "ID": 137271,
+            "NOM": "FC Famalicão Esports",
+            "LOCALISATION": "PT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:21:47",
+            "ACRONYME": "FCF"
+        },
+        {
+            "ID": 139041,
+            "NOM": "Ryvex",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:21:48",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139579,
+            "NOM": "evermore",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:15:22",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135978,
+                "NOM": "eternal premium",
+                "LOCALISATION": "RU",
+                "ACRONYME": "EP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:21:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 62207,
+                    "PSEUDO": "tokyoshi",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Litovchenko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:45"
+                },
+                {
+                    "ID": 63744,
+                    "PSEUDO": "dazzy_y",
+                    "ROLE": null,
+                    "PRENOM": "Dmitriy",
+                    "NOM": "Kozhemyako",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:44"
+                },
+                {
+                    "ID": 63745,
+                    "PSEUDO": "P1kan0",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Tsulenkov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:45"
+                },
+                {
+                    "ID": 66538,
+                    "PSEUDO": "Innerpeace",
+                    "ROLE": null,
+                    "PRENOM": "Grigoriy",
+                    "NOM": "Shestakov",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:45"
+                },
+                {
+                    "ID": 67251,
+                    "PSEUDO": "saizius",
+                    "ROLE": null,
+                    "PRENOM": "Andrey",
+                    "NOM": "Sychev",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:45"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137271,
+                "NOM": "FC Famalicão Esports",
+                "LOCALISATION": "PT",
+                "ACRONYME": "FCF",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:21:47"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28050,
+                    "PSEUDO": "rafaxF",
+                    "ROLE": null,
+                    "PRENOM": "Rafael",
+                    "NOM": "Faria",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-03-16",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:45"
+                },
+                {
+                    "ID": 29857,
+                    "PSEUDO": "snapy",
+                    "ROLE": null,
+                    "PRENOM": "DIOGO ",
+                    "NOM": "RODRIGUES",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-09-20",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:46"
+                },
+                {
+                    "ID": 36939,
+                    "PSEUDO": "opdust",
+                    "ROLE": null,
+                    "PRENOM": "Tiago",
+                    "NOM": "Simão",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:47"
+                },
+                {
+                    "ID": 37345,
+                    "PSEUDO": "seabraez",
+                    "ROLE": null,
+                    "PRENOM": "João",
+                    "NOM": "Seabra",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-14",
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:46"
+                },
+                {
+                    "ID": 54138,
+                    "PSEUDO": "Moretz",
+                    "ROLE": null,
+                    "PRENOM": "Dinis",
+                    "NOM": "Jalles",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:47"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139041,
+                "NOM": "Ryvex",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:21:48"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23127,
+                    "PSEUDO": "jeyN",
+                    "ROLE": null,
+                    "PRENOM": "Jérémy",
+                    "NOM": "Nguyen",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-15",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:47"
+                },
+                {
+                    "ID": 24721,
+                    "PSEUDO": "Swaggy",
+                    "ROLE": null,
+                    "PRENOM": "Kyle",
+                    "NOM": "Wilson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-14",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:48"
+                },
+                {
+                    "ID": 33160,
+                    "PSEUDO": "oskvr",
+                    "ROLE": null,
+                    "PRENOM": "Oskar",
+                    "NOM": "Myszka",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:47"
+                },
+                {
+                    "ID": 36623,
+                    "PSEUDO": "WFN",
+                    "ROLE": null,
+                    "PRENOM": "William",
+                    "NOM": "Maskrey",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:48"
+                },
+                {
+                    "ID": 36679,
+                    "PSEUDO": "N0R1",
+                    "ROLE": null,
+                    "PRENOM": "Dragos",
+                    "NOM": "Negrea",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:47"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139579,
+                "NOM": "evermore",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:15:22"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 67313,
+                    "PSEUDO": "shadowloss",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Hevliud",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:48"
+                },
+                {
+                    "ID": 67314,
+                    "PSEUDO": "squizy",
+                    "ROLE": null,
+                    "PRENOM": "Ihor",
+                    "NOM": "Metlytskyi",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:48"
+                },
+                {
+                    "ID": 67829,
+                    "PSEUDO": "spaykeRRRR",
+                    "ROLE": null,
+                    "PRENOM": "Mykola",
+                    "NOM": "Antonenko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:48"
+                },
+                {
+                    "ID": 68511,
+                    "PSEUDO": "alaska",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:21:48"
+                },
+                {
+                    "ID": 68919,
+                    "PSEUDO": "Butterfly",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:15:28"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Exort Fiesta",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:07:12"
+    },
+    "SERIE": {
+        "NOM": "Closed Qualifier: Series #4 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:09:28",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1776497,
+        "NOM": "Lower_bracket_round_1_match_1__C9.NY_vs_RIYF",
+        "JEU VIDEO": "Call of Duty",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "21:56:42",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "23:06:48",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 9919,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 589,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "21:56:42",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "22:06:31",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135904,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9920,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 969,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "22:15:27",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "22:31:37",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137362,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9921,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 694,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "22:37:10",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "22:48:45",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135904,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 9922,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 828,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "22:53:00",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "23:06:48",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135904,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135904,
+            "NOM": "Cloud9 New York",
+            "LOCALISATION": "US",
+            "ACRONYME": "C9.NY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:45:21"
+        },
+        {
+            "ID": 137362,
+            "NOM": "Riyadh Falcons",
+            "LOCALISATION": "SA",
+            "ACRONYME": "RIYF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:45:23"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 135904
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137362
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22323,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "s",
+        "CASH PRIZE": "100000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-07",
+        "HEURE DE MODIFICATION": "03:45:25",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5577,
+        "NOM": "Monster Launch Invitational",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:56:36"
+    },
+    "SERIE": {
+        "ID": 11150,
+        "NOM": "2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-05",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "02:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "11:36:06"
+    }
+}

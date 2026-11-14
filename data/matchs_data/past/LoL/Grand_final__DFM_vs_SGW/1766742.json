@@ -1,0 +1,151 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1766742,
+        "NOM": "Grand_final__DFM_vs_SGW",
+        "JEU VIDEO": "LoL",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "16.22.1",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "06:08:40",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "09:22:44",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "11:44:59",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 284885,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1745,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "06:08:40",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "06:46:56",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138127,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284886,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2137,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "06:54:43",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "07:40:03",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 89,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284887,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2232,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "07:50:39",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "08:33:53",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138127,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 284888,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1854,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "08:47:24",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "09:22:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138127,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 89,
+            "NOM": "DetonatioN FocusMe",
+            "LOCALISATION": "JP",
+            "ACRONYME": "DFM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:56:07"
+        },
+        {
+            "ID": 138127,
+            "NOM": "Saigon Warriors",
+            "LOCALISATION": "VN",
+            "ACRONYME": "SGW",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:59:23"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 89
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 138127
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22293,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "VN",
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 138127,
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "09:22:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "17:06:19",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5351,
+        "NOM": "LCP",
+        "DATE DE MODIFICATION": "2025-01-06",
+        "HEURE DE MODIFICATION": "09:48:59"
+    },
+    "SERIE": {
+        "ID": 11144,
+        "NOM": "Promotion 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-10-23",
+        "HEURE DE MODIFICATION": "11:44:59"
+    }
+}

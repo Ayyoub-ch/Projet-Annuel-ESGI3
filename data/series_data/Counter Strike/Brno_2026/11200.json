@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11200,
+        "NOM": "Brno",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:49:42",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5584,
+        "NOM": "RUSH",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:36:38"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group A",
+            "TYPE": "offline",
+            "PAYS": "CZ",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-18",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:49:42",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tipsport-rush-brno-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Group B",
+            "TYPE": "offline",
+            "PAYS": "CZ",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "14:00:00",
+            "DATE DE FIN": "2026-11-18",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:49:42",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-tipsport-rush-brno-2026-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "CZ",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "09:00:00",
+            "DATE DE FIN": "2026-11-22",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:49:42",
+            "PRIZEPOOL": "30000 Euro",
+            "SLUG": "cs-go-tipsport-rush-brno-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

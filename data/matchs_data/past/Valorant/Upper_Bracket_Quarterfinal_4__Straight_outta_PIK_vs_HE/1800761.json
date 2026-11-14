@@ -1,0 +1,121 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1800761,
+        "NOM": "Upper_Bracket_Quarterfinal_4__Straight_outta_PIK_vs_HE",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.08",
+            "current": false
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "14:30:40",
+        "DATE DE FIN": "2026-11-10",
+        "HEURE DE FIN": "16:34:50",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "18:11:01",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52863,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2356,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "14:30:41",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "15:09:57",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139560,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52864,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 5091,
+            "DATE DE DEBUT DE PARTIE": "2026-11-10",
+            "HEURE DE DEBUT DE PARTIE": "15:09:59",
+            "DATE DE FIN DE PARTIE": "2026-11-10",
+            "HEURE DE FIN DE PARTIE": "16:34:50",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139560,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139557,
+            "NOM": "Straight outta PIK",
+            "LOCALISATION": "ID",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:31:08"
+        },
+        {
+            "ID": 139560,
+            "NOM": "Hertz Esport",
+            "LOCALISATION": "ID",
+            "ACRONYME": "HE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:55:46"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139557
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139560
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22424,
+        "NOM": "Playoffs",
+        "TYPE": "online/offline",
+        "PAYS": "ID",
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": "102,000,000 Indonesian Rupiah",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-10",
+        "HEURE DE MODIFICATION": "16:55:46",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4860,
+        "NOM": "Asia Pacific Predator League",
+        "DATE DE MODIFICATION": "2024-01-06",
+        "HEURE DE MODIFICATION": "09:08:33"
+    },
+    "SERIE": {
+        "ID": 11194,
+        "NOM": "Indonesia 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "18:11:01"
+    }
+}

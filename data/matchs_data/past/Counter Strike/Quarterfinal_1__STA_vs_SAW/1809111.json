@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1809111,
+        "NOM": "Quarterfinal_1__STA_vs_SAW",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "20:51:55",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "22:30:42",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "17:37:57",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239445,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2350,
+            "DATE DE DEBUT DE PARTIE": "2026-11-12",
+            "HEURE DE DEBUT DE PARTIE": "20:51:55",
+            "DATE DE FIN DE PARTIE": "2026-11-12",
+            "HEURE DE FIN DE PARTIE": "21:31:06",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137861,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239446,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2575,
+            "DATE DE DEBUT DE PARTIE": "2026-11-12",
+            "HEURE DE DEBUT DE PARTIE": "21:47:47",
+            "DATE DE FIN DE PARTIE": "2026-11-12",
+            "HEURE DE FIN DE PARTIE": "22:30:43",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137861,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137861,
+            "NOM": "STATE",
+            "LOCALISATION": "DK",
+            "ACRONYME": "STA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
+        },
+        {
+            "ID": 126738,
+            "NOM": "SAW",
+            "LOCALISATION": "PT",
+            "ACRONYME": "SAW",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:36:04"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137861
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 126738
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22454,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "20:36:04",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5365,
+        "NOM": "PGL",
+        "DATE DE MODIFICATION": "2025-02-05",
+        "HEURE DE MODIFICATION": "15:08:30"
+    },
+    "SERIE": {
+        "ID": 11207,
+        "NOM": "Cluj-Napoca: Open Qualifier 2 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "17:37:57"
+    }
+}

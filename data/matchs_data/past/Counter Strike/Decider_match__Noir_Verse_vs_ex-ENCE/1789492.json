@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1789492,
+        "NOM": "Decider_match__Noir_Verse_vs_ex-ENCE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "11:47:07",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "14:49:03",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238632,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2444,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "11:47:07",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "12:27:52",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138812,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238633,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2620,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "12:43:26",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "13:27:06",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138470,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238634,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3357,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "13:53:06",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "14:49:04",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138470,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138812,
+            "NOM": "Noir Verse",
+            "LOCALISATION": "UA",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:33:51"
+        },
+        {
+            "ID": 138470,
+            "NOM": "ex-ENCE",
+            "LOCALISATION": "FI",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:10:16"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138812
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138470
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22380,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 139529,
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "14:57:37",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11177,
+        "NOM": "Season 10 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19"
+    }
+}

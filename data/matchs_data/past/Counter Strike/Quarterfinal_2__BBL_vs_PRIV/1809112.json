@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1809112,
+        "NOM": "Quarterfinal_2__BBL_vs_PRIV",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "20:53:38",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "22:40:17",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "17:37:57",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239448,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2663,
+            "DATE DE DEBUT DE PARTIE": "2026-11-12",
+            "HEURE DE DEBUT DE PARTIE": "20:53:38",
+            "DATE DE FIN DE PARTIE": "2026-11-12",
+            "HEURE DE FIN DE PARTIE": "21:38:02",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139180,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239449,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2666,
+            "DATE DE DEBUT DE PARTIE": "2026-11-12",
+            "HEURE DE DEBUT DE PARTIE": "21:55:51",
+            "DATE DE FIN DE PARTIE": "2026-11-12",
+            "HEURE DE FIN DE PARTIE": "22:40:18",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139180,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139180,
+            "NOM": "BBL",
+            "LOCALISATION": "DK",
+            "ACRONYME": "BBL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:32:05"
+        },
+        {
+            "ID": 139320,
+            "NOM": "PRIVATE",
+            "LOCALISATION": "RU",
+            "ACRONYME": "PRIV",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:06:28"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139180
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139320
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22454,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "20:36:04",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5365,
+        "NOM": "PGL",
+        "DATE DE MODIFICATION": "2025-02-05",
+        "HEURE DE MODIFICATION": "15:08:30"
+    },
+    "SERIE": {
+        "ID": 11207,
+        "NOM": "Cluj-Napoca: Open Qualifier 2 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "17:37:57"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1790240,
+        "NOM": "Semifinal_1__UNiTY_vs_BRUTE.SQ",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "20:38:01",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "23:04:53",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "20:11:32",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238687,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2894,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "20:38:07",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "21:26:21",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133063,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238688,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 4992,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "21:41:41",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "23:04:54",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133063,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 133063,
+            "NOM": "UNiTY esports",
+            "LOCALISATION": "SK",
+            "ACRONYME": "UNiTY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+        },
+        {
+            "ID": 139502,
+            "NOM": "BRUTE SQ",
+            "LOCALISATION": "CZ",
+            "ACRONYME": "BRUTE.SQ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:20:44"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 133063
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139502
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22385,
+        "NOM": "Playoffs",
+        "TYPE": "online/offline",
+        "PAYS": "CZ",
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "275000 Czech Koruna",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "08:17:58",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5102,
+        "NOM": "MČR",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:46:26"
+    },
+    "SERIE": {
+        "ID": 11178,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "20:11:32"
+    }
+}

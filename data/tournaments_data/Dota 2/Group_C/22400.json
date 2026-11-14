@@ -1,0 +1,389 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22400,
+        "NOM": "Group_C",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:48:09",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Liquid vs LGD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "16:10:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:15:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-c",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "fa",
+                "LIEN BRUTE": "https://kick.com/olagheparande"
+            }
+        },
+        {
+            "NOM": "LGD vs LEGION",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:45:57",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-c",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+            }
+        },
+        {
+            "NOM": "Liquid vs LEGION",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:55:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-c",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+            }
+        },
+        {
+            "NOM": "LEGION vs LGD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:54:11",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-c",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 1647,
+            "NOM": "Team Liquid",
+            "LOCALISATION": "NL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:06:51",
+            "ACRONYME": "Liquid"
+        },
+        {
+            "ID": 1657,
+            "NOM": "LGD Gaming",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:06:45",
+            "ACRONYME": "LGD"
+        },
+        {
+            "ID": 139340,
+            "NOM": "LEGION",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:17:25",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 1647,
+                "NOM": "Team Liquid",
+                "LOCALISATION": "NL",
+                "ACRONYME": "Liquid",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:06:51"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9596,
+                    "PSEUDO": "miCKe",
+                    "ROLE": "1",
+                    "PRENOM": "Michael",
+                    "NOM": "Vu",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-26",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:45"
+                },
+                {
+                    "ID": 13664,
+                    "PSEUDO": "Wisper",
+                    "ROLE": "3",
+                    "PRENOM": "Adrián",
+                    "NOM": "Céspedes Dobles",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-11-03",
+                    "NATIONALITE": "BO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:50"
+                },
+                {
+                    "ID": 13848,
+                    "PSEUDO": "Boxi",
+                    "ROLE": "4",
+                    "PRENOM": "Samuel",
+                    "NOM": "Svahn",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-10",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:50"
+                },
+                {
+                    "ID": 31555,
+                    "PSEUDO": "tOfu",
+                    "ROLE": "5",
+                    "PRENOM": "Erik",
+                    "NOM": "Engel",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-08-14",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:51"
+                },
+                {
+                    "ID": 31707,
+                    "PSEUDO": "Malr1ne",
+                    "ROLE": "2",
+                    "PRENOM": "Potorak",
+                    "NOM": "Stanislav",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-17",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:50"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 1657,
+                "NOM": "LGD Gaming",
+                "LOCALISATION": "CN",
+                "ACRONYME": "LGD",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:06:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9368,
+                    "PSEUDO": "SumaiL",
+                    "ROLE": "2",
+                    "PRENOM": "Syed Sumail",
+                    "NOM": "Hassan",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-02-13",
+                    "NATIONALITE": "PK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:44"
+                },
+                {
+                    "ID": 9493,
+                    "PSEUDO": "Sneyking",
+                    "ROLE": "5",
+                    "PRENOM": "Jingjun",
+                    "NOM": "Wu",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-05-03",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:45"
+                },
+                {
+                    "ID": 9501,
+                    "PSEUDO": "Thiolicor",
+                    "ROLE": "4",
+                    "PRENOM": "Thiago de Oliveira",
+                    "NOM": "Cordeiro",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-10",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:45"
+                },
+                {
+                    "ID": 28075,
+                    "PSEUDO": "Davai Lama",
+                    "ROLE": "3",
+                    "PRENOM": "Cedric",
+                    "NOM": "Deckmyn",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-03",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:44"
+                },
+                {
+                    "ID": 50494,
+                    "PSEUDO": "Wits",
+                    "ROLE": "1",
+                    "PRENOM": "Héctor",
+                    "NOM": "Max Orozco Alza",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-03-06",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:06:39"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139340,
+                "NOM": "LEGION",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:17:25"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9993,
+                    "PSEUDO": "Zayac",
+                    "ROLE": "4",
+                    "PRENOM": "Bakyt",
+                    "NOM": "Emilzhanov",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-12-02",
+                    "NATIONALITE": "KG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:17:26"
+                },
+                {
+                    "ID": 24495,
+                    "PSEUDO": "Malik",
+                    "ROLE": "3",
+                    "PRENOM": "Abdimalik",
+                    "NOM": "Sailau",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-02-17",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:17:26"
+                },
+                {
+                    "ID": 28042,
+                    "PSEUDO": "Copy",
+                    "ROLE": "2",
+                    "PRENOM": "Philipp",
+                    "NOM": "Bühler",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-08",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:17:26"
+                },
+                {
+                    "ID": 37208,
+                    "PSEUDO": "Xakoda",
+                    "ROLE": "5",
+                    "PRENOM": "Egor",
+                    "NOM": "Lipartia",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-25",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:17:26"
+                },
+                {
+                    "ID": 38393,
+                    "PSEUDO": "DarkLord^",
+                    "ROLE": "1",
+                    "PRENOM": "Mikhail",
+                    "NOM": "Blinov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-24",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:17:26"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "1win Essence",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-04-29",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:30:42"
+    },
+    "SERIE": {
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "SAISON": "3",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:36:38",
+        "ID DU VAINQUEUR": null
+    }
+}

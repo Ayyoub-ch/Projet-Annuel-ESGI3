@@ -1,0 +1,74 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11152,
+        "NOM": "Osaka",
+        "JEU VIDEO": "Rainbow 6 Siege",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "00:30:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:40:09",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 4999,
+        "NOM": "BLAST R6 Major",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-04-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:17:38"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Phase 1 - GSL Stage",
+            "TYPE": "offline",
+            "PAYS": "JP",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "00:30:00",
+            "DATE DE FIN": "2026-11-07",
+            "HEURE DE FIN": "08:24:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:44:17",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Phase 2 - Swiss Stage",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-11-06",
+            "HEURE DE DEBUT": "00:30:00",
+            "DATE DE FIN": "2026-11-11",
+            "HEURE DE FIN": "06:54:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:57:18",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-2",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Phase 3 - Playoffs",
+            "TYPE": "offline",
+            "PAYS": "JP",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "00:30:00",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "09:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:56:56",
+            "PRIZEPOOL": "600000 United States Dollar",
+            "SLUG": "r6-siege-blast-r6-major-osaka-2026-phase-3-playoffs",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

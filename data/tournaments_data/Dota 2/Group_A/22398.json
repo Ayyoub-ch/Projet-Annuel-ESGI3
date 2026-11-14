@@ -1,0 +1,364 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22398,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:52:10",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "PARI vs KONCA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "16:35:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:06:34",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-a-203d06b7-4ecb-4dc8-aa5a-e726a6f87a12",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+            }
+        },
+        {
+            "NOM": "PARI vs YeS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "13:55:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:14:51",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-a-203d06b7-4ecb-4dc8-aa5a-e726a6f87a12",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+            }
+        },
+        {
+            "NOM": "KONCA vs YeS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:27:05",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-a-203d06b7-4ecb-4dc8-aa5a-e726a6f87a12",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 1931,
+            "NOM": "Yellow Submarine",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:24:47",
+            "ACRONYME": "YeS"
+        },
+        {
+            "ID": 135712,
+            "NOM": "PARIVISION",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:24:50",
+            "ACRONYME": "PARI"
+        },
+        {
+            "ID": 139547,
+            "NOM": "DO KONCA",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:04:45",
+            "ACRONYME": "KONCA"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 1931,
+                "NOM": "Yellow Submarine",
+                "LOCALISATION": "RU",
+                "ACRONYME": "YeS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "00:24:47"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 49545,
+                    "PSEUDO": "mangekyou",
+                    "ROLE": "3",
+                    "PRENOM": "Mark",
+                    "NOM": "Kharlamov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-07-21",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:47"
+                },
+                {
+                    "ID": 50669,
+                    "PSEUDO": "aik",
+                    "ROLE": "5",
+                    "PRENOM": "Alim",
+                    "NOM": "Bespaev",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-08-11",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:47"
+                },
+                {
+                    "ID": 51355,
+                    "PSEUDO": "Rain",
+                    "ROLE": "2",
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Nekrasov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-16",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:44"
+                },
+                {
+                    "ID": 53663,
+                    "PSEUDO": "Rincyq",
+                    "ROLE": "1",
+                    "PRENOM": "Denys",
+                    "NOM": "Bohushev",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-02-16",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:46"
+                },
+                {
+                    "ID": 58110,
+                    "PSEUDO": "mrls",
+                    "ROLE": "4",
+                    "PRENOM": "Artem",
+                    "NOM": "Selepko",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:26:00"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135712,
+                "NOM": "PARIVISION",
+                "LOCALISATION": "RU",
+                "ACRONYME": "PARI",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "00:24:50"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9360,
+                    "PSEUDO": "No[o]ne",
+                    "ROLE": "2",
+                    "PRENOM": "Vladimir",
+                    "NOM": "Minenko",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-09-03",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:49"
+                },
+                {
+                    "ID": 25670,
+                    "PSEUDO": "Dukalis",
+                    "ROLE": "5",
+                    "PRENOM": "Andrey",
+                    "NOM": "Kuropatkin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-18",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:50"
+                },
+                {
+                    "ID": 31713,
+                    "PSEUDO": "Noticed",
+                    "ROLE": "3",
+                    "PRENOM": "Evgeniy",
+                    "NOM": "Ignatenko",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-08-06",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:50"
+                },
+                {
+                    "ID": 46343,
+                    "PSEUDO": "9Class",
+                    "ROLE": "4",
+                    "PRENOM": "Edgar",
+                    "NOM": "Naltakyan",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:50"
+                },
+                {
+                    "ID": 50818,
+                    "PSEUDO": "Satanic",
+                    "ROLE": "1",
+                    "PRENOM": "Alan",
+                    "NOM": "Gallyamov",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-10-13",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "00:24:47"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139547,
+                "NOM": "DO KONCA",
+                "LOCALISATION": "",
+                "ACRONYME": "KONCA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23897,
+                    "PSEUDO": "Save-",
+                    "ROLE": "4",
+                    "PRENOM": "Vitalie",
+                    "NOM": "Melnic",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-12",
+                    "NATIONALITE": "MD",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:57:31"
+                },
+                {
+                    "ID": 26452,
+                    "PSEUDO": "Kataomi`",
+                    "ROLE": "5",
+                    "PRENOM": "Vladislav",
+                    "NOM": "Semenov",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-01",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                },
+                {
+                    "ID": 28082,
+                    "PSEUDO": "MieRo",
+                    "ROLE": "3",
+                    "PRENOM": "Matvey",
+                    "NOM": "Vasyunin",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-28",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                },
+                {
+                    "ID": 30131,
+                    "PSEUDO": "kiyotaka",
+                    "ROLE": "2",
+                    "PRENOM": "Gleb",
+                    "NOM": "Zyryanov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                },
+                {
+                    "ID": 33451,
+                    "PSEUDO": "Kiritych~",
+                    "ROLE": "1",
+                    "PRENOM": "Ilya",
+                    "NOM": "Ulyanov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-21",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:45"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "1win Essence",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-04-29",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:30:42"
+    },
+    "SERIE": {
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "SAISON": "3",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:36:38",
+        "ID DU VAINQUEUR": null
+    }
+}

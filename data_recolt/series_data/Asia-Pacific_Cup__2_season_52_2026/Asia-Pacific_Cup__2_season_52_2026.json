@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11000,
+        "NOM": "Asia-Pacific_Cup__2",
+        "JEU VIDEO": "Counter-Strike",
+        "DATE DE DEBUT": "2026-09-22",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-09-29",
+        "HEURE DE FIN": "16:44:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-09-30",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:54:10",
+        "ANNEE": 2026,
+        "SAISON": "52"
+    },
+    "LIGUE": {
+        "ID": 4734,
+        "NOM": "ESL Challenger League",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-01-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:26:41"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "OCE",
+            "DATE DE DEBUT": "2026-09-22",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "2026-09-29",
+            "HEURE DE FIN": "16:44:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-09-30",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:54:10",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-esl-challenger-league-asia-pacific-cup-2-52-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

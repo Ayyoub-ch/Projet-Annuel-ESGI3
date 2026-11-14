@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1809113,
+        "NOM": "Quarterfinal_3__LUN_vs_m1x",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "21:25:18",
+        "DATE DE FIN": "2026-11-12",
+        "HEURE DE FIN": "22:44:09",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "17:37:57",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239451,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2070,
+            "DATE DE DEBUT DE PARTIE": "2026-11-12",
+            "HEURE DE DEBUT DE PARTIE": "21:25:18",
+            "DATE DE FIN DE PARTIE": "2026-11-12",
+            "HEURE DE FIN DE PARTIE": "21:59:48",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139594,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239452,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1918,
+            "DATE DE DEBUT DE PARTIE": "2026-11-12",
+            "HEURE DE DEBUT DE PARTIE": "22:12:11",
+            "DATE DE FIN DE PARTIE": "2026-11-12",
+            "HEURE DE FIN DE PARTIE": "22:44:09",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139594,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139594,
+            "NOM": "LUNTIKI",
+            "LOCALISATION": "",
+            "ACRONYME": "LUN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:38:57"
+        },
+        {
+            "ID": 126232,
+            "NOM": "m1x",
+            "LOCALISATION": "XK",
+            "ACRONYME": "m1x",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:00:56"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139594
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 126232
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22454,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "20:36:04",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5365,
+        "NOM": "PGL",
+        "DATE DE MODIFICATION": "2025-02-05",
+        "HEURE DE MODIFICATION": "15:08:30"
+    },
+    "SERIE": {
+        "ID": 11207,
+        "NOM": "Cluj-Napoca: Open Qualifier 2 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "17:37:57"
+    }
+}

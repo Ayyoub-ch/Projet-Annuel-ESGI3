@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1791742,
+        "NOM": "IAC_vs_ICxI",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "20:42:56",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "23:32:48",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "14:36:27",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741276,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1643,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "20:42:56",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "21:21:08",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137417,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741277,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2586,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "21:30:27",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "22:23:37",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129891,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741278,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2663,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "22:40:27",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "23:32:49",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137417,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129891,
+            "NOM": "InterActive Philippines",
+            "LOCALISATION": "PH",
+            "ACRONYME": "IAC",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:28:18"
+        },
+        {
+            "ID": 137417,
+            "NOM": "Inner Circle x Insanity",
+            "LOCALISATION": "GB",
+            "ACRONYME": "ICxI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:28:16"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 129891
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137417
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22390,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-11",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "18:22:58",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4125,
+        "NOM": "DreamLeague",
+        "DATE DE MODIFICATION": "2019-03-05",
+        "HEURE DE MODIFICATION": "11:02:02"
+    },
+    "SERIE": {
+        "ID": 11182,
+        "NOM": "Division 2 season 5 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-19",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "14:36:27"
+    }
+}

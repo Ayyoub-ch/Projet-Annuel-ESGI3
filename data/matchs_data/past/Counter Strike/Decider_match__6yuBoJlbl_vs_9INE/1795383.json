@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1795383,
+        "NOM": "Decider_match__6yuBoJlbl_vs_9INE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "14:03:43",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "17:09:33",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "09:50:34",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238826,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 4336,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "14:03:45",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "15:16:02",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139422,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238827,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2421,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "15:28:07",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "16:08:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126408,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238828,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3032,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "16:19:01",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "17:09:33",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126408,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139422,
+            "NOM": "6yuBoJlbl",
+            "LOCALISATION": "KZ",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:29:46"
+        },
+        {
+            "ID": 126408,
+            "NOM": "9INE",
+            "LOCALISATION": "SE",
+            "ACRONYME": "9INE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:10:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139422
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 126408
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22410,
+        "NOM": "Group C",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 133725,
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE MODIFICATION": "2026-11-07",
+        "HEURE DE MODIFICATION": "20:16:59",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4734,
+        "NOM": "ESL Challenger League",
+        "DATE DE MODIFICATION": "2022-01-19",
+        "HEURE DE MODIFICATION": "21:26:41"
+    },
+    "SERIE": {
+        "ID": 11188,
+        "NOM": "Europe Cup #11 season 52 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-06",
+        "HEURE DE MODIFICATION": "09:50:34"
+    }
+}

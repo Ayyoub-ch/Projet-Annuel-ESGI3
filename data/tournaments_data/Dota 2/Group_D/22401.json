@@ -1,0 +1,364 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22401,
+        "NOM": "Group_D",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:33:24",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "TS vs 1W",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "19:00:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:32:48",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-d",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+            }
+        },
+        {
+            "NOM": "TS vs Froglings",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "20:10:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:58:37",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-d",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota"
+            }
+        },
+        {
+            "NOM": "1W vs Froglings",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "20:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:55:42",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-1win-essence-3-2026-group-d",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 1669,
+            "NOM": "Team Spirit",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:07:46",
+            "ACRONYME": "TS"
+        },
+        {
+            "ID": 134536,
+            "NOM": "1w Team",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:33:38",
+            "ACRONYME": "1W"
+        },
+        {
+            "ID": 139517,
+            "NOM": "Froglings",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:19:07",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 1669,
+                "NOM": "Team Spirit",
+                "LOCALISATION": "RU",
+                "ACRONYME": "TS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:07:46"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27480,
+                    "PSEUDO": "Larl",
+                    "ROLE": "2",
+                    "PRENOM": "Denis",
+                    "NOM": "Sigitov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-22",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:45"
+                },
+                {
+                    "ID": 30258,
+                    "PSEUDO": "Yatoro",
+                    "ROLE": "1",
+                    "PRENOM": "Ilya",
+                    "NOM": "Mulyarchuk",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-12",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:42"
+                },
+                {
+                    "ID": 48058,
+                    "PSEUDO": "Batyuk",
+                    "ROLE": "3",
+                    "PRENOM": "Bohdan",
+                    "NOM": "Batiuk",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:44"
+                },
+                {
+                    "ID": 49070,
+                    "PSEUDO": "rue",
+                    "ROLE": "5",
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Filin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:46"
+                },
+                {
+                    "ID": 54351,
+                    "PSEUDO": "not me",
+                    "ROLE": "4",
+                    "PRENOM": "Alexey",
+                    "NOM": "Kosmynin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-27",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:07:45"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134536,
+                "NOM": "1w Team",
+                "LOCALISATION": "RU",
+                "ACRONYME": "1W",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:33:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9421,
+                    "PSEUDO": "33",
+                    "ROLE": "3",
+                    "PRENOM": "Neta",
+                    "NOM": "Shapira",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-04-17",
+                    "NATIONALITE": "IL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:33:38"
+                },
+                {
+                    "ID": 15550,
+                    "PSEUDO": "Whitemon",
+                    "ROLE": "5",
+                    "PRENOM": "Matthew",
+                    "NOM": "Filemon",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-22",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:33:38"
+                },
+                {
+                    "ID": 38145,
+                    "PSEUDO": "Pure",
+                    "ROLE": "1",
+                    "PRENOM": "Ivan",
+                    "NOM": "Moskalenko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-06",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:33:36"
+                },
+                {
+                    "ID": 39581,
+                    "PSEUDO": "Ari",
+                    "ROLE": "4",
+                    "PRENOM": "Matthew",
+                    "NOM": "Walker",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-24",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:33:38"
+                },
+                {
+                    "ID": 59039,
+                    "PSEUDO": "Stariy_bog",
+                    "ROLE": "2",
+                    "PRENOM": "Ivan",
+                    "NOM": "Moshkovsky",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:33:38"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139517,
+                "NOM": "Froglings",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 10784,
+                    "PSEUDO": "xsvampire",
+                    "ROLE": "4",
+                    "PRENOM": "Danial",
+                    "NOM": "Alibaev",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1997-11-20",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                },
+                {
+                    "ID": 14854,
+                    "PSEUDO": "SaberLight",
+                    "ROLE": "3",
+                    "PRENOM": "Jonáš",
+                    "NOM": "Volek",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-13",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                },
+                {
+                    "ID": 18127,
+                    "PSEUDO": "V-Tune",
+                    "ROLE": "1",
+                    "PRENOM": "Alik",
+                    "NOM": "Vorobey",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-11",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                },
+                {
+                    "ID": 26887,
+                    "PSEUDO": "KJ",
+                    "ROLE": "5",
+                    "PRENOM": "Matheus",
+                    "NOM": "Diniz",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-23",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                },
+                {
+                    "ID": 42027,
+                    "PSEUDO": "Stojkov",
+                    "ROLE": "2",
+                    "PRENOM": "Igor",
+                    "NOM": "Stojkov",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-11-28",
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "1win Essence",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-04-29",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:30:42"
+    },
+    "SERIE": {
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "SAISON": "3",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:36:38",
+        "ID DU VAINQUEUR": null
+    }
+}

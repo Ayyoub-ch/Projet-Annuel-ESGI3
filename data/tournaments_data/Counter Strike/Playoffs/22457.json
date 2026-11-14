@@ -1,0 +1,524 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22457,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:05:04",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Upper Bracket Semifinal 1: STA vs MSC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:44:01",
+            "PRIZEPOOL": "86,000 Danish Krone",
+            "SLUG": "cs-go-dust2-dk-33-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "da",
+                "LIEN BRUTE": "https://www.twitch.tv/dust2tv"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Semifinal 2: XI vs EAC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "19:30:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:44:01",
+            "PRIZEPOOL": "86,000 Danish Krone",
+            "SLUG": "cs-go-dust2-dk-33-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "da",
+                "LIEN BRUTE": "https://www.twitch.tv/dust2tv"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Semifinal: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:44:02",
+            "PRIZEPOOL": "86,000 Danish Krone",
+            "SLUG": "cs-go-dust2-dk-33-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "da",
+                "LIEN BRUTE": "https://www.twitch.tv/dust2tv"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:44:02",
+            "PRIZEPOOL": "86,000 Danish Krone",
+            "SLUG": "cs-go-dust2-dk-33-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "da",
+                "LIEN BRUTE": "https://www.twitch.tv/dust2tv"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:44:02",
+            "PRIZEPOOL": "86,000 Danish Krone",
+            "SLUG": "cs-go-dust2-dk-33-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "da",
+                "LIEN BRUTE": "https://www.twitch.tv/dust2tv"
+            }
+        },
+        {
+            "NOM": "Grand Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:44:03",
+            "PRIZEPOOL": "86,000 Danish Krone",
+            "SLUG": "cs-go-dust2-dk-33-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "da",
+                "LIEN BRUTE": "https://www.twitch.tv/dust2tv"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 127911,
+            "NOM": "MASONIC",
+            "LOCALISATION": "DK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:22",
+            "ACRONYME": "MSC"
+        },
+        {
+            "ID": 131591,
+            "NOM": "XI Esport",
+            "LOCALISATION": "DK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:15",
+            "ACRONYME": "XI"
+        },
+        {
+            "ID": 137861,
+            "NOM": "STATE",
+            "LOCALISATION": "DK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:11",
+            "ACRONYME": "STA"
+        },
+        {
+            "ID": 138685,
+            "NOM": "Esport Academy Copenhagen",
+            "LOCALISATION": "DK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:16",
+            "ACRONYME": "EAC"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 127911,
+                "NOM": "MASONIC",
+                "LOCALISATION": "DK",
+                "ACRONYME": "MSC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:41:22"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 19957,
+                    "PSEUDO": "b0RUP",
+                    "ROLE": null,
+                    "PRENOM": "Johannes ",
+                    "NOM": "Borup",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-09-29",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:22"
+                },
+                {
+                    "ID": 53928,
+                    "PSEUDO": "Botman",
+                    "ROLE": null,
+                    "PRENOM": "Niklas",
+                    "NOM": "Vestergaard",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+                },
+                {
+                    "ID": 53931,
+                    "PSEUDO": "Bukhavez",
+                    "ROLE": null,
+                    "PRENOM": "Jonas",
+                    "NOM": "Vestergaard",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:21"
+                },
+                {
+                    "ID": 60790,
+                    "PSEUDO": "KralleJ",
+                    "ROLE": null,
+                    "PRENOM": "Kristian",
+                    "NOM": "Jensen",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:22"
+                },
+                {
+                    "ID": 65406,
+                    "PSEUDO": "slexa",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Marrup",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:21"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 131591,
+                "NOM": "XI Esport",
+                "LOCALISATION": "DK",
+                "ACRONYME": "XI",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 46223,
+                    "PSEUDO": "Jiace",
+                    "ROLE": null,
+                    "PRENOM": "Jonas",
+                    "NOM": "Pedersen",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:14"
+                },
+                {
+                    "ID": 53934,
+                    "PSEUDO": "emili0",
+                    "ROLE": null,
+                    "PRENOM": "Emilio",
+                    "NOM": "Kislo",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
+                },
+                {
+                    "ID": 53935,
+                    "PSEUDO": "Avou",
+                    "ROLE": null,
+                    "PRENOM": "Tobias",
+                    "NOM": "Winberg",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+                },
+                {
+                    "ID": 53996,
+                    "PSEUDO": "Egelund",
+                    "ROLE": null,
+                    "PRENOM": "Nikolaj Egelund",
+                    "NOM": "Hansen",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:14"
+                },
+                {
+                    "ID": 59512,
+                    "PSEUDO": "Bakorino",
+                    "ROLE": null,
+                    "PRENOM": "Rasmus",
+                    "NOM": "Bak",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:14"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137861,
+                "NOM": "STATE",
+                "LOCALISATION": "DK",
+                "ACRONYME": "STA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24718,
+                    "PSEUDO": "kwezz",
+                    "ROLE": null,
+                    "PRENOM": "Oliver",
+                    "NOM": "Rasmussen",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-20",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
+                },
+                {
+                    "ID": 25123,
+                    "PSEUDO": "Queenix",
+                    "ROLE": null,
+                    "PRENOM": "Jonas",
+                    "NOM": "Dideriksen",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-15",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
+                },
+                {
+                    "ID": 31967,
+                    "PSEUDO": "Altekz",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Givskov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-08",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
+                },
+                {
+                    "ID": 36785,
+                    "PSEUDO": "Zanto",
+                    "ROLE": null,
+                    "PRENOM": "André ",
+                    "NOM": "Christiansen",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:10"
+                },
+                {
+                    "ID": 49769,
+                    "PSEUDO": "sL1m3",
+                    "ROLE": null,
+                    "PRENOM": "Emil ",
+                    "NOM": "Stolz",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-13",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138685,
+                "NOM": "Esport Academy Copenhagen",
+                "LOCALISATION": "DK",
+                "ACRONYME": "EAC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 53995,
+                    "PSEUDO": "Stesso",
+                    "ROLE": null,
+                    "PRENOM": "Mark",
+                    "NOM": "Sørensen",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+                },
+                {
+                    "ID": 55886,
+                    "PSEUDO": "Viggo",
+                    "ROLE": null,
+                    "PRENOM": "Viktor",
+                    "NOM": "Simonsen",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+                },
+                {
+                    "ID": 60351,
+                    "PSEUDO": "qx",
+                    "ROLE": null,
+                    "PRENOM": "Sander",
+                    "NOM": "Thomas",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:16"
+                },
+                {
+                    "ID": 61244,
+                    "PSEUDO": "ETYYY",
+                    "ROLE": null,
+                    "PRENOM": "Lukas",
+                    "NOM": "Vinder",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+                },
+                {
+                    "ID": 65405,
+                    "PSEUDO": "Fallis",
+                    "ROLE": null,
+                    "PRENOM": "Janus",
+                    "NOM": "Falden Lisbjerg",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Dust2.dk Ligaen",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-11-09",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:26:24"
+    },
+    "SERIE": {
+        "NOM": "Season 33 2026",
+        "ANNEE": 2026,
+        "SAISON": "33",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:05:04",
+        "ID DU VAINQUEUR": null
+    }
+}

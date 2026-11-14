@@ -45,4 +45,5 @@ jobs:
       - name: Valider et pousser les modifications sur le dépôt
         run: |
           git add data/
+
           git diff --quiet && git diff --staged --quiet || (git commit -m "Mise automatique des données e-sport [skip ci]" && git push)

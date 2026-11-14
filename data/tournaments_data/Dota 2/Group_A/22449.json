@@ -1,0 +1,932 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22449,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "23:43:34",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "angry birds vs Z10",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "13:15:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:40:41",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "TS.A vs ICxI",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-12",
+            "HEURE PRÉVUE": "16:35:00",
+            "DATE DE DEBUT": "2026-11-12",
+            "HEURE DE DEBUT": "2026-11-12",
+            "DATE DE FIN": "2026-11-12",
+            "HEURE DE FIN": "2026-11-12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:10:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "4iki vs TS.A",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-13",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-13",
+            "HEURE DE DEBUT": "2026-11-13",
+            "DATE DE FIN": "2026-11-13",
+            "HEURE DE FIN": "2026-11-13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:02:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "TS.A vs Z10",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "running",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "10:20:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:43:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "4iki vs ICxI",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "ALL vs Z10",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "4iki vs angry birds",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-17",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "2026-11-17",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "2026-11-17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "TS.A vs ALL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-17",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "2026-11-17",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "2026-11-17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "angry birds vs TS.A",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-18",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-18",
+            "HEURE DE DEBUT": "2026-11-18",
+            "DATE DE FIN": "2026-11-18",
+            "HEURE DE FIN": "2026-11-18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "Z10 vs ICxI",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-18",
+            "HEURE PRÉVUE": "19:00:00",
+            "DATE DE DEBUT": "2026-11-18",
+            "HEURE DE DEBUT": "2026-11-18",
+            "DATE DE FIN": "2026-11-18",
+            "HEURE DE FIN": "2026-11-18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "angry birds vs ALL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-19",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-19",
+            "HEURE DE DEBUT": "2026-11-19",
+            "DATE DE FIN": "2026-11-19",
+            "HEURE DE FIN": "2026-11-19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "4iki vs Z10",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-19",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-19",
+            "HEURE DE DEBUT": "2026-11-19",
+            "DATE DE FIN": "2026-11-19",
+            "HEURE DE FIN": "2026-11-19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "ICxI vs ALL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:43:13",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "4iki vs ALL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "19:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "ICxI vs angry birds",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:43:45",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135854,
+            "NOM": "Zero Tenacity",
+            "LOCALISATION": "RS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:44:18",
+            "ACRONYME": "Z10"
+        },
+        {
+            "ID": 137417,
+            "NOM": "Inner Circle x Insanity",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:19:06",
+            "ACRONYME": "ICxI"
+        },
+        {
+            "ID": 137540,
+            "NOM": "Spirit Academy",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:46:21",
+            "ACRONYME": "TS.A"
+        },
+        {
+            "ID": 138761,
+            "NOM": "4ikibamboni",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:46:17",
+            "ACRONYME": "4iki"
+        },
+        {
+            "ID": 139462,
+            "NOM": "angry birds",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:46:18",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139489,
+            "NOM": "Team Allied",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:46:20",
+            "ACRONYME": "ALL"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135854,
+                "NOM": "Zero Tenacity",
+                "LOCALISATION": "RS",
+                "ACRONYME": "Z10",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:44:18"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 10724,
+                    "PSEUDO": "Nefrit",
+                    "ROLE": "3",
+                    "PRENOM": "Dmitry ",
+                    "NOM": "Tarasich",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-02-24",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:21"
+                },
+                {
+                    "ID": 33458,
+                    "PSEUDO": "laise",
+                    "ROLE": "3",
+                    "PRENOM": "Vladislav",
+                    "NOM": "Lais",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-15",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:44:18"
+                },
+                {
+                    "ID": 33881,
+                    "PSEUDO": "Till The End",
+                    "ROLE": "5",
+                    "PRENOM": "Ilya",
+                    "NOM": "Deriglazov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-11-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:23"
+                },
+                {
+                    "ID": 40300,
+                    "PSEUDO": "Nesfeer",
+                    "ROLE": "1",
+                    "PRENOM": "Magomed",
+                    "NOM": "Kurbanov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-26",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:23"
+                },
+                {
+                    "ID": 50405,
+                    "PSEUDO": "niche",
+                    "ROLE": "2",
+                    "PRENOM": "Mykola",
+                    "NOM": "Zemlyanskyi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-29",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:25:04"
+                },
+                {
+                    "ID": 56184,
+                    "PSEUDO": "rare gods",
+                    "ROLE": "4",
+                    "PRENOM": "Ilya",
+                    "NOM": "Triastsin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:23"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137417,
+                "NOM": "Inner Circle x Insanity",
+                "LOCALISATION": "GB",
+                "ACRONYME": "ICxI",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:19:06"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 48074,
+                    "PSEUDO": "Ethereal",
+                    "ROLE": "2",
+                    "PRENOM": "Amir",
+                    "NOM": "Askarov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-09",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
+                },
+                {
+                    "ID": 48654,
+                    "PSEUDO": "Norma",
+                    "ROLE": "3",
+                    "PRENOM": "Taras",
+                    "NOM": "Pavlov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
+                },
+                {
+                    "ID": 53045,
+                    "PSEUDO": "Fernans",
+                    "ROLE": "4",
+                    "PRENOM": "Vladyslav",
+                    "NOM": "Kochetkov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-25",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
+                },
+                {
+                    "ID": 53133,
+                    "PSEUDO": "yowaai",
+                    "ROLE": "1",
+                    "PRENOM": "Oleg",
+                    "NOM": "Mikhaylov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-11-13",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:18"
+                },
+                {
+                    "ID": 54491,
+                    "PSEUDO": "Hyuga",
+                    "ROLE": "5",
+                    "PRENOM": "Denys",
+                    "NOM": "Deineko",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137540,
+                "NOM": "Spirit Academy",
+                "LOCALISATION": "RU",
+                "ACRONYME": "TS.A",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:46:21"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 53672,
+                    "PSEUDO": "Kiseki",
+                    "ROLE": "1",
+                    "PRENOM": "Dmitrii",
+                    "NOM": "Skutelnik",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:21"
+                },
+                {
+                    "ID": 55018,
+                    "PSEUDO": "aidar",
+                    "ROLE": "4",
+                    "PRENOM": "Aidar",
+                    "NOM": "Nurgalin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:21"
+                },
+                {
+                    "ID": 61912,
+                    "PSEUDO": "KAE",
+                    "ROLE": "3",
+                    "PRENOM": "Evgenii",
+                    "NOM": "Zolotarev",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:21"
+                },
+                {
+                    "ID": 62278,
+                    "PSEUDO": "86",
+                    "ROLE": "2",
+                    "PRENOM": "Arseniy",
+                    "NOM": "Babyuk",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:20"
+                },
+                {
+                    "ID": 66284,
+                    "PSEUDO": "sailyn",
+                    "ROLE": "5",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:21"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138761,
+                "NOM": "4ikibamboni",
+                "LOCALISATION": "",
+                "ACRONYME": "4iki",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:46:17"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27013,
+                    "PSEUDO": "Otaker",
+                    "ROLE": "1",
+                    "PRENOM": "Roman",
+                    "NOM": "Aliullov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-03-25",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:10"
+                },
+                {
+                    "ID": 39741,
+                    "PSEUDO": "ktAmOp",
+                    "ROLE": "3",
+                    "PRENOM": "Nikolay",
+                    "NOM": "Khalyapin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-03-01",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:17"
+                },
+                {
+                    "ID": 57292,
+                    "PSEUDO": "monodrama",
+                    "ROLE": "5",
+                    "PRENOM": "Bogdan",
+                    "NOM": "Iushkov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:08:10"
+                },
+                {
+                    "ID": 57953,
+                    "PSEUDO": "abomination",
+                    "ROLE": "2",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:08:13"
+                },
+                {
+                    "ID": 58040,
+                    "PSEUDO": "slimeyao",
+                    "ROLE": "4",
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Kasaev",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:08:16"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139462,
+                "NOM": "angry birds",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:46:18"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 42204,
+                    "PSEUDO": "Ankou",
+                    "ROLE": "3",
+                    "PRENOM": "Andrei",
+                    "NOM": "Kuznetsov",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-30",
+                    "NATIONALITE": "EE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:18"
+                },
+                {
+                    "ID": 53503,
+                    "PSEUDO": "waveformn",
+                    "ROLE": "4",
+                    "PRENOM": "Konstantin",
+                    "NOM": "Kovalev",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-07-23",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:12"
+                },
+                {
+                    "ID": 54574,
+                    "PSEUDO": "PERDAN4IK",
+                    "ROLE": "5",
+                    "PRENOM": "Suslov",
+                    "NOM": "Anton",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-03-17",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:18"
+                },
+                {
+                    "ID": 58409,
+                    "PSEUDO": "ssnovv1",
+                    "ROLE": "1",
+                    "PRENOM": "Ilya",
+                    "NOM": "Kondrashov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-22",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:17"
+                },
+                {
+                    "ID": 59593,
+                    "PSEUDO": "Mirele",
+                    "ROLE": "2",
+                    "PRENOM": "Marat",
+                    "NOM": "Gazetdinov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-05-24",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:18"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139489,
+                "NOM": "Team Allied",
+                "LOCALISATION": "",
+                "ACRONYME": "ALL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:46:20"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28041,
+                    "PSEUDO": "Filminy",
+                    "ROLE": "5",
+                    "PRENOM": "Filip",
+                    "NOM": "Komín",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:08:26"
+                },
+                {
+                    "ID": 31712,
+                    "PSEUDO": "Atoufix",
+                    "ROLE": "4",
+                    "PRENOM": "Mathis ",
+                    "NOM": "Monino",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:08:27"
+                },
+                {
+                    "ID": 44185,
+                    "PSEUDO": "Mikey ",
+                    "ROLE": "2",
+                    "PRENOM": "Kasra",
+                    "NOM": "Mesbah",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-21",
+                    "NATIONALITE": "IR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:06:09"
+                },
+                {
+                    "ID": 54802,
+                    "PSEUDO": "dream`",
+                    "ROLE": "1",
+                    "PRENOM": "Kyial",
+                    "NOM": "Tayirov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-03-28",
+                    "NATIONALITE": "KG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
+                },
+                {
+                    "ID": 68946,
+                    "PSEUDO": "Belief",
+                    "ROLE": "3",
+                    "PRENOM": "Damjan",
+                    "NOM": "Jordanovski",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:46:20"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "European Pro League",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:10:19"
+    },
+    "SERIE": {
+        "NOM": "Season 41 2026",
+        "ANNEE": 2026,
+        "SAISON": "41",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:20:24",
+        "ID DU VAINQUEUR": null
+    }
+}

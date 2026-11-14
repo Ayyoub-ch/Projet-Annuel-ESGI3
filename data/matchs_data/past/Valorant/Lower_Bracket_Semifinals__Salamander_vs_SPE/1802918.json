@@ -1,0 +1,121 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1802918,
+        "NOM": "Lower_Bracket_Semifinals__Salamander_vs_SPE",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "12:03:19",
+        "DATE DE FIN": "2026-11-13",
+        "HEURE DE FIN": "14:09:11",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "22:36:31",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52911,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 5662,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "12:03:19",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "13:37:41",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129076,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52912,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1887,
+            "DATE DE DEBUT DE PARTIE": "2026-11-13",
+            "HEURE DE DEBUT DE PARTIE": "13:37:44",
+            "DATE DE FIN DE PARTIE": "2026-11-13",
+            "HEURE DE FIN DE PARTIE": "14:09:12",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129076,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139573,
+            "NOM": "Salamander",
+            "LOCALISATION": "TH",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:37:19"
+        },
+        {
+            "ID": 129076,
+            "NOM": "Sharper Esport",
+            "LOCALISATION": "TH",
+            "ACRONYME": "SPE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:26:59"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139573
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 129076
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22428,
+        "NOM": "Playoffs",
+        "TYPE": "online/offline",
+        "PAYS": "TH",
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": "200000 Thai Baht",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "14:30:33",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4860,
+        "NOM": "Asia Pacific Predator League",
+        "DATE DE MODIFICATION": "2024-01-06",
+        "HEURE DE MODIFICATION": "09:08:33"
+    },
+    "SERIE": {
+        "ID": 11197,
+        "NOM": "Thailand 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "22:36:31"
+    }
+}

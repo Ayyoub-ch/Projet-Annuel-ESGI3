@@ -1,0 +1,449 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22385,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:17:58",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 2: Monkeys vs ESB",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-08",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-11-08",
+            "HEURE DE DEBUT": "2026-11-08",
+            "DATE DE FIN": "2026-11-08",
+            "HEURE DE FIN": "2026-11-08",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:16:42",
+            "PRIZEPOOL": "275000 Czech Koruna",
+            "SLUG": "cs-go-mcr-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "Semifinal 1: UNiTY vs BRUTE.SQ",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-08",
+            "HEURE PRÉVUE": "20:40:00",
+            "DATE DE DEBUT": "2026-11-08",
+            "HEURE DE DEBUT": "2026-11-08",
+            "DATE DE FIN": "2026-11-08",
+            "HEURE DE FIN": "2026-11-08",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:04:55",
+            "PRIZEPOOL": "275000 Czech Koruna",
+            "SLUG": "cs-go-mcr-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        },
+        {
+            "NOM": "Grand final: UNiTY vs Monkeys",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-22",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-22",
+            "HEURE DE DEBUT": "2026-11-22",
+            "DATE DE FIN": "2026-11-22",
+            "HEURE DE FIN": "2026-11-22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:12:02",
+            "PRIZEPOOL": "275000 Czech Koruna",
+            "SLUG": "cs-go-mcr-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "cs",
+                "LIEN BRUTE": "https://www.twitch.tv/playzonecz"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 127497,
+            "NOM": "eSuba",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:18:10",
+            "ACRONYME": "ESB"
+        },
+        {
+            "ID": 133063,
+            "NOM": "UNiTY esports",
+            "LOCALISATION": "SK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:12",
+            "ACRONYME": "UNiTY"
+        },
+        {
+            "ID": 139502,
+            "NOM": "BRUTE SQ",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:27:13",
+            "ACRONYME": "BRUTE.SQ"
+        },
+        {
+            "ID": 139504,
+            "NOM": "Monkeys",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:20:45",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 127497,
+                "NOM": "eSuba",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "ESB",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:18:10"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25106,
+                    "PSEUDO": "Crazyy",
+                    "ROLE": null,
+                    "PRENOM": "Ondřej",
+                    "NOM": "Švec",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                },
+                {
+                    "ID": 51144,
+                    "PSEUDO": "vANO",
+                    "ROLE": null,
+                    "PRENOM": "Ivan",
+                    "NOM": "Galustyan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:18:10"
+                },
+                {
+                    "ID": 66042,
+                    "PSEUDO": "Rentlax",
+                    "ROLE": null,
+                    "PRENOM": "Martin",
+                    "NOM": "Křepelka",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:25"
+                },
+                {
+                    "ID": 66043,
+                    "PSEUDO": "shark",
+                    "ROLE": null,
+                    "PRENOM": "Filip",
+                    "NOM": "Táborský",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                },
+                {
+                    "ID": 66895,
+                    "PSEUDO": "Ananasino",
+                    "ROLE": null,
+                    "PRENOM": "Vojtěch",
+                    "NOM": "Hanák",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:17:28"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133063,
+                "NOM": "UNiTY esports",
+                "LOCALISATION": "SK",
+                "ACRONYME": "UNiTY",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28703,
+                    "PSEUDO": "Dytor",
+                    "ROLE": null,
+                    "PRENOM": "Martin",
+                    "NOM": "Handl",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-24",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:11"
+                },
+                {
+                    "ID": 32000,
+                    "PSEUDO": "KWERTZZ",
+                    "ROLE": null,
+                    "PRENOM": "Simon",
+                    "NOM": "Horák",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-10-31",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+                },
+                {
+                    "ID": 33543,
+                    "PSEUDO": "Sn0w",
+                    "ROLE": null,
+                    "PRENOM": "Timmy",
+                    "NOM": "Brun",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+                },
+                {
+                    "ID": 34081,
+                    "PSEUDO": "M1key",
+                    "ROLE": null,
+                    "PRENOM": "Jakub",
+                    "NOM": "Krausko",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-03-17",
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:12"
+                },
+                {
+                    "ID": 39682,
+                    "PSEUDO": "2high",
+                    "ROLE": null,
+                    "PRENOM": "Ahmet",
+                    "NOM": "Baftijari",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-08",
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139502,
+                "NOM": "BRUTE SQ",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "BRUTE.SQ",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:27:13"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 33554,
+                    "PSEUDO": "heikkoL",
+                    "ROLE": null,
+                    "PRENOM": "Kristián",
+                    "NOM": "Garbera",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:13"
+                },
+                {
+                    "ID": 36478,
+                    "PSEUDO": "Frixos",
+                    "ROLE": null,
+                    "PRENOM": "Marek ",
+                    "NOM": "Častulík",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:13"
+                },
+                {
+                    "ID": 37257,
+                    "PSEUDO": "w4rden",
+                    "ROLE": null,
+                    "PRENOM": "Jakub ",
+                    "NOM": "Horák",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:12"
+                },
+                {
+                    "ID": 45801,
+                    "PSEUDO": "SiKO",
+                    "ROLE": null,
+                    "PRENOM": "Tibor",
+                    "NOM": "Putera",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:12"
+                },
+                {
+                    "ID": 53123,
+                    "PSEUDO": "PerdY",
+                    "ROLE": null,
+                    "PRENOM": "Michal",
+                    "NOM": "Pokorný",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:13"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139504,
+                "NOM": "Monkeys",
+                "LOCALISATION": "CZ",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                "HEURE DE LA DERNIERE MODIFICATION": "03:20:45"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28702,
+                    "PSEUDO": "twist",
+                    "ROLE": null,
+                    "PRENOM": "Matěj",
+                    "NOM": "Petráš",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-06-05",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:16:10"
+                },
+                {
+                    "ID": 48402,
+                    "PSEUDO": "Jimmbo",
+                    "ROLE": null,
+                    "PRENOM": "Jiří",
+                    "NOM": "Jaroslav Kamenický",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:20:45"
+                },
+                {
+                    "ID": 55158,
+                    "PSEUDO": "SanyxX",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:15:36"
+                },
+                {
+                    "ID": 60590,
+                    "PSEUDO": "neptun",
+                    "ROLE": null,
+                    "PRENOM": "Lukáš ",
+                    "NOM": "Bašník",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:20:45"
+                },
+                {
+                    "ID": 66939,
+                    "PSEUDO": "TeeShine",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:15:39"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "MČR",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:46:26"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:11:32",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1790239,
+        "NOM": "Decider_match__BRUTE.SQ_vs_DE.P",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-07",
+        "HEURE DE DEBUT": "20:52:37",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "23:32:34",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "20:11:32",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238684,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2241,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "20:52:41",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "21:30:03",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139014,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238685,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3344,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "21:42:44",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "22:38:28",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139502,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238686,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2476,
+            "DATE DE DEBUT DE PARTIE": "2026-11-07",
+            "HEURE DE DEBUT DE PARTIE": "22:51:18",
+            "DATE DE FIN DE PARTIE": "2026-11-07",
+            "HEURE DE FIN DE PARTIE": "23:32:35",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139502,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139502,
+            "NOM": "BRUTE SQ",
+            "LOCALISATION": "CZ",
+            "ACRONYME": "BRUTE.SQ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:20:44"
+        },
+        {
+            "ID": 139014,
+            "NOM": "Dynamo Eclot Phoenix",
+            "LOCALISATION": "",
+            "ACRONYME": "DE.P",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:04:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139502
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139014
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22384,
+        "NOM": "Group B",
+        "TYPE": "online/offline",
+        "PAYS": "CZ",
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 127497,
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "19:00:00",
+        "DATE DE FIN": "2026-11-07",
+        "HEURE DE FIN": "23:32:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "10:07:44",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5102,
+        "NOM": "MČR",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:46:26"
+    },
+    "SERIE": {
+        "ID": 11178,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "20:11:32"
+    }
+}

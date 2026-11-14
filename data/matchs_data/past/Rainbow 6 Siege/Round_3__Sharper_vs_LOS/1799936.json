@@ -1,0 +1,103 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1799936,
+        "NOM": "Round_3__Sharper_vs_LOS",
+        "JEU VIDEO": "Rainbow 6 Siege",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "00:32:49",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "01:51:40",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "18:40:09",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 14674,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 4731,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "00:32:49",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "01:51:40",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135639,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 130285,
+            "NOM": "Sharper Esport",
+            "LOCALISATION": "",
+            "ACRONYME": "Sharper",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:56:22"
+        },
+        {
+            "ID": 135639,
+            "NOM": "LOS",
+            "LOCALISATION": "BR",
+            "ACRONYME": "LOS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:56:40"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 130285
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135639
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22417,
+        "NOM": "Phase 2 - Swiss Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "s",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "00:30:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-09",
+        "HEURE DE MODIFICATION": "07:44:33",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4999,
+        "NOM": "BLAST R6 Major",
+        "DATE DE MODIFICATION": "2023-04-19",
+        "HEURE DE MODIFICATION": "18:17:38"
+    },
+    "SERIE": {
+        "ID": 11152,
+        "NOM": "Osaka 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "00:30:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "18:40:09"
+    }
+}

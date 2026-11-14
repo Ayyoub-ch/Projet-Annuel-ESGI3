@@ -1,0 +1,914 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22455,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Mobile Legends  Bang Bang",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:28:40",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Quarterfinal 1: YNDX vs OMX",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:23:02",
+            "PRIZEPOOL": "5000000 Russian Ruble",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=X44T0Pj6VpA"
+            }
+        },
+        {
+            "NOM": "Quarterfinal 2: FUT vs CHEM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "running",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:57:10",
+            "PRIZEPOOL": "5000000 Russian Ruble",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=X44T0Pj6VpA"
+            }
+        },
+        {
+            "NOM": "Quarterfinal 3: CH vs Aurevia Team",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:23:21",
+            "PRIZEPOOL": "5000000 Russian Ruble",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=X44T0Pj6VpA"
+            }
+        },
+        {
+            "NOM": "Quarterfinal 4: Nice Try vs Rakuzan",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-14",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-14",
+            "HEURE DE DEBUT": "2026-11-14",
+            "DATE DE FIN": "2026-11-14",
+            "HEURE DE FIN": "2026-11-14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:30:03",
+            "PRIZEPOOL": "5000000 Russian Ruble",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://twitch.tv/betboom_esports"
+            }
+        },
+        {
+            "NOM": "Semifinal 1: YNDX vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:23:02",
+            "PRIZEPOOL": "5000000 Russian Ruble",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://twitch.tv/betboom_esports"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "13:30:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:54:42",
+            "PRIZEPOOL": "5000000 Russian Ruble",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://twitch.tv/betboom_esports"
+            }
+        },
+        {
+            "NOM": "Third Place Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:54:42",
+            "PRIZEPOOL": "5000000 Russian Ruble",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://twitch.tv/betboom_esports"
+            }
+        },
+        {
+            "NOM": "Grand Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 7,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "16:30:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:54:42",
+            "PRIZEPOOL": "5000000 Russian Ruble",
+            "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://twitch.tv/betboom_esports"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135707,
+            "NOM": "Rakuzan",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:40",
+            "ACRONYME": null
+        },
+        {
+            "ID": 136538,
+            "NOM": "Cyber Hero",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:38",
+            "ACRONYME": "CH"
+        },
+        {
+            "ID": 138521,
+            "NOM": "Team Yandex",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:35",
+            "ACRONYME": "YNDX"
+        },
+        {
+            "ID": 138661,
+            "NOM": "Omnix",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:36",
+            "ACRONYME": "OMX"
+        },
+        {
+            "ID": 138876,
+            "NOM": "FUT Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:36",
+            "ACRONYME": "FUT"
+        },
+        {
+            "ID": 139223,
+            "NOM": "Aurevia Team",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:39",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139494,
+            "NOM": "Nice Try",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:39",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139497,
+            "NOM": "Chempiki",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:37",
+            "ACRONYME": "CHEM"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135707,
+                "NOM": "Rakuzan",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:40"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54953,
+                    "PSEUDO": "Mashiro",
+                    "ROLE": null,
+                    "PRENOM": "Cavadov Kamil",
+                    "NOM": "Agabalaoglu",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2008-12-10",
+                    "NATIONALITE": "AZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 56721,
+                    "PSEUDO": "Dont",
+                    "ROLE": null,
+                    "PRENOM": "Vadim",
+                    "NOM": "Dolgushin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 56722,
+                    "PSEUDO": "Lovely",
+                    "ROLE": null,
+                    "PRENOM": "Rozmovny Matvey",
+                    "NOM": "Alexandrovich",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-04-05",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 56731,
+                    "PSEUDO": "gxn1us",
+                    "ROLE": null,
+                    "PRENOM": "Timur",
+                    "NOM": "Khamidov",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-02-26",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 68968,
+                    "PSEUDO": "Vermikk",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:05:00"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136538,
+                "NOM": "Cyber Hero",
+                "LOCALISATION": "RU",
+                "ACRONYME": "CH",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 56718,
+                    "PSEUDO": "Maniak",
+                    "ROLE": null,
+                    "PRENOM": "Stepan",
+                    "NOM": "Mikhaylov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-18",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+                },
+                {
+                    "ID": 56720,
+                    "PSEUDO": "Reaper",
+                    "ROLE": null,
+                    "PRENOM": "Amir",
+                    "NOM": "Ismailov",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-11-26",
+                    "NATIONALITE": "KG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
+                },
+                {
+                    "ID": 56724,
+                    "PSEUDO": "Ptenchik",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Badritdinov",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2009-02-12",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
+                },
+                {
+                    "ID": 59756,
+                    "PSEUDO": "ShowMe",
+                    "ROLE": null,
+                    "PRENOM": "Vladimir",
+                    "NOM": "Stanislavovich",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-02",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
+                },
+                {
+                    "ID": 60729,
+                    "PSEUDO": "FIRSTAAB",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:05:11"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138521,
+                "NOM": "Team Yandex",
+                "LOCALISATION": "",
+                "ACRONYME": "YNDX",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54954,
+                    "PSEUDO": "Kodjikk",
+                    "ROLE": null,
+                    "PRENOM": "Baibulsinov Ermek",
+                    "NOM": "Eduardovich",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-14",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+                },
+                {
+                    "ID": 54955,
+                    "PSEUDO": "Black march",
+                    "ROLE": null,
+                    "PRENOM": "Falin Timur",
+                    "NOM": "Yurievich",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-04-03",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+                },
+                {
+                    "ID": 56719,
+                    "PSEUDO": "Yustinian",
+                    "ROLE": null,
+                    "PRENOM": "Markov Aleksandr",
+                    "NOM": "Anatolievich",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-13",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+                },
+                {
+                    "ID": 56723,
+                    "PSEUDO": "Castle",
+                    "ROLE": null,
+                    "PRENOM": "Atalaev Ramazan",
+                    "NOM": "Atalaevich",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-26",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+                },
+                {
+                    "ID": 56725,
+                    "PSEUDO": "A F K",
+                    "ROLE": null,
+                    "PRENOM": "Loginov Andrey",
+                    "NOM": "Yurevich",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-12-12",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:34"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138661,
+                "NOM": "Omnix",
+                "LOCALISATION": "RU",
+                "ACRONYME": "OMX",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 59761,
+                    "PSEUDO": "Wammu",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+                },
+                {
+                    "ID": 62499,
+                    "PSEUDO": "Whoopty",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                },
+                {
+                    "ID": 65829,
+                    "PSEUDO": "Баратрум",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                },
+                {
+                    "ID": 65852,
+                    "PSEUDO": "Juno",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+                },
+                {
+                    "ID": 65853,
+                    "PSEUDO": "NekS",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138876,
+                "NOM": "FUT Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "FUT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54943,
+                    "PSEUDO": "Kazue",
+                    "ROLE": null,
+                    "PRENOM": "Mehmed Akif",
+                    "NOM": "Öztürk",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                },
+                {
+                    "ID": 58524,
+                    "PSEUDO": "Blotzfet",
+                    "ROLE": null,
+                    "PRENOM": "Görkem",
+                    "NOM": "Altin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                },
+                {
+                    "ID": 58531,
+                    "PSEUDO": "ESKISKIN",
+                    "ROLE": null,
+                    "PRENOM": "Egemen",
+                    "NOM": "Önem",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                },
+                {
+                    "ID": 63109,
+                    "PSEUDO": "Rx",
+                    "ROLE": null,
+                    "PRENOM": "Necdet Efe",
+                    "NOM": "Arslan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                },
+                {
+                    "ID": 66654,
+                    "PSEUDO": "Saiki",
+                    "ROLE": null,
+                    "PRENOM": "Mustafa",
+                    "NOM": "Ege Akın",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139223,
+                "NOM": "Aurevia Team",
+                "LOCALISATION": "RU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54956,
+                    "PSEUDO": "Fangor",
+                    "ROLE": null,
+                    "PRENOM": "Gorin Stanislav",
+                    "NOM": "Sergeevich",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-09",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 56717,
+                    "PSEUDO": "ONESHOT",
+                    "ROLE": null,
+                    "PRENOM": "Alexander",
+                    "NOM": "Sharkov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-13",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
+                },
+                {
+                    "ID": 58659,
+                    "PSEUDO": "BadKot",
+                    "ROLE": null,
+                    "PRENOM": "Denis ",
+                    "NOM": "Bogomolov",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-03-27",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
+                },
+                {
+                    "ID": 58660,
+                    "PSEUDO": "Super Egorka",
+                    "ROLE": null,
+                    "PRENOM": "Egor",
+                    "NOM": "Bugaev",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-03-14",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
+                },
+                {
+                    "ID": 62502,
+                    "PSEUDO": "Bober",
+                    "ROLE": null,
+                    "PRENOM": "Dmitry",
+                    "NOM": "Belyaev",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-09-16",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:38"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139494,
+                "NOM": "Nice Try",
+                "LOCALISATION": "RU",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 56744,
+                    "PSEUDO": "shelianer",
+                    "ROLE": null,
+                    "PRENOM": "Danil",
+                    "NOM": "Gribovsky",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 56745,
+                    "PSEUDO": "Nagib",
+                    "ROLE": null,
+                    "PRENOM": "Maxim",
+                    "NOM": "Dudich",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-12",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 60307,
+                    "PSEUDO": "Avilio",
+                    "ROLE": null,
+                    "PRENOM": "Berezhnoy Danila",
+                    "NOM": "Artemovich",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 61386,
+                    "PSEUDO": "Solist",
+                    "ROLE": null,
+                    "PRENOM": "Bogdan",
+                    "NOM": "Bolotin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                },
+                {
+                    "ID": 65485,
+                    "PSEUDO": "shvedskii",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139497,
+                "NOM": "Chempiki",
+                "LOCALISATION": "",
+                "ACRONYME": "CHEM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54952,
+                    "PSEUDO": "Marbon",
+                    "ROLE": null,
+                    "PRENOM": "Ildarovich Ruslan",
+                    "NOM": "Gabdrakhmanov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-08-09",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+                },
+                {
+                    "ID": 56727,
+                    "PSEUDO": "ilovee",
+                    "ROLE": null,
+                    "PRENOM": "Dmitry ",
+                    "NOM": "Filanovich",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+                },
+                {
+                    "ID": 58663,
+                    "PSEUDO": "Dior",
+                    "ROLE": null,
+                    "PRENOM": "Sergey",
+                    "NOM": "Bulavkin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+                },
+                {
+                    "ID": 59761,
+                    "PSEUDO": "Wammu",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+                },
+                {
+                    "ID": 60691,
+                    "PSEUDO": " Bert",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "BetBoom Rise of Legends",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-10-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:16:30"
+    },
+    "SERIE": {
+        "NOM": "Season 11 2026",
+        "ANNEE": 2026,
+        "SAISON": "11",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-02",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:04:58",
+        "ID DU VAINQUEUR": null
+    }
+}

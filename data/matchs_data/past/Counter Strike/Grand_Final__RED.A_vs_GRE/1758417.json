@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1758417,
+        "NOM": "Grand_Final__RED.A_vs_GRE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-09",
+        "HEURE DE DEBUT": "19:13:54",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "22:12:11",
+        "DATE DE MODIFICATION": "2026-11-07",
+        "HEURE DE MODIFICATION": "20:37:55",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 236295,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2456,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "19:13:54",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "19:54:51",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138942,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236296,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2760,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "20:14:24",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "21:00:25",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135505,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 236297,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3160,
+            "DATE DE DEBUT DE PARTIE": "2026-11-09",
+            "HEURE DE DEBUT DE PARTIE": "21:19:31",
+            "DATE DE FIN DE PARTIE": "2026-11-09",
+            "HEURE DE FIN DE PARTIE": "22:12:11",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138942,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135505,
+            "NOM": "RED Canids Academy",
+            "LOCALISATION": "BR",
+            "ACRONYME": "RED.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:51:57"
+        },
+        {
+            "ID": 138942,
+            "NOM": "Grêmio Esports",
+            "LOCALISATION": "BR",
+            "ACRONYME": "GRE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:52:03"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135505
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138942
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22242,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": "10,000 Brazilian Real",
+        "VAINQUEUR": 138942,
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "22:12:00",
+        "DATE DE MODIFICATION": "2026-11-10",
+        "HEURE DE MODIFICATION": "08:18:00",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4554,
+        "NOM": "Gamers Club Liga Série A",
+        "DATE DE MODIFICATION": "2022-08-12",
+        "HEURE DE MODIFICATION": "14:23:59"
+    },
+    "SERIE": {
+        "ID": 11127,
+        "NOM": "October 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-16",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-09",
+        "HEURE DE FIN": "21:30:00",
+        "DATE DE MODIFICATION": "2026-11-07",
+        "HEURE DE MODIFICATION": "20:37:55"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1781486,
+        "NOM": "Grand_Final__MGLZ_vs_MOUZ",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-08",
+        "HEURE DE DEBUT": "07:32:30",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "10:08:47",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "12:56:55",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-11-08T07:15:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237722,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2224,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "07:32:30",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "08:09:34",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3240,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237723,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2488,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "08:27:56",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "09:09:24",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3240,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237724,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2474,
+            "DATE DE DEBUT DE PARTIE": "2026-11-08",
+            "HEURE DE DEBUT DE PARTIE": "09:27:33",
+            "DATE DE FIN DE PARTIE": "2026-11-08",
+            "HEURE DE FIN DE PARTIE": "10:08:48",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3240,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 3272,
+            "NOM": "TheMongolz",
+            "LOCALISATION": "MN",
+            "ACRONYME": "MGLZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:54"
+        },
+        {
+            "ID": 3240,
+            "NOM": "MOUZ",
+            "LOCALISATION": "DE",
+            "ACRONYME": "MOUZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:58"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 3272
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 3240
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22333,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "s",
+        "CASH PRIZE": "1,250,000 United States Dollar",
+        "VAINQUEUR": 3240,
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "06:30:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "10:08:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "12:56:55",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 4161,
+        "NOM": "IEM",
+        "DATE DE MODIFICATION": "2019-03-04",
+        "HEURE DE MODIFICATION": "11:00:40"
+    },
+    "SERIE": {
+        "ID": 11136,
+        "NOM": "Beijing 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": 3240,
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "02:00:00",
+        "DATE DE FIN": "2026-11-08",
+        "HEURE DE FIN": "10:08:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "12:56:55"
+    }
+}
