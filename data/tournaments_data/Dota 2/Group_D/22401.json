@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-14",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-        "HEURE DE LA DERNIERE MODIFICATION": "21:07:01",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:33:24",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -41,7 +41,7 @@
         {
             "NOM": "TS vs Froglings",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -52,15 +52,15 @@
             "DATE DE FIN": "2026-11-13",
             "HEURE DE FIN": "2026-11-13",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:12:14",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:58:37",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-1win-essence-3-2026-group-d",
             "TIER": "a",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/1win_dota_ru"
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/1win_dota"
             }
         },
         {

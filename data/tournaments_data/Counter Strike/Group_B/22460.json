@@ -7,12 +7,37 @@
         "HEURE DE DEBUT": "21:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-        "HEURE DE LA DERNIERE MODIFICATION": "11:01:30",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:26:55",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
+        {
+            "NOM": "Winners Match: DISFARÇADOS vs ALKA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-17",
+            "HEURE PRÉVUE": "20:30:00",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "2026-11-17",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "2026-11-17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:28:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-november-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
         {
             "NOM": "RED.A vs DISFARÇADOS",
             "TYPE": "Type de match inconnu",
@@ -44,8 +69,8 @@
             "ID": 135505,
             "NOM": "RED Canids Academy",
             "LOCALISATION": "BR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:39:19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:22",
             "ACRONYME": "RED.A"
         },
         {
@@ -60,16 +85,16 @@
             "ID": 138276,
             "NOM": "ALKA GAMING",
             "LOCALISATION": "BR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:04:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:20",
             "ACRONYME": "ALKA"
         },
         {
             "ID": 139601,
             "NOM": "DISFARÇADOS",
             "LOCALISATION": "BR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:01:30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:24",
             "ACRONYME": null
         }
     ],
@@ -80,8 +105,8 @@
                 "NOM": "RED Canids Academy",
                 "LOCALISATION": "BR",
                 "ACRONYME": "RED.A",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:39:19"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:29:22"
             },
             "JOUEURS": [
                 {
@@ -107,8 +132,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "17:39:19"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:22"
                 },
                 {
                     "ID": 54900,
@@ -120,8 +145,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:55:38"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:21"
                 },
                 {
                     "ID": 54988,
@@ -133,8 +158,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:19:45"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:21"
                 },
                 {
                     "ID": 64758,
@@ -146,8 +171,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:19:44"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:21"
                 }
             ]
         },
@@ -234,8 +259,8 @@
                 "NOM": "ALKA GAMING",
                 "LOCALISATION": "BR",
                 "ACRONYME": "ALKA",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:04:56"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:29:20"
             },
             "JOUEURS": [
                 {
@@ -248,8 +273,8 @@
                     "DATE DE NAISSANCE": "1999-12-06",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:04:55"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:20"
                 },
                 {
                     "ID": 29461,
@@ -261,8 +286,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:04:55"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:19"
                 },
                 {
                     "ID": 42227,
@@ -274,8 +299,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:04:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:20"
                 },
                 {
                     "ID": 44590,
@@ -287,8 +312,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:04:55"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:20"
                 },
                 {
                     "ID": 67955,
@@ -311,8 +336,8 @@
                 "NOM": "DISFARÇADOS",
                 "LOCALISATION": "BR",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "11:01:30"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:29:24"
             },
             "JOUEURS": [
                 {
@@ -325,8 +350,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:03:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:24"
                 },
                 {
                     "ID": 33563,
@@ -338,8 +363,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:29"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:24"
                 },
                 {
                     "ID": 37725,
@@ -351,8 +376,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:30"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:24"
                 },
                 {
                     "ID": 44015,
@@ -364,8 +389,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:03:29"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:24"
                 },
                 {
                     "ID": 63782,
@@ -377,8 +402,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:30"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:24"
                 }
             ]
         }
@@ -392,8 +417,8 @@
         "NOM": "November 2026",
         "ANNEE": 2026,
         "SAISON": "November",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:20:48",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:26:55",
         "ID DU VAINQUEUR": null
     }
 }

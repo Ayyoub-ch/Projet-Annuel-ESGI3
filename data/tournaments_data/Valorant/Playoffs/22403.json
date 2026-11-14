@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "05:30:00",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-        "HEURE DE LA DERNIERE MODIFICATION": "21:23:59",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:42:22",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -291,18 +291,18 @@
         {
             "NOM": "Semifinal 1: SIB vs AMHR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-14",
-            "HEURE PRÉVUE": "05:00:00",
+            "HEURE PRÉVUE": "05:30:00",
             "DATE DE DEBUT": "2026-11-14",
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:53:35",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:57:23",
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
@@ -316,18 +316,18 @@
         {
             "NOM": "Semifinal 2: FAC vs ZZ",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-14",
-            "HEURE PRÉVUE": "05:00:00",
+            "HEURE PRÉVUE": "09:00:00",
             "DATE DE DEBUT": "2026-11-14",
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:53:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:58:27",
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
@@ -339,7 +339,7 @@
             }
         },
         {
-            "NOM": "3rd place match: TBD vs TBD",
+            "NOM": "3rd place match: SIB vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -351,8 +351,8 @@
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:00:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:07:09",
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
@@ -364,7 +364,7 @@
             }
         },
         {
-            "NOM": "Grand final: TBD vs TBD",
+            "NOM": "Grand final: AMHR vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -376,8 +376,8 @@
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:57:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:07:09",
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
@@ -467,8 +467,8 @@
             "ID": 139534,
             "NOM": "雨のち晴れ",
             "LOCALISATION": "JP",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:54:25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:42:22",
             "ACRONYME": "AMHR"
         },
         {
@@ -1026,10 +1026,23 @@
                 "NOM": "雨のち晴れ",
                 "LOCALISATION": "JP",
                 "ACRONYME": "AMHR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:54:25"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:42:22"
             },
             "JOUEURS": [
+                {
+                    "ID": 64918,
+                    "PSEUDO": "sayu",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "JP",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:42:21"
+                },
                 {
                     "ID": 68804,
                     "PSEUDO": "kennosuke",
@@ -1094,6 +1107,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
                     "HEURE DE LA DERNIERE MODIFICATION": "11:38:51"
+                },
+                {
+                    "ID": 68969,
+                    "PSEUDO": "PL PLAYER 01",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:42:22"
                 }
             ]
         },

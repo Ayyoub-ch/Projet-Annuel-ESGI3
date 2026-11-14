@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1801587,
+        "NOM": "Semifinal_2__FLCS_vs_FaZe",
+        "JEU VIDEO": "Rainbow 6 Siege",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "05:00:07",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "07:01:16",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "18:40:09",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 14722,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2979,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "05:00:07",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "05:49:46",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126927,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 14723,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3765,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "05:58:31",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "07:01:17",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126927,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 131551,
+            "NOM": "Falcons Esport",
+            "LOCALISATION": "SA",
+            "ACRONYME": "FLCS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:46:13"
+        },
+        {
+            "ID": 126927,
+            "NOM": "FaZe Clan",
+            "LOCALISATION": "US",
+            "ACRONYME": "FaZe",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:28:18"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 131551
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 126927
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22425,
+        "NOM": "Phase 3 - Playoffs",
+        "TYPE": "offline",
+        "PAYS": "JP",
+        "REGION": "ASIA",
+        "TIER": "s",
+        "CASH PRIZE": "600000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "00:30:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "09:00:00",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "08:28:20",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4999,
+        "NOM": "BLAST R6 Major",
+        "DATE DE MODIFICATION": "2023-04-19",
+        "HEURE DE MODIFICATION": "18:17:38"
+    },
+    "SERIE": {
+        "ID": 11152,
+        "NOM": "Osaka 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-06",
+        "HEURE DE DEBUT": "00:30:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-10-27",
+        "HEURE DE MODIFICATION": "18:40:09"
+    }
+}
