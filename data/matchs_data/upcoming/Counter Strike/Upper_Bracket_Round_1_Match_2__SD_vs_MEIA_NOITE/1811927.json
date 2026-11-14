@@ -12,7 +12,7 @@
         "HEURE DE FIN": "Heure de fin non définie",
         "DATE DE MODIFICATION": "2026-11-14",
         "HEURE DE MODIFICATION": "07:18:52",
-        "STATS DETAILLEES": true,
+        "STATS DETAILLEES": false,
         "LIVE": {
             "SUPPORT": false,
             "OUVERTURE": "Pas d'information sur l'ouverture"
@@ -30,7 +30,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": true,
+            "DETAIL STAT": false,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -45,7 +45,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": true,
+            "DETAIL STAT": false,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -60,7 +60,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": true,
+            "DETAIL STAT": false,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -109,7 +109,7 @@
         "HEURE DE FIN": "02:45:00",
         "DATE DE MODIFICATION": "2026-11-14",
         "HEURE DE MODIFICATION": "09:19:14",
-        "STATS DETAILLEES": true,
+        "STATS DETAILLEES": false,
         "LIVE SUPPORT": false
     },
     "LIGUE": {
