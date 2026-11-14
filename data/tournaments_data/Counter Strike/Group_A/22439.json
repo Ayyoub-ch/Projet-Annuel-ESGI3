@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "07:00:00",
         "DATE DE FIN": "2026-11-18",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-        "HEURE DE LA DERNIERE MODIFICATION": "20:28:59",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:47:54",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -141,7 +141,7 @@
         {
             "NOM": "Team Buster vs Team WorldEdit",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -152,7 +152,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:37:02",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:46:38",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-winline-star-series-4-2026-group-a",
             "TIER": "d",
@@ -166,7 +166,7 @@
         {
             "NOM": "Team leva2k vs Team NS",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -176,16 +176,16 @@
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:55:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:42:20",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-winline-star-series-4-2026-group-a",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/dimanchel0"
             }
         },
         {
@@ -251,8 +251,8 @@
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:38:49",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:47:05",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-winline-star-series-4-2026-group-a",
             "TIER": "d",
@@ -353,8 +353,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:32:02"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:23:11"
                 },
                 {
                     "ID": 64334,

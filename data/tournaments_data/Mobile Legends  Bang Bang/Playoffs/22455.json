@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:28:40",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:43:39",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -41,7 +41,7 @@
         {
             "NOM": "Quarterfinal 2: FUT vs CHEM",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
@@ -52,7 +52,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:57:10",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:21:14",
             "PRIZEPOOL": "5000000 Russian Ruble",
             "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
             "TIER": "c",
@@ -66,18 +66,18 @@
         {
             "NOM": "Quarterfinal 3: CH vs Aurevia Team",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
             "DATE PRÉVUE": "2026-11-14",
-            "HEURE PRÉVUE": "13:00:00",
+            "HEURE PRÉVUE": "13:45:00",
             "DATE DE DEBUT": "2026-11-14",
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:23:21",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:40:30",
             "PRIZEPOOL": "5000000 Russian Ruble",
             "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
             "TIER": "c",
@@ -96,13 +96,13 @@
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
             "DATE PRÉVUE": "2026-11-14",
-            "HEURE PRÉVUE": "14:30:00",
+            "HEURE PRÉVUE": "15:00:00",
             "DATE DE DEBUT": "2026-11-14",
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:30:03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:21:49",
             "PRIZEPOOL": "5000000 Russian Ruble",
             "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
             "TIER": "c",
@@ -114,7 +114,7 @@
             }
         },
         {
-            "NOM": "Semifinal 1: YNDX vs TBD",
+            "NOM": "Semifinal 1: YNDX vs FUT",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -127,7 +127,7 @@
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:23:02",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:21:13",
             "PRIZEPOOL": "5000000 Russian Ruble",
             "SLUG": "mlbb-betboom-rise-of-legends-11-2026-playoffs",
             "TIER": "c",
@@ -243,8 +243,8 @@
             "ID": 138661,
             "NOM": "Omnix",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:28:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:43:38",
             "ACRONYME": "OMX"
         },
         {
@@ -518,13 +518,13 @@
                 "NOM": "Omnix",
                 "LOCALISATION": "RU",
                 "ACRONYME": "OMX",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:43:38"
             },
             "JOUEURS": [
                 {
-                    "ID": 59761,
-                    "PSEUDO": "Wammu",
+                    "ID": 62501,
+                    "PSEUDO": "Yoza",
                     "ROLE": null,
                     "PRENOM": null,
                     "NOM": null,
@@ -532,12 +532,12 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:37"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:43:38"
                 },
                 {
-                    "ID": 62499,
-                    "PSEUDO": "Whoopty",
+                    "ID": 65815,
+                    "PSEUDO": "kidd",
                     "ROLE": null,
                     "PRENOM": null,
                     "NOM": null,
@@ -545,21 +545,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
-                },
-                {
-                    "ID": 65829,
-                    "PSEUDO": "Баратрум",
-                    "ROLE": null,
-                    "PRENOM": null,
-                    "NOM": null,
-                    "AGE": null,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "RU",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:43:38"
                 },
                 {
                     "ID": 65852,
@@ -586,6 +573,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
                     "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+                },
+                {
+                    "ID": 68973,
+                    "PSEUDO": "RRebySSSA",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:43:38"
                 }
             ]
         },
@@ -763,8 +763,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:44:13"
                 },
                 {
                     "ID": 56745,
@@ -802,8 +802,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:44:35"
                 },
                 {
                     "ID": 65485,
@@ -815,8 +815,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:28:39"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:44:27"
                 }
             ]
         },

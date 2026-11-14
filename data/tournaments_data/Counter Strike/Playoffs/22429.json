@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-22",
         "HEURE DE FIN": "22:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:35:37",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:39:02",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,7 +16,7 @@
         {
             "NOM": "Round 1 match 1: G1 vs BAL",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -27,7 +27,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:48:02",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:00:17",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -41,7 +41,7 @@
         {
             "NOM": "Round 1 match 2: 9INE vs PCIFIC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -52,7 +52,7 @@
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:40:11",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:39:14",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -214,7 +214,7 @@
             }
         },
         {
-            "NOM": "Quarterfinal 1: TBD vs TBD",
+            "NOM": "Quarterfinal 1: BAL vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -226,8 +226,8 @@
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:00:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:41:13",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -419,8 +419,8 @@
             "ID": 126408,
             "NOM": "9INE",
             "LOCALISATION": "SE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:06:25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:38:57",
             "ACRONYME": "9INE"
         },
         {
@@ -551,8 +551,8 @@
                 "NOM": "9INE",
                 "LOCALISATION": "SE",
                 "ACRONYME": "9INE",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:06:25"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:38:57"
             },
             "JOUEURS": [
                 {
@@ -619,6 +619,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:06:25"
+                },
+                {
+                    "ID": 59611,
+                    "PSEUDO": "Br4tkO",
+                    "ROLE": null,
+                    "PRENOM": "Viktor",
+                    "NOM": "Kondratets",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:38:57"
                 }
             ]
         },
