@@ -7,6 +7,7 @@ import pandas as pd
 import json
 import datetime
 import numpy as np
+import os
 
 # ========================================
 # Configuration
@@ -88,7 +89,12 @@ st.title("SportSphere")
 # Css
 # ========================================
 
-with open("style.css") as f:
+# Récupère dynamiquement le dossier exact où se trouve main.py (le dossier "app")
+current_dir = os.path.dirname(os.path.abspath(__file__))
+css_path = os.path.join(current_dir, "style.css")
+
+# Charge le CSS proprement
+with open(css_path, "r", encoding="utf-8") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # ========================================
