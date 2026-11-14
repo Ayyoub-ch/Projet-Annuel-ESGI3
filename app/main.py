@@ -88,11 +88,11 @@ st.title("SportSphere")
 # Css
 # ========================================
 
-# Récupère dynamiquement le dossier où se trouve actuellement main.py
+# Récupère dynamiquement le dossier exact où se trouve main.py (le dossier "app")
 current_dir = os.path.dirname(os.path.abspath(__file__))
 css_path = os.path.join(current_dir, "style.css")
 
-# Charge le CSS en toute sécurité
+# Charge le CSS proprement
 with open(css_path, "r", encoding="utf-8") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
