@@ -1637,7 +1637,10 @@ elif router_choice == "E-Sport":
                     if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                         st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                 
-                
+        # Explications
+        st.write("Explication sur les données des Ligues :")       
+        
+             
     if category == "Series" :
             st.header("Séries")
             st.markdown("Récupère les données des séries E-Sport. ")
@@ -3522,7 +3525,9 @@ elif router_choice == "E-Sport":
                             st.json(fetch_data(endpoint, params=params))
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint, params=params), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")   
-                    
+        
+            # Explications
+            st.write("Explication sur les données des Séries :")                   
                     
     if category == "Tournois" :
                 st.header("Tournois")
@@ -6127,6 +6132,10 @@ elif router_choice == "E-Sport":
                                 if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint,params), indent=4),file_name=filename,mime="application/json"):
                                     st.success(f"Les données ont été téléchargées sous le nom {filename}.")            
                                                    
+                
+                # Explications
+                st.write("Explication sur les données des Tournois :")     
+    
     if category == "Matchs" :
                 st.header("Matchs")
                 st.markdown("Récupère les données des matchs E-Sport. ")
@@ -10971,3 +10980,5 @@ elif router_choice == "E-Sport":
                         if st.download_button(label="Télécharger les données",data=json.dumps(fetch_data(endpoint), indent=4),file_name=filename,mime="application/json"):
                             st.success(f"Les données ont été téléchargées sous le nom {filename}.")
                                 
+                # Explications
+                st.write("Explication sur les données des Matchs :")  
