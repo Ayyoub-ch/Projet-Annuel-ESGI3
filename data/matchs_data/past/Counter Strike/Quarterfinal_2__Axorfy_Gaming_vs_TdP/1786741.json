@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1786741,
+        "NOM": "Quarterfinal_2__Axorfy_Gaming_vs_TdP",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "13:07:07",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "15:31:27",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "10:38:29",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238008,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2113,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "13:07:07",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "13:42:20",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139518,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238009,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2332,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "13:57:56",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "14:36:49",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138620,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238010,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2538,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "14:49:09",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "15:31:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139518,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139518,
+            "NOM": "Axorfy Gaming",
+            "LOCALISATION": "BR",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:19"
+        },
+        {
+            "ID": 138620,
+            "NOM": "Turma do Pagode",
+            "LOCALISATION": "BR",
+            "ACRONYME": "TdP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:16:45"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139518
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138620
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22354,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": "15000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "00:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "22:47:30",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4842,
+        "NOM": "CCT South America",
+        "DATE DE MODIFICATION": "2022-08-09",
+        "HEURE DE MODIFICATION": "10:12:50"
+    },
+    "SERIE": {
+        "ID": 11169,
+        "NOM": "Series 8 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "10:38:29"
+    }
+}

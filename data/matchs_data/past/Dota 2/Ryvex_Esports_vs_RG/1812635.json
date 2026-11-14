@@ -22,14 +22,14 @@
     "PARTIES": [
         {
             "ID": 741777,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
-            "LONGUEUR": "Pas de longueur disponible",
-            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
-            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
-            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
-            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "LONGUEUR": 2937,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "04:10:00",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "05:10:00",
             "DETAIL STAT": true,
             "FORFAIT": false,
             "ID DU VAINQUEUR": 139605,
@@ -37,14 +37,14 @@
         },
         {
             "ID": 741778,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
-            "LONGUEUR": "Pas de longueur disponible",
-            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
-            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
-            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
-            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "LONGUEUR": 2204,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "05:20:00",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "06:20:00",
             "DETAIL STAT": true,
             "FORFAIT": false,
             "ID DU VAINQUEUR": 139413,
@@ -52,14 +52,14 @@
         },
         {
             "ID": 741779,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 3,
             "STATUT": "finished",
-            "LONGUEUR": "Pas de longueur disponible",
-            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
-            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
-            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
-            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "LONGUEUR": 2401,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "06:30:00",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "07:30:00",
             "DETAIL STAT": true,
             "FORFAIT": false,
             "ID DU VAINQUEUR": 139605,
@@ -73,7 +73,7 @@
             "LOCALISATION": "",
             "ACRONYME": null,
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:30:57"
+            "HEURE DE LA DERNIERE MODIFICATION": "15:05:12"
         },
         {
             "ID": 139413,
@@ -81,7 +81,7 @@
             "LOCALISATION": "CN",
             "ACRONYME": "RG",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:18:18"
+            "HEURE DE LA DERNIERE MODIFICATION": "15:11:17"
         }
     ],
     "RESULTATS": [
@@ -108,7 +108,7 @@
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "13:00:00",
         "DATE DE MODIFICATION": "2026-11-14",
-        "HEURE DE MODIFICATION": "14:51:43",
+        "HEURE DE MODIFICATION": "15:11:17",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-18",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:49:27",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:21:03",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -364,8 +364,180 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 1657,
+            "NOM": "LGD Gaming",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:21:03",
+            "ACRONYME": "LGD"
+        },
+        {
+            "ID": 135712,
+            "NOM": "PARIVISION",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:20:59",
+            "ACRONYME": "PARI"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 1657,
+                "NOM": "LGD Gaming",
+                "LOCALISATION": "CN",
+                "ACRONYME": "LGD",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:21:03"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9368,
+                    "PSEUDO": "SumaiL",
+                    "ROLE": "2",
+                    "PRENOM": "Syed Sumail",
+                    "NOM": "Hassan",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-02-13",
+                    "NATIONALITE": "PK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:21:02"
+                },
+                {
+                    "ID": 9493,
+                    "PSEUDO": "Sneyking",
+                    "ROLE": "5",
+                    "PRENOM": "Jingjun",
+                    "NOM": "Wu",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-05-03",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:21:03"
+                },
+                {
+                    "ID": 9501,
+                    "PSEUDO": "Thiolicor",
+                    "ROLE": "4",
+                    "PRENOM": "Thiago de Oliveira",
+                    "NOM": "Cordeiro",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-10",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:21:03"
+                },
+                {
+                    "ID": 28075,
+                    "PSEUDO": "Davai Lama",
+                    "ROLE": "3",
+                    "PRENOM": "Cedric",
+                    "NOM": "Deckmyn",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-03",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:21:02"
+                },
+                {
+                    "ID": 50494,
+                    "PSEUDO": "Wits",
+                    "ROLE": "1",
+                    "PRENOM": "Héctor",
+                    "NOM": "Max Orozco Alza",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-03-06",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:59"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135712,
+                "NOM": "PARIVISION",
+                "LOCALISATION": "RU",
+                "ACRONYME": "PARI",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:20:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9360,
+                    "PSEUDO": "No[o]ne",
+                    "ROLE": "2",
+                    "PRENOM": "Vladimir",
+                    "NOM": "Minenko",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-09-03",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:58"
+                },
+                {
+                    "ID": 25670,
+                    "PSEUDO": "Dukalis",
+                    "ROLE": "5",
+                    "PRENOM": "Andrey",
+                    "NOM": "Kuropatkin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-18",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:58"
+                },
+                {
+                    "ID": 31713,
+                    "PSEUDO": "Noticed",
+                    "ROLE": "3",
+                    "PRENOM": "Evgeniy",
+                    "NOM": "Ignatenko",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-08-06",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:58"
+                },
+                {
+                    "ID": 46343,
+                    "PSEUDO": "9Class",
+                    "ROLE": "4",
+                    "PRENOM": "Edgar",
+                    "NOM": "Naltakyan",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:58"
+                },
+                {
+                    "ID": 50818,
+                    "PSEUDO": "Satanic",
+                    "ROLE": "1",
+                    "PRENOM": "Alan",
+                    "NOM": "Gallyamov",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-10-13",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:20:56"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "1win Essence",
         "DATE DE LA DERNIERE MODIFICATION": "2026-04-29",
