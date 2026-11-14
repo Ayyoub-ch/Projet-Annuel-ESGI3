@@ -73,7 +73,8 @@ L'arborescence de cette branche est organisée en trois composants principaux :
 * **`app/`** : Contient l'application utilisateur (Streamlit) :
   * `main.py` : Point d'entrée de l'interface graphique.
   * `Dockerfile` : Fichier de configuration pour la conteneurisation.
-  * `requirements.txt` et `style.css` : Dépendances et feuilles de style graphiques de l'interface.
+  * `requirements.txt` : Dépendances de l'interface
+  * `style.css` : Feuilles de style de l'interface.
 
 ---
 
