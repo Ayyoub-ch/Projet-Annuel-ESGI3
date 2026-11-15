@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-20",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "20:44:59",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "02:14:19",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -151,8 +151,8 @@
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:33:42",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:15:42",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -509,8 +509,8 @@
             "ID": 137870,
             "NOM": "Power Rangers",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:06:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:14:19",
             "ACRONYME": "PR"
         },
         {
@@ -557,8 +557,8 @@
             "ID": 139517,
             "NOM": "Froglings",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:19:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:05:57",
             "ACRONYME": null
         }
     ],
@@ -1019,10 +1019,23 @@
                 "NOM": "Power Rangers",
                 "LOCALISATION": "",
                 "ACRONYME": "PR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:06:12"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "02:14:19"
             },
             "JOUEURS": [
+                {
+                    "ID": 10703,
+                    "PSEUDO": "Immersion",
+                    "ROLE": "4",
+                    "PRENOM": "Alexander",
+                    "NOM": "Hmelevskoy",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-08-09",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:14:19"
+                },
                 {
                     "ID": 27013,
                     "PSEUDO": "Otaker",
@@ -1087,6 +1100,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "17:06:12"
+                },
+                {
+                    "ID": 60562,
+                    "PSEUDO": "bottega",
+                    "ROLE": "1",
+                    "PRENOM": "Andrei",
+                    "NOM": "Kopytko",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2008-12-04",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:14:18"
                 }
             ]
         },
@@ -1481,8 +1507,8 @@
                 "NOM": "Froglings",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "02:05:57"
             },
             "JOUEURS": [
                 {
@@ -1495,8 +1521,8 @@
                     "DATE DE NAISSANCE": "1997-11-20",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:05:57"
                 },
                 {
                     "ID": 14854,
@@ -1508,8 +1534,8 @@
                     "DATE DE NAISSANCE": "2000-10-13",
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:05:56"
                 },
                 {
                     "ID": 18127,
@@ -1521,8 +1547,8 @@
                     "DATE DE NAISSANCE": "2000-08-11",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:05:56"
                 },
                 {
                     "ID": 26887,
@@ -1534,8 +1560,8 @@
                     "DATE DE NAISSANCE": "1999-10-23",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:05:57"
                 },
                 {
                     "ID": 42027,
@@ -1547,8 +1573,8 @@
                     "DATE DE NAISSANCE": "1998-11-28",
                     "NATIONALITE": "MK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:07"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:05:56"
                 }
             ]
         }
