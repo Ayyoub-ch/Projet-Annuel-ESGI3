@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1793322,
+        "NOM": "AUR_vs_CH",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "20:08:03",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "22:02:02",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "08:36:38",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741503,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3129,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "20:08:05",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "21:00:14",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133882,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741504,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3379,
+            "DATE DE DEBUT DE PARTIE": "2026-11-14",
+            "HEURE DE DEBUT DE PARTIE": "21:05:43",
+            "DATE DE FIN DE PARTIE": "2026-11-14",
+            "HEURE DE FIN DE PARTIE": "22:02:03",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133882,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 133882,
+            "NOM": "Aurora",
+            "LOCALISATION": "RS",
+            "ACRONYME": "AUR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:22:42"
+        },
+        {
+            "ID": 139339,
+            "NOM": "CyberHero",
+            "LOCALISATION": "RU",
+            "ACRONYME": "CH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:20:46"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 133882
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139339
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22399,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "a",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-14",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "22:04:21",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5528,
+        "NOM": "1win Essence",
+        "DATE DE MODIFICATION": "2026-04-29",
+        "HEURE DE MODIFICATION": "11:30:42"
+    },
+    "SERIE": {
+        "ID": 11185,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "08:36:38"
+    }
+}
