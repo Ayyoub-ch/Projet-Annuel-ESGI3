@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-18",
         "HEURE DE FIN": "22:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-        "HEURE DE LA DERNIERE MODIFICATION": "11:45:27",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:35:35",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -216,7 +216,7 @@
         {
             "NOM": "Team Bratishkin vs Team cutierover",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -227,7 +227,7 @@
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:10:46",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:34:18",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-winline-star-series-4-2026-group-b",
             "TIER": "d",
@@ -241,26 +241,26 @@
         {
             "NOM": "Team Bratishkin vs Team PCH3LK1N",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "16:00:00",
+            "HEURE PRÉVUE": "17:15:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:56:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:44:35",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-winline-star-series-4-2026-group-b",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/winlinestarseries"
             }
         }
     ],

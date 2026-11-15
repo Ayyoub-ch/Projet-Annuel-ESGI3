@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:10:14",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:05:36",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -191,43 +191,18 @@
         {
             "NOM": "FRG vs HK",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "16:00:00",
+            "HEURE PRÉVUE": "16:10:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:08:05",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "de",
-                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
-            }
-        },
-        {
-            "NOM": "Frankfurt Bahnhofsviertel vs BERG",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "17:00:00",
-            "DATE DE DEBUT": "2026-11-15",
-            "HEURE DE DEBUT": "2026-11-15",
-            "DATE DE FIN": "2026-11-15",
-            "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:07:23",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:53:43",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
             "TIER": "d",
@@ -241,7 +216,7 @@
         {
             "NOM": "CGN vs GG",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -252,21 +227,21 @@
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:07:27",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:14:42",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "de",
-                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
             }
         },
         {
             "NOM": "REH Gaming vs Team International",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -277,7 +252,32 @@
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:07:31",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:55:02",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Frankfurt Bahnhofsviertel vs BERG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "running",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:13:34",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
             "TIER": "d",
@@ -285,7 +285,7 @@
             "INFO DE STREAMING": {
                 "MAIN": true,
                 "LANGUE": "de",
-                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
+                "LIEN BRUTE": "https://www.twitch.tv/p0ly_biffy"
             }
         },
         {
@@ -767,8 +767,8 @@
             "ID": 139526,
             "NOM": "Frankfurt Bahnhofsviertel",
             "LOCALISATION": "DE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:56:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:05:36",
             "ACRONYME": null
         },
         {
@@ -1288,8 +1288,8 @@
                 "NOM": "Frankfurt Bahnhofsviertel",
                 "LOCALISATION": "DE",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "18:56:36"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:05:36"
             },
             "JOUEURS": [
                 {
@@ -1304,6 +1304,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
                     "HEURE DE LA DERNIERE MODIFICATION": "18:56:35"
+                },
+                {
+                    "ID": 59600,
+                    "PSEUDO": "Yanido",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:05:36"
                 },
                 {
                     "ID": 63455,

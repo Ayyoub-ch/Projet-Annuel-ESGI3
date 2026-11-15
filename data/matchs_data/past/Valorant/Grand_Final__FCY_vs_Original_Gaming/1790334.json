@@ -13,13 +13,8 @@
         "HEURE DE DEBUT": "05:00:48",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "07:06:04",
-<<<<<<< HEAD
-        "DATE DE MODIFICATION": "2026-11-03",
-        "HEURE DE MODIFICATION": "22:47:41",
-=======
         "DATE DE MODIFICATION": "2026-11-15",
         "HEURE DE MODIFICATION": "11:00:16",
->>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
         "STATS DETAILLEES": true,
         "LIVE": {
             "SUPPORT": false,
@@ -45,11 +40,7 @@
         },
         {
             "ID": 52624,
-<<<<<<< HEAD
-            "PARTIE FINIE": false,
-=======
             "PARTIE FINIE": true,
->>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "POSITION PARTIE": 2,
             "STATUT": "finished",
             "LONGUEUR": 2003,
@@ -105,11 +96,7 @@
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
         "DATE DE MODIFICATION": "2026-11-15",
-<<<<<<< HEAD
-        "HEURE DE MODIFICATION": "07:06:06",
-=======
         "HEURE DE MODIFICATION": "11:00:16",
->>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },
@@ -123,15 +110,6 @@
         "ID": 11180,
         "NOM": "Vietnam 2027",
         "ANNEE": 2027,
-<<<<<<< HEAD
-        "VAINQUEUR": "Vainqueur iconnu",
-        "DATE DE DEBUT": "2026-11-05",
-        "HEURE DE DEBUT": "08:00:00",
-        "DATE DE FIN": "2026-11-15",
-        "HEURE DE FIN": "12:00:00",
-        "DATE DE MODIFICATION": "2026-11-03",
-        "HEURE DE MODIFICATION": "22:47:41"
-=======
         "VAINQUEUR": 130482,
         "DATE DE DEBUT": "2026-11-05",
         "HEURE DE DEBUT": "08:00:00",
@@ -139,6 +117,5 @@
         "HEURE DE FIN": "11:00:00",
         "DATE DE MODIFICATION": "2026-11-15",
         "HEURE DE MODIFICATION": "11:00:16"
->>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
     }
 }

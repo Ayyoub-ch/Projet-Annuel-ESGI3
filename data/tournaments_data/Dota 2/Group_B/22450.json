@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-21",
         "HEURE DE FIN": "13:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "15:59:34",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:50:47",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -91,18 +91,18 @@
         {
             "NOM": "Red John vs P-",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "16:00:00",
+            "HEURE PRÉVUE": "16:10:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:56:35",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:49:11",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-b",
             "TIER": "d",
@@ -434,8 +434,8 @@
             "ID": 139600,
             "NOM": "Red John",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:08:08",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:27:03",
             "ACRONYME": null
         }
     ],
@@ -831,8 +831,8 @@
                 "NOM": "Red John",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                "HEURE DE LA DERNIERE MODIFICATION": "09:08:08"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:27:03"
             },
             "JOUEURS": [
                 {
@@ -860,6 +860,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
                     "HEURE DE LA DERNIERE MODIFICATION": "02:16:41"
+                },
+                {
+                    "ID": 42023,
+                    "PSEUDO": "johnnupro",
+                    "ROLE": "5",
+                    "PRENOM": "Oleg",
+                    "NOM": "Sheverda",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-05-21",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:27:03"
                 },
                 {
                     "ID": 46358,
