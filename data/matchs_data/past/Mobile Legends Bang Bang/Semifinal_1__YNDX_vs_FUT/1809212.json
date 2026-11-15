@@ -1,0 +1,163 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1809212,
+        "NOM": "Semifinal_1__YNDX_vs_FUT",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "10:15:59",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "12:33:17",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "08:04:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8559,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1083,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "10:15:59",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "10:34:03",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138521,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8560,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1364,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "10:39:49",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "11:02:33",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138876,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8561,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1605,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "11:08:12",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "11:34:58",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138876,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8562,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1343,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "11:43:07",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "12:05:30",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138521,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8563,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 1386,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "12:10:11",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "12:33:17",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138521,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138521,
+            "NOM": "Team Yandex",
+            "LOCALISATION": "",
+            "ACRONYME": "YNDX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:35"
+        },
+        {
+            "ID": 138876,
+            "NOM": "FUT Esports",
+            "LOCALISATION": "TR",
+            "ACRONYME": "FUT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:36"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 138521
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138876
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22455,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "5000000 Russian Ruble",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "12:43:39",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5304,
+        "NOM": "BetBoom Rise of Legends",
+        "DATE DE MODIFICATION": "2024-10-17",
+        "HEURE DE MODIFICATION": "12:16:30"
+    },
+    "SERIE": {
+        "ID": 11168,
+        "NOM": "Season 11 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "08:04:58"
+    }
+}

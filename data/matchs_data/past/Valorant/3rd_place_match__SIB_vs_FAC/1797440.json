@@ -13,8 +13,8 @@
         "HEURE DE DEBUT": "04:31:51",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "07:21:35",
-        "DATE DE MODIFICATION": "2026-11-05",
-        "HEURE DE MODIFICATION": "16:40:24",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "11:00:27",
         "STATS DETAILLEES": true,
         "LIVE": {
             "SUPPORT": false,
@@ -55,7 +55,7 @@
         },
         {
             "ID": 52843,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 3,
             "STATUT": "finished",
             "LONGUEUR": 2859,
@@ -105,13 +105,13 @@
         "REGION": "ASIA",
         "TIER": "d",
         "CASH PRIZE": "1000000 Japanese Yen",
-        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "VAINQUEUR": 139541,
         "DATE DE DEBUT": "2026-11-07",
         "HEURE DE DEBUT": "05:30:00",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
         "DATE DE MODIFICATION": "2026-11-15",
-        "HEURE DE MODIFICATION": "02:12:57",
+        "HEURE DE MODIFICATION": "11:00:27",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },
@@ -125,12 +125,12 @@
         "ID": 11186,
         "NOM": "Japan 2027",
         "ANNEE": 2027,
-        "VAINQUEUR": "Vainqueur iconnu",
+        "VAINQUEUR": 139541,
         "DATE DE DEBUT": "2026-11-07",
         "HEURE DE DEBUT": "05:30:00",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE MODIFICATION": "2026-11-05",
-        "HEURE DE MODIFICATION": "16:40:24"
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "11:00:27"
     }
 }

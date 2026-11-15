@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1812138,
+        "NOM": "Lower_Bracket_Round_1_Match_1__NAVI.J_vs_TCF",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "09:16:22",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "11:13:16",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "07:40:35",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239552,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1375,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "09:16:22",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "09:39:18",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126491,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239553,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 4692,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "09:55:04",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "11:13:17",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126491,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 126491,
+            "NOM": "NAVI Junior",
+            "LOCALISATION": "UA",
+            "ACRONYME": "NAVI.J",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:27:03"
+        },
+        {
+            "ID": 131552,
+            "NOM": "The Chosen Few",
+            "LOCALISATION": "TR",
+            "ACRONYME": "TCF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:27:10"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 126491
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 131552
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22456,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "10,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "08:18:51",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5078,
+        "NOM": "United21",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:36:10"
+    },
+    "SERIE": {
+        "ID": 11173,
+        "NOM": "Season 58 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "07:40:35"
+    }
+}

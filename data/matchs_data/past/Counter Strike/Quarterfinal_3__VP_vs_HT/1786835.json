@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1786835,
+        "NOM": "Quarterfinal_3__VP_vs_HT",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "09:12:51",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "11:04:15",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "12:35:51",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238155,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2786,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "09:12:55",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "09:59:22",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3288,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238156,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2522,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "10:22:13",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "11:04:15",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3288,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 3288,
+            "NOM": "Virtus.pro",
+            "LOCALISATION": "RU",
+            "ACRONYME": "VP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:18:33"
+        },
+        {
+            "ID": 139603,
+            "NOM": "Hype Tech",
+            "LOCALISATION": "RS",
+            "ACRONYME": "HT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:51:03"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 3288
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139603
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22356,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "25000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "19:54:14",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11170,
+        "NOM": "Series #13 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-02",
+        "HEURE DE MODIFICATION": "12:35:51"
+    }
+}

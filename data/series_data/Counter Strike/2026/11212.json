@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11212,
+        "NOM": "2026",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "03:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:00:12",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5586,
+        "NOM": "Austin LAN",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:24:17"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "NA",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "01:00:00",
+            "DATE DE FIN": "2026-11-16",
+            "HEURE DE FIN": "03:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:12",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

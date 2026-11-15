@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1803638,
+        "NOM": "Round_1_match_4__WW_vs_G2.A",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "12:28:06",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "14:53:31",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239110,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2792,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "12:28:09",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "13:14:42",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135497,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239111,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2809,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "13:21:32",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "14:08:22",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135321,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239112,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2048,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "14:19:23",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "14:53:32",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135321,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135497,
+            "NOM": "WW Team",
+            "LOCALISATION": "",
+            "ACRONYME": "WW",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:54:13"
+        },
+        {
+            "ID": 135321,
+            "NOM": "G2 Ares",
+            "LOCALISATION": "DE",
+            "ACRONYME": "G2.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:10:15"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135497
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135321
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22429,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "20000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "11:07:37",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11177,
+        "NOM": "Season 10 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19"
+    }
+}

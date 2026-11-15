@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-20",
         "HEURE DE FIN": "14:30:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-        "HEURE DE LA DERNIERE MODIFICATION": "07:27:36",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:18:51",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:14:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:31:17",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "cs-go-united21-58-2026-playoffs",
             "TIER": "d",
@@ -116,18 +116,18 @@
         {
             "NOM": "Lower Bracket Round 1 Match 1: NAVI.J vs TCF",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "09:15:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:55:22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:13:18",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "cs-go-united21-58-2026-playoffs",
             "TIER": "d",
@@ -141,7 +141,7 @@
         {
             "NOM": "Lower Bracket Round 1 Match 2: STA vs CW",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -152,7 +152,7 @@
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:15:14",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:03:36",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "cs-go-united21-58-2026-playoffs",
             "TIER": "d",
@@ -177,7 +177,7 @@
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:00:51",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:02:36",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "cs-go-united21-58-2026-playoffs",
             "TIER": "d",
@@ -202,7 +202,57 @@
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:01:57",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:02:52",
+            "PRIZEPOOL": "10,000 United States Dollar",
+            "SLUG": "cs-go-united21-58-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/united21_en"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Quarterfinal 1: TBD vs NAVI.J",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-17",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "2026-11-17",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "2026-11-17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:29:05",
+            "PRIZEPOOL": "10,000 United States Dollar",
+            "SLUG": "cs-go-united21-58-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/united21_en"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Quarterfinal 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-17",
+            "HEURE PRÉVUE": "11:30:00",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "2026-11-17",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "2026-11-17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:29:26",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "cs-go-united21-58-2026-playoffs",
             "TIER": "d",
@@ -215,14 +265,6 @@
         }
     ],
     "EQUIPES": [
-        {
-            "ID": 3233,
-            "NOM": "CPH Wolves",
-            "LOCALISATION": "DK",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:26:58",
-            "ACRONYME": "CW"
-        },
         {
             "ID": 126491,
             "NOM": "NAVI Junior",
@@ -256,6 +298,14 @@
             "ACRONYME": "TCF"
         },
         {
+            "ID": 134261,
+            "NOM": "Copenhagen Wolves",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:17:21",
+            "ACRONYME": "CW"
+        },
+        {
             "ID": 137861,
             "NOM": "STATE",
             "LOCALISATION": "DK",
@@ -281,83 +331,6 @@
         }
     ],
     "MEMBRES DE L'EQUIPE": [
-        {
-            "EQUIPE": {
-                "ID": 3233,
-                "NOM": "CPH Wolves",
-                "LOCALISATION": "DK",
-                "ACRONYME": "CW",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:26:58"
-            },
-            "JOUEURS": [
-                {
-                    "ID": 52759,
-                    "PSEUDO": "MadeInRed",
-                    "ROLE": null,
-                    "PRENOM": "Erikas",
-                    "NOM": "Musnikas",
-                    "AGE": 23,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "LT",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:57"
-                },
-                {
-                    "ID": 53668,
-                    "PSEUDO": "Toshas",
-                    "ROLE": null,
-                    "PRENOM": "Anton",
-                    "NOM": "Aspin",
-                    "AGE": 19,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "SE",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:58"
-                },
-                {
-                    "ID": 57895,
-                    "PSEUDO": "Uzman",
-                    "ROLE": null,
-                    "PRENOM": "Deividas",
-                    "NOM": "Narutis",
-                    "AGE": 21,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "LT",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:57"
-                },
-                {
-                    "ID": 61815,
-                    "PSEUDO": "adex",
-                    "ROLE": null,
-                    "PRENOM": "Adrian",
-                    "NOM": "Łukaszewski",
-                    "AGE": 21,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "PL",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:57"
-                },
-                {
-                    "ID": 61941,
-                    "PSEUDO": "dyrod",
-                    "ROLE": null,
-                    "PRENOM": null,
-                    "NOM": null,
-                    "AGE": null,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "HR",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:26:58"
-                }
-            ]
-        },
         {
             "EQUIPE": {
                 "ID": 126491,
@@ -494,8 +467,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "TR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:04"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:05"
                 },
                 {
                     "ID": 64747,
@@ -635,8 +608,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "TR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:10"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:03"
                 },
                 {
                     "ID": 65309,
@@ -648,8 +621,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "TR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:10"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:28:01"
                 },
                 {
                     "ID": 67552,
@@ -661,8 +634,85 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "TR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:27:10"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:27:59"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134261,
+                "NOM": "Copenhagen Wolves",
+                "LOCALISATION": "US",
+                "ACRONYME": "CW",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:17:21"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 52759,
+                    "PSEUDO": "MadeInRed",
+                    "ROLE": null,
+                    "PRENOM": "Erikas",
+                    "NOM": "Musnikas",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:21"
+                },
+                {
+                    "ID": 53668,
+                    "PSEUDO": "Toshas",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Aspin",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:21"
+                },
+                {
+                    "ID": 57895,
+                    "PSEUDO": "Uzman",
+                    "ROLE": null,
+                    "PRENOM": "Deividas",
+                    "NOM": "Narutis",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:21"
+                },
+                {
+                    "ID": 61815,
+                    "PSEUDO": "adex",
+                    "ROLE": null,
+                    "PRENOM": "Adrian",
+                    "NOM": "Łukaszewski",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:17:17"
+                },
+                {
+                    "ID": 61941,
+                    "PSEUDO": "dyrod",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:27:58"
                 }
             ]
         },

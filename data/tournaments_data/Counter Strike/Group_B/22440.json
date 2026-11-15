@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "07:00:00",
         "DATE DE FIN": "2026-11-18",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "17:46:36",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:45:27",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -191,32 +191,32 @@
         {
             "NOM": "Team Jerry vs Team cutierover",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "10:00:00",
+            "HEURE PRÉVUE": "10:15:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:55:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:42:35",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-winline-star-series-4-2026-group-b",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/cutierover"
             }
         },
         {
             "NOM": "Team Bratishkin vs Team cutierover",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -226,16 +226,16 @@
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:56:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:10:46",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-winline-star-series-4-2026-group-b",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/winlinestarseries"
             }
         },
         {
