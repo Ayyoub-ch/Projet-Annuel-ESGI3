@@ -1,0 +1,178 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1793311,
+        "NOM": "Grand_Final__VA_vs_FLKH",
+        "JEU VIDEO": "Mobile Legends Bang Bang",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 7,
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "07:15:43",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "12:29:58",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "12:34:12",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 8436,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1841,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "07:15:43",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "07:46:25",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139272,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8437,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2816,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "08:38:34",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "09:25:30",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135444,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8438,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1284,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "09:46:45",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "10:08:10",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139272,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8439,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1469,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "10:29:49",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "10:54:19",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139272,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8440,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 1713,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "11:17:25",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "11:45:58",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135444,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 8441,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 6,
+            "STATUT": "finished",
+            "LONGUEUR": 1464,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "12:05:34",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "12:29:59",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139272,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139272,
+            "NOM": " Vigor Apex",
+            "LOCALISATION": "KH",
+            "ACRONYME": "VA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:25:03"
+        },
+        {
+            "ID": 135444,
+            "NOM": "Team Flash KH",
+            "LOCALISATION": "KH",
+            "ACRONYME": "FLKH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:25:03"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 4,
+            "ID EQUIPE": 139272
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135444
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22397,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "KH",
+        "REGION": "ASIA",
+        "TIER": "b",
+        "CASH PRIZE": "50,000 United States Dollar",
+        "VAINQUEUR": 139272,
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "10:00:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "12:34:12",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5288,
+        "NOM": "MPL Cambodia",
+        "DATE DE MODIFICATION": "2024-08-26",
+        "HEURE DE MODIFICATION": "11:39:40"
+    },
+    "SERIE": {
+        "ID": 10992,
+        "NOM": "Season 11 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": 139272,
+        "DATE DE DEBUT": "2026-09-18",
+        "HEURE DE DEBUT": "03:00:00",
+        "DATE DE FIN": "2026-11-15",
+        "HEURE DE FIN": "10:00:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "12:34:12"
+    }
+}

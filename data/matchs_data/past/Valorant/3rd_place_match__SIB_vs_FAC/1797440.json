@@ -13,8 +13,13 @@
         "HEURE DE DEBUT": "04:31:51",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "07:21:35",
+<<<<<<< HEAD
         "DATE DE MODIFICATION": "2026-11-05",
         "HEURE DE MODIFICATION": "16:40:24",
+=======
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "11:00:27",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
         "STATS DETAILLEES": true,
         "LIVE": {
             "SUPPORT": false,
@@ -55,7 +60,11 @@
         },
         {
             "ID": 52843,
+<<<<<<< HEAD
             "PARTIE FINIE": false,
+=======
+            "PARTIE FINIE": true,
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "POSITION PARTIE": 3,
             "STATUT": "finished",
             "LONGUEUR": 2859,
@@ -105,13 +114,21 @@
         "REGION": "ASIA",
         "TIER": "d",
         "CASH PRIZE": "1000000 Japanese Yen",
+<<<<<<< HEAD
         "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+=======
+        "VAINQUEUR": 139541,
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
         "DATE DE DEBUT": "2026-11-07",
         "HEURE DE DEBUT": "05:30:00",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
         "DATE DE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
         "HEURE DE MODIFICATION": "02:12:57",
+=======
+        "HEURE DE MODIFICATION": "11:00:27",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },
@@ -125,12 +142,21 @@
         "ID": 11186,
         "NOM": "Japan 2027",
         "ANNEE": 2027,
+<<<<<<< HEAD
         "VAINQUEUR": "Vainqueur iconnu",
+=======
+        "VAINQUEUR": 139541,
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
         "DATE DE DEBUT": "2026-11-07",
         "HEURE DE DEBUT": "05:30:00",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
+<<<<<<< HEAD
         "DATE DE MODIFICATION": "2026-11-05",
         "HEURE DE MODIFICATION": "16:40:24"
+=======
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "11:00:27"
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
     }
 }

@@ -8,7 +8,11 @@
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "13:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
         "HEURE DE LA DERNIERE MODIFICATION": "06:29:34",
+=======
+        "HEURE DE LA DERNIERE MODIFICATION": "11:54:49",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -91,18 +95,18 @@
         {
             "NOM": "CR vs Ryvex Esports",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "10:00:00",
+            "HEURE PRÉVUE": "10:15:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:55:31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:16:16",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-group-stage",
             "TIER": "d",
@@ -151,8 +155,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:16:01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:02:22",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-group-stage",
             "TIER": "d",
@@ -176,8 +180,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:16:03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:02:45",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-group-stage",
             "TIER": "d",
@@ -1264,8 +1268,8 @@
                     "DATE DE NAISSANCE": "2004-09-24",
                     "NATIONALITE": "MY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "15:11:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:35:50"
                 },
                 {
                     "ID": 53693,

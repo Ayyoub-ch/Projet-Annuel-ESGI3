@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1796527,
+        "NOM": "Upper_Bracket_Quarterfinal_2__EF_vs_100T",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "13:10:48",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "12:21:30",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239015,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2926,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "13:10:50",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "13:59:37",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126452,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239016,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2909,
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "14:12:05",
+            "DATE DE FIN DE PARTIE": "2026-11-15",
+            "HEURE DE FIN DE PARTIE": "15:00:34",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129413,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239017,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "running",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "2026-11-15",
+            "HEURE DE DEBUT DE PARTIE": "15:17:35",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129413,
+            "NOM": "Eternal Fire",
+            "LOCALISATION": "TR",
+            "ACRONYME": "EF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:25:30"
+        },
+        {
+            "ID": 126452,
+            "NOM": "100 Thieves",
+            "LOCALISATION": "US",
+            "ACRONYME": "100T",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:25:24"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 129413
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 126452
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22415,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "b",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "18:00:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "10:58:09",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5365,
+        "NOM": "PGL",
+        "DATE DE MODIFICATION": "2025-02-05",
+        "HEURE DE MODIFICATION": "15:08:30"
+    },
+    "SERIE": {
+        "ID": 11189,
+        "NOM": "Cluj-Napoca: Closed Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "18:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "12:21:30"
+    }
+}

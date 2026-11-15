@@ -8,7 +8,11 @@
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
         "HEURE DE LA DERNIERE MODIFICATION": "02:12:57",
+=======
+        "HEURE DE LA DERNIERE MODIFICATION": "11:00:27",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -352,7 +356,11 @@
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
             "HEURE DE LA DERNIERE MODIFICATION": "07:49:23",
+=======
+            "HEURE DE LA DERNIERE MODIFICATION": "09:47:55",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
@@ -366,7 +374,11 @@
         {
             "NOM": "Grand final: AMHR vs ZZ",
             "TYPE": "Type de match inconnu",
+<<<<<<< HEAD
             "STATUT": "running",
+=======
+            "STATUT": "finished",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
@@ -377,7 +389,11 @@
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
             "HEURE DE LA DERNIERE MODIFICATION": "07:59:23",
+=======
+            "HEURE DE LA DERNIERE MODIFICATION": "10:59:21",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
@@ -1865,8 +1881,8 @@
         "NOM": "Japan 2027",
         "ANNEE": 2027,
         "SAISON": null,
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-        "HEURE DE LA DERNIERE MODIFICATION": "16:40:24",
-        "ID DU VAINQUEUR": null
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:00:27",
+        "ID DU VAINQUEUR": 139541
     }
 }

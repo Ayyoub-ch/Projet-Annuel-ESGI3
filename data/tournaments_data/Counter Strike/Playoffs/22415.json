@@ -7,77 +7,99 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-17",
         "HEURE DE FIN": "18:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "13:25:32",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:58:09",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
         {
-            "NOM": "Upper Bracket Quarterfinal 3: FaZe vs FNC",
+            "NOM": "Upper Bracket Quarterfinal 4: HERO vs MGC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "09:15:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
             "HEURE DE LA DERNIERE MODIFICATION": "07:28:07",
+=======
+            "HEURE DE LA DERNIERE MODIFICATION": "12:22:20",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
+<<<<<<< HEAD
                 "LANGUE": "ru",
                 "LIEN BRUTE": "https://www.twitch.tv/watchfulTV"
+=======
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/adr1mat3s"
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             }
         },
         {
-            "NOM": "Upper Bracket Quarterfinal 4: HERO vs MGC",
+            "NOM": "Upper Bracket Quarterfinal 3: FaZe vs FNC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "09:55:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
             "HEURE DE LA DERNIERE MODIFICATION": "07:27:24",
+=======
+            "HEURE DE LA DERNIERE MODIFICATION": "12:56:09",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
+<<<<<<< HEAD
                 "LANGUE": "es",
                 "LIEN BRUTE": "https://www.twitch.tv/adr1mat3s"
+=======
+                "LANGUE": "uk",
+                "LIEN BRUTE": "https://www.twitch.tv/leniniw"
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             }
         },
         {
             "NOM": "Upper Bracket Quarterfinal 1: PRV vs 33",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "12:00:00",
+            "HEURE PRÉVUE": "12:30:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
             "HEURE DE LA DERNIERE MODIFICATION": "07:29:09",
+=======
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:59",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
@@ -91,43 +113,77 @@
         {
             "NOM": "Upper Bracket Quarterfinal 2: EF vs 100T",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "12:00:00",
+            "HEURE PRÉVUE": "13:05:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
             "HEURE DE LA DERNIERE MODIFICATION": "07:29:37",
+=======
+            "HEURE DE LA DERNIERE MODIFICATION": "15:17:35",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
+<<<<<<< HEAD
                 "LANGUE": "pt",
                 "LIEN BRUTE": "https://www.twitch.tv/tavarescs2"
+=======
+                "LANGUE": "pl",
+                "LIEN BRUTE": "https://www.twitch.tv/officialhyper"
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             }
         },
         {
-            "NOM": "Lower Bracket Round 1 Match 2: TBD vs TBD",
+            "NOM": "Lower Bracket Round 1 Match 2: HERO vs FaZe",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "16:00:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:56:20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:01:59",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/karmaflexxx"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Round 1 Match 1: 33 vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:43:53",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
@@ -139,32 +195,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 1 Match 1: TBD vs TBD",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "15:00:00",
-            "DATE DE DEBUT": "2026-11-15",
-            "HEURE DE DEBUT": "2026-11-15",
-            "DATE DE FIN": "2026-11-15",
-            "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:56:20",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
-            "TIER": "b",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/PGL"
-            }
-        },
-        {
-            "NOM": "Upper Bracket Semifinal 1: TBD vs TBD",
+            "NOM": "Upper Bracket Semifinal 1: PRV vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -176,8 +207,8 @@
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:57:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:25:20",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
@@ -189,7 +220,7 @@
             }
         },
         {
-            "NOM": "Upper Bracket Semifinal 2: TBD vs TBD",
+            "NOM": "Upper Bracket Semifinal 2: MGC vs FNC",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -201,8 +232,8 @@
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:57:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:01:28",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
@@ -226,8 +257,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:36:29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:03:15",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
@@ -251,8 +282,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:36:29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:03:35",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
@@ -344,8 +375,8 @@
             "ID": 3212,
             "NOM": "FaZe",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:25:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:58:03",
             "ACRONYME": "FaZe"
         },
         {
@@ -412,8 +443,8 @@
                 "NOM": "FaZe",
                 "LOCALISATION": "US",
                 "ACRONYME": "FaZe",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:25:07"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:58:03"
             },
             "JOUEURS": [
                 {
@@ -441,6 +472,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
                     "HEURE DE LA DERNIERE MODIFICATION": "13:24:53"
+                },
+                {
+                    "ID": 30097,
+                    "PSEUDO": "enkay J",
+                    "ROLE": null,
+                    "PRENOM": "Niclas",
+                    "NOM": "Krumhorn",
+                    "AGE": 37,
+                    "DATE DE NAISSANCE": "1989-06-26",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:03"
                 },
                 {
                     "ID": 32623,

@@ -1,0 +1,939 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22466,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "03:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:00:12",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Quarterfinal 1: VOCA vs NT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "01:45:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:12",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        },
+        {
+            "NOM": "Quarterfinal 2: IOWA vs Secret",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "01:45:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:12",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        },
+        {
+            "NOM": "Quarterfinal 3: LAG vs Arnie's Acolytes",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "02:20:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:12",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        },
+        {
+            "NOM": "Semifinal 1: VOCA vs IOWA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "16:15:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:40",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: LAG vs DTN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "16:15:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:38",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        },
+        {
+            "NOM": "5th-6th Place Decider: NT vs Secret",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "16:15:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:01:11",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        },
+        {
+            "NOM": "5th-6th Place Decider: Arnie's Acolytes vs Celestial",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "16:15:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:01:17",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        },
+        {
+            "NOM": "Grand Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "23:15:00",
+            "DATE DE DEBUT": "2026-11-15",
+            "HEURE DE DEBUT": "2026-11-15",
+            "DATE DE FIN": "2026-11-15",
+            "HEURE DE FIN": "2026-11-15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:48",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        },
+        {
+            "NOM": "Quarterfinal 4: DTN vs Celestial",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "01:45:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:12",
+            "PRIZEPOOL": "30000 United States Dollar",
+            "SLUG": "cs-go-austin-lan-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/fragadelphia"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 129547,
+            "NOM": "Detonate",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:36:07",
+            "ACRONYME": "DTN"
+        },
+        {
+            "ID": 132366,
+            "NOM": "LAG Gaming",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:38:51",
+            "ACRONYME": "LAG"
+        },
+        {
+            "ID": 134300,
+            "NOM": "NuTorious",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:37:09",
+            "ACRONYME": "NT"
+        },
+        {
+            "ID": 137510,
+            "NOM": "Voca",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:37:06",
+            "ACRONYME": "VOCA"
+        },
+        {
+            "ID": 138621,
+            "NOM": "It's a Secret",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:33:56",
+            "ACRONYME": "Secret"
+        },
+        {
+            "ID": 138716,
+            "NOM": "Iowa Stormboar",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:33:55",
+            "ACRONYME": "IOWA"
+        },
+        {
+            "ID": 139204,
+            "NOM": "Celestial",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:36:08",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139608,
+            "NOM": "Arnie's Acolytes",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:38:54",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 129547,
+                "NOM": "Detonate",
+                "LOCALISATION": "US",
+                "ACRONYME": "DTN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:36:07"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30042,
+                    "PSEUDO": "CrePoW",
+                    "ROLE": null,
+                    "PRENOM": "Milan ",
+                    "NOM": "Libbrecht",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-09",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:05"
+                },
+                {
+                    "ID": 35808,
+                    "PSEUDO": "tatm",
+                    "ROLE": null,
+                    "PRENOM": "Matthew",
+                    "NOM": "Munro",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-21",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:07"
+                },
+                {
+                    "ID": 36841,
+                    "PSEUDO": "PoseidoNN",
+                    "ROLE": null,
+                    "PRENOM": "Nikolaos ",
+                    "NOM": "Antoniou",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-11",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:06"
+                },
+                {
+                    "ID": 54469,
+                    "PSEUDO": "CoolComs",
+                    "ROLE": null,
+                    "PRENOM": "Connor",
+                    "NOM": "Barnes",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:07"
+                },
+                {
+                    "ID": 54999,
+                    "PSEUDO": "spud",
+                    "ROLE": null,
+                    "PRENOM": "Eric",
+                    "NOM": "Wickenhauser",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:07"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 132366,
+                "NOM": "LAG Gaming",
+                "LOCALISATION": "US",
+                "ACRONYME": "LAG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:38:51"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23743,
+                    "PSEUDO": "Bwills",
+                    "ROLE": null,
+                    "PRENOM": "Brendan",
+                    "NOM": "Williams",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-11",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:50"
+                },
+                {
+                    "ID": 23776,
+                    "PSEUDO": "djay",
+                    "ROLE": null,
+                    "PRENOM": "Jonathan",
+                    "NOM": "Dallal",
+                    "AGE": 33,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:51"
+                },
+                {
+                    "ID": 25284,
+                    "PSEUDO": "SLIGHT",
+                    "ROLE": null,
+                    "PRENOM": "Keller",
+                    "NOM": "Nilan",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-10-24",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:50"
+                },
+                {
+                    "ID": 32107,
+                    "PSEUDO": "Cryptic",
+                    "ROLE": null,
+                    "PRENOM": "Matthew",
+                    "NOM": "Whitmore",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-25",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:50"
+                },
+                {
+                    "ID": 39725,
+                    "PSEUDO": "Sandman",
+                    "ROLE": null,
+                    "PRENOM": "Justin",
+                    "NOM": "Saulle",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:48"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134300,
+                "NOM": "NuTorious",
+                "LOCALISATION": "US",
+                "ACRONYME": "NT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:37:09"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27471,
+                    "PSEUDO": "Maze",
+                    "ROLE": null,
+                    "PRENOM": "Mikkel",
+                    "NOM": "Sparvath",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-19",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:08"
+                },
+                {
+                    "ID": 40538,
+                    "PSEUDO": "Kermi",
+                    "ROLE": null,
+                    "PRENOM": "Andrew ",
+                    "NOM": "Cretella",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:08"
+                },
+                {
+                    "ID": 44688,
+                    "PSEUDO": "neight",
+                    "ROLE": null,
+                    "PRENOM": "Nathaniel",
+                    "NOM": "Bell",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:09"
+                },
+                {
+                    "ID": 56502,
+                    "PSEUDO": "cmrn",
+                    "ROLE": null,
+                    "PRENOM": "Cameron",
+                    "NOM": "Longman",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:08"
+                },
+                {
+                    "ID": 61733,
+                    "PSEUDO": "bones",
+                    "ROLE": null,
+                    "PRENOM": "Thomas",
+                    "NOM": "Degenhardt",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:07"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137510,
+                "NOM": "Voca",
+                "LOCALISATION": "US",
+                "ACRONYME": "VOCA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:37:06"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18170,
+                    "PSEUDO": "Infinite",
+                    "ROLE": null,
+                    "PRENOM": "Gage ",
+                    "NOM": "Green",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-07-23",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:06"
+                },
+                {
+                    "ID": 18354,
+                    "PSEUDO": "MarKE",
+                    "ROLE": null,
+                    "PRENOM": "Edgar",
+                    "NOM": "Maldonado",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-05-10",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:06"
+                },
+                {
+                    "ID": 24106,
+                    "PSEUDO": "junior",
+                    "ROLE": null,
+                    "PRENOM": "Paytyn",
+                    "NOM": "Johnson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-10",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:05"
+                },
+                {
+                    "ID": 27444,
+                    "PSEUDO": "snav",
+                    "ROLE": null,
+                    "PRENOM": "Wyatt",
+                    "NOM": "Phillippi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-16",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:05"
+                },
+                {
+                    "ID": 27445,
+                    "PSEUDO": "dare",
+                    "ROLE": null,
+                    "PRENOM": "Derek",
+                    "NOM": "Brown",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-17",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:37:06"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138621,
+                "NOM": "It's a Secret",
+                "LOCALISATION": "US",
+                "ACRONYME": "Secret",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:33:56"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 58454,
+                    "PSEUDO": "Saber",
+                    "ROLE": null,
+                    "PRENOM": "Trevor",
+                    "NOM": "Gray",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:55"
+                },
+                {
+                    "ID": 61313,
+                    "PSEUDO": "gamble",
+                    "ROLE": null,
+                    "PRENOM": "John",
+                    "NOM": "Thompson",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:55"
+                },
+                {
+                    "ID": 63197,
+                    "PSEUDO": "Sisyphus",
+                    "ROLE": null,
+                    "PRENOM": "Zachary",
+                    "NOM": "Vangundy",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:56"
+                },
+                {
+                    "ID": 65799,
+                    "PSEUDO": "arush",
+                    "ROLE": null,
+                    "PRENOM": "Arush",
+                    "NOM": "Kumra",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:56"
+                },
+                {
+                    "ID": 66370,
+                    "PSEUDO": "relt",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:40:12"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138716,
+                "NOM": "Iowa Stormboar",
+                "LOCALISATION": "US",
+                "ACRONYME": "IOWA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:33:55"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 44592,
+                    "PSEUDO": "mds",
+                    "ROLE": null,
+                    "PRENOM": "John",
+                    "NOM": "Marin",
+                    "AGE": 33,
+                    "DATE DE NAISSANCE": "1993-01-13",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:54"
+                },
+                {
+                    "ID": 53884,
+                    "PSEUDO": "Nico1ajus",
+                    "ROLE": null,
+                    "PRENOM": "Eduard",
+                    "NOM": "Kuchynskyi",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:55"
+                },
+                {
+                    "ID": 53885,
+                    "PSEUDO": "H0NeST",
+                    "ROLE": null,
+                    "PRENOM": "Nazar",
+                    "NOM": "Stefinko",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:53"
+                },
+                {
+                    "ID": 56508,
+                    "PSEUDO": "Valter0k",
+                    "ROLE": null,
+                    "PRENOM": "Vladyslav",
+                    "NOM": "Pukhtai",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:54"
+                },
+                {
+                    "ID": 61206,
+                    "PSEUDO": "aelor",
+                    "ROLE": null,
+                    "PRENOM": "William",
+                    "NOM": "Africano",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:33:54"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139204,
+                "NOM": "Celestial",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:36:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 40244,
+                    "PSEUDO": "Jachro",
+                    "ROLE": null,
+                    "PRENOM": "James ",
+                    "NOM": "Brooks",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:08"
+                },
+                {
+                    "ID": 53740,
+                    "PSEUDO": "snufaffu",
+                    "ROLE": null,
+                    "PRENOM": "Alex",
+                    "NOM": "Hong",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:08"
+                },
+                {
+                    "ID": 55897,
+                    "PSEUDO": "hambooga",
+                    "ROLE": null,
+                    "PRENOM": "Ben",
+                    "NOM": "Wetrich",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:07"
+                },
+                {
+                    "ID": 59363,
+                    "PSEUDO": "Tiski",
+                    "ROLE": null,
+                    "PRENOM": "Matthew",
+                    "NOM": "Matusovskiy",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:08"
+                },
+                {
+                    "ID": 67777,
+                    "PSEUDO": "Destro",
+                    "ROLE": null,
+                    "PRENOM": "Alex",
+                    "NOM": "Strojny",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139608,
+                "NOM": "Arnie's Acolytes",
+                "LOCALISATION": "US",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:38:54"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 68984,
+                    "PSEUDO": "tropical sheep",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:40:13"
+                },
+                {
+                    "ID": 68985,
+                    "PSEUDO": "runchie",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:40:15"
+                },
+                {
+                    "ID": 68986,
+                    "PSEUDO": "Pibby",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:40:16"
+                },
+                {
+                    "ID": 68987,
+                    "PSEUDO": "Toast",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:40:17"
+                },
+                {
+                    "ID": 68988,
+                    "PSEUDO": "AsianAssist",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:40:18"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Austin LAN",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:24:17"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:00:12",
+        "ID DU VAINQUEUR": null
+    }
+}

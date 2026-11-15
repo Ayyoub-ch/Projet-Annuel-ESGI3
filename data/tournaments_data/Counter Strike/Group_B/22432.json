@@ -14,6 +14,7 @@
     },
     "MATCHES": [
         {
+<<<<<<< HEAD
             "NOM": "Decider Match: ABT vs 4M",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
@@ -39,6 +40,8 @@
             }
         },
         {
+=======
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "NOM": "4M vs ASTRON",
             "TYPE": "Type de match inconnu",
             "STATUT": "canceled",
@@ -101,8 +104,8 @@
             "HEURE DE DEBUT": "Date de debut de match inconnue",
             "DATE DE FIN": "Date de debut de match inconnue",
             "HEURE DE FIN": "Date de debut de match inconnue",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:08:31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:31:21",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
             "TIER": "d",
@@ -128,6 +131,31 @@
             "HEURE DE FIN": "Date de debut de match inconnue",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
             "HEURE DE LA DERNIERE MODIFICATION": "00:10:12",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "Decider Match: ABT vs 4M",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-15",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:06:09",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-group-b",
             "TIER": "d",

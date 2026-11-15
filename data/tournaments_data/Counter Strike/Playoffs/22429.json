@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-22",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:39:02",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:07:37",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -66,18 +66,22 @@
         {
             "NOM": "Round 1 match 3: PRIV vs FORZE.R",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "09:30:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
             "HEURE DE LA DERNIERE MODIFICATION": "07:14:08",
+=======
+            "HEURE DE LA DERNIERE MODIFICATION": "12:34:10",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -91,18 +95,22 @@
         {
             "NOM": "Round 1 match 4: WW vs G2.A",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "11:30:00",
+            "HEURE PRÉVUE": "12:30:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+<<<<<<< HEAD
             "HEURE DE LA DERNIERE MODIFICATION": "07:28:42",
+=======
+            "HEURE DE LA DERNIERE MODIFICATION": "15:04:28",
+>>>>>>> 49579f70e1659a0bc62edde2348fe0934ec126ab
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -126,8 +134,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:05:46",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:02:37",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -151,8 +159,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:06:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:02:50",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -239,7 +247,7 @@
             }
         },
         {
-            "NOM": "Quarterfinal 2: TBD vs TBD",
+            "NOM": "Quarterfinal 2: FORZE.R vs G2.A",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -251,8 +259,8 @@
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:00:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:53:32",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -451,8 +459,8 @@
             "ID": 135126,
             "NOM": "FORZE Reload",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:10:13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:07:34",
             "ACRONYME": "FORZE.R"
         },
         {
@@ -531,8 +539,8 @@
             "ID": 139471,
             "NOM": "ex-INOX Division",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:06:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:16:45",
             "ACRONYME": "ex-INOX"
         },
         {
@@ -872,8 +880,8 @@
                 "NOM": "FORZE Reload",
                 "LOCALISATION": "RU",
                 "ACRONYME": "FORZE.R",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:10:13"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:07:34"
             },
             "JOUEURS": [
                 {
@@ -927,6 +935,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
                     "HEURE DE LA DERNIERE MODIFICATION": "17:10:12"
+                },
+                {
+                    "ID": 48844,
+                    "PSEUDO": "bl1x1",
+                    "ROLE": null,
+                    "PRENOM": "David ",
+                    "NOM": "Stepanyants",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-02-18",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:07:34"
                 },
                 {
                     "ID": 51586,
@@ -1681,8 +1702,8 @@
                 "NOM": "ex-INOX Division",
                 "LOCALISATION": "",
                 "ACRONYME": "ex-INOX",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:06:23"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:16:45"
             },
             "JOUEURS": [
                 {
