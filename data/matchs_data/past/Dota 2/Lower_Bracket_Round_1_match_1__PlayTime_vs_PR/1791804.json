@@ -22,10 +22,10 @@
     "PARTIES": [
         {
             "ID": 741348,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
-            "LONGUEUR": 2828,
+            "LONGUEUR": 1944,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "18:02:11",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -37,10 +37,10 @@
         },
         {
             "ID": 741349,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
-            "LONGUEUR": 5498,
+            "LONGUEUR": 4635,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "19:02:03",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -65,8 +65,8 @@
             "NOM": "Power Rangers",
             "LOCALISATION": "",
             "ACRONYME": "PR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:06:12"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:14:19"
         }
     ],
     "RESULTATS": [
@@ -92,8 +92,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-20",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE MODIFICATION": "2026-11-14",
-        "HEURE DE MODIFICATION": "20:44:59",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "02:14:19",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

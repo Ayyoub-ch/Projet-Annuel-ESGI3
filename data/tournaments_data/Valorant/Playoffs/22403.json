@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "05:30:00",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "07:42:22",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "02:12:57",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -326,8 +326,8 @@
             "HEURE DE DEBUT": "2026-11-14",
             "DATE DE FIN": "2026-11-14",
             "HEURE DE FIN": "2026-11-14",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:45:03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:24:00",
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
@@ -341,51 +341,51 @@
         {
             "NOM": "3rd place match: SIB vs FAC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "04:00:00",
+            "HEURE PRÉVUE": "04:30:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:54:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:49:23",
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
+                "MAIN": false,
                 "LANGUE": "ja",
-                "LIEN BRUTE": "https://www.twitch.tv/predator_japan"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=Sp_veInzzMQ"
             }
         },
         {
             "NOM": "Grand final: AMHR vs ZZ",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "07:00:00",
+            "HEURE PRÉVUE": "07:45:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:54:27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:59:23",
             "PRIZEPOOL": "1000000 Japanese Yen",
             "SLUG": "valorant-predator-league-japan-2027-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
+                "MAIN": false,
                 "LANGUE": "ja",
-                "LIEN BRUTE": "https://www.twitch.tv/predator_japan"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=Sp_veInzzMQ"
             }
         },
         {
@@ -483,8 +483,8 @@
             "ID": 139536,
             "NOM": "FA CLUB",
             "LOCALISATION": "JP",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:36:13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:12:56",
             "ACRONYME": "FAC"
         },
         {
@@ -523,8 +523,8 @@
             "ID": 139541,
             "NOM": "Team Z",
             "LOCALISATION": "JP",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:35:41",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:12:57",
             "ACRONYME": "ZZ"
         },
         {
@@ -1206,8 +1206,8 @@
                 "NOM": "FA CLUB",
                 "LOCALISATION": "JP",
                 "ACRONYME": "FAC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:36:13"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "02:12:56"
             },
             "JOUEURS": [
                 {
@@ -1274,6 +1274,32 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:15:31"
+                },
+                {
+                    "ID": 68978,
+                    "PSEUDO": "Nth MilkTea",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:12:56"
+                },
+                {
+                    "ID": 68979,
+                    "PSEUDO": "SYL aki",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:12:56"
                 }
             ]
         },
@@ -1591,10 +1617,23 @@
                 "NOM": "Team Z",
                 "LOCALISATION": "JP",
                 "ACRONYME": "ZZ",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:35:41"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                "HEURE DE LA DERNIERE MODIFICATION": "02:12:57"
             },
             "JOUEURS": [
+                {
+                    "ID": 40701,
+                    "PSEUDO": "kur0",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+                    "HEURE DE LA DERNIERE MODIFICATION": "02:12:57"
+                },
                 {
                     "ID": 41927,
                     "PSEUDO": "Ask",

@@ -22,10 +22,10 @@
     "PARTIES": [
         {
             "ID": 741747,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
-            "LONGUEUR": 3263,
+            "LONGUEUR": 2933,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "18:16:57",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -37,10 +37,10 @@
         },
         {
             "ID": 741748,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
-            "LONGUEUR": 2836,
+            "LONGUEUR": 2194,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "19:26:15",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -52,10 +52,10 @@
         },
         {
             "ID": 741749,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 3,
             "STATUT": "finished",
-            "LONGUEUR": 2610,
+            "LONGUEUR": 1783,
             "DATE DE DEBUT DE PARTIE": "2026-11-14",
             "HEURE DE DEBUT DE PARTIE": "20:27:58",
             "DATE DE FIN DE PARTIE": "2026-11-14",
@@ -80,8 +80,8 @@
             "NOM": "No Hoodwink",
             "LOCALISATION": "RU",
             "ACRONYME": "NH",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:43:54"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:16:41"
         }
     ],
     "RESULTATS": [
@@ -107,8 +107,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-16",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE MODIFICATION": "2026-11-14",
-        "HEURE DE MODIFICATION": "20:47:21",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "02:16:41",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

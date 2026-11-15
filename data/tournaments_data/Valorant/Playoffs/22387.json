@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "08:00:00",
         "DATE DE FIN": "2026-11-15",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-        "HEURE DE LA DERNIERE MODIFICATION": "13:45:13",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:06:06",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -316,26 +316,26 @@
         {
             "NOM": "Grand Final: FCY vs Original Gaming",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-15",
-            "HEURE PRÉVUE": "08:00:00",
+            "HEURE PRÉVUE": "05:00:00",
             "DATE DE DEBUT": "2026-11-15",
             "HEURE DE DEBUT": "2026-11-15",
             "DATE DE FIN": "2026-11-15",
             "HEURE DE FIN": "2026-11-15",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:55:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:49:22",
             "PRIZEPOOL": "175000000 Vietnamese Dong",
             "SLUG": "valorant-predator-league-vietnam-2027-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "vi",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=lLxw4uXdE7E"
             }
         },
         {
