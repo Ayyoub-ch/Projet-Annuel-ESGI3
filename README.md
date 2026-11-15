@@ -1,4 +1,4 @@
-# Module E-Sport - Documentation de la Branche `feature/e-sport`
+# Documentation de la Branche `dev`
 
 Cette branche est exclusivement dédiée à la gestion, à la collecte automatisée et à la mise à disposition des données liées au secteur de l'e-sport.
 

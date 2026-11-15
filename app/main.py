@@ -12,8 +12,8 @@ import os
 # ========================================
 # Configuration
 # ========================================
-BASE_URL = "https://api-esport-sportsphere.onrender.com"
-# https://api-esport-sportsphere.onrender.com
+BASE_URL = "http://127.0.0.1:8000:"
+# https://api-dev-sportsphere.onrender.com
 API_ESPORT = f"{BASE_URL}"
 
 # ========================================

@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11160,
+        "NOM": "Season_1_2026",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-10-31",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-01",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:52:18",
+        "ANNEE": 2026,
+        "SAISON": "1"
+    },
+    "LIGUE": {
+        "ID": 5581,
+        "NOM": "BETBOOM Streamers Battle",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:52:18"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "RU",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-10-31",
+            "HEURE DE DEBUT": "11:00:00",
+            "DATE DE FIN": "2026-11-01",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-01",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:43:51",
+            "PRIZEPOOL": "1500000 Russian Ruble",
+            "SLUG": "valorant-betboom-streamers-battle-1-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

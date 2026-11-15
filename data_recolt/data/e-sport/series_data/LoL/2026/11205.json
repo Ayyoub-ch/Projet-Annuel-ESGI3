@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11205,
+        "NOM": "2026",
+        "JEU VIDEO": "LoL",
+        "DATE DE DEBUT": "2026-12-05",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-12-05",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:47:14",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5184,
+        "NOM": "Red Bull League of Its Own",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-12-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:19:42"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "offline",
+            "PAYS": "ES",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-12-05",
+            "HEURE DE DEBUT": "13:00:00",
+            "DATE DE FIN": "2026-12-05",
+            "HEURE DE FIN": "19:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:47:14",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "league-of-legends-red-bull-league-of-its-own-2026-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

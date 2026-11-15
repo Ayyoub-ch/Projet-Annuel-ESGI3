@@ -1,0 +1,268 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22423,
+        "NOM": "Seeding_Decider_Match",
+        "JEU VIDEO": "Overwatch",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "13:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:37:14",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Seeding Match: FAL vs ZETA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "first_to",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:37:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "ow-overwatch-champions-series-asia-stage-3-2026-seeding-decider-match",
+            "TIER": "b",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ja",
+                "LIEN BRUTE": "https://www.youtube.com/@ow_esports_jp/live"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 134476,
+            "NOM": "Falcons",
+            "LOCALISATION": "SA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:37:12",
+            "ACRONYME": "FAL"
+        },
+        {
+            "ID": 135271,
+            "NOM": "ZETA DIVISION",
+            "LOCALISATION": "JP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:37:13",
+            "ACRONYME": "ZETA"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 134476,
+                "NOM": "Falcons",
+                "LOCALISATION": "SA",
+                "ACRONYME": "FAL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:37:12"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18836,
+                    "PSEUDO": "MER1T",
+                    "ROLE": "DPS",
+                    "PRENOM": "Tae-min",
+                    "NOM": "Choi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-21",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:10"
+                },
+                {
+                    "ID": 18846,
+                    "PSEUDO": "Hanbin",
+                    "ROLE": "Tank",
+                    "PRENOM": "Han-been",
+                    "NOM": "Choi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-20",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:10"
+                },
+                {
+                    "ID": 18886,
+                    "PSEUDO": "Fielder",
+                    "ROLE": "Support",
+                    "PRENOM": "Joon",
+                    "NOM": "Kwon",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-29",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:11"
+                },
+                {
+                    "ID": 30711,
+                    "PSEUDO": "ChiYo",
+                    "ROLE": null,
+                    "PRENOM": "Hyeon-seok",
+                    "NOM": "Han",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-09-08",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:11"
+                },
+                {
+                    "ID": 30714,
+                    "PSEUDO": "someone",
+                    "ROLE": null,
+                    "PRENOM": "Jeong-wan",
+                    "NOM": "Ham",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-24",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:11"
+                },
+                {
+                    "ID": 33095,
+                    "PSEUDO": "Checkmate",
+                    "ROLE": null,
+                    "PRENOM": "Seung-hun",
+                    "NOM": "Baek",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-08",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:09"
+                },
+                {
+                    "ID": 60273,
+                    "PSEUDO": "SP1NT",
+                    "ROLE": null,
+                    "PRENOM": "An",
+                    "NOM": "Woo-jin",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2007-12-28",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:11"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135271,
+                "NOM": "ZETA DIVISION",
+                "LOCALISATION": "JP",
+                "ACRONYME": "ZETA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:37:13"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18377,
+                    "PSEUDO": "Viol2t",
+                    "ROLE": "Support",
+                    "PRENOM": "Minki",
+                    "NOM": "Park",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-04-17",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:13"
+                },
+                {
+                    "ID": 18901,
+                    "PSEUDO": "Proper",
+                    "ROLE": "DPS",
+                    "PRENOM": "Dong-hyun",
+                    "NOM": "Kim",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-12-01",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:12"
+                },
+                {
+                    "ID": 18938,
+                    "PSEUDO": "BERNAR",
+                    "ROLE": "Tank",
+                    "PRENOM": "Se-won",
+                    "NOM": "Shin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-18",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:13"
+                },
+                {
+                    "ID": 19123,
+                    "PSEUDO": "Shu",
+                    "ROLE": "Support",
+                    "PRENOM": "Jin-seo",
+                    "NOM": "Kim",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-12",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:13"
+                },
+                {
+                    "ID": 49056,
+                    "PSEUDO": "KNIFE",
+                    "ROLE": null,
+                    "PRENOM": "Seon-woo",
+                    "NOM": "Lee ",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-07-21",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:12"
+                },
+                {
+                    "ID": 49063,
+                    "PSEUDO": "Mealgaru",
+                    "ROLE": null,
+                    "PRENOM": "Jeong-hwan",
+                    "NOM": "Lee",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-02-25",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:37:12"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "OCS",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-03-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "NOM": "Asia Stage 3 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:34:58",
+        "ID DU VAINQUEUR": null
+    }
+}
