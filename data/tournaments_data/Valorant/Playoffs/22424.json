@@ -5,10 +5,10 @@
         "JEU VIDEO": "Valorant",
         "DATE DE DEBUT": "2026-11-10",
         "HEURE DE DEBUT": "12:00:00",
-        "DATE DE FIN": "2026-11-21",
-        "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "13:04:48",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:15:45",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -311,6 +311,56 @@
                 "MAIN": true,
                 "LANGUE": "id",
                 "LIEN BRUTE": "https://www.youtube.com/watch?v=J7vwRFWI5aM"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Final: HE vs SLG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "08:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:14:39",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+            }
+        },
+        {
+            "NOM": "Grand Final: BOOM vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-22",
+            "HEURE PRÉVUE": "10:30:00",
+            "DATE DE DEBUT": "2026-11-22",
+            "HEURE DE DEBUT": "2026-11-22",
+            "DATE DE FIN": "2026-11-22",
+            "HEURE DE FIN": "2026-11-22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:15:49",
+            "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
+            "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "id",
+                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
             }
         },
         {
@@ -1096,8 +1146,8 @@
         "NOM": "Indonesia 2027",
         "ANNEE": 2027,
         "SAISON": null,
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-        "HEURE DE LA DERNIERE MODIFICATION": "18:11:01",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:15:45",
         "ID DU VAINQUEUR": null
     }
 }
