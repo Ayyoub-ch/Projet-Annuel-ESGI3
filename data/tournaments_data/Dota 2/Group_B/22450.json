@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-21",
         "HEURE DE FIN": "13:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-        "HEURE DE LA DERNIERE MODIFICATION": "18:50:47",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:34:20",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -116,24 +116,24 @@
         {
             "NOM": "IAC vs PR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-16",
-            "HEURE PRÉVUE": "13:00:00",
+            "HEURE PRÉVUE": "13:20:00",
             "DATE DE DEBUT": "2026-11-16",
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:03:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:52:51",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-b",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": false,
+                "MAIN": true,
                 "LANGUE": "ru",
                 "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
             }
@@ -141,18 +141,18 @@
         {
             "NOM": "TS vs PckCp",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-16",
-            "HEURE PRÉVUE": "16:00:00",
+            "HEURE PRÉVUE": "17:00:00",
             "DATE DE DEBUT": "2026-11-16",
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:03:20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:58:00",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-b",
             "TIER": "d",
@@ -418,16 +418,16 @@
             "ID": 137870,
             "NOM": "Power Rangers",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:14:19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:26:56",
             "ACRONYME": "PR"
         },
         {
             "ID": 139124,
             "NOM": "Team Synapse",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:20:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:51:44",
             "ACRONYME": "TS"
         },
         {
@@ -677,8 +677,8 @@
                 "NOM": "Power Rangers",
                 "LOCALISATION": "",
                 "ACRONYME": "PR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-                "HEURE DE LA DERNIERE MODIFICATION": "02:14:19"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:26:56"
             },
             "JOUEURS": [
                 {
@@ -745,6 +745,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "17:06:12"
+                },
+                {
+                    "ID": 60562,
+                    "PSEUDO": "bottega",
+                    "ROLE": "1",
+                    "PRENOM": "Andrei",
+                    "NOM": "Kopytko",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2008-12-04",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:26:56"
                 }
             ]
         },
@@ -754,8 +767,8 @@
                 "NOM": "Team Synapse",
                 "LOCALISATION": "",
                 "ACRONYME": "TS",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-                "HEURE DE LA DERNIERE MODIFICATION": "23:20:32"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:51:44"
             },
             "JOUEURS": [
                 {
@@ -794,8 +807,8 @@
                     "DATE DE NAISSANCE": "2000-10-02",
                     "NATIONALITE": "TR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "17:08:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:51:44"
                 },
                 {
                     "ID": 46359,

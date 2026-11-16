@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11213,
+        "NOM": "Season_19_2026",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "11:30:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:54:33",
+        "ANNEE": 2026,
+        "SAISON": "19"
+    },
+    "LIGUE": {
+        "ID": 4261,
+        "NOM": "Master League Portugal",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-04-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:32:36"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "PT",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "11:30:00",
+            "DATE DE FIN": "2026-11-22",
+            "HEURE DE FIN": "19:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:54:33",
+            "PRIZEPOOL": "6000 Euro",
+            "SLUG": "cs-go-master-league-portugal-19-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

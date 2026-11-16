@@ -1,0 +1,82 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22470,
+        "NOM": "Seeding_Matches",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "14:00:00",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:38:08",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Seeding Match 1: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:38:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-seeding-matches",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+            }
+        },
+        {
+            "NOM": "Seeding Match 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:38:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-seeding-matches",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+            }
+        }
+    ],
+    "EQUIPES": "Pas d'informations sur l'equipe",
+    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "LIGUE": {
+        "NOM": "BLAST Slam",
+        "DATE DE LA DERNIERE MODIFICATION": "2024-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:26:28"
+    },
+    "SERIE": {
+        "NOM": "Season 9 2026",
+        "ANNEE": 2026,
+        "SAISON": "9",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:35:19",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1805889,
+        "NOM": "ALG_vs_Victory_No_Limits",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "09:48:02",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "11:52:09",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52985,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1667,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "09:48:02",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "10:15:50",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139455,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52986,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 5770,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "10:15:59",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "11:52:10",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139455,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135472,
+            "NOM": "Ambitious Legend Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "ALG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:10:10"
+        },
+        {
+            "ID": 139455,
+            "NOM": "Victory No Limits",
+            "LOCALISATION": "CN",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:54:46"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135472
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139455
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22442,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "19:55:51",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5585,
+        "NOM": "China National Tournament",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18"
+    },
+    "SERIE": {
+        "ID": 11202,
+        "NOM": "Split Omega: Pro Division 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18"
+    }
+}

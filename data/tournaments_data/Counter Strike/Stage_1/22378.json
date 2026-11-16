@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "23:00:00",
         "DATE DE FIN": "2026-11-27",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:25:34",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:27:37",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -17,7 +17,7 @@
             "NOM": "Round 1: 9z vs LVG",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
+            "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 1,
             "DATE PRÉVUE": "2026-11-24",
@@ -42,7 +42,7 @@
             "NOM": "Round 1: HERO vs IMP",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
+            "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 1,
             "DATE PRÉVUE": "2026-11-24",
@@ -67,7 +67,7 @@
             "NOM": "Round 1: 100T vs CW",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
+            "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 1,
             "DATE PRÉVUE": "2026-11-24",
@@ -92,7 +92,7 @@
             "NOM": "Round 1: NIP vs M80",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
+            "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 1,
             "DATE PRÉVUE": "2026-11-24",
@@ -117,7 +117,7 @@
             "NOM": "Round 1: PV vs DEN",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
+            "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 1,
             "DATE PRÉVUE": "2026-11-24",
@@ -126,8 +126,8 @@
             "HEURE DE DEBUT": "2026-11-24",
             "DATE DE FIN": "2026-11-24",
             "HEURE DE FIN": "2026-11-24",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:39:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:27:37",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
             "TIER": "s",
@@ -142,7 +142,7 @@
             "NOM": "Round 1: TL vs GOSH",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
+            "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 1,
             "DATE PRÉVUE": "2026-11-24",
@@ -151,8 +151,8 @@
             "HEURE DE DEBUT": "2026-11-24",
             "DATE DE FIN": "2026-11-24",
             "HEURE DE FIN": "2026-11-24",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:39:31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:27:36",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
             "TIER": "s",
@@ -167,7 +167,7 @@
             "NOM": "Round 1: EF vs FLY",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
+            "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 1,
             "DATE PRÉVUE": "2026-11-24",
@@ -192,7 +192,7 @@
             "NOM": "Round 1: FaZe vs WC",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
+            "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 1,
             "DATE PRÉVUE": "2026-11-24",
@@ -212,6 +212,631 @@
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
             }
+        },
+        {
+            "NOM": "Round 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "08:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "08:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 2: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 3: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 3: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 3: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "07:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 3: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 1,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "07:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 3: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "08:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 3: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "08:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 3: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "10:30:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 3: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "10:30:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 4: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 4: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 4: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "08:30:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 4: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "08:30:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 4: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 4: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 5: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-27",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-11-27",
+            "HEURE DE DEBUT": "2026-11-27",
+            "DATE DE FIN": "2026-11-27",
+            "HEURE DE FIN": "2026-11-27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:54",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 5: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-27",
+            "HEURE PRÉVUE": "08:30:00",
+            "DATE DE DEBUT": "2026-11-27",
+            "HEURE DE DEBUT": "2026-11-27",
+            "DATE DE FIN": "2026-11-27",
+            "HEURE DE FIN": "2026-11-27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
+        },
+        {
+            "NOM": "Round 5: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-27",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-27",
+            "HEURE DE DEBUT": "2026-11-27",
+            "DATE DE FIN": "2026-11-27",
+            "HEURE DE FIN": "2026-11-27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:59:53",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-pgl-major-singapore-2026-stage-1",
+            "TIER": "s",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/pgl_cs2"
+            }
         }
     ],
     "EQUIPES": [
@@ -219,144 +844,128 @@
             "ID": 3212,
             "NOM": "FaZe",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:58:03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:03",
             "ACRONYME": "FaZe"
         },
         {
             "ID": 3213,
             "NOM": "Liquid",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:21:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:09",
             "ACRONYME": "TL"
         },
         {
             "ID": 3218,
             "NOM": "NIP",
             "LOCALISATION": "SE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:00:38",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:14",
             "ACRONYME": "NIP"
         },
         {
             "ID": 3246,
             "NOM": "Heroic",
             "LOCALISATION": "DK",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:25:22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:18",
             "ACRONYME": "HERO"
         },
         {
             "ID": 126377,
             "NOM": "Imperial",
             "LOCALISATION": "BR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:53:51",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:23",
             "ACRONYME": "IMP"
         },
         {
             "ID": 126439,
             "NOM": "Lynn Vision",
             "LOCALISATION": "CN",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:31:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:28",
             "ACRONYME": "LVG"
         },
         {
             "ID": 126452,
             "NOM": "100 Thieves",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:25:24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:29",
             "ACRONYME": "100T"
         },
         {
             "ID": 126709,
             "NOM": "9z",
             "LOCALISATION": "AR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:25:34",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:33",
             "ACRONYME": "9z"
         },
         {
             "ID": 129413,
             "NOM": "Eternal Fire",
             "LOCALISATION": "TR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:25:30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:38",
             "ACRONYME": "EF"
         },
         {
             "ID": 133435,
             "NOM": "M80",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-09-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:19:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:41",
             "ACRONYME": "M80"
-        },
-        {
-            "ID": 133719,
-            "NOM": "PARIVISION",
-            "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:22:33",
-            "ACRONYME": "PRV"
         },
         {
             "ID": 134264,
             "NOM": "Chinggis Warriors",
             "LOCALISATION": "MN",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:31:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:45",
             "ACRONYME": "CW"
         },
         {
             "ID": 134746,
             "NOM": "FlyQuest",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:02:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:47",
             "ACRONYME": "FLY"
-        },
-        {
-            "ID": 135177,
-            "NOM": "BC.Game Esports",
-            "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:20:22",
-            "ACRONYME": "BCG"
         },
         {
             "ID": 135273,
             "NOM": "Wildcard",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:01:09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:49",
             "ACRONYME": "WC"
         },
         {
             "ID": 138988,
             "NOM": "DENDELE CS",
             "LOCALISATION": "BR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:53:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:49",
             "ACRONYME": "DEN"
         },
         {
             "ID": 139562,
             "NOM": "GOSH",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:54:48",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:35:25",
             "ACRONYME": "GOSH"
         },
         {
             "ID": 139565,
             "NOM": "PVISION",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:04:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:35:26",
             "ACRONYME": "PV"
         }
     ],
@@ -367,10 +976,76 @@
                 "NOM": "FaZe",
                 "LOCALISATION": "US",
                 "ACRONYME": "FaZe",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:58:03"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:03"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 17531,
+                    "PSEUDO": "Twistzz",
+                    "ROLE": null,
+                    "PRENOM": "Russel",
+                    "NOM": "Van Dulken",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-11-14",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:03"
+                },
+                {
+                    "ID": 20397,
+                    "PSEUDO": "frozen",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Čerňanský",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-18",
+                    "NATIONALITE": "SK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:26:55"
+                },
+                {
+                    "ID": 32623,
+                    "PSEUDO": "Neityu",
+                    "ROLE": null,
+                    "PRENOM": "Ryan",
+                    "NOM": "Aubry",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-03",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:03"
+                },
+                {
+                    "ID": 43707,
+                    "PSEUDO": "Jcobbb",
+                    "ROLE": null,
+                    "PRENOM": "Jakub",
+                    "NOM": "Pietruszewski",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:02"
+                },
+                {
+                    "ID": 46241,
+                    "PSEUDO": "JBOEN",
+                    "ROLE": null,
+                    "PRENOM": "Jason",
+                    "NOM": "Nielsen",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:01"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -378,10 +1053,76 @@
                 "NOM": "Liquid",
                 "LOCALISATION": "US",
                 "ACRONYME": "TL",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-20",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:21:02"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:09"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 17528,
+                    "PSEUDO": "EliGE",
+                    "ROLE": null,
+                    "PRENOM": "Jonathan",
+                    "NOM": "Jablonowski",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-07-16",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:04"
+                },
+                {
+                    "ID": 17585,
+                    "PSEUDO": "NAF",
+                    "ROLE": null,
+                    "PRENOM": "Keith",
+                    "NOM": "Markovic",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1997-11-24",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:09"
+                },
+                {
+                    "ID": 18338,
+                    "PSEUDO": "JT",
+                    "ROLE": null,
+                    "PRENOM": "Johnny",
+                    "NOM": "Theodosiou",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-04-09",
+                    "NATIONALITE": "ZA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:08"
+                },
+                {
+                    "ID": 21433,
+                    "PSEUDO": "malbsMd",
+                    "ROLE": null,
+                    "PRENOM": "Mario",
+                    "NOM": "Samayoa",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-10-17",
+                    "NATIONALITE": "GT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:08"
+                },
+                {
+                    "ID": 51699,
+                    "PSEUDO": "Jorko",
+                    "ROLE": null,
+                    "PRENOM": "Georgi",
+                    "NOM": "Mitev",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:08"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -389,10 +1130,76 @@
                 "NOM": "NIP",
                 "LOCALISATION": "SE",
                 "ACRONYME": "NIP",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-                "HEURE DE LA DERNIERE MODIFICATION": "12:00:38"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:14"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 18190,
+                    "PSEUDO": "stavn",
+                    "ROLE": null,
+                    "PRENOM": "Martin",
+                    "NOM": "Lund",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-26",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:13"
+                },
+                {
+                    "ID": 20483,
+                    "PSEUDO": "sjuush",
+                    "ROLE": null,
+                    "PRENOM": "Rasmus",
+                    "NOM": "Beck",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-01-03",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:13"
+                },
+                {
+                    "ID": 25664,
+                    "PSEUDO": "Krimbo",
+                    "ROLE": null,
+                    "PRENOM": "Karim",
+                    "NOM": " Moussa",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-26",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:09"
+                },
+                {
+                    "ID": 33545,
+                    "PSEUDO": "Adamb",
+                    "ROLE": null,
+                    "PRENOM": "Adam",
+                    "NOM": "Ångström",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-07",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:14"
+                },
+                {
+                    "ID": 49773,
+                    "PSEUDO": "xKacpersky",
+                    "ROLE": null,
+                    "PRENOM": "Kacper ",
+                    "NOM": "Gabara",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-10-22",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:14"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -400,10 +1207,76 @@
                 "NOM": "Heroic",
                 "LOCALISATION": "DK",
                 "ACRONYME": "HERO",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:25:22"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:18"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 17853,
+                    "PSEUDO": "Brollan",
+                    "ROLE": null,
+                    "PRENOM": "Ludvig",
+                    "NOM": "Brolin",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-17",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:14"
+                },
+                {
+                    "ID": 30411,
+                    "PSEUDO": "nilo",
+                    "ROLE": null,
+                    "PRENOM": "Linus",
+                    "NOM": "Bergman",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-04",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:18"
+                },
+                {
+                    "ID": 32942,
+                    "PSEUDO": "susp",
+                    "ROLE": null,
+                    "PRENOM": "Tim",
+                    "NOM": "Ångström",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-07",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:18"
+                },
+                {
+                    "ID": 34929,
+                    "PSEUDO": "Martinez",
+                    "ROLE": null,
+                    "PRENOM": "Antonio ",
+                    "NOM": "Martinez Sánchez",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-29",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:18"
+                },
+                {
+                    "ID": 42367,
+                    "PSEUDO": "Chr1zN",
+                    "ROLE": null,
+                    "PRENOM": "Christoffer",
+                    "NOM": "Storgaard",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-08-21",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:18"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -411,10 +1284,76 @@
                 "NOM": "Imperial",
                 "LOCALISATION": "BR",
                 "ACRONYME": "IMP",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:53:51"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:23"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 17729,
+                    "PSEUDO": "chelo",
+                    "ROLE": null,
+                    "PRENOM": "Marcelo",
+                    "NOM": "Cespedes",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-06-08",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:19"
+                },
+                {
+                    "ID": 19666,
+                    "PSEUDO": "VINI",
+                    "ROLE": null,
+                    "PRENOM": "Vinicius",
+                    "NOM": "Figueiredo",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-05-20",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:23"
+                },
+                {
+                    "ID": 31845,
+                    "PSEUDO": "decenty",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Bacelar",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-03-01",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:23"
+                },
+                {
+                    "ID": 43954,
+                    "PSEUDO": "saadzin",
+                    "ROLE": null,
+                    "PRENOM": "Guilherme",
+                    "NOM": "Pacheco",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-14",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:23"
+                },
+                {
+                    "ID": 48407,
+                    "PSEUDO": "noway",
+                    "ROLE": null,
+                    "PRENOM": "Kaiky",
+                    "NOM": "Santos",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-05-12",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:22"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -422,10 +1361,76 @@
                 "NOM": "Lynn Vision",
                 "LOCALISATION": "CN",
                 "ACRONYME": "LVG",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:31:23"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:28"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 24434,
+                    "PSEUDO": "z4kr",
+                    "ROLE": null,
+                    "PRENOM": "Sike",
+                    "NOM": "Zhang",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-11-14",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:28"
+                },
+                {
+                    "ID": 24435,
+                    "PSEUDO": "Westmelon",
+                    "ROLE": null,
+                    "PRENOM": "Niu",
+                    "NOM": "Zhe",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-04",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:27"
+                },
+                {
+                    "ID": 26541,
+                    "PSEUDO": "Starry",
+                    "ROLE": null,
+                    "PRENOM": "Lizhi ",
+                    "NOM": "Ye",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-03",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:27"
+                },
+                {
+                    "ID": 47577,
+                    "PSEUDO": "EmiliaQAQ",
+                    "ROLE": null,
+                    "PRENOM": "Junjie",
+                    "NOM": "Tang",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-23",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:27"
+                },
+                {
+                    "ID": 48423,
+                    "PSEUDO": "C4LLM3SU3",
+                    "ROLE": null,
+                    "PRENOM": "Qihao ",
+                    "NOM": "Su",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-03-09",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:23"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -433,10 +1438,76 @@
                 "NOM": "100 Thieves",
                 "LOCALISATION": "US",
                 "ACRONYME": "100T",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:25:24"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:29"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 17507,
+                    "PSEUDO": "device",
+                    "ROLE": null,
+                    "PRENOM": "Nicolai",
+                    "NOM": "Reedtz",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-09-08",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:28"
+                },
+                {
+                    "ID": 17523,
+                    "PSEUDO": "rain",
+                    "ROLE": null,
+                    "PRENOM": "Håvard",
+                    "NOM": "Nygaard",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-08-27",
+                    "NATIONALITE": "NO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:29"
+                },
+                {
+                    "ID": 31430,
+                    "PSEUDO": "Gizmy",
+                    "ROLE": null,
+                    "PRENOM": "Jack ",
+                    "NOM": "von Spreckelsen",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-20",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:29"
+                },
+                {
+                    "ID": 43270,
+                    "PSEUDO": "sirah",
+                    "ROLE": null,
+                    "PRENOM": "William",
+                    "NOM": "Kjærsgaard",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-11-16",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:29"
+                },
+                {
+                    "ID": 49941,
+                    "PSEUDO": "poiii",
+                    "ROLE": null,
+                    "PRENOM": "Alex",
+                    "NOM": "Nyholm Sundgren",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-09-16",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:29"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -444,10 +1515,49 @@
                 "NOM": "9z",
                 "LOCALISATION": "AR",
                 "ACRONYME": "9z",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:25:34"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:33"
             },
             "JOUEURS": [
+                {
+                    "ID": 28854,
+                    "PSEUDO": "max",
+                    "ROLE": null,
+                    "PRENOM": "Maximiliano",
+                    "NOM": "Gonzalez",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-06-15",
+                    "NATIONALITE": "UY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:32"
+                },
+                {
+                    "ID": 30395,
+                    "PSEUDO": "luchov",
+                    "ROLE": null,
+                    "PRENOM": "Luciano",
+                    "NOM": "Herrera",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-11",
+                    "NATIONALITE": "AR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:33"
+                },
+                {
+                    "ID": 34000,
+                    "PSEUDO": "dgt",
+                    "ROLE": null,
+                    "PRENOM": "Franco Manuel",
+                    "NOM": "Garcia Cabrera",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-12",
+                    "NATIONALITE": "UY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:33"
+                },
                 {
                     "ID": 34675,
                     "PSEUDO": "history",
@@ -460,6 +1570,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
                     "HEURE DE LA DERNIERE MODIFICATION": "15:11:11"
+                },
+                {
+                    "ID": 37982,
+                    "PSEUDO": "HUASOPEEK",
+                    "ROLE": null,
+                    "PRENOM": "Matías",
+                    "NOM": "Ibañez",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-29",
+                    "NATIONALITE": "CL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:29"
                 }
             ]
         },
@@ -469,10 +1592,76 @@
                 "NOM": "Eternal Fire",
                 "LOCALISATION": "TR",
                 "ACRONYME": "EF",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:25:30"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:38"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 19256,
+                    "PSEUDO": "MisteM",
+                    "ROLE": null,
+                    "PRENOM": "Gareth",
+                    "NOM": "Ries",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-11-09",
+                    "NATIONALITE": "ZA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:38"
+                },
+                {
+                    "ID": 29414,
+                    "PSEUDO": "regali",
+                    "ROLE": null,
+                    "PRENOM": "Iulian",
+                    "NOM": "Harjău",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-08-26",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:38"
+                },
+                {
+                    "ID": 36429,
+                    "PSEUDO": "Soulfly",
+                    "ROLE": null,
+                    "PRENOM": "Caner ",
+                    "NOM": "Kesici",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-06-16",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:38"
+                },
+                {
+                    "ID": 37607,
+                    "PSEUDO": "Kvem",
+                    "ROLE": null,
+                    "PRENOM": "Vladislav",
+                    "NOM": "Korol",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-29",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:38"
+                },
+                {
+                    "ID": 41168,
+                    "PSEUDO": "jottAAA",
+                    "ROLE": null,
+                    "PRENOM": "Samet",
+                    "NOM": "Köklü",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-15",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:33"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -480,21 +1669,76 @@
                 "NOM": "M80",
                 "LOCALISATION": "US",
                 "ACRONYME": "M80",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-09-26",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:19:36"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:41"
             },
-            "JOUEURS": []
-        },
-        {
-            "EQUIPE": {
-                "ID": 133719,
-                "NOM": "PARIVISION",
-                "LOCALISATION": "RU",
-                "ACRONYME": "PRV",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:22:33"
-            },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 20766,
+                    "PSEUDO": "Swisher",
+                    "ROLE": null,
+                    "PRENOM": "Michael",
+                    "NOM": "Schmid",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-17",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:41"
+                },
+                {
+                    "ID": 25137,
+                    "PSEUDO": "slaxz-",
+                    "ROLE": null,
+                    "PRENOM": "Fritz",
+                    "NOM": "Dietrich",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-11-25",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:41"
+                },
+                {
+                    "ID": 26372,
+                    "PSEUDO": "lake",
+                    "ROLE": null,
+                    "PRENOM": "Mason ",
+                    "NOM": "Sanderson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-19",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:40"
+                },
+                {
+                    "ID": 28461,
+                    "PSEUDO": "s1n",
+                    "ROLE": null,
+                    "PRENOM": "Elias",
+                    "NOM": "Stein",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-18",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:41"
+                },
+                {
+                    "ID": 40711,
+                    "PSEUDO": "JBa",
+                    "ROLE": null,
+                    "PRENOM": "Josh",
+                    "NOM": "Barutt",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-06-10",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:39"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -502,10 +1746,76 @@
                 "NOM": "Chinggis Warriors",
                 "LOCALISATION": "MN",
                 "ACRONYME": "CW",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:31:28"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:45"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 26686,
+                    "PSEUDO": "sk0R",
+                    "ROLE": null,
+                    "PRENOM": "Tengis",
+                    "NOM": "Batjargal",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-12",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:45"
+                },
+                {
+                    "ID": 26732,
+                    "PSEUDO": "cool4st",
+                    "ROLE": null,
+                    "PRENOM": "Sodbileg",
+                    "NOM": "Batbaatar",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-11",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:45"
+                },
+                {
+                    "ID": 29937,
+                    "PSEUDO": "ROUX",
+                    "ROLE": null,
+                    "PRENOM": "Undrakhbayar ",
+                    "NOM": "Zolbayar",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-26",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:44"
+                },
+                {
+                    "ID": 36834,
+                    "PSEUDO": "fury5k",
+                    "ROLE": null,
+                    "PRENOM": " Davaasuren ",
+                    "NOM": "Ganbaatar",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-12-07",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:45"
+                },
+                {
+                    "ID": 62247,
+                    "PSEUDO": "tikuak",
+                    "ROLE": null,
+                    "PRENOM": "Zolbayar",
+                    "NOM": "Chimedtseren",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:45"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -513,21 +1823,76 @@
                 "NOM": "FlyQuest",
                 "LOCALISATION": "US",
                 "ACRONYME": "FLY",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-28",
-                "HEURE DE LA DERNIERE MODIFICATION": "11:02:55"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:47"
             },
-            "JOUEURS": []
-        },
-        {
-            "EQUIPE": {
-                "ID": 135177,
-                "NOM": "BC.Game Esports",
-                "LOCALISATION": "",
-                "ACRONYME": "BCG",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-27",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:20:22"
-            },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 17615,
+                    "PSEUDO": "jks",
+                    "ROLE": null,
+                    "PRENOM": "Justin",
+                    "NOM": "Savage",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1995-12-12",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:46"
+                },
+                {
+                    "ID": 17793,
+                    "PSEUDO": "aliStair",
+                    "ROLE": null,
+                    "PRENOM": "Alistair",
+                    "NOM": "Johnston",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-07",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:45"
+                },
+                {
+                    "ID": 17806,
+                    "PSEUDO": "INS",
+                    "ROLE": null,
+                    "PRENOM": "Joshua",
+                    "NOM": "Potter",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-22",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:46"
+                },
+                {
+                    "ID": 23770,
+                    "PSEUDO": "nettik",
+                    "ROLE": null,
+                    "PRENOM": "Corey",
+                    "NOM": "Browne",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-30",
+                    "NATIONALITE": "NZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:47"
+                },
+                {
+                    "ID": 23785,
+                    "PSEUDO": "Vexite",
+                    "ROLE": null,
+                    "PRENOM": "Declan",
+                    "NOM": "Portelli",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-05",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:47"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -535,10 +1900,76 @@
                 "NOM": "Wildcard",
                 "LOCALISATION": "US",
                 "ACRONYME": "WC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:01:09"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:49"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25059,
+                    "PSEUDO": "nEMANHA",
+                    "ROLE": null,
+                    "PRENOM": "Nemanja",
+                    "NOM": "Đukić",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-09-21",
+                    "NATIONALITE": "RS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:48"
+                },
+                {
+                    "ID": 25202,
+                    "PSEUDO": "cxzi",
+                    "ROLE": null,
+                    "PRENOM": "Danny",
+                    "NOM": "Strzelczyk",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-06-15",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:47"
+                },
+                {
+                    "ID": 25316,
+                    "PSEUDO": "HexT",
+                    "ROLE": null,
+                    "PRENOM": "Jadan",
+                    "NOM": "Postma",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-10-30",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:48"
+                },
+                {
+                    "ID": 25333,
+                    "PSEUDO": "reck",
+                    "ROLE": null,
+                    "PRENOM": "Ethan",
+                    "NOM": "Serrano",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-22",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:48"
+                },
+                {
+                    "ID": 27005,
+                    "PSEUDO": "fr3nd",
+                    "ROLE": null,
+                    "PRENOM": "Sebastian ",
+                    "NOM": "Kuśmierz",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-27",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:49"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -546,10 +1977,76 @@
                 "NOM": "DENDELE CS",
                 "LOCALISATION": "BR",
                 "ACRONYME": "DEN",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:53:47"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:27:49"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 31864,
+                    "PSEUDO": "Gafolo",
+                    "ROLE": null,
+                    "PRENOM": "Victor",
+                    "NOM": "Andrade",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-25",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:49"
+                },
+                {
+                    "ID": 33530,
+                    "PSEUDO": "koala",
+                    "ROLE": null,
+                    "PRENOM": "João",
+                    "NOM": "Pedro",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-02-26",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:49"
+                },
+                {
+                    "ID": 36393,
+                    "PSEUDO": "maxxkor",
+                    "ROLE": null,
+                    "PRENOM": "Máximo",
+                    "NOM": "Cortina",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "AR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:49"
+                },
+                {
+                    "ID": 40610,
+                    "PSEUDO": "rdnzao",
+                    "ROLE": null,
+                    "PRENOM": "Daniel",
+                    "NOM": "Monteiro",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-23",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:49"
+                },
+                {
+                    "ID": 44070,
+                    "PSEUDO": "doc",
+                    "ROLE": null,
+                    "PRENOM": "Danilo",
+                    "NOM": "Barros",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-20",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:27:49"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -557,10 +2054,76 @@
                 "NOM": "GOSH",
                 "LOCALISATION": "",
                 "ACRONYME": "GOSH",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "12:54:48"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:35:25"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 17538,
+                    "PSEUDO": "Magisk",
+                    "ROLE": null,
+                    "PRENOM": "Emil",
+                    "NOM": "Reif",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-03-05",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:25"
+                },
+                {
+                    "ID": 17541,
+                    "PSEUDO": "s1mple",
+                    "ROLE": null,
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Kostyliev",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-10-02",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:25"
+                },
+                {
+                    "ID": 23805,
+                    "PSEUDO": "asap",
+                    "ROLE": null,
+                    "PRENOM": "Tyson",
+                    "NOM": "Paterson",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-01",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:25"
+                },
+                {
+                    "ID": 31321,
+                    "PSEUDO": "senzu",
+                    "ROLE": null,
+                    "PRENOM": "Munkhbold ",
+                    "NOM": "Azbayar",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-08-11",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:25"
+                },
+                {
+                    "ID": 36211,
+                    "PSEUDO": "mzinho",
+                    "ROLE": null,
+                    "PRENOM": "Ayush",
+                    "NOM": "Batbold",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-06-28",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:25"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -568,10 +2131,76 @@
                 "NOM": "PVISION",
                 "LOCALISATION": "",
                 "ACRONYME": "PV",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:04:56"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:35:26"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 17535,
+                    "PSEUDO": "HObbit",
+                    "ROLE": null,
+                    "PRENOM": "Abay",
+                    "NOM": "Khasenov",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-05-18",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:26"
+                },
+                {
+                    "ID": 17799,
+                    "PSEUDO": "Jame",
+                    "ROLE": null,
+                    "PRENOM": "Ali",
+                    "NOM": "Djami",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-08-23",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:26"
+                },
+                {
+                    "ID": 19214,
+                    "PSEUDO": "FL1T",
+                    "ROLE": null,
+                    "PRENOM": "Evgeny",
+                    "NOM": "Lebedev",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-21",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:26"
+                },
+                {
+                    "ID": 44335,
+                    "PSEUDO": "xiELO",
+                    "ROLE": null,
+                    "PRENOM": "Vladislav",
+                    "NOM": "Lysov",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-28",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:26"
+                },
+                {
+                    "ID": 51155,
+                    "PSEUDO": "zweih",
+                    "ROLE": null,
+                    "PRENOM": "Ivan ",
+                    "NOM": "Gogin",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-09-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:35:26"
+                }
+            ]
         }
     ],
     "LIGUE": {
@@ -583,8 +2212,8 @@
         "NOM": "Singapore 2026",
         "ANNEE": 2026,
         "SAISON": null,
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-        "HEURE DE LA DERNIERE MODIFICATION": "13:30:02",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:24:28",
         "ID DU VAINQUEUR": null
     }
 }

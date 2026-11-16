@@ -22,7 +22,7 @@
     "PARTIES": [
         {
             "ID": 741533,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 3489,
@@ -37,10 +37,10 @@
         },
         {
             "ID": 741534,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
-            "LONGUEUR": 3591,
+            "LONGUEUR": 2455,
             "DATE DE DEBUT DE PARTIE": "2026-11-15",
             "HEURE DE DEBUT DE PARTIE": "15:53:57",
             "DATE DE FIN DE PARTIE": "2026-11-15",
@@ -65,8 +65,8 @@
             "NOM": "LEGION",
             "LOCALISATION": "",
             "ACRONYME": null,
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:22:44"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:14"
         }
     ],
     "RESULTATS": [

@@ -3,18 +3,486 @@
         "ID": 22405,
         "NOM": "Group_B",
         "JEU VIDEO": "Dota 2",
-        "DATE DE DEBUT": "2026-11-19",
-        "HEURE DE DEBUT": "23:00:00",
-        "DATE DE FIN": "2026-11-22",
-        "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:44:12",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:35:19",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
-    "MATCHES": [],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "MATCHES": [
+        {
+            "NOM": "TS vs Nem",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:23:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-group-b",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+            }
+        },
+        {
+            "NOM": "GL vs Xtreme",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:23:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-group-b",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+            }
+        },
+        {
+            "NOM": "Winners' Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:23:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-group-b",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+            }
+        },
+        {
+            "NOM": "Elimination Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:23:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-group-b",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+            }
+        },
+        {
+            "NOM": "Decider Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:23:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-group-b",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 1669,
+            "NOM": "Team Spirit",
+            "LOCALISATION": "RU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:48:07",
+            "ACRONYME": "TS"
+        },
+        {
+            "ID": 128329,
+            "NOM": "Xtreme Gaming",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:48:09",
+            "ACRONYME": "Xtreme"
+        },
+        {
+            "ID": 136650,
+            "NOM": "Team Nemesis",
+            "LOCALISATION": "PH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:48:02",
+            "ACRONYME": "Nem"
+        },
+        {
+            "ID": 137588,
+            "NOM": "GamerLegion",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:48:01",
+            "ACRONYME": "GL"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 1669,
+                "NOM": "Team Spirit",
+                "LOCALISATION": "RU",
+                "ACRONYME": "TS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:48:07"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27480,
+                    "PSEUDO": "Larl",
+                    "ROLE": "2",
+                    "PRENOM": "Denis",
+                    "NOM": "Sigitov",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-01-22",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:05"
+                },
+                {
+                    "ID": 30258,
+                    "PSEUDO": "Yatoro",
+                    "ROLE": "1",
+                    "PRENOM": "Ilya",
+                    "NOM": "Mulyarchuk",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-12",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:03"
+                },
+                {
+                    "ID": 48058,
+                    "PSEUDO": "Batyuk",
+                    "ROLE": "3",
+                    "PRENOM": "Bohdan",
+                    "NOM": "Batiuk",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:06"
+                },
+                {
+                    "ID": 49070,
+                    "PSEUDO": "rue",
+                    "ROLE": "5",
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Filin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-19",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:07"
+                },
+                {
+                    "ID": 54351,
+                    "PSEUDO": "not me",
+                    "ROLE": "4",
+                    "PRENOM": "Alexey",
+                    "NOM": "Kosmynin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-27",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:06"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 128329,
+                "NOM": "Xtreme Gaming",
+                "LOCALISATION": "CN",
+                "ACRONYME": "Xtreme",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:48:09"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9416,
+                    "PSEUDO": "BoBoKa",
+                    "ROLE": "5",
+                    "PRENOM": "Zhibiao",
+                    "NOM": "Ye",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-01-06",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:09"
+                },
+                {
+                    "ID": 9530,
+                    "PSEUDO": "XinQ",
+                    "ROLE": "4",
+                    "PRENOM": "Zixing",
+                    "NOM": "Zhao",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-07-06",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:09"
+                },
+                {
+                    "ID": 9916,
+                    "PSEUDO": "Ame",
+                    "ROLE": "1",
+                    "PRENOM": "Chunyu",
+                    "NOM": "Wang",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-04-07",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:07"
+                },
+                {
+                    "ID": 10081,
+                    "PSEUDO": "Xm",
+                    "ROLE": "2",
+                    "PRENOM": "Hongcheng",
+                    "NOM": "Guo",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-02-11",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:08"
+                },
+                {
+                    "ID": 36301,
+                    "PSEUDO": "Zeal",
+                    "ROLE": "3",
+                    "PRENOM": "Nicholas",
+                    "NOM": "Lim",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-11-16",
+                    "NATIONALITE": "MY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:09"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136650,
+                "NOM": "Team Nemesis",
+                "LOCALISATION": "PH",
+                "ACRONYME": "Nem",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:48:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9647,
+                    "PSEUDO": "Jabz",
+                    "ROLE": "3",
+                    "PRENOM": "Anucha",
+                    "NOM": "Jirawong",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-22",
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:02"
+                },
+                {
+                    "ID": 10042,
+                    "PSEUDO": "Jhocam",
+                    "ROLE": "4",
+                    "PRENOM": "Tri ",
+                    "NOM": "Kuncoro",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-06-24",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:02"
+                },
+                {
+                    "ID": 19395,
+                    "PSEUDO": "NARMAN",
+                    "ROLE": "5",
+                    "PRENOM": "Ravdan",
+                    "NOM": "Narmandakh",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-12-08",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:02"
+                },
+                {
+                    "ID": 24985,
+                    "PSEUDO": "JaCkky",
+                    "ROLE": "1",
+                    "PRENOM": "Souliya",
+                    "NOM": "Khoomphetsavong",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-11-06",
+                    "NATIONALITE": "LA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:01"
+                },
+                {
+                    "ID": 31381,
+                    "PSEUDO": "Ken ",
+                    "ROLE": "2",
+                    "PRENOM": "Argle ",
+                    "NOM": "Llesis",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-08-09",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:02"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137588,
+                "NOM": "GamerLegion",
+                "LOCALISATION": "US",
+                "ACRONYME": "GL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:48:01"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9609,
+                    "PSEUDO": "Bignum",
+                    "ROLE": "4",
+                    "PRENOM": "Danil",
+                    "NOM": "Shekhovtsov",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-04-20",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:01"
+                },
+                {
+                    "ID": 13844,
+                    "PSEUDO": "Speeed",
+                    "ROLE": "5",
+                    "PRENOM": "Paul",
+                    "NOM": "Bocchicchio",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-03",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:01"
+                },
+                {
+                    "ID": 27993,
+                    "PSEUDO": "Fayde",
+                    "ROLE": "3",
+                    "PRENOM": "Victor",
+                    "NOM": "Zuev",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-01",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:00"
+                },
+                {
+                    "ID": 29644,
+                    "PSEUDO": "Yuma",
+                    "ROLE": "1",
+                    "PRENOM": "Yuma Benjamin Langle",
+                    "NOM": "Muckenhirn",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-18",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:47:59"
+                },
+                {
+                    "ID": 43534,
+                    "PSEUDO": "RCY",
+                    "ROLE": "2",
+                    "PRENOM": "Francis",
+                    "NOM": "Fundemera",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-06-04",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:48:00"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "BLAST Slam",
         "DATE DE LA DERNIERE MODIFICATION": "2024-11-14",
@@ -24,8 +492,8 @@
         "NOM": "Season 9 2026",
         "ANNEE": 2026,
         "SAISON": "9",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:44:12",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:35:19",
         "ID DU VAINQUEUR": null
     }
 }

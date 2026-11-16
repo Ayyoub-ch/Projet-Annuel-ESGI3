@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1815179,
+        "NOM": "Upper_Bracket_Quarterfinals_match_4__Nemiga_vs_CH",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "16:03:29",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-11-01",
+        "HEURE DE MODIFICATION": "20:32:00",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741878,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3214,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "16:03:31",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "16:57:05",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139339,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741879,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "running",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "17:05:18",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741880,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "not_started",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "Date de début de partie non définie",
+            "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 2227,
+            "NOM": "Nemiga Gaming",
+            "LOCALISATION": "BY",
+            "ACRONYME": "Nemiga",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:20:38"
+        },
+        {
+            "ID": 139339,
+            "NOM": "CyberHero",
+            "LOCALISATION": "RU",
+            "ACRONYME": "CH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:20:38"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 2227
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139339
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22468,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "c",
+        "CASH PRIZE": "20,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "13:42:06",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5550,
+        "NOM": "Asgard Championship",
+        "DATE DE MODIFICATION": "2026-08-07",
+        "HEURE DE MODIFICATION": "08:37:45"
+    },
+    "SERIE": {
+        "ID": 11165,
+        "NOM": "Season 2 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-01",
+        "HEURE DE MODIFICATION": "20:32:00"
+    }
+}

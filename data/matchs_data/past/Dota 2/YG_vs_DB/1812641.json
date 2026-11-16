@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1812641,
+        "NOM": "YG_vs_DB",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "07:06:52",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "10:06:39",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "14:09:08",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741795,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1854,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "07:06:52",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "07:50:35",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138753,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741796,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2798,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "08:15:28",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "09:07:58",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128080,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741797,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2101,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "09:27:32",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "10:06:39",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138753,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 128080,
+            "NOM": "Yangon Galacticos",
+            "LOCALISATION": "MM",
+            "ACRONYME": "YG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:18:17"
+        },
+        {
+            "ID": 138753,
+            "NOM": "Direborn",
+            "LOCALISATION": "ID",
+            "ACRONYME": "DB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:30:57"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 128080
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138753
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22464,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "04:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "11:30:55",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4884,
+        "NOM": "EPL World Series",
+        "DATE DE MODIFICATION": "2023-12-23",
+        "HEURE DE MODIFICATION": "22:15:29"
+    },
+    "SERIE": {
+        "ID": 11211,
+        "NOM": "Southeast Asia season 20 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "04:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "13:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "14:09:08"
+    }
+}

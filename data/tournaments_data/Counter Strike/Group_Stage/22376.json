@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-18",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-        "HEURE DE LA DERNIERE MODIFICATION": "20:24:42",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:36:14",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -441,7 +441,7 @@
         {
             "NOM": "Round 4: MOUZ.N vs Azuolas",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -451,8 +451,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:46:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:36:49",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-series-14-2026-group-stage",
             "TIER": "c",
@@ -466,7 +466,7 @@
         {
             "NOM": "Round 4: BAKS vs MSC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -476,8 +476,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:07:48",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:59:02",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-series-14-2026-group-stage",
             "TIER": "c",
@@ -501,8 +501,8 @@
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:08:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:23:29",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-series-14-2026-group-stage",
             "TIER": "c",
@@ -940,16 +940,16 @@
             "ID": 138975,
             "NOM": "Butterfly",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:16:17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:01:42",
             "ACRONYME": "BTF"
         },
         {
             "ID": 139174,
             "NOM": "Azuolas",
             "LOCALISATION": "LT",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:34:37",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:36:14",
             "ACRONYME": null
         },
         {
@@ -1973,8 +1973,8 @@
                 "NOM": "Butterfly",
                 "LOCALISATION": "RU",
                 "ACRONYME": "BTF",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                "HEURE DE LA DERNIERE MODIFICATION": "22:16:17"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:01:42"
             },
             "JOUEURS": [
                 {
@@ -2063,8 +2063,8 @@
                 "NOM": "Azuolas",
                 "LOCALISATION": "LT",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                "HEURE DE LA DERNIERE MODIFICATION": "12:34:37"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:36:14"
             },
             "JOUEURS": [
                 {
@@ -2157,6 +2157,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:35:26"
+                },
+                {
+                    "ID": 67930,
+                    "PSEUDO": "ledzh1t",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:14"
                 }
             ]
         },

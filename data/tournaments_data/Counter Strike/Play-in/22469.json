@@ -8,65 +8,40 @@
         "DATE DE FIN": "2026-11-16",
         "HEURE DE FIN": "21:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-        "HEURE DE LA DERNIERE MODIFICATION": "00:02:04",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:37:13",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
         {
-            "NOM": "TLPR vs REV",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-16",
-            "HEURE PRÉVUE": "09:00:00",
-            "DATE DE DEBUT": "2026-11-16",
-            "HEURE DE DEBUT": "2026-11-16",
-            "DATE DE FIN": "2026-11-16",
-            "HEURE DE FIN": "2026-11-16",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "00:03:09",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-play-in",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
             "NOM": "KAMUI vs Ducks",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-16",
-            "HEURE PRÉVUE": "12:00:00",
+            "HEURE PRÉVUE": "12:10:00",
             "DATE DE DEBUT": "2026-11-16",
             "HEURE DE DEBUT": "2026-11-16",
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "00:04:01",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:09:56",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-play-in",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
+            "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
             }
         },
         {
             "NOM": "ASTRON vs Ryvex",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -77,15 +52,15 @@
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "00:04:30",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:44:15",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-play-in",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
+            "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
             }
         },
         {
@@ -102,15 +77,40 @@
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "00:04:50",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:59:50",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-play-in",
             "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
+            "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
+        },
+        {
+            "NOM": "TLPR vs REV",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-16",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:59:50",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-closed-qualifier-series-4-2026-play-in",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
             }
         }
     ],

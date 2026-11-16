@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1793342,
+        "NOM": "Lower_Bracket_Round_1_Match_2__Froglings_vs_KONCA",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "10:01:56",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "13:37:43",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "08:36:38",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741548,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2821,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "10:01:59",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "11:08:06",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139517,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741549,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2219,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "11:17:22",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "12:12:34",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139547,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741550,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3523,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "12:21:14",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "13:37:43",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139517,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139517,
+            "NOM": "Froglings",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:05:57"
+        },
+        {
+            "ID": 139547,
+            "NOM": "DO KONCA",
+            "LOCALISATION": "",
+            "ACRONYME": "KONCA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:13"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139517
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139547
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22402,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "a",
+        "CASH PRIZE": "200,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "12:30:27",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5528,
+        "NOM": "1win Essence",
+        "DATE DE MODIFICATION": "2026-04-29",
+        "HEURE DE MODIFICATION": "11:30:42"
+    },
+    "SERIE": {
+        "ID": 11185,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "08:36:38"
+    }
+}
