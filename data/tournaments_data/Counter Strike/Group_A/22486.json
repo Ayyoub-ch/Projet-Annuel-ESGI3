@@ -1,0 +1,499 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22486,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-30",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-30",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:51:30",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "FNC vs BRUTE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-30",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-30",
+            "HEURE DE DEBUT": "2026-11-30",
+            "DATE DE FIN": "2026-11-30",
+            "HEURE DE FIN": "2026-11-30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:51:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-journey-winter-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "APG vs ALL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-30",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-30",
+            "HEURE DE DEBUT": "2026-11-30",
+            "DATE DE FIN": "2026-11-30",
+            "HEURE DE FIN": "2026-11-30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:51:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-journey-winter-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Winners' Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-30",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-30",
+            "HEURE DE DEBUT": "2026-11-30",
+            "DATE DE FIN": "2026-11-30",
+            "HEURE DE FIN": "2026-11-30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:51:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-journey-winter-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Elimination Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-30",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-30",
+            "HEURE DE DEBUT": "2026-11-30",
+            "DATE DE FIN": "2026-11-30",
+            "HEURE DE FIN": "2026-11-30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:51:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-journey-winter-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Decider Match: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-30",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-11-30",
+            "HEURE DE DEBUT": "2026-11-30",
+            "DATE DE FIN": "2026-11-30",
+            "HEURE DE FIN": "2026-11-30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:51:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-journey-winter-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 3217,
+            "NOM": "fnatic",
+            "LOCALISATION": "GB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:38:02",
+            "ACRONYME": "FNC"
+        },
+        {
+            "ID": 126624,
+            "NOM": "Brute",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:38:05",
+            "ACRONYME": "BRUTE"
+        },
+        {
+            "ID": 133725,
+            "NOM": "Alliance",
+            "LOCALISATION": "SE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:38:09",
+            "ACRONYME": "ALL"
+        },
+        {
+            "ID": 135381,
+            "NOM": "Apogee Esports",
+            "LOCALISATION": "PL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:38:07",
+            "ACRONYME": "APG"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 3217,
+                "NOM": "fnatic",
+                "LOCALISATION": "GB",
+                "ACRONYME": "FNC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:38:02"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25545,
+                    "PSEUDO": "fear",
+                    "ROLE": null,
+                    "PRENOM": "Rodion",
+                    "NOM": "Smyk",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-11-20",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:02"
+                },
+                {
+                    "ID": 44662,
+                    "PSEUDO": "Jambo",
+                    "ROLE": null,
+                    "PRENOM": "Dmytro",
+                    "NOM": "Semera",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-14",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:37:58"
+                },
+                {
+                    "ID": 50003,
+                    "PSEUDO": "jackasmo",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Skyba",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-05-28",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:02"
+                },
+                {
+                    "ID": 51210,
+                    "PSEUDO": "cairne",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Mushynskyi",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:02"
+                },
+                {
+                    "ID": 60153,
+                    "PSEUDO": "mazay",
+                    "ROLE": null,
+                    "PRENOM": "Volodymyr ",
+                    "NOM": "Volodymyr ",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:01"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 126624,
+                "NOM": "Brute",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "BRUTE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:38:05"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25107,
+                    "PSEUDO": "ZEDKO",
+                    "ROLE": null,
+                    "PRENOM": "Jindřich",
+                    "NOM": "Chyba",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-05-03",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:05"
+                },
+                {
+                    "ID": 27683,
+                    "PSEUDO": "aidKiT",
+                    "ROLE": null,
+                    "PRENOM": "Jane ",
+                    "NOM": "Apostolski",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-13",
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:03"
+                },
+                {
+                    "ID": 28889,
+                    "PSEUDO": "nbqq",
+                    "ROLE": null,
+                    "PRENOM": " Vít",
+                    "NOM": "Pohlot",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-04-11",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:05"
+                },
+                {
+                    "ID": 31330,
+                    "PSEUDO": "tAk",
+                    "ROLE": null,
+                    "PRENOM": "Vilius",
+                    "NOM": "Keserauskas",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-21",
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:04"
+                },
+                {
+                    "ID": 61528,
+                    "PSEUDO": "oontoma",
+                    "ROLE": null,
+                    "PRENOM": "Tuomas",
+                    "NOM": "Karsikas",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:05"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133725,
+                "NOM": "Alliance",
+                "LOCALISATION": "SE",
+                "ACRONYME": "ALL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:38:09"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17546,
+                    "PSEUDO": "twist",
+                    "ROLE": null,
+                    "PRENOM": "Simon",
+                    "NOM": "Eliasson",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1994-12-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:09"
+                },
+                {
+                    "ID": 24217,
+                    "PSEUDO": "eraa",
+                    "ROLE": null,
+                    "PRENOM": "Sean",
+                    "NOM": "Knutsson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:08"
+                },
+                {
+                    "ID": 32351,
+                    "PSEUDO": "bobeksde",
+                    "ROLE": null,
+                    "PRENOM": "Jonatan",
+                    "NOM": "Persson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-21",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:08"
+                },
+                {
+                    "ID": 45899,
+                    "PSEUDO": "upE",
+                    "ROLE": null,
+                    "PRENOM": "Markus",
+                    "NOM": "Johansson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:09"
+                },
+                {
+                    "ID": 46304,
+                    "PSEUDO": "avid",
+                    "ROLE": null,
+                    "PRENOM": "Arvid",
+                    "NOM": "Åberg",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-02",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:07"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 135381,
+                "NOM": "Apogee Esports",
+                "LOCALISATION": "PL",
+                "ACRONYME": "APG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:38:07"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18334,
+                    "PSEUDO": "Demho",
+                    "ROLE": null,
+                    "PRENOM": "Patryk",
+                    "NOM": "Tomaszewski",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-07",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:06"
+                },
+                {
+                    "ID": 28381,
+                    "PSEUDO": "Prism",
+                    "ROLE": null,
+                    "PRENOM": "Wojciech",
+                    "NOM": "Zięba",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-28",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:07"
+                },
+                {
+                    "ID": 39740,
+                    "PSEUDO": "Ex1st",
+                    "ROLE": null,
+                    "PRENOM": "Mateusz",
+                    "NOM": "Witman",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-25",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:06"
+                },
+                {
+                    "ID": 39753,
+                    "PSEUDO": "ultimate",
+                    "ROLE": null,
+                    "PRENOM": "Roland",
+                    "NOM": "Tomkowiak",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-29",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:07"
+                },
+                {
+                    "ID": 43790,
+                    "PSEUDO": "Qlocuu",
+                    "ROLE": null,
+                    "PRENOM": "Konrad",
+                    "NOM": "Klocek",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-10",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:07"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "ROG Journey",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-06-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:21:37"
+    },
+    "SERIE": {
+        "NOM": "Winter 2026",
+        "ANNEE": 2026,
+        "SAISON": "Winter",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:51:30",
+        "ID DU VAINQUEUR": null
+    }
+}

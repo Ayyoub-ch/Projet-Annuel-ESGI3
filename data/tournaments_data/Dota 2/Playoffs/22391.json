@@ -291,7 +291,7 @@
         {
             "NOM": "Lower Bracket Round 2 match 2: PckCp vs Nemiga",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -301,22 +301,22 @@
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:06:13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:44:09",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": false,
+                "MAIN": true,
                 "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/esl_dota2ember"
+                "LIEN BRUTE": "https://www.twitch.tv/esl_dota2"
             }
         },
         {
             "NOM": "Lower Bracket Quarterfinal 1: Froglings vs PlayTime",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -326,20 +326,20 @@
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:06:39",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:05:29",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/esl_dota2ember"
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/pro_cast2"
             }
         },
         {
-            "NOM": "Lower Bracket Quarterfinal 2: HULIGANI vs TBD",
+            "NOM": "Lower Bracket Quarterfinal 2: HULIGANI vs Nemiga",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -351,8 +351,8 @@
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:43:35",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:24:35",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -533,8 +533,8 @@
             "ID": 139124,
             "NOM": "Team Synapse",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:51:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:35:40",
             "ACRONYME": "TS"
         },
         {
@@ -1289,8 +1289,8 @@
                 "NOM": "Team Synapse",
                 "LOCALISATION": "",
                 "ACRONYME": "TS",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:51:44"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:35:40"
             },
             "JOUEURS": [
                 {

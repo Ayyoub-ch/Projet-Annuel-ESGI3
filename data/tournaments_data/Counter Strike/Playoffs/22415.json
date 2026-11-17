@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-11-15",
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-17",
-        "HEURE DE FIN": "18:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:58:09",
+        "HEURE DE FIN": "17:12:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:21:31",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -266,7 +266,7 @@
         {
             "NOM": "Upper Bracket Final: FNC vs 100T",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -277,7 +277,7 @@
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:49:29",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:42:15",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
@@ -291,18 +291,18 @@
         {
             "NOM": "Lower Bracket Semifinal: MGC vs HERO",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-17",
-            "HEURE PRÉVUE": "12:00:00",
+            "HEURE PRÉVUE": "12:20:00",
             "DATE DE DEBUT": "2026-11-17",
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:49:12",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:21:44",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
@@ -314,28 +314,28 @@
             }
         },
         {
-            "NOM": "Lower Bracket Final: TBD vs TBD",
+            "NOM": "Lower Bracket Final: FNC vs MGC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-17",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "15:30:00",
             "DATE DE DEBUT": "2026-11-17",
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:06:24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:19:11",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-pgl-cluj-napoca-closed-qualifier-2027-playoffs",
             "TIER": "b",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/PGL"
+                "LANGUE": "uk",
+                "LIEN BRUTE": "https://kick.com/leniniw"
             }
         }
     ],
@@ -352,8 +352,8 @@
             "ID": 3217,
             "NOM": "fnatic",
             "LOCALISATION": "GB",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:25:15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:38:02",
             "ACRONYME": "FNC"
         },
         {
@@ -400,8 +400,8 @@
             "ID": 139575,
             "NOM": "33",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:25:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:21:04",
             "ACRONYME": "33"
         }
     ],
@@ -452,8 +452,8 @@
                     "DATE DE NAISSANCE": "1989-06-26",
                     "NATIONALITE": "DE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:03"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:14:42"
                 },
                 {
                     "ID": 32623,
@@ -502,8 +502,8 @@
                 "NOM": "fnatic",
                 "LOCALISATION": "GB",
                 "ACRONYME": "FNC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:25:15"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "12:38:02"
             },
             "JOUEURS": [
                 {
@@ -516,8 +516,8 @@
                     "DATE DE NAISSANCE": "2000-11-20",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "13:25:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:02"
                 },
                 {
                     "ID": 44662,
@@ -529,8 +529,8 @@
                     "DATE DE NAISSANCE": "2004-10-14",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "13:25:14"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:37:58"
                 },
                 {
                     "ID": 50003,
@@ -542,8 +542,8 @@
                     "DATE DE NAISSANCE": "2007-05-28",
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "13:25:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:02"
                 },
                 {
                     "ID": 51210,
@@ -555,8 +555,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "13:25:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:02"
                 },
                 {
                     "ID": 60153,
@@ -568,8 +568,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "13:25:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:38:01"
                 }
             ]
         },
@@ -964,8 +964,8 @@
                 "NOM": "33",
                 "LOCALISATION": "RU",
                 "ACRONYME": "33",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:25:32"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:21:04"
             },
             "JOUEURS": [
                 {
@@ -978,8 +978,8 @@
                     "DATE DE NAISSANCE": "2001-01-07",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "13:23:10"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:21:04"
                 },
                 {
                     "ID": 29408,
@@ -1004,8 +1004,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:51:43"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:21:04"
                 },
                 {
                     "ID": 44658,
@@ -1017,8 +1017,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "13:23:10"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:21:04"
                 },
                 {
                     "ID": 46686,
@@ -1030,8 +1030,8 @@
                     "DATE DE NAISSANCE": "2004-08-15",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "13:23:10"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:21:04"
                 }
             ]
         }

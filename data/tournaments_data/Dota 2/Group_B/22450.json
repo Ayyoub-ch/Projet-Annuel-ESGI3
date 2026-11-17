@@ -5,10 +5,10 @@
         "JEU VIDEO": "Dota 2",
         "DATE DE DEBUT": "2026-11-12",
         "HEURE DE DEBUT": "10:00:00",
-        "DATE DE FIN": "2026-11-21",
-        "HEURE DE FIN": "13:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-        "HEURE DE LA DERNIERE MODIFICATION": "18:53:49",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:01:26",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -164,31 +164,6 @@
             }
         },
         {
-            "NOM": "PR vs TS",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-17",
-            "HEURE PRÉVUE": "10:00:00",
-            "DATE DE DEBUT": "2026-11-17",
-            "HEURE DE DEBUT": "2026-11-17",
-            "DATE DE FIN": "2026-11-17",
-            "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:05:35",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dota-2-european-pro-league-41-2026-group-b",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
-            }
-        },
-        {
             "NOM": "IAC vs P-",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
@@ -228,31 +203,6 @@
             "HEURE DE FIN": "2026-11-18",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
             "HEURE DE LA DERNIERE MODIFICATION": "23:41:53",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dota-2-european-pro-league-41-2026-group-b",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
-            }
-        },
-        {
-            "NOM": "PckCp vs PR",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-18",
-            "HEURE PRÉVUE": "16:00:00",
-            "DATE DE DEBUT": "2026-11-18",
-            "HEURE DE DEBUT": "2026-11-18",
-            "DATE DE FIN": "2026-11-18",
-            "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:20:24",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-b",
             "TIER": "d",
@@ -387,6 +337,56 @@
                 "LANGUE": "ru",
                 "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
             }
+        },
+        {
+            "NOM": "PR vs TS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:11:29",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
+        },
+        {
+            "NOM": "PckCp vs PR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-22",
+            "HEURE PRÉVUE": "13:00:00",
+            "DATE DE DEBUT": "2026-11-22",
+            "HEURE DE DEBUT": "2026-11-22",
+            "DATE DE FIN": "2026-11-22",
+            "HEURE DE FIN": "2026-11-22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:01:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-european-pro-league-41-2026-group-b",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/ya4iller"
+            }
         }
     ],
     "EQUIPES": [
@@ -426,8 +426,8 @@
             "ID": 139124,
             "NOM": "Team Synapse",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:51:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:35:40",
             "ACRONYME": "TS"
         },
         {
@@ -767,8 +767,8 @@
                 "NOM": "Team Synapse",
                 "LOCALISATION": "",
                 "ACRONYME": "TS",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:51:44"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:35:40"
             },
             "JOUEURS": [
                 {
