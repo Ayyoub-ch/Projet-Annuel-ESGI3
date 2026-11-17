@@ -289,6 +289,31 @@
             }
         },
         {
+            "NOM": "BERG vs GG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-17",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-17",
+            "HEURE DE DEBUT": "2026-11-17",
+            "DATE DE FIN": "2026-11-17",
+            "HEURE DE FIN": "2026-11-17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
             "NOM": "Team International vs CGN",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
@@ -311,56 +336,6 @@
                 "MAIN": null,
                 "LANGUE": null,
                 "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "HK vs Frankfurt Bahnhofsviertel",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-22",
-            "HEURE PRÉVUE": "17:00:00",
-            "DATE DE DEBUT": "2026-11-22",
-            "HEURE DE DEBUT": "2026-11-22",
-            "DATE DE FIN": "2026-11-22",
-            "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:49:30",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "de",
-                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
-            }
-        },
-        {
-            "NOM": "BERG vs GG",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-22",
-            "HEURE PRÉVUE": "17:00:00",
-            "DATE DE DEBUT": "2026-11-22",
-            "HEURE DE DEBUT": "2026-11-22",
-            "DATE DE FIN": "2026-11-22",
-            "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:49:30",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "de",
-                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
             }
         },
         {
@@ -703,6 +678,31 @@
             "HEURE DE FIN": "Date de debut de match inconnue",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
             "HEURE DE LA DERNIERE MODIFICATION": "19:39:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "de",
+                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
+            }
+        },
+        {
+            "NOM": "HK vs Frankfurt Bahnhofsviertel",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-22",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:39",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-spike-series-convergence-emea-dach-2026-group-a",
             "TIER": "d",

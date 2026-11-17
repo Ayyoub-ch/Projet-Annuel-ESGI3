@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "04:00:00",
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "13:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-        "HEURE DE LA DERNIERE MODIFICATION": "11:30:55",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:34:06",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -191,7 +191,7 @@
         {
             "NOM": "NEM.A vs Ryvex Esports",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -201,8 +201,8 @@
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:05:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:02:17",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-group-stage",
             "TIER": "d",
@@ -216,18 +216,18 @@
         {
             "NOM": "DB vs Ryvex Esports",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-17",
-            "HEURE PRÉVUE": "07:00:00",
+            "HEURE PRÉVUE": "07:15:00",
             "DATE DE DEBUT": "2026-11-17",
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:05:08",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:37:58",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-group-stage",
             "TIER": "d",
@@ -743,8 +743,8 @@
             "ID": 138753,
             "NOM": "Direborn",
             "LOCALISATION": "ID",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:30:57",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:34:05",
             "ACRONYME": "DB"
         },
         {
@@ -1031,8 +1031,8 @@
                 "NOM": "Direborn",
                 "LOCALISATION": "ID",
                 "ACRONYME": "DB",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:30:57"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:34:05"
             },
             "JOUEURS": [
                 {
@@ -1086,6 +1086,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
                     "HEURE DE LA DERNIERE MODIFICATION": "14:30:56"
+                },
+                {
+                    "ID": 42366,
+                    "PSEUDO": "deko",
+                    "ROLE": "5",
+                    "PRENOM": "Fariz",
+                    "NOM": "Ikhsan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:34:05"
                 },
                 {
                     "ID": 43369,
