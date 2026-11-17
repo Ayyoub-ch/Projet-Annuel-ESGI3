@@ -1,0 +1,163 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1811247,
+        "NOM": "Grand_Final__XE_vs_angry_birds",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "15:09:41",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "21:35:18",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:27:12",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741756,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3147,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "15:09:42",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "16:16:52",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139239,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741757,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2545,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "16:48:36",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "17:42:39",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139239,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741758,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2223,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "17:57:09",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "18:49:01",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139462,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741913,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 3495,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "19:02:28",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "20:13:18",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139462,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741914,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 3035,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "20:27:16",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "21:35:19",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139462,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139239,
+            "NOM": "Xipto Esports",
+            "LOCALISATION": "",
+            "ACRONYME": "XE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:20:33"
+        },
+        {
+            "ID": 139462,
+            "NOM": "angry birds",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:55:26"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139239
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 139462
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22435,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": null,
+        "TIER": "d",
+        "CASH PRIZE": "20000 United States Dollar",
+        "VAINQUEUR": 139462,
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "21:35:19",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5576,
+        "NOM": "Esports Pro Circuit ",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:23:08"
+    },
+    "SERIE": {
+        "ID": 11149,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-25",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:27:12"
+    }
+}

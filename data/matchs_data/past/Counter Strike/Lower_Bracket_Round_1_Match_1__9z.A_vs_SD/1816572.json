@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1816572,
+        "NOM": "Lower_Bracket_Round_1_Match_1__9z.A_vs_SD",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "21:04:08",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:56:09",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "07:18:52",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239680,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2544,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "21:04:08",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "21:46:33",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128373,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239681,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2768,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "21:56:32",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "22:42:41",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135305,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239682,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3786,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "22:53:03",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "23:56:10",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128373,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 128373,
+            "NOM": "9z Academy",
+            "LOCALISATION": "AR",
+            "ACRONYME": "9z.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:55:48"
+        },
+        {
+            "ID": 135305,
+            "NOM": "street dogs",
+            "LOCALISATION": "BR",
+            "ACRONYME": "SD",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:22"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 128373
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 135305
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22463,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": "2,500 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "02:45:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "09:19:14",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4842,
+        "NOM": "CCT South America",
+        "DATE DE MODIFICATION": "2022-08-09",
+        "HEURE DE MODIFICATION": "10:12:50"
+    },
+    "SERIE": {
+        "ID": 11210,
+        "NOM": "Challengers #4 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "02:45:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "07:18:52"
+    }
+}

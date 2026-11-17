@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1793341,
+        "NOM": "Lower_Bracket_Round_1_Match_1__GL_vs_LGD",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "14:03:11",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "17:43:56",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "08:36:38",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741545,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2657,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "14:03:14",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "15:07:38",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 1657,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741546,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2385,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "15:18:33",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "16:14:15",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137588,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741547,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3210,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "16:29:51",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "17:43:56",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 1657,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137588,
+            "NOM": "GamerLegion",
+            "LOCALISATION": "US",
+            "ACRONYME": "GL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:48:01"
+        },
+        {
+            "ID": 1657,
+            "NOM": "LGD Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "LGD",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:07:34"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137588
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 1657
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22402,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "a",
+        "CASH PRIZE": "200,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "12:30:27",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5528,
+        "NOM": "1win Essence",
+        "DATE DE MODIFICATION": "2026-04-29",
+        "HEURE DE MODIFICATION": "11:30:42"
+    },
+    "SERIE": {
+        "ID": 11185,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "08:36:38"
+    }
+}

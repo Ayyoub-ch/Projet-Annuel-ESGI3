@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1793339,
+        "NOM": "Upper_Bracket_Semifinal_2__LEGION_vs_AUR",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "20:13:53",
+        "DATE DE FIN": "2026-11-16",
+        "HEURE DE FIN": "23:29:23",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "08:36:38",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741539,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2210,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "20:13:55",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "21:02:35",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139340,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741540,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2782,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "21:15:08",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "22:16:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133882,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741541,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3776,
+            "DATE DE DEBUT DE PARTIE": "2026-11-16",
+            "HEURE DE DEBUT DE PARTIE": "22:26:27",
+            "DATE DE FIN DE PARTIE": "2026-11-16",
+            "HEURE DE FIN DE PARTIE": "23:29:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133882,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139340,
+            "NOM": "LEGION",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:00:14"
+        },
+        {
+            "ID": 133882,
+            "NOM": "Aurora",
+            "LOCALISATION": "RS",
+            "ACRONYME": "AUR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:07:31"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139340
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 133882
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22402,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "a",
+        "CASH PRIZE": "200,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-15",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "12:30:27",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5528,
+        "NOM": "1win Essence",
+        "DATE DE MODIFICATION": "2026-04-29",
+        "HEURE DE MODIFICATION": "11:30:42"
+    },
+    "SERIE": {
+        "ID": 11185,
+        "NOM": "Season 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-05",
+        "HEURE DE MODIFICATION": "08:36:38"
+    }
+}

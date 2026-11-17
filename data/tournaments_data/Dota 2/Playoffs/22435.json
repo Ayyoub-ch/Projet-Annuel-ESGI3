@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-16",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-        "HEURE DE LA DERNIERE MODIFICATION": "02:16:41",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:35:19",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -341,7 +341,7 @@
         {
             "NOM": "Grand Final: XE vs angry birds",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
@@ -352,15 +352,15 @@
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:48:36",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:48:51",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "dota-2-esports-pro-circuit-3-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+                "LANGUE": "th",
+                "LIEN BRUTE": "https://www.twitch.tv/cyberclasher"
             }
         },
         {
@@ -475,8 +475,8 @@
             "ID": 139462,
             "NOM": "angry birds",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:20:29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:55:26",
             "ACRONYME": null
         }
     ],
@@ -694,8 +694,8 @@
                     "DATE DE NAISSANCE": "2003-04-11",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "09:08:08"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:55:26"
                 },
                 {
                     "ID": 46579,
@@ -1130,8 +1130,8 @@
                 "NOM": "angry birds",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-                "HEURE DE LA DERNIERE MODIFICATION": "23:20:29"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:55:26"
             },
             "JOUEURS": [
                 {
@@ -1146,6 +1146,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
                     "HEURE DE LA DERNIERE MODIFICATION": "23:20:29"
+                },
+                {
+                    "ID": 46358,
+                    "PSEUDO": "ani-san",
+                    "ROLE": "4",
+                    "PRENOM": "Sanzhar",
+                    "NOM": "Mukanbetkali",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-11",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:55:26"
                 },
                 {
                     "ID": 53503,

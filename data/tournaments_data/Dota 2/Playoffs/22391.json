@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-20",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-        "HEURE DE LA DERNIERE MODIFICATION": "02:14:19",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:38:57",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -241,7 +241,7 @@
         {
             "NOM": "Upper Bracket Semifinal 2: Froglings vs ICxI",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -252,7 +252,7 @@
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:17:29",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:39:15",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -266,7 +266,7 @@
         {
             "NOM": "Lower Bracket Round 2 match 1: Z10 vs PlayTime",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -277,15 +277,15 @@
             "DATE DE FIN": "2026-11-16",
             "HEURE DE FIN": "2026-11-16",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:51:54",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:28:55",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.youtube.com/watch?v=E60k_Zzs4NE"
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://kick.com/richicaster"
             }
         },
         {
@@ -301,8 +301,8 @@
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:35:29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:06:13",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -314,7 +314,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Quarterfinal 1: TBD vs TBD",
+            "NOM": "Lower Bracket Quarterfinal 1: Froglings vs PlayTime",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -326,8 +326,8 @@
             "HEURE DE DEBUT": "2026-11-17",
             "DATE DE FIN": "2026-11-17",
             "HEURE DE FIN": "2026-11-17",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:08:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:06:39",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -364,7 +364,7 @@
             }
         },
         {
-            "NOM": "Upper Bracket Final: CH vs TBD",
+            "NOM": "Upper Bracket Final: CH vs ICxI",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -376,8 +376,8 @@
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:43:35",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:20:56",
             "PRIZEPOOL": "50000 United States Dollar",
             "SLUG": "dreamleague-division-2-5-2026-playoffs",
             "TIER": "c",
@@ -501,8 +501,8 @@
             "ID": 137417,
             "NOM": "Inner Circle x Insanity",
             "LOCALISATION": "GB",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:19:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:38:56",
             "ACRONYME": "ICxI"
         },
         {
@@ -942,8 +942,8 @@
                 "NOM": "Inner Circle x Insanity",
                 "LOCALISATION": "GB",
                 "ACRONYME": "ICxI",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                "HEURE DE LA DERNIERE MODIFICATION": "15:19:06"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:38:56"
             },
             "JOUEURS": [
                 {
@@ -971,6 +971,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "08:46:19"
+                },
+                {
+                    "ID": 53044,
+                    "PSEUDO": "flacko",
+                    "ROLE": "5",
+                    "PRENOM": "Denys",
+                    "NOM": "Pavlenko",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:38:56"
                 },
                 {
                     "ID": 53045,
