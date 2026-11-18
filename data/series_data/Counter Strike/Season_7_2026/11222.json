@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11222,
+        "NOM": "Season_7_2026",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:05:58",
+        "ANNEE": 2026,
+        "SAISON": "7"
+    },
+    "LIGUE": {
+        "ID": 5588,
+        "NOM": "CROSSFIRE",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:53:20"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "NA",
+            "DATE DE DEBUT": "2026-11-19",
+            "HEURE DE DEBUT": "23:00:00",
+            "DATE DE FIN": "2026-12-14",
+            "HEURE DE FIN": "04:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:58",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

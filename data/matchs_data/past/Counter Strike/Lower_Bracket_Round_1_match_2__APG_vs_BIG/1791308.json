@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1791308,
+        "NOM": "Lower_Bracket_Round_1_match_2__APG_vs_BIG",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-18",
+        "HEURE DE DEBUT": "11:00:42",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "13:41:41",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "12:10:36",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238727,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2699,
+            "DATE DE DEBUT DE PARTIE": "2026-11-18",
+            "HEURE DE DEBUT DE PARTIE": "11:00:45",
+            "DATE DE FIN DE PARTIE": "2026-11-18",
+            "HEURE DE FIN DE PARTIE": "11:45:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3249,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238728,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 5864,
+            "DATE DE DEBUT DE PARTIE": "2026-11-18",
+            "HEURE DE DEBUT DE PARTIE": "12:03:57",
+            "DATE DE FIN DE PARTIE": "2026-11-18",
+            "HEURE DE FIN DE PARTIE": "13:41:41",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3249,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135381,
+            "NOM": "Apogee Esports",
+            "LOCALISATION": "PL",
+            "ACRONYME": "APG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:38:07"
+        },
+        {
+            "ID": 3249,
+            "NOM": "BIG",
+            "LOCALISATION": "DE",
+            "ACRONYME": "BIG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:47:18"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 135381
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 3249
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22388,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "ES",
+        "REGION": "WEU",
+        "TIER": "b",
+        "CASH PRIZE": "100000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-10",
+        "HEURE DE MODIFICATION": "18:19:52",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5505,
+        "NOM": "Stake Ranked",
+        "DATE DE MODIFICATION": "2026-03-03",
+        "HEURE DE MODIFICATION": "08:11:47"
+    },
+    "SERIE": {
+        "ID": 11181,
+        "NOM": "Episode 6 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "12:10:36"
+    }
+}

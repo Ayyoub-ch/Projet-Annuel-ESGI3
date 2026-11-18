@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-22",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-        "HEURE DE LA DERNIERE MODIFICATION": "13:39:33",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:24:29",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -216,18 +216,18 @@
         {
             "NOM": "Quarterfinal 1: BAL vs PCIFIC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-18",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "09:10:00",
             "DATE DE DEBUT": "2026-11-18",
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:29:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:24:14",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -241,26 +241,26 @@
         {
             "NOM": "Quarterfinal 2: FORZE.R vs G2.A",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-18",
-            "HEURE PRÉVUE": "11:30:00",
+            "HEURE PRÉVUE": "12:20:00",
             "DATE DE DEBUT": "2026-11-18",
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:27:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:28:57",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/eplcs_en"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/asimasimov"
             }
         },
         {
@@ -314,7 +314,7 @@
             }
         },
         {
-            "NOM": "Semifinal 1: TBD vs TBD",
+            "NOM": "Semifinal 1: BAL vs FORZE.R",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -326,8 +326,8 @@
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:00:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:22:02",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
@@ -451,8 +451,8 @@
             "ID": 135126,
             "NOM": "FORZE Reload",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:03:09",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:19:59",
             "ACRONYME": "FORZE.R"
         },
         {
@@ -491,8 +491,8 @@
             "ID": 138660,
             "NOM": "WRAITH PCIFIC",
             "LOCALISATION": "TR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:34:53",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:24:29",
             "ACRONYME": "PCIFIC"
         },
         {
@@ -531,16 +531,16 @@
             "ID": 139471,
             "NOM": "ex-INOX Division",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:39:33",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:16:28",
             "ACRONYME": "ex-INOX"
         },
         {
             "ID": 139529,
             "NOM": "Balkan Outlaws",
             "LOCALISATION": "RO",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:35:37",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:28:08",
             "ACRONYME": "BAL"
         }
     ],
@@ -872,8 +872,8 @@
                 "NOM": "FORZE Reload",
                 "LOCALISATION": "RU",
                 "ACRONYME": "FORZE.R",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:03:09"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:19:59"
             },
             "JOUEURS": [
                 {
@@ -886,8 +886,8 @@
                     "DATE DE NAISSANCE": "1999-08-20",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:09"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:59"
                 },
                 {
                     "ID": 31887,
@@ -899,8 +899,8 @@
                     "DATE DE NAISSANCE": "2004-08-19",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:09"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:58"
                 },
                 {
                     "ID": 41567,
@@ -925,8 +925,8 @@
                     "DATE DE NAISSANCE": "2004-06-16",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:06"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:58"
                 },
                 {
                     "ID": 48844,
@@ -938,8 +938,8 @@
                     "DATE DE NAISSANCE": "2006-02-18",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:09"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:59"
                 },
                 {
                     "ID": 51586,
@@ -951,8 +951,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:09"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:19:54"
                 }
             ]
         },
@@ -1270,8 +1270,8 @@
                 "NOM": "WRAITH PCIFIC",
                 "LOCALISATION": "TR",
                 "ACRONYME": "PCIFIC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:34:53"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:24:29"
             },
             "JOUEURS": [
                 {
@@ -1351,6 +1351,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
                     "HEURE DE LA DERNIERE MODIFICATION": "08:34:52"
+                },
+                {
+                    "ID": 61345,
+                    "PSEUDO": "sh1pz",
+                    "ROLE": null,
+                    "PRENOM": "Enes",
+                    "NOM": "Tok",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:24:29"
                 },
                 {
                     "ID": 61347,
@@ -1707,8 +1720,8 @@
                 "NOM": "ex-INOX Division",
                 "LOCALISATION": "",
                 "ACRONYME": "ex-INOX",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:39:33"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:16:28"
             },
             "JOUEURS": [
                 {
@@ -1721,8 +1734,8 @@
                     "DATE DE NAISSANCE": "1999-07-19",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:23"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:28"
                 },
                 {
                     "ID": 42751,
@@ -1734,8 +1747,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:23"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:27"
                 },
                 {
                     "ID": 46710,
@@ -1773,8 +1786,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:23"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:27"
                 },
                 {
                     "ID": 48918,
@@ -1786,8 +1799,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:06:23"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:16:27"
                 }
             ]
         },
@@ -1797,8 +1810,8 @@
                 "NOM": "Balkan Outlaws",
                 "LOCALISATION": "RO",
                 "ACRONYME": "BAL",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:35:37"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:28:08"
             },
             "JOUEURS": [
                 {
@@ -1852,6 +1865,32 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:06:29"
+                },
+                {
+                    "ID": 38395,
+                    "PSEUDO": "waZz",
+                    "ROLE": null,
+                    "PRENOM": "Lipoșteanu Andrei",
+                    "NOM": "Corneliu",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:28:08"
+                },
+                {
+                    "ID": 57759,
+                    "PSEUDO": "bitu",
+                    "ROLE": null,
+                    "PRENOM": "Amariei",
+                    "NOM": "Gabriel",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:28:08"
                 },
                 {
                     "ID": 57882,

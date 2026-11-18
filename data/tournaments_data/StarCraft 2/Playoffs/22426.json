@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "11:00:00",
         "DATE DE FIN": "2026-11-18",
         "HEURE DE FIN": "14:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "09:57:49",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:53:55",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -66,7 +66,7 @@
         {
             "NOM": "Grand Final: Maru vs herO",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 7,
@@ -76,41 +76,41 @@
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:29:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:29:57",
             "PRIZEPOOL": "850 United States Dollar",
             "SLUG": "starcraft-2-liuli-cup-55-2026-playoffs",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "zh",
-                "LIEN BRUTE": "https://live.bilibili.com/4670738"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=xFoYu4ztLGE"
             }
         },
         {
             "NOM": "3rd Place Match: Rogue vs Clem",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
             "DATE PRÉVUE": "2026-11-18",
-            "HEURE PRÉVUE": "13:00:00",
+            "HEURE PRÉVUE": "12:40:00",
             "DATE DE DEBUT": "2026-11-18",
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:30:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:22:07",
             "PRIZEPOOL": "850 United States Dollar",
             "SLUG": "starcraft-2-liuli-cup-55-2026-playoffs",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "zh",
-                "LIEN BRUTE": "https://live.bilibili.com/4670738"
+                "MAIN": false,
+                "LANGUE": "fr",
+                "LIEN BRUTE": "https://www.twitch.tv/iamtkl"
             }
         }
     ],
@@ -125,8 +125,8 @@
         "NOM": "Season 55 2026",
         "ANNEE": 2026,
         "SAISON": "55",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-09",
-        "HEURE DE LA DERNIERE MODIFICATION": "07:54:21",
-        "ID DU VAINQUEUR": null
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:53:55",
+        "ID DU VAINQUEUR": 43056
     }
 }

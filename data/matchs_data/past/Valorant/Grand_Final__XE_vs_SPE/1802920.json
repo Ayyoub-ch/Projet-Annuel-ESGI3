@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1802920,
+        "NOM": "Grand_Final__XE_vs_SPE",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-18",
+        "HEURE DE DEBUT": "05:22:48",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "08:30:19",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "08:41:43",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52917,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2992,
+            "DATE DE DEBUT DE PARTIE": "2026-11-18",
+            "HEURE DE DEBUT DE PARTIE": "05:22:49",
+            "DATE DE FIN DE PARTIE": "2026-11-18",
+            "HEURE DE FIN DE PARTIE": "06:12:41",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135281,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52918,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2466,
+            "DATE DE DEBUT DE PARTIE": "2026-11-18",
+            "HEURE DE DEBUT DE PARTIE": "06:29:05",
+            "DATE DE FIN DE PARTIE": "2026-11-18",
+            "HEURE DE FIN DE PARTIE": "07:10:11",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135281,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52919,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2948,
+            "DATE DE DEBUT DE PARTIE": "2026-11-18",
+            "HEURE DE DEBUT DE PARTIE": "07:41:11",
+            "DATE DE FIN DE PARTIE": "2026-11-18",
+            "HEURE DE FIN DE PARTIE": "08:30:19",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135281,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135281,
+            "NOM": "Xipto Esports",
+            "LOCALISATION": "PH",
+            "ACRONYME": "XE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:33:12"
+        },
+        {
+            "ID": 129076,
+            "NOM": "Sharper Esport",
+            "LOCALISATION": "TH",
+            "ACRONYME": "SPE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-10",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:26:59"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 135281
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 129076
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22428,
+        "NOM": "Playoffs",
+        "TYPE": "online/offline",
+        "PAYS": "TH",
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": "200000 Thai Baht",
+        "VAINQUEUR": 135281,
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "08:40:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "08:41:58",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4860,
+        "NOM": "Asia Pacific Predator League",
+        "DATE DE MODIFICATION": "2024-01-06",
+        "HEURE DE MODIFICATION": "09:08:33"
+    },
+    "SERIE": {
+        "ID": 11197,
+        "NOM": "Thailand 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": 135281,
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "08:40:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "08:41:43"
+    }
+}

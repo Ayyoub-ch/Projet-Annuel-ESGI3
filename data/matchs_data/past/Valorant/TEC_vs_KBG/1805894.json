@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1805894,
+        "NOM": "TEC_vs_KBG",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-18",
+        "HEURE DE DEBUT": "08:08:38",
+        "DATE DE FIN": "2026-11-18",
+        "HEURE DE FIN": "10:49:42",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53000,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3711,
+            "DATE DE DEBUT DE PARTIE": "2026-11-18",
+            "HEURE DE DEBUT DE PARTIE": "08:08:38",
+            "DATE DE FIN DE PARTIE": "2026-11-18",
+            "HEURE DE FIN DE PARTIE": "09:10:30",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133825,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53001,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1809,
+            "DATE DE DEBUT DE PARTIE": "2026-11-18",
+            "HEURE DE DEBUT DE PARTIE": "09:18:43",
+            "DATE DE FIN DE PARTIE": "2026-11-18",
+            "HEURE DE FIN DE PARTIE": "09:48:52",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133828,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53002,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2983,
+            "DATE DE DEBUT DE PARTIE": "2026-11-18",
+            "HEURE DE DEBUT DE PARTIE": "09:59:59",
+            "DATE DE FIN DE PARTIE": "2026-11-18",
+            "HEURE DE FIN DE PARTIE": "10:49:43",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133825,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 133825,
+            "NOM": "TEC Esports",
+            "LOCALISATION": "CN",
+            "ACRONYME": "TEC",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:33"
+        },
+        {
+            "ID": 133828,
+            "NOM": "KeepBest Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "KBG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:54:44"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 133825
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 133828
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22442,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "06:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "19:55:51",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5585,
+        "NOM": "China National Tournament",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18"
+    },
+    "SERIE": {
+        "ID": 11202,
+        "NOM": "Split Omega: Pro Division 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18"
+    }
+}
