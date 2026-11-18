@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-22",
         "HEURE DE FIN": "18:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-        "HEURE DE LA DERNIERE MODIFICATION": "09:44:31",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:03:08",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -139,8 +139,265 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 126699,
+            "NOM": "Nexus",
+            "LOCALISATION": "RO",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:02:55",
+            "ACRONYME": "NXS"
+        },
+        {
+            "ID": 127014,
+            "NOM": "Sinners",
+            "LOCALISATION": "CZ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:03:04",
+            "ACRONYME": "SIN"
+        },
+        {
+            "ID": 129440,
+            "NOM": "Metizport",
+            "LOCALISATION": "NO",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:03:08",
+            "ACRONYME": "MZP"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 126699,
+                "NOM": "Nexus",
+                "LOCALISATION": "RO",
+                "ACRONYME": "NXS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:02:55"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 28479,
+                    "PSEUDO": "shield",
+                    "ROLE": null,
+                    "PRENOM": "Roberts",
+                    "NOM": "Tipsis",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-19",
+                    "NATIONALITE": "LV",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:02:55"
+                },
+                {
+                    "ID": 29181,
+                    "PSEUDO": "fNk",
+                    "ROLE": null,
+                    "PRENOM": "Mihai ",
+                    "NOM": "Costache",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-07",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:02:46"
+                },
+                {
+                    "ID": 29416,
+                    "PSEUDO": "s0und",
+                    "ROLE": null,
+                    "PRENOM": "Alexandru ",
+                    "NOM": "Ștefan",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-09-25",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:02:55"
+                },
+                {
+                    "ID": 32758,
+                    "PSEUDO": "Nexius",
+                    "ROLE": null,
+                    "PRENOM": "Bram",
+                    "NOM": "Campana",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-12-19",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:02:54"
+                },
+                {
+                    "ID": 61609,
+                    "PSEUDO": "HOLY",
+                    "ROLE": null,
+                    "PRENOM": "Radu",
+                    "NOM": "Vrânceanu",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:02:54"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 127014,
+                "NOM": "Sinners",
+                "LOCALISATION": "CZ",
+                "ACRONYME": "SIN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:03:04"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25109,
+                    "PSEUDO": "SHOCK",
+                    "ROLE": null,
+                    "PRENOM": "Max",
+                    "NOM": "Kvapil",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-29",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:04"
+                },
+                {
+                    "ID": 25111,
+                    "PSEUDO": "beastik",
+                    "ROLE": null,
+                    "PRENOM": "Sebastian",
+                    "NOM": "Dano",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-05",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:02:55"
+                },
+                {
+                    "ID": 36286,
+                    "PSEUDO": "MoDo",
+                    "ROLE": null,
+                    "PRENOM": "Mădălin-Andrei",
+                    "NOM": "Mirea",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-06-01",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:04"
+                },
+                {
+                    "ID": 48862,
+                    "PSEUDO": "stressarN",
+                    "ROLE": null,
+                    "PRENOM": "Jordan ",
+                    "NOM": "Manevski",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:04"
+                },
+                {
+                    "ID": 49146,
+                    "PSEUDO": "kisserek",
+                    "ROLE": null,
+                    "PRENOM": "Kamil",
+                    "NOM": "Banak",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-13",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:03"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 129440,
+                "NOM": "Metizport",
+                "LOCALISATION": "NO",
+                "ACRONYME": "MZP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:03:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17530,
+                    "PSEUDO": "stanislaw",
+                    "ROLE": null,
+                    "PRENOM": "Peter",
+                    "NOM": "Jarguz",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-03-22",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:08"
+                },
+                {
+                    "ID": 19019,
+                    "PSEUDO": "Plopski",
+                    "ROLE": null,
+                    "PRENOM": "Nicolas",
+                    "NOM": "Gonzalez Zamora",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-14",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:08"
+                },
+                {
+                    "ID": 23660,
+                    "PSEUDO": "F1KU",
+                    "ROLE": null,
+                    "PRENOM": "Maciej",
+                    "NOM": "Miklas",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-29",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:05"
+                },
+                {
+                    "ID": 28704,
+                    "PSEUDO": "forsyy",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Bílý",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-11-12",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:07"
+                },
+                {
+                    "ID": 51200,
+                    "PSEUDO": "MaiL09",
+                    "ROLE": null,
+                    "PRENOM": "Liam",
+                    "NOM": "Tügel",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+                    "HEURE DE LA DERNIERE MODIFICATION": "20:03:08"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "RUSH",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
