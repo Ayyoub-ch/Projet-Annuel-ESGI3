@@ -1,9 +1,14 @@
 
+# ================================
+# IMPORT DES BIBLIOTHÈQUES
+# ================================
+import requests    # Pour récupérer les données depuis l'API
+import os          # Pour créer des dossiers et gérer les fichiers
+import json        # Pour manipuler et sauvegarder les fichiers JSON
 
-
-
-
-
+# ================================
+# CONFIGURATION DES DOSSIERS
+# ================================
 
 
 
@@ -181,3 +186,46 @@ countries = [
     "zambia",
     "zimbabwe"
 ]
+
+
+# Dossier principal
+DOSSIER_PRINCIPAL = "data/football/leagues_data"
+
+
+
+# ================================
+# URL DE L'API JSON
+# ================================
+for country in countries:
+    url_api= f"https://v3.football.api-sports.io/teams?country={country}"
+
+    headers = {
+        'x-apisports-key': "dc56c5bba70f6f222790a01874888304"
+        }
+
+# ================================
+# RÉCUPÉRATION DES DONNÉES
+# ================================
+    try:
+
+        response = requests.get(url_api, headers=headers, timeout=600)
+        response.raise_for_status()  # Lève une erreur si problème réseau
+        
+        # Conversion de la réponse en JSON Python
+        reponse_json = response.json()
+        teams_data = reponse_json.get("response", [])
+        print(f" {len(teams_data)} ligues récupérées depuis l'API")
+        
+    except requests.exceptions.RequestException as e:
+        print(f" Erreur lors de la recuperation des donnees depuis l'API: {e}")
+        exit(1)  # Quitte le script avec un code d'erreur
+        
+# ================================
+# TRAITEMENT DE CHAQUE LIGUE
+# ================================ 
+
+
+
+
+
+
