@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1811956,
+        "NOM": "Winners_Match__LN_vs_MEIA_NOITE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "17:24:50",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "19:29:57",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "08:26:55",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239546,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3108,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "17:24:51",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "18:16:39",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139026,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239547,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3534,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "18:31:03",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "19:29:58",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139026,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139254,
+            "NOM": "Los Niños",
+            "LOCALISATION": "BR",
+            "ACRONYME": "LN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:23"
+        },
+        {
+            "ID": 139026,
+            "NOM": "MEIA NOITE",
+            "LOCALISATION": "BR",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:23"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139254
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139026
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22459,
+        "NOM": "Group D",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 139026,
+        "DATE DE DEBUT": "2026-11-11",
+        "HEURE DE DEBUT": "19:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "19:29:58",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4554,
+        "NOM": "Gamers Club Liga Série A",
+        "DATE DE MODIFICATION": "2022-08-12",
+        "HEURE DE MODIFICATION": "14:23:59"
+    },
+    "SERIE": {
+        "ID": 11208,
+        "NOM": "November 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-11",
+        "HEURE DE DEBUT": "19:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "08:26:55"
+    }
+}

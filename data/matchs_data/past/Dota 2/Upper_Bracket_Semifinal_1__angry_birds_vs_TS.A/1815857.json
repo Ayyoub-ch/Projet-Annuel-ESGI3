@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1815857,
+        "NOM": "Upper_Bracket_Semifinal_1__angry_birds_vs_TS.A",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "17:20:12",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "21:12:19",
+        "DATE DE MODIFICATION": "2026-11-01",
+        "HEURE DE MODIFICATION": "20:32:00",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741881,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2986,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "17:20:14",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "18:26:53",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137540,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741882,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1835,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "18:35:22",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "19:30:27",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139462,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741883,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3974,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "19:47:38",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "21:12:20",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139462,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139462,
+            "NOM": "angry birds",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:55:26"
+        },
+        {
+            "ID": 137540,
+            "NOM": "Spirit Academy",
+            "LOCALISATION": "RU",
+            "ACRONYME": "TS.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:20:32"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139462
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137540
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22468,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "c",
+        "CASH PRIZE": "20,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-16",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "15:35:41",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5550,
+        "NOM": "Asgard Championship",
+        "DATE DE MODIFICATION": "2026-08-07",
+        "HEURE DE MODIFICATION": "08:37:45"
+    },
+    "SERIE": {
+        "ID": 11165,
+        "NOM": "Season 2 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-01",
+        "HEURE DE MODIFICATION": "20:32:00"
+    }
+}

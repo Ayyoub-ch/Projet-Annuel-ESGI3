@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1815868,
+        "NOM": "Winner's_Match__GRE_vs_MIRA",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "19:19:01",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "22:09:14",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "08:26:55",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239642,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3158,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "19:19:01",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "20:11:40",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139283,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239643,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2840,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "20:26:19",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "21:13:40",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138942,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239644,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2032,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "21:35:22",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "22:09:15",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138942,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138942,
+            "NOM": "Grêmio Esports",
+            "LOCALISATION": "BR",
+            "ACRONYME": "GRE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:20:40"
+        },
+        {
+            "ID": 139283,
+            "NOM": "Mira",
+            "LOCALISATION": "BR",
+            "ACRONYME": "MIRA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:24"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138942
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139283
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22458,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 138942,
+        "DATE DE DEBUT": "2026-11-13",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "22:09:15",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4554,
+        "NOM": "Gamers Club Liga Série A",
+        "DATE DE MODIFICATION": "2022-08-12",
+        "HEURE DE MODIFICATION": "14:23:59"
+    },
+    "SERIE": {
+        "ID": 11208,
+        "NOM": "November 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-11",
+        "HEURE DE DEBUT": "19:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "08:26:55"
+    }
+}

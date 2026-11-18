@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1816575,
+        "NOM": "Lower_Bracket_Round_1_Match_4__QUIN_vs_underw0rld",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "21:10:08",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "23:48:55",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "07:18:52",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239689,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2834,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "21:10:08",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "21:57:22",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138524,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239690,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2111,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "22:10:22",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "22:45:33",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139099,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239691,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3126,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "22:56:49",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "23:48:55",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139099,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138524,
+            "NOM": "QUINTESSÊNCIA",
+            "LOCALISATION": "BR",
+            "ACRONYME": "QUIN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:19:07"
+        },
+        {
+            "ID": 139099,
+            "NOM": "underw0rld",
+            "LOCALISATION": "BR",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:15"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138524
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139099
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22463,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "d",
+        "CASH PRIZE": "2,500 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "02:45:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "09:19:14",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4842,
+        "NOM": "CCT South America",
+        "DATE DE MODIFICATION": "2022-08-09",
+        "HEURE DE MODIFICATION": "10:12:50"
+    },
+    "SERIE": {
+        "ID": 11210,
+        "NOM": "Challengers #4 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "21:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "02:45:00",
+        "DATE DE MODIFICATION": "2026-11-14",
+        "HEURE DE MODIFICATION": "07:18:52"
+    }
+}

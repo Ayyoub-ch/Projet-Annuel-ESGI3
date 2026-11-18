@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1791302,
+        "NOM": "Upper_Bracket_Quarterfinal_2__GL_vs_LG",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "17:30:09",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "20:36:31",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "12:10:36",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238709,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3735,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "17:30:12",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "18:32:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3228,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238710,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2881,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "18:41:03",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "19:29:05",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 125847,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238711,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3138,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "19:44:13",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "20:36:31",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3228,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 125847,
+            "NOM": "GamerLegion",
+            "LOCALISATION": "DE",
+            "ACRONYME": "GL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:47:23"
+        },
+        {
+            "ID": 3228,
+            "NOM": "Luminosity",
+            "LOCALISATION": "CA",
+            "ACRONYME": "LG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:00:31"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 125847
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 3228
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22388,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "ES",
+        "REGION": "WEU",
+        "TIER": "b",
+        "CASH PRIZE": "100000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-10",
+        "HEURE DE MODIFICATION": "18:19:52",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5505,
+        "NOM": "Stake Ranked",
+        "DATE DE MODIFICATION": "2026-03-03",
+        "HEURE DE MODIFICATION": "08:11:47"
+    },
+    "SERIE": {
+        "ID": 11181,
+        "NOM": "Episode 6 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "12:10:36"
+    }
+}

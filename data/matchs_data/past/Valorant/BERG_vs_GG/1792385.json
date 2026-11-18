@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1792385,
+        "NOM": "BERG_vs_GG",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "18:13:32",
+        "DATE DE FIN": "2026-11-17",
+        "HEURE DE FIN": "20:45:17",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "16:25:32",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 52770,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2199,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "18:13:32",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "18:50:11",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139184,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52771,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2540,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "19:03:07",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "19:45:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136020,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 52772,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2685,
+            "DATE DE DEBUT DE PARTIE": "2026-11-17",
+            "HEURE DE DEBUT DE PARTIE": "20:00:32",
+            "DATE DE FIN DE PARTIE": "2026-11-17",
+            "HEURE DE FIN DE PARTIE": "20:45:17",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136020,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139184,
+            "NOM": "BERG",
+            "LOCALISATION": "DE",
+            "ACRONYME": "BERG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:10:13"
+        },
+        {
+            "ID": 136020,
+            "NOM": "Glacial Guardians",
+            "LOCALISATION": "DE",
+            "ACRONYME": "GG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-04",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:28:59"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139184
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 136020
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22393,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": "DE",
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-10-19",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-15",
+        "HEURE DE MODIFICATION": "20:05:36",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5583,
+        "NOM": "Spike Series",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "16:25:32"
+    },
+    "SERIE": {
+        "ID": 11183,
+        "NOM": "Convergence EMEA - DACH 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-19",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-18",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "16:25:32"
+    }
+}
