@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11219,
+        "NOM": "Grand_Finals",
+        "JEU VIDEO": "StarCraft 2",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:30:49",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5587,
+        "NOM": "Kung Fu Cup",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:24:36"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "CN",
+            "REGION": "ASIA",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "11:00:00",
+            "DATE DE FIN": "2026-11-29",
+            "HEURE DE FIN": "15:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:30:49",
+            "PRIZEPOOL": "30000 Chinese Yuan",
+            "SLUG": "starcraft-2-kung-fu-cup-grand-finals-2026-playoffs",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}
