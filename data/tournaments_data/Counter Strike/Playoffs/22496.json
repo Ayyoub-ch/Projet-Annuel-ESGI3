@@ -16,7 +16,7 @@
         {
             "NOM": "Round of 16 Match 1: WaR vs NT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "postponed",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -26,16 +26,16 @@
             "HEURE DE DEBUT": "2026-11-19",
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:04:53",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "01:24:53",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/Trottah"
             }
         },
         {

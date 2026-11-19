@@ -391,7 +391,7 @@
         {
             "NOM": "Lower Bracket Round 2 Match 1: DISFARÇADOS vs 9z.A",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -401,8 +401,8 @@
             "HEURE DE DEBUT": "2026-11-18",
             "DATE DE FIN": "2026-11-18",
             "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:52:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:02:32",
             "PRIZEPOOL": "2,500 United States Dollar",
             "SLUG": "cs-go-champion-of-champions-tour-challengers-4-2026-playoffs",
             "TIER": "d",
@@ -414,32 +414,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 2 Match 4: Axorfy Gaming vs underw0rld",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-18",
-            "HEURE PRÉVUE": "23:45:00",
-            "DATE DE DEBUT": "2026-11-18",
-            "HEURE DE DEBUT": "2026-11-18",
-            "DATE DE FIN": "2026-11-18",
-            "HEURE DE FIN": "2026-11-18",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:52:08",
-            "PRIZEPOOL": "2,500 United States Dollar",
-            "SLUG": "cs-go-champion-of-champions-tour-challengers-4-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/cct_cs5"
-            }
-        },
-        {
-            "NOM": "Lower Bracket Round 3 Match 1: LN vs TBD",
+            "NOM": "Lower Bracket Round 3 Match 1: LN vs 9z.A",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -451,8 +426,8 @@
             "HEURE DE DEBUT": "2026-11-19",
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:33:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:02:32",
             "PRIZEPOOL": "2,500 United States Dollar",
             "SLUG": "cs-go-champion-of-champions-tour-challengers-4-2026-playoffs",
             "TIER": "d",
@@ -464,7 +439,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 3 Match 2: MIRA vs TBD",
+            "NOM": "Lower Bracket Round 3 Match 2: MIRA vs underw0rld",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -477,7 +452,7 @@
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:27:40",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:38:44",
             "PRIZEPOOL": "2,500 United States Dollar",
             "SLUG": "cs-go-champion-of-champions-tour-challengers-4-2026-playoffs",
             "TIER": "d",
@@ -759,6 +734,31 @@
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
                 "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/cct_cs5"
+            }
+        },
+        {
+            "NOM": "Lower Bracket Round 2 Match 4: Axorfy Gaming vs underw0rld",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-18",
+            "HEURE PRÉVUE": "23:45:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:38:44",
+            "PRIZEPOOL": "2,500 United States Dollar",
+            "SLUG": "cs-go-champion-of-champions-tour-challengers-4-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://kick.com/cct_cs5"
             }
