@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1803646,
+        "NOM": "Quarterfinal_4__WBT_vs_MOUZ.N",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "11:40:08",
+        "DATE DE FIN": "2026-11-19",
+        "HEURE DE FIN": "14:35:17",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239134,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2676,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "11:40:10",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "12:24:46",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129160,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239135,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2226,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "12:51:29",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "13:28:36",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138841,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239136,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2758,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "13:49:19",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "14:35:17",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138841,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138841,
+            "NOM": "WBT",
+            "LOCALISATION": "UA",
+            "ACRONYME": "WBT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:28:43"
+        },
+        {
+            "ID": 129160,
+            "NOM": "MOUZ NXT",
+            "LOCALISATION": "DE",
+            "ACRONYME": "MOUZ.N",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:35:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138841
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 129160
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22429,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "20000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-14",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "11:24:29",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11177,
+        "NOM": "Season 10 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-04",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "14:50:19"
+    }
+}

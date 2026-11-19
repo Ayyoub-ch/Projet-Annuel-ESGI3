@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "13:00:00",
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-        "HEURE DE LA DERNIERE MODIFICATION": "15:00:46",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "18:12:42",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -216,7 +216,7 @@
         {
             "NOM": "angry birds vs ALL",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -227,7 +227,7 @@
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:05:57",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:28:42",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-a",
             "TIER": "d",
@@ -241,7 +241,7 @@
         {
             "NOM": "4iki vs Z10",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -251,8 +251,8 @@
             "HEURE DE DEBUT": "2026-11-19",
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:13:22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:26:29",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-a",
             "TIER": "d",
@@ -434,8 +434,8 @@
             "ID": 139489,
             "NOM": "Team Allied",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:42:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:16:37",
             "ACRONYME": "ALL"
         }
     ],
@@ -857,10 +857,23 @@
                 "NOM": "Team Allied",
                 "LOCALISATION": "",
                 "ACRONYME": "ALL",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:42:05"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:16:37"
             },
             "JOUEURS": [
+                {
+                    "ID": 23144,
+                    "PSEUDO": "zipzap",
+                    "ROLE": "1",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:16:37"
+                },
                 {
                     "ID": 28041,
                     "PSEUDO": "Filminy",
