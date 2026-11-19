@@ -7,37 +7,12 @@
         "HEURE DE DEBUT": "01:00:00",
         "DATE DE FIN": "2026-12-14",
         "HEURE DE FIN": "04:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-        "HEURE DE LA DERNIERE MODIFICATION": "23:04:27",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:27:27",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
-        {
-            "NOM": "Round of 16 Match 1: WaR vs NT",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "postponed",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-19",
-            "HEURE PRÉVUE": "01:00:00",
-            "DATE DE DEBUT": "2026-11-19",
-            "HEURE DE DEBUT": "2026-11-19",
-            "DATE DE FIN": "2026-11-19",
-            "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:24:53",
-            "PRIZEPOOL": "10000 United States Dollar",
-            "SLUG": "cs-go-crossfire-7-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/Trottah"
-            }
-        },
         {
             "NOM": "Round of 16 Match 5: LAG vs VIL",
             "TYPE": "Type de match inconnu",
@@ -189,6 +164,31 @@
             }
         },
         {
+            "NOM": "Round of 16 Match 1: WaR vs Kodex Esports",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "01:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:28:49",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
             "NOM": "Round of 16 Match 4: OT vs DTN",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
@@ -211,6 +211,31 @@
                 "MAIN": null,
                 "LANGUE": null,
                 "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Round of 16 Match 1: WaR vs NT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-19",
+            "HEURE PRÉVUE": "01:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:29:02",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/Trottah"
             }
         }
     ],
@@ -310,6 +335,14 @@
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
             "HEURE DE LA DERNIERE MODIFICATION": "14:05:36",
             "ACRONYME": "IOWA"
+        },
+        {
+            "ID": 139156,
+            "NOM": "Kodex Esports",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:27:42",
+            "ACRONYME": null
         },
         {
             "ID": 139158,
@@ -1266,6 +1299,83 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
                     "HEURE DE LA DERNIERE MODIFICATION": "14:05:36"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139156,
+                "NOM": "Kodex Esports",
+                "LOCALISATION": "US",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:27:42"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30121,
+                    "PSEUDO": "jsfeltner",
+                    "ROLE": null,
+                    "PRENOM": "Justin ",
+                    "NOM": "Feltner",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-05-30",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:27:27"
+                },
+                {
+                    "ID": 48478,
+                    "PSEUDO": "dopplahs",
+                    "ROLE": null,
+                    "PRENOM": "Dalton ",
+                    "NOM": "Hanley",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:27:27"
+                },
+                {
+                    "ID": 51597,
+                    "PSEUDO": "TyRa",
+                    "ROLE": null,
+                    "PRENOM": "Ty",
+                    "NOM": "Aron",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:27:27"
+                },
+                {
+                    "ID": 53741,
+                    "PSEUDO": "Scorchyy",
+                    "ROLE": null,
+                    "PRENOM": "Brett",
+                    "NOM": "Coolen",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:27:27"
+                },
+                {
+                    "ID": 58452,
+                    "PSEUDO": "celery",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:27:27"
                 }
             ]
         },

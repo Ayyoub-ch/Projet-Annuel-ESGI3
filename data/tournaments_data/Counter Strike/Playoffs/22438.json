@@ -7,14 +7,14 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-22",
         "HEURE DE FIN": "18:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-        "HEURE DE LA DERNIERE MODIFICATION": "20:03:08",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:28:43",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
         {
-            "NOM": "Quarterfinal 1: TBD vs TBD",
+            "NOM": "Quarterfinal 1: ENVY vs NXS",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -26,8 +26,8 @@
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:51:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:52",
             "PRIZEPOOL": "30000 Euro",
             "SLUG": "cs-go-tipsport-rush-brno-2026-playoffs",
             "TIER": "c",
@@ -39,7 +39,7 @@
             }
         },
         {
-            "NOM": "Quarterfinal 2: TBD vs TBD",
+            "NOM": "Quarterfinal 2: SIN vs MZP",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -51,8 +51,8 @@
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:51:41",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:00",
             "PRIZEPOOL": "30000 Euro",
             "SLUG": "cs-go-tipsport-rush-brno-2026-playoffs",
             "TIER": "c",
@@ -64,20 +64,20 @@
             }
         },
         {
-            "NOM": "Semifinal 1: TBD vs TBD",
+            "NOM": "Semifinal 1: TBD vs ALL",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "13:00:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:51:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:41",
             "PRIZEPOOL": "30000 Euro",
             "SLUG": "cs-go-tipsport-rush-brno-2026-playoffs",
             "TIER": "c",
@@ -89,20 +89,20 @@
             }
         },
         {
-            "NOM": "Semifinal 2: TBD vs TBD",
+            "NOM": "Semifinal 2: TBD vs BBL",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "18:30:00",
+            "HEURE PRÉVUE": "16:00:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:51:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:29:52",
             "PRIZEPOOL": "30000 Euro",
             "SLUG": "cs-go-tipsport-rush-brno-2026-playoffs",
             "TIER": "c",
@@ -141,6 +141,14 @@
     ],
     "EQUIPES": [
         {
+            "ID": 3222,
+            "NOM": "Envy",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:38",
+            "ACRONYME": "ENVY"
+        },
+        {
             "ID": 126699,
             "NOM": "Nexus",
             "LOCALISATION": "RO",
@@ -163,9 +171,102 @@
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
             "HEURE DE LA DERNIERE MODIFICATION": "20:03:08",
             "ACRONYME": "MZP"
+        },
+        {
+            "ID": 133725,
+            "NOM": "Alliance",
+            "LOCALISATION": "SE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:42",
+            "ACRONYME": "ALL"
+        },
+        {
+            "ID": 139180,
+            "NOM": "BBL",
+            "LOCALISATION": "DK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:43",
+            "ACRONYME": "BBL"
         }
     ],
     "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 3222,
+                "NOM": "Envy",
+                "LOCALISATION": "US",
+                "ACRONYME": "ENVY",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:28:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18297,
+                    "PSEUDO": "Maka",
+                    "ROLE": null,
+                    "PRENOM": "Bryan",
+                    "NOM": "Canda",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-07-06",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:38"
+                },
+                {
+                    "ID": 20212,
+                    "PSEUDO": "Lucky",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Chastang",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-06",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:37"
+                },
+                {
+                    "ID": 24779,
+                    "PSEUDO": "Misutaaa",
+                    "ROLE": null,
+                    "PRENOM": "Kévin",
+                    "NOM": "Rabier",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-15",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:38"
+                },
+                {
+                    "ID": 31586,
+                    "PSEUDO": "Kursy",
+                    "ROLE": null,
+                    "PRENOM": "Jeremy",
+                    "NOM": "Gast",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-17",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:37"
+                },
+                {
+                    "ID": 32624,
+                    "PSEUDO": "Graviti",
+                    "ROLE": null,
+                    "PRENOM": "Filip",
+                    "NOM": "Brankovic",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-11-08",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:36"
+                }
+            ]
+        },
         {
             "EQUIPE": {
                 "ID": 126699,
@@ -394,6 +495,160 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
                     "HEURE DE LA DERNIERE MODIFICATION": "20:03:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133725,
+                "NOM": "Alliance",
+                "LOCALISATION": "SE",
+                "ACRONYME": "ALL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:28:42"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 17546,
+                    "PSEUDO": "twist",
+                    "ROLE": null,
+                    "PRENOM": "Simon",
+                    "NOM": "Eliasson",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1994-12-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:42"
+                },
+                {
+                    "ID": 24217,
+                    "PSEUDO": "eraa",
+                    "ROLE": null,
+                    "PRENOM": "Sean",
+                    "NOM": "Knutsson",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:41"
+                },
+                {
+                    "ID": 32351,
+                    "PSEUDO": "bobeksde",
+                    "ROLE": null,
+                    "PRENOM": "Jonatan",
+                    "NOM": "Persson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-21",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:41"
+                },
+                {
+                    "ID": 45899,
+                    "PSEUDO": "upE",
+                    "ROLE": null,
+                    "PRENOM": "Markus",
+                    "NOM": "Johansson",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-12",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:42"
+                },
+                {
+                    "ID": 46304,
+                    "PSEUDO": "avid",
+                    "ROLE": null,
+                    "PRENOM": "Arvid",
+                    "NOM": "Åberg",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-02",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:38"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139180,
+                "NOM": "BBL",
+                "LOCALISATION": "DK",
+                "ACRONYME": "BBL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:28:43"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27470,
+                    "PSEUDO": "IceBerg",
+                    "ROLE": null,
+                    "PRENOM": "Oliver ",
+                    "NOM": "Berg",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-23",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:42"
+                },
+                {
+                    "ID": 32380,
+                    "PSEUDO": "MistR",
+                    "ROLE": null,
+                    "PRENOM": "Mikkel",
+                    "NOM": "Thomsen",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-22",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:42"
+                },
+                {
+                    "ID": 36783,
+                    "PSEUDO": "salazar",
+                    "ROLE": null,
+                    "PRENOM": "Jason",
+                    "NOM": "Salazar",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-27",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:43"
+                },
+                {
+                    "ID": 41158,
+                    "PSEUDO": "Leakz",
+                    "ROLE": null,
+                    "PRENOM": "Jamie",
+                    "NOM": "Bugge West Jensen",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-01",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:42"
+                },
+                {
+                    "ID": 53933,
+                    "PSEUDO": "NickyB",
+                    "ROLE": null,
+                    "PRENOM": "Nicky",
+                    "NOM": "Bruhn",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:28:42"
                 }
             ]
         }

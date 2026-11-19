@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1789179,
+        "NOM": "Round_of_16_match_1__33_vs_ex-RUSTEC",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "09:08:44",
+        "DATE DE FIN": "2026-11-19",
+        "HEURE DE FIN": "11:32:22",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "12:17:38",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238552,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2262,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "09:08:46",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "09:46:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139575,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238553,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2043,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "10:04:06",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "10:38:09",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138974,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238554,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2003,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "10:58:59",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "11:32:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138974,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139575,
+            "NOM": "33",
+            "LOCALISATION": "RU",
+            "ACRONYME": "33",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:24:32"
+        },
+        {
+            "ID": 138974,
+            "NOM": "ex-RUSTEC",
+            "LOCALISATION": "RU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:24:31"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139575
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138974
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22377,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": "25000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-19",
+        "HEURE DE MODIFICATION": "09:24:32",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11175,
+        "NOM": "Series #14 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-10",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-03",
+        "HEURE DE MODIFICATION": "12:17:38"
+    }
+}

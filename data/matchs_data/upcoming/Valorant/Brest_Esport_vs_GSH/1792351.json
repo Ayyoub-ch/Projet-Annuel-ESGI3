@@ -3,7 +3,10 @@
         "ID": 1792351,
         "NOM": "Brest_Esport_vs_GSH",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
         "STATUT": "not_started",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-19",

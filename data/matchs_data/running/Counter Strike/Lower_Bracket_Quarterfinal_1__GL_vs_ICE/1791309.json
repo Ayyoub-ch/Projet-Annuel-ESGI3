@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1791309,
+        "NOM": "Lower_Bracket_Quarterfinal_1__GL_vs_ICE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "running",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "11:00:46",
+        "DATE DE FIN": "Date de fin non définie",
+        "HEURE DE FIN": "Heure de fin non définie",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "12:10:36",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238730,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3898,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "11:00:48",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "12:05:46",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136497,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238731,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2540,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "12:20:58",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "13:03:18",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 125847,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 238732,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "running",
+            "LONGUEUR": "Pas de longueur disponible",
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "13:19:09",
+            "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
+            "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 125847,
+            "NOM": "GamerLegion",
+            "LOCALISATION": "DE",
+            "ACRONYME": "GL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:47:23"
+        },
+        {
+            "ID": 136497,
+            "NOM": "Inner Circle Esports",
+            "LOCALISATION": "",
+            "ACRONYME": "ICE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:44:21"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 125847
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 136497
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22388,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "ES",
+        "REGION": "WEU",
+        "TIER": "b",
+        "CASH PRIZE": "100000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-10",
+        "HEURE DE MODIFICATION": "18:19:52",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5505,
+        "NOM": "Stake Ranked",
+        "DATE DE MODIFICATION": "2026-03-03",
+        "HEURE DE MODIFICATION": "08:11:47"
+    },
+    "SERIE": {
+        "ID": 11181,
+        "NOM": "Episode 6 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-04",
+        "HEURE DE MODIFICATION": "12:10:36"
+    }
+}

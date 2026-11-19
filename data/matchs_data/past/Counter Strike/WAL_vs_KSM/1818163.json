@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1818163,
+        "NOM": "WAL_vs_KSM",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "09:15:38",
+        "DATE DE FIN": "2026-11-19",
+        "HEURE DE FIN": "12:03:57",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:28:53",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240065,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2428,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "09:15:38",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "09:56:06",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130733,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240066,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2641,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "10:12:48",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "10:56:50",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138610,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240067,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2990,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "11:14:07",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "12:03:57",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130733,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138610,
+            "NOM": "Walczaki",
+            "LOCALISATION": "PL",
+            "ACRONYME": "WAL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:02:27"
+        },
+        {
+            "ID": 130733,
+            "NOM": "KUUSAMO.gg",
+            "LOCALISATION": "FI",
+            "ACRONYME": "KSM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:33:19"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138610
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 130733
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22479,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-11-19",
+        "HEURE DE MODIFICATION": "13:07:26",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11216,
+        "NOM": "Closed Qualifier: Series #15 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:28:53"
+    }
+}

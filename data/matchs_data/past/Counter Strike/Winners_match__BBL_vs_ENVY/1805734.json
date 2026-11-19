@@ -52,7 +52,7 @@
         },
         {
             "ID": 239229,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 3,
             "STATUT": "finished",
             "LONGUEUR": 2878,
@@ -72,16 +72,16 @@
             "NOM": "BBL",
             "LOCALISATION": "DK",
             "ACRONYME": "BBL",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:32:05"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:43"
         },
         {
             "ID": 3222,
             "NOM": "Envy",
             "LOCALISATION": "US",
             "ACRONYME": "ENVY",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:44:28"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:38"
         }
     ],
     "RESULTATS": [
@@ -106,9 +106,9 @@
         "DATE DE DEBUT": "2026-11-17",
         "HEURE DE DEBUT": "14:00:00",
         "DATE DE FIN": "2026-11-18",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE MODIFICATION": "2026-11-18",
-        "HEURE DE MODIFICATION": "23:08:07",
+        "HEURE DE FIN": "23:08:00",
+        "DATE DE MODIFICATION": "2026-11-19",
+        "HEURE DE MODIFICATION": "07:27:32",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

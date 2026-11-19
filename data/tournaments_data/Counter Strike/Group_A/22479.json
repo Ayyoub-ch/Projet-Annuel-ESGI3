@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:33:21",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:07:26",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,55 +16,55 @@
         {
             "NOM": "WAL vs KSM",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-19",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "09:15:00",
             "DATE DE DEBUT": "2026-11-19",
             "HEURE DE DEBUT": "2026-11-19",
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:10:26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:20:28",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-15-2026-group-a",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/cct_cs"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
             }
         },
         {
             "NOM": "Noir Verse vs SKR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-19",
-            "HEURE PRÉVUE": "12:00:00",
+            "HEURE PRÉVUE": "12:15:00",
             "DATE DE DEBUT": "2026-11-19",
             "HEURE DE DEBUT": "2026-11-19",
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:10:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:24:39",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-15-2026-group-a",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/cct_cs"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
             }
         },
         {
-            "NOM": "Elimination Match: TBD vs TBD",
+            "NOM": "Elimination Match: WAL vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -76,8 +76,8 @@
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:28:54",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:03:58",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-15-2026-group-a",
             "TIER": "d",
@@ -89,7 +89,7 @@
             }
         },
         {
-            "NOM": "Winners' Match: TBD vs TBD",
+            "NOM": "Winners' Match: KSM vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:28:54",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:03:58",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-15-2026-group-a",
             "TIER": "d",
@@ -152,8 +152,8 @@
             "ID": 138610,
             "NOM": "Walczaki",
             "LOCALISATION": "PL",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:55:49",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:02:27",
             "ACRONYME": "WAL"
         },
         {
@@ -168,8 +168,8 @@
             "ID": 139343,
             "NOM": "Sökerorg",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:33:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:07:26",
             "ACRONYME": "SKR"
         }
     ],
@@ -257,8 +257,8 @@
                 "NOM": "Walczaki",
                 "LOCALISATION": "PL",
                 "ACRONYME": "WAL",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "18:55:49"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:02:27"
             },
             "JOUEURS": [
                 {
@@ -286,6 +286,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
                     "HEURE DE LA DERNIERE MODIFICATION": "10:33:20"
+                },
+                {
+                    "ID": 30317,
+                    "PSEUDO": "sNx",
+                    "ROLE": null,
+                    "PRENOM": "Rafal",
+                    "NOM": "Snopek",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:02:27"
                 },
                 {
                     "ID": 38983,
@@ -411,8 +424,8 @@
                 "NOM": "Sökerorg",
                 "LOCALISATION": "",
                 "ACRONYME": "SKR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:33:21"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:07:26"
             },
             "JOUEURS": [
                 {
@@ -453,6 +466,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
                     "HEURE DE LA DERNIERE MODIFICATION": "10:33:21"
+                },
+                {
+                    "ID": 53668,
+                    "PSEUDO": "Toshas",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Aspin",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:26"
                 },
                 {
                     "ID": 57760,

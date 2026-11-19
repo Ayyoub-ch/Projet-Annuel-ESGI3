@@ -466,7 +466,7 @@
         {
             "NOM": "Qian Xing Gaming vs SEC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -476,22 +476,22 @@
             "HEURE DE DEBUT": "2026-11-19",
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:09:37",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:02:52",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-group-a",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://live.bilibili.com/9459454"
             }
         },
         {
             "NOM": "KBG vs AT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -501,33 +501,8 @@
             "HEURE DE DEBUT": "2026-11-19",
             "DATE DE FIN": "2026-11-19",
             "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:09:44",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-group-a",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": false,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Victory No Limits vs LNG",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-19",
-            "HEURE PRÉVUE": "11:00:00",
-            "DATE DE DEBUT": "2026-11-19",
-            "HEURE DE DEBUT": "2026-11-19",
-            "DATE DE FIN": "2026-11-19",
-            "HEURE DE FIN": "2026-11-19",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:10:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:25:11",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-group-a",
             "TIER": "c",
@@ -535,7 +510,32 @@
             "INFO DE STREAMING": {
                 "MAIN": true,
                 "LANGUE": "zh",
-                "LIEN BRUTE": "https://weibo.com/7864854446"
+                "LIEN BRUTE": "https://live.bilibili.com/9459454"
+            }
+        },
+        {
+            "NOM": "Victory No Limits vs LNG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-19",
+            "HEURE PRÉVUE": "10:30:00",
+            "DATE DE DEBUT": "2026-11-19",
+            "HEURE DE DEBUT": "2026-11-19",
+            "DATE DE FIN": "2026-11-19",
+            "HEURE DE FIN": "2026-11-19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:25:46",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://live.bilibili.com/9459454"
             }
         },
         {
