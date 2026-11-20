@@ -16,7 +16,7 @@
         {
             "NOM": "TY vs PlayTime",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -27,57 +27,32 @@
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:36:25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:28:48",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-blast-slam-9-2026-group-a",
             "TIER": "a",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru"
+                "LANGUE": "th",
+                "LIEN BRUTE": "https://kick.com/lightfurylf"
             }
         },
         {
             "NOM": "Na`Vi vs OG",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-20",
-            "HEURE PRÉVUE": "14:00:00",
+            "HEURE PRÉVUE": "13:15:00",
             "DATE DE DEBUT": "2026-11-20",
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:30:34",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dota-2-blast-slam-9-2026-group-a",
-            "TIER": "a",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru"
-            }
-        },
-        {
-            "NOM": "Winners' Match: TBD vs TBD",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": true,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "14:00:00",
-            "DATE DE DEBUT": "2026-11-21",
-            "HEURE DE DEBUT": "2026-11-21",
-            "DATE DE FIN": "2026-11-21",
-            "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:23:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:58:53",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-blast-slam-9-2026-group-a",
             "TIER": "a",
@@ -89,7 +64,32 @@
             }
         },
         {
-            "NOM": "Elimination Match: TBD vs TBD",
+            "NOM": "Winners' Match: TY vs Na`Vi",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "14:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:40:50",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-group-a",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru"
+            }
+        },
+        {
+            "NOM": "Elimination Match: PlayTime vs OG",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": true,
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:23:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:40:50",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-blast-slam-9-2026-group-a",
             "TIER": "a",
@@ -110,7 +110,7 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru"
             }
         },
         {

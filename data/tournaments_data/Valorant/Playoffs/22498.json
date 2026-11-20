@@ -1,0 +1,449 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22498,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-06",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:18:56",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: NONP vs STS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:18:56",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-middle-east-north-africa-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_emea"
+            }
+        },
+        {
+            "NOM": "Semifinal 2: MMM vs GMX",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "18:30:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:18:56",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-middle-east-north-africa-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_emea"
+            }
+        },
+        {
+            "NOM": "Grand Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-12-06",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-12-06",
+            "HEURE DE DEBUT": "2026-12-06",
+            "DATE DE FIN": "2026-12-06",
+            "HEURE DE FIN": "2026-12-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:18:56",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-middle-east-north-africa-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_emea"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 133110,
+            "NOM": "Gamax Esports",
+            "LOCALISATION": "EG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:18:08",
+            "ACRONYME": "GMX"
+        },
+        {
+            "ID": 136671,
+            "NOM": "Stallions Esports",
+            "LOCALISATION": "SA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:18:09",
+            "ACRONYME": "STS"
+        },
+        {
+            "ID": 139326,
+            "NOM": "Mix My Miks",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:18:09",
+            "ACRONYME": "MMM"
+        },
+        {
+            "ID": 139628,
+            "NOM": "No Org No Problem",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:18:10",
+            "ACRONYME": "NONP"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 133110,
+                "NOM": "Gamax Esports",
+                "LOCALISATION": "EG",
+                "ACRONYME": "GMX",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:18:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 37063,
+                    "PSEUDO": "Depyro",
+                    "ROLE": null,
+                    "PRENOM": "Nour",
+                    "NOM": "Sherif",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-10-30",
+                    "NATIONALITE": "EG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:08"
+                },
+                {
+                    "ID": 37065,
+                    "PSEUDO": "Shniider",
+                    "ROLE": null,
+                    "PRENOM": "Yousef",
+                    "NOM": "Osama",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-02-08",
+                    "NATIONALITE": "EG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:07"
+                },
+                {
+                    "ID": 54236,
+                    "PSEUDO": "Yassien",
+                    "ROLE": null,
+                    "PRENOM": "Yassien",
+                    "NOM": "Ahmed",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2007-11-28",
+                    "NATIONALITE": "EG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:07"
+                },
+                {
+                    "ID": 58298,
+                    "PSEUDO": "Chaza",
+                    "ROLE": null,
+                    "PRENOM": "Charlie ",
+                    "NOM": "Phillips",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:44"
+                },
+                {
+                    "ID": 59597,
+                    "PSEUDO": "Heizzy",
+                    "ROLE": null,
+                    "PRENOM": "Kostadin",
+                    "NOM": "Filipov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:43"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136671,
+                "NOM": "Stallions Esports",
+                "LOCALISATION": "SA",
+                "ACRONYME": "STS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:18:09"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 47727,
+                    "PSEUDO": "KHaaLiD",
+                    "ROLE": null,
+                    "PRENOM": "Khalid Ali",
+                    "NOM": "Al-Talib",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-11-22",
+                    "NATIONALITE": "SA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:08"
+                },
+                {
+                    "ID": 47730,
+                    "PSEUDO": "Zimo",
+                    "ROLE": null,
+                    "PRENOM": "Abdullah",
+                    "NOM": "Al Amri",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-29",
+                    "NATIONALITE": "SA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:08"
+                },
+                {
+                    "ID": 47744,
+                    "PSEUDO": "ExiT",
+                    "ROLE": null,
+                    "PRENOM": "Abdullah",
+                    "NOM": "Al-Twaijri",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-05-21",
+                    "NATIONALITE": "SA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:08"
+                },
+                {
+                    "ID": 48813,
+                    "PSEUDO": "Fighter",
+                    "ROLE": null,
+                    "PRENOM": "Bassam",
+                    "NOM": "Alzahrani",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-04-04",
+                    "NATIONALITE": "SA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:09"
+                },
+                {
+                    "ID": 59615,
+                    "PSEUDO": "HAWKSINHO",
+                    "ROLE": null,
+                    "PRENOM": "Sulaimane",
+                    "NOM": "Kabous",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-03-16",
+                    "NATIONALITE": "MA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:08"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139326,
+                "NOM": "Mix My Miks",
+                "LOCALISATION": "",
+                "ACRONYME": "MMM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:18:09"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 29947,
+                    "PSEUDO": "ip0TT",
+                    "ROLE": null,
+                    "PRENOM": "Yiğit",
+                    "NOM": "Karadeniz",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-04-10",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:09"
+                },
+                {
+                    "ID": 40134,
+                    "PSEUDO": "Yuta",
+                    "ROLE": null,
+                    "PRENOM": "Damien",
+                    "NOM": "Perosa",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-23",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:09"
+                },
+                {
+                    "ID": 57805,
+                    "PSEUDO": "nysHAA",
+                    "ROLE": null,
+                    "PRENOM": "Erwann",
+                    "NOM": "Gougam",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:40"
+                },
+                {
+                    "ID": 62664,
+                    "PSEUDO": "Neptune",
+                    "ROLE": null,
+                    "PRENOM": "Antonin",
+                    "NOM": "Hicham",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:41"
+                },
+                {
+                    "ID": 63286,
+                    "PSEUDO": "Tr0mA",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:39"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139628,
+                "NOM": "No Org No Problem",
+                "LOCALISATION": "",
+                "ACRONYME": "NONP",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:18:10"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 26026,
+                    "PSEUDO": "spy",
+                    "ROLE": null,
+                    "PRENOM": "Abed ",
+                    "NOM": "Doughan",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-16",
+                    "NATIONALITE": "LB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:09"
+                },
+                {
+                    "ID": 37064,
+                    "PSEUDO": "Sand",
+                    "ROLE": null,
+                    "PRENOM": "Elias Mark ",
+                    "NOM": "Emad",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-15",
+                    "NATIONALITE": "EG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:09"
+                },
+                {
+                    "ID": 47731,
+                    "PSEUDO": "AL7B",
+                    "ROLE": null,
+                    "PRENOM": "Othman Khalid",
+                    "NOM": "Al-Amoudi",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-30",
+                    "NATIONALITE": "SA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:09"
+                },
+                {
+                    "ID": 52973,
+                    "PSEUDO": "Avvix",
+                    "ROLE": null,
+                    "PRENOM": "Abdulaziz",
+                    "NOM": "Alghanmi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-04",
+                    "NATIONALITE": "SA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:10"
+                },
+                {
+                    "ID": 63250,
+                    "PSEUDO": "yellowflash",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "JO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:18:48"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "VCT",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-02-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "NOM": "EMEA Kickoff: Middle East & North Africa 2027",
+        "ANNEE": 2027,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:18:56",
+        "ID DU VAINQUEUR": null
+    }
+}
