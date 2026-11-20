@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1800738,
+        "NOM": "Quarterfinal_1__T1_vs_VAR",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "07:12:05",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "08:19:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "17:34:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 32137,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1214,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "07:12:05",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "07:32:19",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129810,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 32138,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1381,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "07:35:49",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "07:58:51",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129810,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 32139,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 927,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "08:03:33",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "08:19:00",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129810,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129810,
+            "NOM": "T1",
+            "LOCALISATION": "KR",
+            "ACRONYME": "T1",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:39:52"
+        },
+        {
+            "ID": 134818,
+            "NOM": "VARREL",
+            "LOCALISATION": "JP",
+            "ACRONYME": "VAR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:39:53"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 129810
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 134818
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22422,
+        "NOM": "Playoffs",
+        "TYPE": "online/offline",
+        "PAYS": "KR",
+        "REGION": "ASIA",
+        "TIER": "b",
+        "CASH PRIZE": "40,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "14:39:55",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11193,
+        "NOM": "Asia Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-11",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "17:34:58"
+    }
+}

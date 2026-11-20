@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1800739,
+        "NOM": "Quarterfinal_2__TGG_vs_CR",
+        "JEU VIDEO": "Overwatch",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "08:50:02",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "09:37:11",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "17:34:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 32144,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 655,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "08:50:03",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "09:00:59",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134817,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 32145,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 540,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "09:09:42",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "09:18:42",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134817,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 32146,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 633,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "09:26:38",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "09:37:12",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134817,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136940,
+            "NOM": "The Gatos Guapos",
+            "LOCALISATION": "AU",
+            "ACRONYME": "TGG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:39:55"
+        },
+        {
+            "ID": 134817,
+            "NOM": "Crazy Raccoon",
+            "LOCALISATION": "KR",
+            "ACRONYME": "CR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:39:54"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 136940
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 134817
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22422,
+        "NOM": "Playoffs",
+        "TYPE": "online/offline",
+        "PAYS": "KR",
+        "REGION": "ASIA",
+        "TIER": "b",
+        "CASH PRIZE": "40,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "07:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "14:39:55",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5223,
+        "NOM": "OCS",
+        "DATE DE MODIFICATION": "2024-03-11",
+        "HEURE DE MODIFICATION": "12:36:42"
+    },
+    "SERIE": {
+        "ID": 11193,
+        "NOM": "Asia Stage 3 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-11",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-08",
+        "HEURE DE MODIFICATION": "17:34:58"
+    }
+}

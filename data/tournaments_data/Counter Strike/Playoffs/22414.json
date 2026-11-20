@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "18:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-        "HEURE DE LA DERNIERE MODIFICATION": "20:34:54",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:16:54",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,7 +16,7 @@
         {
             "NOM": "Round of 16 Match 1: NEM vs 33",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -26,8 +26,8 @@
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:29:41",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:26:12",
             "PRIZEPOOL": "30,000 United States Dollar",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-playoffs",
             "TIER": "d",
@@ -35,7 +35,7 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/scoresight"
+                "LIEN BRUTE": "https://www.twitch.tv/watchfulTVb"
             }
         },
         {
@@ -51,8 +51,8 @@
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:30:14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:30:16",
             "PRIZEPOOL": "30,000 United States Dollar",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-playoffs",
             "TIER": "d",
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:31:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:39:17",
             "PRIZEPOOL": "30,000 United States Dollar",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-playoffs",
             "TIER": "d",
@@ -458,8 +458,8 @@
             "ID": 137289,
             "NOM": "Team Nemesis",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:28:39",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:16:54",
             "ACRONYME": "NEM"
         },
         {
@@ -490,8 +490,8 @@
             "ID": 139200,
             "NOM": "Nice Try",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:33:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:42",
             "ACRONYME": null
         },
         {
@@ -1142,10 +1142,23 @@
                 "NOM": "Team Nemesis",
                 "LOCALISATION": "",
                 "ACRONYME": "NEM",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:28:39"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:16:54"
             },
             "JOUEURS": [
+                {
+                    "ID": 25467,
+                    "PSEUDO": "SELLTER",
+                    "ROLE": null,
+                    "PRENOM": "Ivan",
+                    "NOM": "Miroshnikov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-04",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:16:52"
+                },
                 {
                     "ID": 34992,
                     "PSEUDO": "r3salt",
@@ -1184,6 +1197,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
                     "HEURE DE LA DERNIERE MODIFICATION": "20:28:38"
+                },
+                {
+                    "ID": 46687,
+                    "PSEUDO": "tex1y",
+                    "ROLE": null,
+                    "PRENOM": "Philipp",
+                    "NOM": "Moskvitin",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-04-28",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:16:54"
                 },
                 {
                     "ID": 53409,
@@ -1450,8 +1476,8 @@
                 "NOM": "Nice Try",
                 "LOCALISATION": "UA",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:33:23"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:49:42"
             },
             "JOUEURS": [
                 {
