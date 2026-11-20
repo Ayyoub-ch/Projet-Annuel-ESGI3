@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1822370,
+        "NOM": "Round_of_16_Match_1__WaR_vs_Kodex_Esports",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "01:12:12",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "02:37:40",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240569,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2508,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "01:12:12",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "01:54:01",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139158,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240570,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2107,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "02:02:33",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "02:37:40",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139158,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139158,
+            "NOM": "Without a Roof",
+            "LOCALISATION": "US",
+            "ACRONYME": "WaR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "01:58:34"
+        },
+        {
+            "ID": 139156,
+            "NOM": "Kodex Esports",
+            "LOCALISATION": "US",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:27:42"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139158
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139156
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22496,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "d",
+        "CASH PRIZE": "10000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-20",
+        "HEURE DE MODIFICATION": "01:58:35",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5588,
+        "NOM": "CROSSFIRE",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "13:53:20"
+    },
+    "SERIE": {
+        "ID": 11222,
+        "NOM": "Season 7 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27"
+    }
+}

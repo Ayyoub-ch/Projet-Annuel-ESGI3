@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1820716,
+        "NOM": "Round_of_16_Match_5__LAG_vs_VIL",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "23:12:03",
+        "DATE DE FIN": "2026-11-20",
+        "HEURE DE FIN": "01:31:54",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240533,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2768,
+            "DATE DE DEBUT DE PARTIE": "2026-11-19",
+            "HEURE DE DEBUT DE PARTIE": "23:12:04",
+            "DATE DE FIN DE PARTIE": "2026-11-19",
+            "HEURE DE FIN DE PARTIE": "23:58:12",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129240,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240534,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2585,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "00:04:50",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "00:47:55",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 132366,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240535,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2302,
+            "DATE DE DEBUT DE PARTIE": "2026-11-20",
+            "HEURE DE DEBUT DE PARTIE": "00:53:32",
+            "DATE DE FIN DE PARTIE": "2026-11-20",
+            "HEURE DE FIN DE PARTIE": "01:31:54",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 132366,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 132366,
+            "NOM": "LAG Gaming",
+            "LOCALISATION": "US",
+            "ACRONYME": "LAG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:27"
+        },
+        {
+            "ID": 129240,
+            "NOM": "Villainous",
+            "LOCALISATION": "US",
+            "ACRONYME": "VIL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:21"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 132366
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 129240
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22496,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "d",
+        "CASH PRIZE": "10000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-20",
+        "HEURE DE MODIFICATION": "01:58:35",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5588,
+        "NOM": "CROSSFIRE",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "13:53:20"
+    },
+    "SERIE": {
+        "ID": 11222,
+        "NOM": "Season 7 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27"
+    }
+}
