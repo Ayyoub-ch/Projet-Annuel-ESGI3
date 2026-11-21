@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "18:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:02:33",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:02:32",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -166,7 +166,7 @@
         {
             "NOM": "Round of 16 Match 7: INF vs BAKS",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -177,7 +177,7 @@
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:12:33",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:18:44",
             "PRIZEPOOL": "30,000 United States Dollar",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-playoffs",
             "TIER": "d",
@@ -191,18 +191,18 @@
         {
             "NOM": "Round of 16 Match 8: APG vs FORZE.R",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "18:00:00",
+            "HEURE PRÉVUE": "18:45:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:51:45",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:02:50",
             "PRIZEPOOL": "30,000 United States Dollar",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-playoffs",
             "TIER": "d",
@@ -214,7 +214,7 @@
             }
         },
         {
-            "NOM": "Quarterfinal 1: VP vs TBD",
+            "NOM": "Quarterfinal 1: VP vs INF",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -227,7 +227,7 @@
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:12:26",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:18:44",
             "PRIZEPOOL": "30,000 United States Dollar",
             "SLUG": "cs-go-nodwin-clutch-series-14-2026-playoffs",
             "TIER": "d",
@@ -426,8 +426,8 @@
             "ID": 135381,
             "NOM": "Apogee Esports",
             "LOCALISATION": "PL",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:33:29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:02:29",
             "ACRONYME": "APG"
         },
         {
@@ -514,8 +514,8 @@
             "ID": 139603,
             "NOM": "Hype Tech",
             "LOCALISATION": "RS",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:28:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:22:23",
             "ACRONYME": "HT"
         }
     ],
@@ -834,8 +834,8 @@
                 "NOM": "Apogee Esports",
                 "LOCALISATION": "PL",
                 "ACRONYME": "APG",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:33:29"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:02:29"
             },
             "JOUEURS": [
                 {
@@ -902,6 +902,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
                     "HEURE DE LA DERNIERE MODIFICATION": "20:33:29"
+                },
+                {
+                    "ID": 49143,
+                    "PSEUDO": "brain",
+                    "ROLE": null,
+                    "PRENOM": "Oliwier ",
+                    "NOM": "Dychus",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:02:29"
                 }
             ]
         },
@@ -1720,8 +1733,8 @@
                 "NOM": "Hype Tech",
                 "LOCALISATION": "RS",
                 "ACRONYME": "HT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:28:47"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:22:23"
             },
             "JOUEURS": [
                 {

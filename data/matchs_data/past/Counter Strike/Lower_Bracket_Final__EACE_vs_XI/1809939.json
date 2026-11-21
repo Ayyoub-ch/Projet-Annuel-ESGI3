@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1809939,
+        "NOM": "Lower_Bracket_Final__EACE_vs_XI",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "15:55:22",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "17:19:44",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "09:05:04",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239494,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2291,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "15:55:23",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "16:33:34",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139089,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239495,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1992,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "16:46:32",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "17:19:45",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139089,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139089,
+            "NOM": "EAC Extra",
+            "LOCALISATION": "DK",
+            "ACRONYME": "EACE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:29:09"
+        },
+        {
+            "ID": 131591,
+            "NOM": "XI Esport",
+            "LOCALISATION": "DK",
+            "ACRONYME": "XI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139089
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 131591
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22457,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "DK",
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": "86,000 Danish Krone",
+        "VAINQUEUR": 137861,
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "19:35:19",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4473,
+        "NOM": "Dust2.dk Ligaen",
+        "DATE DE MODIFICATION": "2023-11-09",
+        "HEURE DE MODIFICATION": "13:26:24"
+    },
+    "SERIE": {
+        "ID": 10976,
+        "NOM": "Season 33 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-09-14",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "09:05:04"
+    }
+}

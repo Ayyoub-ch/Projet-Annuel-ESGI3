@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "19:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-        "HEURE DE LA DERNIERE MODIFICATION": "12:06:19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:12:53",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -241,18 +241,18 @@
         {
             "NOM": "PR vs TS",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "16:00:00",
+            "HEURE PRÉVUE": "16:45:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:02:35",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:13:02",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-b",
             "TIER": "d",
@@ -418,16 +418,16 @@
             "ID": 137870,
             "NOM": "Power Rangers",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:26:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:12:52",
             "ACRONYME": "PR"
         },
         {
             "ID": 139124,
             "NOM": "Team Synapse",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:35:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:51:14",
             "ACRONYME": "TS"
         },
         {
@@ -677,8 +677,8 @@
                 "NOM": "Power Rangers",
                 "LOCALISATION": "",
                 "ACRONYME": "PR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:26:56"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:12:52"
             },
             "JOUEURS": [
                 {
@@ -719,6 +719,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "17:06:11"
+                },
+                {
+                    "ID": 39741,
+                    "PSEUDO": "ktAmOp",
+                    "ROLE": "3",
+                    "PRENOM": "Nikolay",
+                    "NOM": "Khalyapin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-03-01",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:12:52"
                 },
                 {
                     "ID": 41064,
@@ -767,10 +780,23 @@
                 "NOM": "Team Synapse",
                 "LOCALISATION": "",
                 "ACRONYME": "TS",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                "HEURE DE LA DERNIERE MODIFICATION": "15:35:40"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "18:51:14"
             },
             "JOUEURS": [
+                {
+                    "ID": 40455,
+                    "PSEUDO": "Pastil",
+                    "ROLE": "2",
+                    "PRENOM": "Mohammad ",
+                    "NOM": "Shahmoradi",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-30",
+                    "NATIONALITE": "IR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "18:51:14"
+                },
                 {
                     "ID": 41089,
                     "PSEUDO": " emptiness死",

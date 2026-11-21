@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-12-06",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-        "HEURE DE LA DERNIERE MODIFICATION": "16:18:56",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:09:37",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,55 +16,55 @@
         {
             "NOM": "Semifinal 1: NONP vs STS",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "16:00:00",
+            "HEURE PRÉVUE": "16:10:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:00:24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:14:17",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-middle-east-north-africa-2027-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/valorant_emea"
+                "MAIN": false,
+                "LANGUE": "ar",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=_8E6isaM2YY"
             }
         },
         {
             "NOM": "Semifinal 2: MMM vs GMX",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "18:30:00",
+            "HEURE PRÉVUE": "19:30:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:00:29",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:06:18",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-middle-east-north-africa-2027-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/valorant_emea"
+                "MAIN": false,
+                "LANGUE": "ar",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=_8E6isaM2YY"
             }
         },
         {
-            "NOM": "Grand Final: TBD vs TBD",
+            "NOM": "Grand Final: NONP vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -76,8 +76,8 @@
             "HEURE DE DEBUT": "2026-12-06",
             "DATE DE FIN": "2026-12-06",
             "HEURE DE FIN": "2026-12-06",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:18:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:00:42",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-middle-east-north-africa-2027-playoffs",
             "TIER": "d",
@@ -118,8 +118,8 @@
             "ID": 139628,
             "NOM": "No Org No Problem",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:18:10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:09:37",
             "ACRONYME": "NONP"
         }
     ],
@@ -361,8 +361,8 @@
                 "NOM": "No Org No Problem",
                 "LOCALISATION": "",
                 "ACRONYME": "NONP",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:18:10"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:09:37"
             },
             "JOUEURS": [
                 {
@@ -429,6 +429,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:18:48"
+                },
+                {
+                    "ID": 63255,
+                    "PSEUDO": "Susano",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:09:37"
                 }
             ]
         }
