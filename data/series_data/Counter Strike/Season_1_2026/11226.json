@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11226,
+        "NOM": "Season_1_2026",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:12:57",
+        "ANNEE": 2026,
+        "SAISON": "1"
+    },
+    "LIGUE": {
+        "ID": 5589,
+        "NOM": "LD Championship",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:12:57"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "offline",
+            "PAYS": "IS",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "18:00:00",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:12:57",
+            "PRIZEPOOL": "650,000 Icelandic Krona",
+            "SLUG": "cs-go-ld-championship-1-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

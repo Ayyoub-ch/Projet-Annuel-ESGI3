@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11228,
+        "NOM": "Offline_Finals",
+        "JEU VIDEO": "StarCraft 2",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:38:44",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5411,
+        "NOM": "RSL Revival",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-06-17",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:19:07"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Open Bracket Stage",
+            "TYPE": "offline",
+            "PAYS": "GB",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "12:00:00",
+            "DATE DE FIN": "2026-11-22",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:43:49",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "starcraft-2-rsl-revival-offline-finals-2026-open-bracket-stage",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": false,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

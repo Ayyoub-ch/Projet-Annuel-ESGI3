@@ -1,0 +1,449 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22501,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "LoL",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-06",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:19:11",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Semifinal 1: RB vs MR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:45",
+            "PRIZEPOOL": "10000 Euro",
+            "SLUG": "league-of-legends-nova-series-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Semifinal 2: SK.A vs 6TT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "19:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:55",
+            "PRIZEPOOL": "10000 Euro",
+            "SLUG": "league-of-legends-nova-series-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Grand Final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-12-06",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-12-06",
+            "HEURE DE DEBUT": "2026-12-06",
+            "DATE DE FIN": "2026-12-06",
+            "HEURE DE FIN": "2026-12-06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:19:11",
+            "PRIZEPOOL": "10000 Euro",
+            "SLUG": "league-of-legends-nova-series-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 137170,
+            "NOM": "SK Gaming Avarosa",
+            "LOCALISATION": "DE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:09",
+            "ACRONYME": "SK.A"
+        },
+        {
+            "ID": 137371,
+            "NOM": "Vitality Rising Bees",
+            "LOCALISATION": "FR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:09",
+            "ACRONYME": "RB"
+        },
+        {
+            "ID": 137577,
+            "NOM": "Mental Rush",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:10",
+            "ACRONYME": "MR"
+        },
+        {
+            "ID": 139640,
+            "NOM": "Six Tung Tung Tung Sahurs",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:10",
+            "ACRONYME": "6TT"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 137170,
+                "NOM": "SK Gaming Avarosa",
+                "LOCALISATION": "DE",
+                "ACRONYME": "SK.A",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 56563,
+                    "PSEUDO": "Apollonia",
+                    "ROLE": "mid",
+                    "PRENOM": "Dafni",
+                    "NOM": "Gkerveni",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-10-05",
+                    "NATIONALITE": "GR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+                },
+                {
+                    "ID": 61778,
+                    "PSEUDO": "Yushia",
+                    "ROLE": "jun",
+                    "PRENOM": "Iulia",
+                    "NOM": "Boldor",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-11-04",
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+                },
+                {
+                    "ID": 61780,
+                    "PSEUDO": "Nenris",
+                    "ROLE": "adc",
+                    "PRENOM": "Alessandra",
+                    "NOM": "Schmalfuß",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-28",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+                },
+                {
+                    "ID": 61785,
+                    "PSEUDO": "GWolfieG",
+                    "ROLE": "top",
+                    "PRENOM": "Lily",
+                    "NOM": "Kraft",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-02-03",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+                },
+                {
+                    "ID": 68426,
+                    "PSEUDO": "Saritah",
+                    "ROLE": "sup",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137371,
+                "NOM": "Vitality Rising Bees",
+                "LOCALISATION": "FR",
+                "ACRONYME": "RB",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 61791,
+                    "PSEUDO": "Cosmic",
+                    "ROLE": "adc",
+                    "PRENOM": "Charlotte",
+                    "NOM": "Tranquillin",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-06",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+                },
+                {
+                    "ID": 61795,
+                    "PSEUDO": "Delicate",
+                    "ROLE": "jun",
+                    "PRENOM": "Chara",
+                    "NOM": "Giannopoulou",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-31",
+                    "NATIONALITE": "GR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:08"
+                },
+                {
+                    "ID": 61802,
+                    "PSEUDO": "owpi",
+                    "ROLE": "top",
+                    "PRENOM": "Mimi",
+                    "NOM": "Effraimidi",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-10-03",
+                    "NATIONALITE": "GR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:08"
+                },
+                {
+                    "ID": 61805,
+                    "PSEUDO": "rym",
+                    "ROLE": "mid",
+                    "PRENOM": "Rym",
+                    "NOM": "Salloum",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "VE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:08"
+                },
+                {
+                    "ID": 63730,
+                    "PSEUDO": "Honda",
+                    "ROLE": "sup",
+                    "PRENOM": "Natascha",
+                    "NOM": "Emorfili Latzel",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-14",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137577,
+                "NOM": "Mental Rush",
+                "LOCALISATION": "",
+                "ACRONYME": "MR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 56579,
+                    "PSEUDO": "Miella",
+                    "ROLE": "adc",
+                    "PRENOM": "Mia",
+                    "NOM": "Steger",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-26",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                },
+                {
+                    "ID": 61789,
+                    "PSEUDO": "Karina",
+                    "ROLE": "jun",
+                    "PRENOM": "Agnė",
+                    "NOM": "Ivaškevičiūtė",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-06-10",
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                },
+                {
+                    "ID": 66069,
+                    "PSEUDO": "Meloncola",
+                    "ROLE": "top",
+                    "PRENOM": "Abigail",
+                    "NOM": "Horst",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-02-01",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:09"
+                },
+                {
+                    "ID": 66748,
+                    "PSEUDO": "Sahrii",
+                    "ROLE": "sup",
+                    "PRENOM": "Sarah",
+                    "NOM": "Lesch",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-02",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                },
+                {
+                    "ID": 66751,
+                    "PSEUDO": "khylee",
+                    "ROLE": "mid",
+                    "PRENOM": "Marceline",
+                    "NOM": null,
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-03-29",
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139640,
+                "NOM": "Six Tung Tung Tung Sahurs",
+                "LOCALISATION": "",
+                "ACRONYME": "6TT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 39217,
+                    "PSEUDO": "Caltys",
+                    "ROLE": "mid",
+                    "PRENOM": "Maya",
+                    "NOM": "Henckel",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-11",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                },
+                {
+                    "ID": 56565,
+                    "PSEUDO": "Lumi",
+                    "ROLE": "sup",
+                    "PRENOM": "Gina",
+                    "NOM": "Kircher",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                },
+                {
+                    "ID": 56947,
+                    "PSEUDO": "Clef",
+                    "ROLE": "adc",
+                    "PRENOM": "Fabienne",
+                    "NOM": "Kersting",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-10-20",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                },
+                {
+                    "ID": 61793,
+                    "PSEUDO": "Wiosna",
+                    "ROLE": "top",
+                    "PRENOM": "Alice",
+                    "NOM": "Mossé",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                },
+                {
+                    "ID": 66752,
+                    "PSEUDO": "aly",
+                    "ROLE": "jun",
+                    "PRENOM": "Alina",
+                    "NOM": "Müller",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:10"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Nova Series",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:23:07"
+    },
+    "SERIE": {
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:19:11",
+        "ID DU VAINQUEUR": null
+    }
+}

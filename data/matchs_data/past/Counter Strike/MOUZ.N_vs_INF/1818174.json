@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1818174,
+        "NOM": "MOUZ.N_vs_INF",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "12:17:57",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "14:48:03",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:28:53",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240098,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2049,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "12:17:58",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "12:52:07",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129160,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240099,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2650,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "13:09:46",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "13:53:56",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 132795,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240100,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2229,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "14:10:54",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "14:48:04",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129160,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129160,
+            "NOM": "MOUZ NXT",
+            "LOCALISATION": "DE",
+            "ACRONYME": "MOUZ.N",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:35:52"
+        },
+        {
+            "ID": 132795,
+            "NOM": "INFURITY Gaming",
+            "LOCALISATION": "NO",
+            "ACRONYME": "INF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:54:02"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 129160
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 132795
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22481,
+        "NOM": "Group C",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "18:00:00",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "12:54:02",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11216,
+        "NOM": "Closed Qualifier: Series #15 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:28:53"
+    }
+}

@@ -216,7 +216,7 @@
         {
             "NOM": "Upper Bracket Final: ACES vs LUN",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -226,58 +226,58 @@
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:54:11",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:57:20",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-gluck-yungstar-wildcard-lan-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
                 "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/gluck_esports_2"
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/vanfantv"
             }
         },
         {
             "NOM": "Lower Bracket Semifinal: FORZE.R vs ENJOY",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "12:00:00",
+            "HEURE PRÉVUE": "13:35:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:04:59",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:34:01",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-gluck-yungstar-wildcard-lan-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": false,
+                "MAIN": true,
                 "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/gluck_esports_2"
+                "LIEN BRUTE": "https://www.twitch.tv/gluck_esports"
             }
         },
         {
-            "NOM": "Lower Bracket Final: TBD vs TBD",
+            "NOM": "Lower Bracket Final: ACES vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "16:30:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:02:25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:05",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-gluck-yungstar-wildcard-lan-2026-playoffs",
             "TIER": "d",
@@ -289,7 +289,7 @@
             }
         },
         {
-            "NOM": "Grand Final: TBD vs TBD",
+            "NOM": "Grand Final: LUN vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -301,8 +301,8 @@
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:04:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:53:19",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-gluck-yungstar-wildcard-lan-2026-playoffs",
             "TIER": "d",
@@ -393,8 +393,8 @@
             "ID": 138406,
             "NOM": "Just Players",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:03:13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:28:55",
             "ACRONYME": "JustP"
         },
         {
@@ -668,8 +668,8 @@
                 "NOM": "Just Players",
                 "LOCALISATION": "RU",
                 "ACRONYME": "JustP",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:03:13"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:28:55"
             },
             "JOUEURS": [
                 {
@@ -682,8 +682,8 @@
                     "DATE DE NAISSANCE": "2002-04-26",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:12"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:28"
                 },
                 {
                     "ID": 37221,
@@ -695,8 +695,8 @@
                     "DATE DE NAISSANCE": "2004-11-01",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:13"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:47"
                 },
                 {
                     "ID": 38521,
@@ -708,8 +708,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:12"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:00"
                 },
                 {
                     "ID": 42302,
@@ -721,8 +721,8 @@
                     "DATE DE NAISSANCE": "2003-11-18",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:13"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:28:55"
                 },
                 {
                     "ID": 61607,
@@ -734,8 +734,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:03:13"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:27:44"
                 }
             ]
         },

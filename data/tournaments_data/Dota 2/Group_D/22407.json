@@ -14,34 +14,9 @@
     },
     "MATCHES": [
         {
-            "NOM": "AUR vs AI",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": true,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "11:00:00",
-            "DATE DE DEBUT": "2026-11-21",
-            "HEURE DE DEBUT": "2026-11-21",
-            "DATE DE FIN": "2026-11-21",
-            "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:01:29",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "dota-2-blast-slam-9-2026-group-d",
-            "TIER": "a",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": false,
-                "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru"
-            }
-        },
-        {
             "NOM": "LGD vs 1W",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": true,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -51,8 +26,33 @@
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:01:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:11:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-blast-slam-9-2026-group-d",
+            "TIER": "a",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+            }
+        },
+        {
+            "NOM": "AUR vs AI",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": true,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:36:53",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-blast-slam-9-2026-group-d",
             "TIER": "a",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "NOM": "Winners' Match: TBD vs TBD",
+            "NOM": "Winners' Match: 1W vs AUR",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": true,
@@ -76,8 +76,8 @@
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:23:48",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:13:28",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-blast-slam-9-2026-group-d",
             "TIER": "a",
@@ -85,11 +85,11 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru"
             }
         },
         {
-            "NOM": "Elimination Match: TBD vs TBD",
+            "NOM": "Elimination Match: LGD vs AI",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": true,
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:23:48",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:13:29",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-blast-slam-9-2026-group-d",
             "TIER": "a",
@@ -110,7 +110,7 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "ru",
-                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru2"
+                "LIEN BRUTE": "https://www.twitch.tv/betboom_dota_ru"
             }
         },
         {

@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "10:00:00",
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "19:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-        "HEURE DE LA DERNIERE MODIFICATION": "21:15:53",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "12:06:19",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -216,18 +216,18 @@
         {
             "NOM": "PR vs Red John",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "10:00:00",
+            "HEURE PRÉVUE": "10:10:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:01:20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:59:54",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-b",
             "TIER": "d",
@@ -276,8 +276,8 @@
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:54:57",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:12:46",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-b",
             "TIER": "d",
@@ -301,8 +301,8 @@
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:01:31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:12:57",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "dota-2-european-pro-league-41-2026-group-b",
             "TIER": "d",
@@ -434,8 +434,8 @@
             "ID": 139600,
             "NOM": "Red John",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:27:03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:20:43",
             "ACRONYME": null
         }
     ],
@@ -844,8 +844,8 @@
                 "NOM": "Red John",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-15",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:27:03"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:20:43"
             },
             "JOUEURS": [
                 {
@@ -925,6 +925,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "09:08:08"
+                },
+                {
+                    "ID": 55722,
+                    "PSEUDO": "hotoke",
+                    "ROLE": "3",
+                    "PRENOM": "Maxim",
+                    "NOM": "Azarov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:20:43"
                 }
             ]
         }

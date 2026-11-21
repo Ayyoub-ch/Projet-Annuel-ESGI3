@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1809937,
+        "NOM": "Upper_Bracket_Final__STA_vs_XI",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "12:39:58",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "15:15:52",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "09:05:04",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 239488,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2803,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "12:39:58",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "13:26:42",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 131591,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239489,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2246,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "13:43:34",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "14:21:01",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137861,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 239490,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2202,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "14:39:10",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "15:15:53",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137861,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137861,
+            "NOM": "STATE",
+            "LOCALISATION": "DK",
+            "ACRONYME": "STA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:11"
+        },
+        {
+            "ID": 131591,
+            "NOM": "XI Esport",
+            "LOCALISATION": "DK",
+            "ACRONYME": "XI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:41:15"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137861
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 131591
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22457,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "DK",
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": "86,000 Danish Krone",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "17:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "12:15:50",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4473,
+        "NOM": "Dust2.dk Ligaen",
+        "DATE DE MODIFICATION": "2023-11-09",
+        "HEURE DE MODIFICATION": "13:26:24"
+    },
+    "SERIE": {
+        "ID": 10976,
+        "NOM": "Season 33 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-09-14",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-13",
+        "HEURE DE MODIFICATION": "09:05:04"
+    }
+}

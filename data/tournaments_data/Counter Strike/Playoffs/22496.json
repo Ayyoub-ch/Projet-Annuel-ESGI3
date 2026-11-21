@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "01:00:00",
         "DATE DE FIN": "2026-12-14",
         "HEURE DE FIN": "04:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-        "HEURE DE LA DERNIERE MODIFICATION": "21:27:12",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:09:34",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -176,8 +176,8 @@
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:15:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:11:54",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -1066,8 +1066,8 @@
             "ID": 138044,
             "NOM": "FarmVille",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:05:34",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:14:48",
             "ACRONYME": "FV"
         },
         {
@@ -1106,8 +1106,8 @@
             "ID": 138740,
             "NOM": "NineFly Esports",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:27:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:09:34",
             "ACRONYME": "NFE"
         },
         {
@@ -1909,8 +1909,8 @@
                 "NOM": "FarmVille",
                 "LOCALISATION": "",
                 "ACRONYME": "FV",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:05:34"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:14:48"
             },
             "JOUEURS": [
                 {
@@ -1975,8 +1975,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:34"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:14:49"
                 }
             ]
         },
@@ -2294,10 +2294,23 @@
                 "NOM": "NineFly Esports",
                 "LOCALISATION": "US",
                 "ACRONYME": "NFE",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:09:34"
             },
             "JOUEURS": [
+                {
+                    "ID": 29264,
+                    "PSEUDO": "Fade",
+                    "ROLE": null,
+                    "PRENOM": "Fadi",
+                    "NOM": " Al-Najjar",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IQ",
+                    "EN ACTVITE": false,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:03:01"
+                },
                 {
                     "ID": 55211,
                     "PSEUDO": "CoolGames13",
@@ -2310,6 +2323,45 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                },
+                {
+                    "ID": 69034,
+                    "PSEUDO": "coolgamer42",
+                    "ROLE": null,
+                    "PRENOM": "Austin",
+                    "NOM": "Waite",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:09:33"
+                },
+                {
+                    "ID": 69035,
+                    "PSEUDO": "RMV1207",
+                    "ROLE": null,
+                    "PRENOM": "Ryan",
+                    "NOM": "Vesey",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:09:34"
+                },
+                {
+                    "ID": 69036,
+                    "PSEUDO": "Specter",
+                    "ROLE": null,
+                    "PRENOM": "Bill",
+                    "NOM": "Tran",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:09:34"
                 }
             ]
         },

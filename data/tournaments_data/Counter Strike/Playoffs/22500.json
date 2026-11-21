@@ -1,0 +1,229 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22500,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:12:57",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Grand final: DUSTY vs Þór",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 5,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:20:53",
+            "PRIZEPOOL": "650,000 Icelandic Krona",
+            "SLUG": "cs-go-ld-championship-1-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "is",
+                "LIEN BRUTE": "https://www.twitch.tv/rafithrottir"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 128068,
+            "NOM": "DUSTY",
+            "LOCALISATION": "IS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:11:56",
+            "ACRONYME": "DUSTY"
+        },
+        {
+            "ID": 130152,
+            "NOM": "Þór",
+            "LOCALISATION": "IS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:11:56",
+            "ACRONYME": "Þór"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 128068,
+                "NOM": "DUSTY",
+                "LOCALISATION": "IS",
+                "ACRONYME": "DUSTY",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 39099,
+                    "PSEUDO": "pandaz",
+                    "ROLE": null,
+                    "PRENOM": "Ásmundur",
+                    "NOM": "Viggósson",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:55"
+                },
+                {
+                    "ID": 41047,
+                    "PSEUDO": "peterr",
+                    "ROLE": null,
+                    "PRENOM": "Pétur",
+                    "NOM": "Helgason",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+                },
+                {
+                    "ID": 44638,
+                    "PSEUDO": "RavlE",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-18",
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:55"
+                },
+                {
+                    "ID": 44639,
+                    "PSEUDO": "Blick",
+                    "ROLE": null,
+                    "PRENOM": "Brimir",
+                    "NOM": "Birgisson",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+                },
+                {
+                    "ID": 51022,
+                    "PSEUDO": "Tony",
+                    "ROLE": null,
+                    "PRENOM": "Antonio Kristófer",
+                    "NOM": "Salvador",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:55"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130152,
+                "NOM": "Þór",
+                "LOCALISATION": "IS",
+                "ACRONYME": "Þór",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 48431,
+                    "PSEUDO": "Pressi",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+                },
+                {
+                    "ID": 51023,
+                    "PSEUDO": "Vrhex",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+                },
+                {
+                    "ID": 69054,
+                    "PSEUDO": "Æsi",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+                },
+                {
+                    "ID": 69055,
+                    "PSEUDO": "Stjani",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+                },
+                {
+                    "ID": 69056,
+                    "PSEUDO": "Rodriguez",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IS",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:56"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "LD Championship",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:12:57"
+    },
+    "SERIE": {
+        "NOM": "Season 1 2026",
+        "ANNEE": 2026,
+        "SAISON": "1",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:12:57",
+        "ID DU VAINQUEUR": null
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11227,
+        "NOM": "2026",
+        "JEU VIDEO": "LoL",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-06",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:19:11",
+        "ANNEE": 2026,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 5455,
+        "NOM": "Nova Series",
+        "DATE DE LA DERNIERE MODIFICATION": "2025-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:23:07"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online/offline",
+            "PAYS": "FR",
+            "REGION": "WEU",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "2026-12-06",
+            "HEURE DE FIN": "22:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:19:11",
+            "PRIZEPOOL": "10000 Euro",
+            "SLUG": "league-of-legends-nova-series-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}
