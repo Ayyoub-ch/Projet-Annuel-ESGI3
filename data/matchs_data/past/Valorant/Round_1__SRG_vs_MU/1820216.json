@@ -1,0 +1,121 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1820216,
+        "NOM": "Round_1__SRG_vs_MU",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "00:01:55",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "02:00:34",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:47:16",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53153,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2384,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "00:01:55",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "00:41:39",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135769,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53154,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 4287,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "00:49:07",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "02:00:34",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135769,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 131274,
+            "NOM": "Shopify Rebellion Gold",
+            "LOCALISATION": "US",
+            "ACRONYME": "SRG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:44:43"
+        },
+        {
+            "ID": 135769,
+            "NOM": "Maryville University",
+            "LOCALISATION": "US",
+            "ACRONYME": "MU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:45:22"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 131274
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135769
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22493,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "03:12:51",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11220,
+        "NOM": "Americas Kickoff: North America 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:47:16"
+    }
+}

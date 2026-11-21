@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1820243,
+        "NOM": "RORA_vs_JGE",
+        "JEU VIDEO": "King of Glory",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "04:01:23",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "05:17:07",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:58:31",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19632,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1125,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "04:01:23",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "04:20:09",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138653,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19633,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1098,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "04:29:12",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "04:47:30",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138653,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 19634,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1083,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "04:59:04",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "05:17:07",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138653,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138653,
+            "NOM": "Aurora Gaming",
+            "LOCALISATION": "MY",
+            "ACRONYME": "RORA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:21:34"
+        },
+        {
+            "ID": 139616,
+            "NOM": "JGame Esports",
+            "LOCALISATION": "",
+            "ACRONYME": "JGE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:24:57"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 138653
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139616
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22494,
+        "NOM": "Group Stage",
+        "TYPE": "offline",
+        "PAYS": "MY",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "04:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "17:00:00",
+        "DATE DE MODIFICATION": "2026-11-19",
+        "HEURE DE MODIFICATION": "09:47:45",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4606,
+        "NOM": "Honor of Kings",
+        "DATE DE MODIFICATION": "2023-12-26",
+        "HEURE DE MODIFICATION": "22:12:49"
+    },
+    "SERIE": {
+        "ID": 11221,
+        "NOM": "Nation Clash 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "04:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:58:31"
+    }
+}

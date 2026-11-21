@@ -1,0 +1,121 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1820215,
+        "NOM": "Round_1__SaD_vs_WU",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "01:35:02",
+        "DATE DE FIN": "2026-11-21",
+        "HEURE DE FIN": "03:12:24",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:47:16",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53150,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2642,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "01:35:02",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "02:19:05",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134681,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53151,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2490,
+            "DATE DE DEBUT DE PARTIE": "2026-11-21",
+            "HEURE DE DEBUT DE PARTIE": "02:30:54",
+            "DATE DE FIN DE PARTIE": "2026-11-21",
+            "HEURE DE FIN DE PARTIE": "03:12:24",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134681,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 134026,
+            "NOM": "SaD Esports",
+            "LOCALISATION": "US",
+            "ACRONYME": "SaD",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:12:48"
+        },
+        {
+            "ID": 134681,
+            "NOM": "Winthrop University",
+            "LOCALISATION": "US",
+            "ACRONYME": "WU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:12:50"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 134026
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 134681
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22493,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "03:12:51",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11220,
+        "NOM": "Americas Kickoff: North America 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:47:16"
+    }
+}

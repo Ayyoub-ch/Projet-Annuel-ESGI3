@@ -616,26 +616,26 @@
         {
             "NOM": "TEC vs Qian Xing Gaming",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "06:00:00",
+            "HEURE PRÉVUE": "06:15:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "23:01:26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:15:55",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-group-a",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://live.bilibili.com/9459454"
             }
         },
         {
@@ -926,7 +926,7 @@
                     "ROLE": null,
                     "PRENOM": "Dai",
                     "NOM": "Zhenyu",
-                    "AGE": 19,
+                    "AGE": 20,
                     "DATE DE NAISSANCE": "2006-11-21",
                     "NATIONALITE": "CN",
                     "EN ACTVITE": true,
