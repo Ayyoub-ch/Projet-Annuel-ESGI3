@@ -8,26 +8,51 @@
         "DATE DE FIN": "2026-12-07",
         "HEURE DE FIN": "04:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-        "HEURE DE LA DERNIERE MODIFICATION": "15:25:43",
+        "HEURE DE LA DERNIERE MODIFICATION": "23:49:25",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
         {
-            "NOM": "Round 1: C9 vs counterfeit",
+            "NOM": "Round 1: QoR vs OAFS",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-20",
-            "HEURE PRÉVUE": "22:00:00",
+            "HEURE PRÉVUE": "22:10:00",
             "DATE DE DEBUT": "2026-11-20",
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:24:03",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:50:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/raidiant_beam"
+            }
+        },
+        {
+            "NOM": "Round 1: C9 vs counterfeit",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "22:10:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:58:28",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
             "TIER": "c",
@@ -41,18 +66,18 @@
         {
             "NOM": "Round 1: NV vs YDG",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-20",
-            "HEURE PRÉVUE": "22:00:00",
+            "HEURE PRÉVUE": "22:10:00",
             "DATE DE DEBUT": "2026-11-20",
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:24:10",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:54:22",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
             "TIER": "c",
@@ -60,49 +85,24 @@
             "INFO DE STREAMING": {
                 "MAIN": true,
                 "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/valorant_americas"
+                "LIEN BRUTE": "https://www.twitch.tv/redbull"
             }
         },
         {
             "NOM": "Round 1: YFP vs WLD",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-20",
-            "HEURE PRÉVUE": "22:00:00",
+            "HEURE PRÉVUE": "22:25:00",
             "DATE DE DEBUT": "2026-11-20",
             "HEURE DE DEBUT": "2026-11-20",
             "DATE DE FIN": "2026-11-20",
             "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:24:26",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Round 1: QoR vs OAFS",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-20",
-            "HEURE PRÉVUE": "22:00:00",
-            "DATE DE DEBUT": "2026-11-20",
-            "HEURE DE DEBUT": "2026-11-20",
-            "DATE DE FIN": "2026-11-20",
-            "HEURE DE FIN": "2026-11-20",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:23:51",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:08:53",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
             "TIER": "c",
@@ -110,7 +110,57 @@
             "INFO DE STREAMING": {
                 "MAIN": true,
                 "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/valorant_americas"
+                "LIEN BRUTE": "https://www.twitch.tv/raidiantgg"
+            }
+        },
+        {
+            "NOM": "Round 1: SRG vs MU",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "running",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "00:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:02:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/raidiant_beam"
+            }
+        },
+        {
+            "NOM": "Round 1: SRB vs XORA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "running",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "00:10:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:14:34",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/redbull"
             }
         },
         {
@@ -126,33 +176,8 @@
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:32:08",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/valorant_americas"
-            }
-        },
-        {
-            "NOM": "Round 1: SRB vs XORA",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "00:30:00",
-            "DATE DE DEBUT": "2026-11-21",
-            "HEURE DE DEBUT": "2026-11-21",
-            "DATE DE FIN": "2026-11-21",
-            "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:32:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:22:46",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
             "TIER": "c",
@@ -171,13 +196,13 @@
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "00:30:00",
+            "HEURE PRÉVUE": "01:00:00",
             "DATE DE DEBUT": "2026-11-21",
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:32:13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:02:50",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
             "TIER": "c",
@@ -185,32 +210,7 @@
             "INFO DE STREAMING": {
                 "MAIN": true,
                 "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/valorant_americas"
-            }
-        },
-        {
-            "NOM": "Round 1: SRG vs MU",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-21",
-            "HEURE PRÉVUE": "00:30:00",
-            "DATE DE DEBUT": "2026-11-21",
-            "HEURE DE DEBUT": "2026-11-21",
-            "DATE DE FIN": "2026-11-21",
-            "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:32:16",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-north-america-2027-swiss-stage",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://www.twitch.tv/valorant_americas"
+                "LIEN BRUTE": "https://www.twitch.tv/raidiantgg"
             }
         },
         {
@@ -519,8 +519,8 @@
             "ID": 128470,
             "NOM": "Team Envy",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:46:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:49:25",
             "ACRONYME": "NV"
         },
         {
@@ -631,8 +631,8 @@
             "ID": 139614,
             "NOM": " Yellow Dragon Gaming",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:44:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:49:25",
             "ACRONYME": "YDG"
         },
         {
@@ -651,10 +651,76 @@
                 "NOM": "Team Envy",
                 "LOCALISATION": "US",
                 "ACRONYME": "NV",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "22:46:07"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "23:49:25"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 30118,
+                    "PSEUDO": "v1c",
+                    "ROLE": null,
+                    "PRENOM": "Victor ",
+                    "NOM": "Truong",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-31",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:49:24"
+                },
+                {
+                    "ID": 51080,
+                    "PSEUDO": "ion2x",
+                    "ROLE": null,
+                    "PRENOM": "Ayan",
+                    "NOM": null,
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2009-01-07",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:49:23"
+                },
+                {
+                    "ID": 58876,
+                    "PSEUDO": "exa",
+                    "ROLE": null,
+                    "PRENOM": "Kim",
+                    "NOM": "Lee-hwan",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-09-27",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:49:23"
+                },
+                {
+                    "ID": 69024,
+                    "PSEUDO": "pks",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:50:33"
+                },
+                {
+                    "ID": 69025,
+                    "PSEUDO": "xpa",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:50:39"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -1584,8 +1650,8 @@
                 "NOM": " Yellow Dragon Gaming",
                 "LOCALISATION": "",
                 "ACRONYME": "YDG",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-                "HEURE DE LA DERNIERE MODIFICATION": "09:44:44"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "23:49:25"
             },
             "JOUEURS": [
                 {
@@ -1652,6 +1718,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
                     "HEURE DE LA DERNIERE MODIFICATION": "15:26:43"
+                },
+                {
+                    "ID": 69026,
+                    "PSEUDO": "maxvli",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "23:50:44"
                 }
             ]
         },

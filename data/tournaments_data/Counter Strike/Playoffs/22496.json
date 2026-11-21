@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-12-14",
         "HEURE DE FIN": "04:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-        "HEURE DE LA DERNIERE MODIFICATION": "09:57:32",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:27:12",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -176,8 +176,8 @@
             "HEURE DE DEBUT": "2026-11-21",
             "DATE DE FIN": "2026-11-21",
             "HEURE DE FIN": "2026-11-21",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:32:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "23:01:23",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -314,7 +314,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 1 match 1: FLY.R vs TBD",
+            "NOM": "Lower Bracket Round 1 match 1: FLY.R vs Axial",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -327,7 +327,7 @@
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "04:26:29",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:10:42",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -364,32 +364,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 1 match 3: TBD vs TBD",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-23",
-            "HEURE PRÉVUE": "01:00:00",
-            "DATE DE DEBUT": "2026-11-23",
-            "HEURE DE DEBUT": "2026-11-23",
-            "DATE DE FIN": "2026-11-23",
-            "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:44:56",
-            "PRIZEPOOL": "10000 United States Dollar",
-            "SLUG": "cs-go-crossfire-7-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Lower Bracket Round 1 match 4: VIL vs TBD",
+            "NOM": "Lower Bracket Round 1 match 3: TBD vs ELU",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -402,7 +377,7 @@
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:31:55",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:12:45",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -414,7 +389,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 1 match 5: TBD vs TBD",
+            "NOM": "Lower Bracket Round 1 match 4: VIL vs WG",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -426,8 +401,33 @@
             "HEURE DE DEBUT": "2026-11-23",
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:44:57",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:11:05",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Lower Bracket Round 1 match 5: TBD vs NXG Esports",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "01:00:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:12:13",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -489,7 +489,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 1 match 8: Kodex Esports vs TBD",
+            "NOM": "Lower Bracket Round 1 match 8: Kodex Esports vs NFE",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -502,7 +502,7 @@
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:37:41",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:04:53",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -1047,12 +1047,12 @@
             "ACRONYME": "REGAIN"
         },
         {
-            "ID": 134300,
-            "NOM": "NuTorious",
+            "ID": 134333,
+            "NOM": "Wanted Goons",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:05:31",
-            "ACRONYME": "NT"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:22:42",
+            "ACRONYME": "WG"
         },
         {
             "ID": 136318,
@@ -1095,6 +1095,30 @@
             "ACRONYME": "IOWA"
         },
         {
+            "ID": 138738,
+            "NOM": "NXG Esports",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:27:12",
+            "ACRONYME": null
+        },
+        {
+            "ID": 138740,
+            "NOM": "NineFly Esports",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:27:12",
+            "ACRONYME": "NFE"
+        },
+        {
+            "ID": 139012,
+            "NOM": "Elusive",
+            "LOCALISATION": "US",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:27:12",
+            "ACRONYME": "ELU"
+        },
+        {
             "ID": 139156,
             "NOM": "Kodex Esports",
             "LOCALISATION": "US",
@@ -1109,6 +1133,14 @@
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
             "HEURE DE LA DERNIERE MODIFICATION": "01:58:34",
             "ACRONYME": "WaR"
+        },
+        {
+            "ID": 139199,
+            "NOM": "Axial",
+            "LOCALISATION": "CA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:22:43",
+            "ACRONYME": null
         },
         {
             "ID": 139204,
@@ -1719,78 +1751,78 @@
         },
         {
             "EQUIPE": {
-                "ID": 134300,
-                "NOM": "NuTorious",
+                "ID": 134333,
+                "NOM": "Wanted Goons",
                 "LOCALISATION": "US",
-                "ACRONYME": "NT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:05:31"
+                "ACRONYME": "WG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:22:42"
             },
             "JOUEURS": [
                 {
-                    "ID": 27471,
-                    "PSEUDO": "Maze",
+                    "ID": 40545,
+                    "PSEUDO": "chante",
                     "ROLE": null,
-                    "PRENOM": "Mikkel",
-                    "NOM": "Sparvath",
-                    "AGE": 25,
-                    "DATE DE NAISSANCE": "2001-06-19",
-                    "NATIONALITE": "DK",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:31"
-                },
-                {
-                    "ID": 40538,
-                    "PSEUDO": "Kermi",
-                    "ROLE": null,
-                    "PRENOM": "Andrew ",
-                    "NOM": "Cretella",
-                    "AGE": 24,
+                    "PRENOM": "Austin",
+                    "NOM": "Ganster",
+                    "AGE": 20,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:30"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:40"
                 },
                 {
-                    "ID": 44688,
-                    "PSEUDO": "neight",
+                    "ID": 51319,
+                    "PSEUDO": "Luke4k",
                     "ROLE": null,
-                    "PRENOM": "Nathaniel",
-                    "NOM": "Bell",
-                    "AGE": 26,
+                    "PRENOM": "Lucas",
+                    "NOM": "Mizumoto",
+                    "AGE": 20,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:31"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:42"
                 },
                 {
-                    "ID": 56502,
-                    "PSEUDO": "cmrn",
+                    "ID": 52641,
+                    "PSEUDO": "killerPandas",
                     "ROLE": null,
-                    "PRENOM": "Cameron",
-                    "NOM": "Longman",
+                    "PRENOM": "Dylan",
+                    "NOM": "Pellegrino",
                     "AGE": 23,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:31"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:42"
                 },
                 {
-                    "ID": 61733,
-                    "PSEUDO": "bones",
+                    "ID": 57542,
+                    "PSEUDO": "Feb",
                     "ROLE": null,
-                    "PRENOM": "Thomas",
-                    "NOM": "Degenhardt",
-                    "AGE": 25,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:31"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:42"
+                },
+                {
+                    "ID": 65755,
+                    "PSEUDO": "hibui",
+                    "ROLE": null,
+                    "PRENOM": "Hunter",
+                    "NOM": "Conklin",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:42"
                 }
             ]
         },
@@ -2181,6 +2213,185 @@
         },
         {
             "EQUIPE": {
+                "ID": 138738,
+                "NOM": "NXG Esports",
+                "LOCALISATION": "US",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 34002,
+                    "PSEUDO": "4sh0t",
+                    "ROLE": null,
+                    "PRENOM": "Sam",
+                    "NOM": "Mariano",
+                    "AGE": 33,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:11"
+                },
+                {
+                    "ID": 59361,
+                    "PSEUDO": "Galaxy",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Turon",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:11"
+                },
+                {
+                    "ID": 59362,
+                    "PSEUDO": "PinheadLarry",
+                    "ROLE": null,
+                    "PRENOM": "Ezra",
+                    "NOM": "Pereira",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:11"
+                },
+                {
+                    "ID": 63191,
+                    "PSEUDO": "duhpe",
+                    "ROLE": null,
+                    "PRENOM": "Raymon",
+                    "NOM": "Carrillo",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                },
+                {
+                    "ID": 65799,
+                    "PSEUDO": "arush",
+                    "ROLE": null,
+                    "PRENOM": "Arush",
+                    "NOM": "Kumra",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:11"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138740,
+                "NOM": "NineFly Esports",
+                "LOCALISATION": "US",
+                "ACRONYME": "NFE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 55211,
+                    "PSEUDO": "CoolGames13",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139012,
+                "NOM": "Elusive",
+                "LOCALISATION": "US",
+                "ACRONYME": "ELU",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 20692,
+                    "PSEUDO": "Jonji",
+                    "ROLE": null,
+                    "PRENOM": "Jonathan",
+                    "NOM": "Carey",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-09-05",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                },
+                {
+                    "ID": 41662,
+                    "PSEUDO": "LittleBEER",
+                    "ROLE": null,
+                    "PRENOM": "Joshua",
+                    "NOM": "Stuckley",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                },
+                {
+                    "ID": 44430,
+                    "PSEUDO": "Austin",
+                    "ROLE": null,
+                    "PRENOM": "Austin ",
+                    "NOM": "Meadows",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-02",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                },
+                {
+                    "ID": 55205,
+                    "PSEUDO": "Treehen",
+                    "ROLE": null,
+                    "PRENOM": "Tristin",
+                    "NOM": "Young",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                },
+                {
+                    "ID": 56490,
+                    "PSEUDO": "frizzy",
+                    "ROLE": null,
+                    "PRENOM": "Justin",
+                    "NOM": "Gillis",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
                 "ID": 139156,
                 "NOM": "Kodex Esports",
                 "LOCALISATION": "US",
@@ -2343,6 +2554,83 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
                     "HEURE DE LA DERNIERE MODIFICATION": "14:05:37"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139199,
+                "NOM": "Axial",
+                "LOCALISATION": "CA",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:22:43"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25267,
+                    "PSEUDO": "SolGoat",
+                    "ROLE": null,
+                    "PRENOM": "Max",
+                    "NOM": "Wallace",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-08",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:42"
+                },
+                {
+                    "ID": 29581,
+                    "PSEUDO": "AtomiK",
+                    "ROLE": null,
+                    "PRENOM": "Devin ",
+                    "NOM": "Ferrell",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:43"
+                },
+                {
+                    "ID": 29588,
+                    "PSEUDO": "Noxio",
+                    "ROLE": null,
+                    "PRENOM": "Sam ",
+                    "NOM": "Goodwin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:43"
+                },
+                {
+                    "ID": 29619,
+                    "PSEUDO": "seziwana",
+                    "ROLE": null,
+                    "PRENOM": "Dave ",
+                    "NOM": "Schrage",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:43"
+                },
+                {
+                    "ID": 41946,
+                    "PSEUDO": "ChwE",
+                    "ROLE": null,
+                    "PRENOM": "Charles",
+                    "NOM": "Whitehead",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:22:43"
                 }
             ]
         },
