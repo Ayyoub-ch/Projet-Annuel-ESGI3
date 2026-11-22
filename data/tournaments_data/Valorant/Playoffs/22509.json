@@ -1,0 +1,827 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22509,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "18:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:30:32",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Upper bracket quarterfinal 4: Victory No Limits vs YG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "05:00:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:31:02",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://live.bilibili.com/1742430269"
+            }
+        },
+        {
+            "NOM": "Upper bracket quarterfinal 2: UR vs KBG",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "07:00:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:31:10",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://live.bilibili.com/1742430269"
+            }
+        },
+        {
+            "NOM": "Upper bracket quarterfinal 1: AT vs FPX",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:31:22",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://live.bilibili.com/1742430269"
+            }
+        },
+        {
+            "NOM": "Upper bracket quarterfinal 3: AQ vs SEC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:31:30",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-china-national-tournament-split-omega-pro-division-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "zh",
+                "LIEN BRUTE": "https://live.bilibili.com/1742430269"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 128540,
+            "NOM": "FunPlus Phoenix",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:22",
+            "ACRONYME": "FPX"
+        },
+        {
+            "ID": 133828,
+            "NOM": "KeepBest Gaming",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:23",
+            "ACRONYME": "KBG"
+        },
+        {
+            "ID": 137493,
+            "NOM": "Any Questions Gaming",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:23",
+            "ACRONYME": "AQ"
+        },
+        {
+            "ID": 138700,
+            "NOM": "Unsettled Resentment",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:22",
+            "ACRONYME": "UR"
+        },
+        {
+            "ID": 139027,
+            "NOM": "A Team",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:19",
+            "ACRONYME": "AT"
+        },
+        {
+            "ID": 139455,
+            "NOM": "Victory No Limits",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:25",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139589,
+            "NOM": "SEC",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:24",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139591,
+            "NOM": "Young Gaming",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:25",
+            "ACRONYME": "YG"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 128540,
+                "NOM": "FunPlus Phoenix",
+                "LOCALISATION": "CN",
+                "ACRONYME": "FPX",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 41839,
+                    "PSEUDO": "coconut",
+                    "ROLE": null,
+                    "PRENOM": "Colin Patrick ",
+                    "NOM": "Chung",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-04",
+                    "NATIONALITE": "HK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:21"
+                },
+                {
+                    "ID": 46425,
+                    "PSEUDO": "AAAAY",
+                    "ROLE": null,
+                    "PRENOM": "Yang",
+                    "NOM": "Zhang",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-12",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:21"
+                },
+                {
+                    "ID": 60302,
+                    "PSEUDO": "Xlele",
+                    "ROLE": null,
+                    "PRENOM": "Zhao",
+                    "NOM": "Yanbo",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-09",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                },
+                {
+                    "ID": 62549,
+                    "PSEUDO": "Setrod",
+                    "ROLE": null,
+                    "PRENOM": "Tai-keng",
+                    "NOM": "Ou",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-18",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:21"
+                },
+                {
+                    "ID": 62659,
+                    "PSEUDO": "77even",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:19"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133828,
+                "NOM": "KeepBest Gaming",
+                "LOCALISATION": "CN",
+                "ACRONYME": "KBG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 45225,
+                    "PSEUDO": "sibeastw0w",
+                    "ROLE": null,
+                    "PRENOM": "Anton",
+                    "NOM": "Govorukhin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-06-08",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+                },
+                {
+                    "ID": 49246,
+                    "PSEUDO": "Guran",
+                    "ROLE": null,
+                    "PRENOM": "Zhou",
+                    "NOM": "Mingyan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                },
+                {
+                    "ID": 60756,
+                    "PSEUDO": "Akeman",
+                    "ROLE": null,
+                    "PRENOM": "Zhang ",
+                    "NOM": "Haoran",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-08",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                },
+                {
+                    "ID": 61584,
+                    "PSEUDO": "Krst1Ng",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-08-18",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+                },
+                {
+                    "ID": 61585,
+                    "PSEUDO": "Tonk",
+                    "ROLE": null,
+                    "PRENOM": "Dai",
+                    "NOM": "Zhenyu",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-11-21",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+                },
+                {
+                    "ID": 68930,
+                    "PSEUDO": "Beijy",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137493,
+                "NOM": "Any Questions Gaming",
+                "LOCALISATION": "",
+                "ACRONYME": "AQ",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 29267,
+                    "PSEUDO": "Koalanoob",
+                    "ROLE": null,
+                    "PRENOM": "GianFranco",
+                    "NOM": "Potestio",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-15",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+                },
+                {
+                    "ID": 45943,
+                    "PSEUDO": "juicy",
+                    "ROLE": null,
+                    "PRENOM": "Tyler James",
+                    "NOM": "Aeria",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-10-19",
+                    "NATIONALITE": "SG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+                },
+                {
+                    "ID": 49272,
+                    "PSEUDO": "Scales",
+                    "ROLE": null,
+                    "PRENOM": "Zhang ",
+                    "NOM": "Zhen ",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-10-20",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+                },
+                {
+                    "ID": 52728,
+                    "PSEUDO": "S1Mon",
+                    "ROLE": null,
+                    "PRENOM": "Xie",
+                    "NOM": "Mengxun",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-06-25",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+                },
+                {
+                    "ID": 56050,
+                    "PSEUDO": "5CM",
+                    "ROLE": null,
+                    "PRENOM": "Ding",
+                    "NOM": "Yipeng",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-29",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138700,
+                "NOM": "Unsettled Resentment",
+                "LOCALISATION": "CN",
+                "ACRONYME": "UR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 34366,
+                    "PSEUDO": "Ninebody",
+                    "ROLE": null,
+                    "PRENOM": "Yi",
+                    "NOM": "Ding",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-11-04",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                },
+                {
+                    "ID": 49234,
+                    "PSEUDO": "MarT1n",
+                    "ROLE": null,
+                    "PRENOM": "Zhengjie",
+                    "NOM": "Zhuo",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-01",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                },
+                {
+                    "ID": 51177,
+                    "PSEUDO": "qiuye",
+                    "ROLE": null,
+                    "PRENOM": "Li",
+                    "NOM": "Runtao",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-10-15",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                },
+                {
+                    "ID": 56862,
+                    "PSEUDO": "CXIX666",
+                    "ROLE": null,
+                    "PRENOM": "Sanchirbileg",
+                    "NOM": "Ulziibadrakh",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-01-19",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                },
+                {
+                    "ID": 61592,
+                    "PSEUDO": "Knyzl",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:22"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139027,
+                "NOM": "A Team",
+                "LOCALISATION": "CN",
+                "ACRONYME": "AT",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:29:19"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35914,
+                    "PSEUDO": "tZh",
+                    "ROLE": null,
+                    "PRENOM": "Tang",
+                    "NOM": "Zhehao",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-02",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:19"
+                },
+                {
+                    "ID": 38934,
+                    "PSEUDO": "alyaL",
+                    "ROLE": null,
+                    "PRENOM": "Hoàng",
+                    "NOM": "Đức Hùng",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-27",
+                    "NATIONALITE": "VN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:19"
+                },
+                {
+                    "ID": 52737,
+                    "PSEUDO": "Dingwei",
+                    "ROLE": null,
+                    "PRENOM": "Wei",
+                    "NOM": "Ting-wei",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-07-30",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:19"
+                },
+                {
+                    "ID": 67705,
+                    "PSEUDO": "Folykiki",
+                    "ROLE": null,
+                    "PRENOM": "Chen",
+                    "NOM": "Yujie",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-06-16",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:19"
+                },
+                {
+                    "ID": 67717,
+                    "PSEUDO": " Never",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:19"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139455,
+                "NOM": "Victory No Limits",
+                "LOCALISATION": "CN",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:29:25"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 34341,
+                    "PSEUDO": "WoodAy1",
+                    "ROLE": null,
+                    "PRENOM": "Weihong",
+                    "NOM": "Lin",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": false,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                },
+                {
+                    "ID": 49271,
+                    "PSEUDO": "Yueluo",
+                    "ROLE": null,
+                    "PRENOM": "Yin ",
+                    "NOM": "Zhiwei",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-30",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:25"
+                },
+                {
+                    "ID": 62398,
+                    "PSEUDO": "Moonlight",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                },
+                {
+                    "ID": 62399,
+                    "PSEUDO": "YoungX",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                },
+                {
+                    "ID": 68550,
+                    "PSEUDO": "Potter",
+                    "ROLE": null,
+                    "PRENOM": "Tung",
+                    "NOM": "Chun-an",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-04-29",
+                    "NATIONALITE": "TW",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139589,
+                "NOM": "SEC",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 66058,
+                    "PSEUDO": "Rival",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                },
+                {
+                    "ID": 66060,
+                    "PSEUDO": "sanye",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                },
+                {
+                    "ID": 67714,
+                    "PSEUDO": "Tensions3Y",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                },
+                {
+                    "ID": 67715,
+                    "PSEUDO": " Sakura",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                },
+                {
+                    "ID": 67722,
+                    "PSEUDO": "5yyc",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:24"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139591,
+                "NOM": "Young Gaming",
+                "LOCALISATION": "CN",
+                "ACRONYME": "YG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:29:25"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 39450,
+                    "PSEUDO": "Anq",
+                    "ROLE": null,
+                    "PRENOM": "Ilya",
+                    "NOM": "Matyash",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-28",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:25"
+                },
+                {
+                    "ID": 58127,
+                    "PSEUDO": "snappy",
+                    "ROLE": null,
+                    "PRENOM": "Nakarin",
+                    "NOM": "Sritakorn",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:25"
+                },
+                {
+                    "ID": 66067,
+                    "PSEUDO": "Bai",
+                    "ROLE": null,
+                    "PRENOM": "Zhang",
+                    "NOM": "Zeyang",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:25"
+                },
+                {
+                    "ID": 67709,
+                    "PSEUDO": "Silent",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:25"
+                },
+                {
+                    "ID": 68933,
+                    "PSEUDO": "Xee",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:29:25"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "China National Tournament",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:10:18"
+    },
+    "SERIE": {
+        "NOM": "Split Omega: Pro Division 2026",
+        "ANNEE": 2026,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-11",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:10:18",
+        "ID DU VAINQUEUR": null
+    }
+}

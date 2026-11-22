@@ -64,31 +64,6 @@
             }
         },
         {
-            "NOM": "Elimination Match: banda chuya vs INF",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-22",
-            "HEURE PRÉVUE": "09:00:00",
-            "DATE DE DEBUT": "2026-11-22",
-            "HEURE DE DEBUT": "2026-11-22",
-            "DATE DE FIN": "2026-11-22",
-            "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:58:56",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-cct-europe-closed-qualifier-series-15-2026-group-d",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/cct_cs"
-            }
-        },
-        {
             "NOM": "Winners' Match: LT vs MOUZ.N",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
@@ -114,7 +89,7 @@
             }
         },
         {
-            "NOM": "Decider Match: TBD vs TBD",
+            "NOM": "Decider Match: INF vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -126,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-23",
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:28:53",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:02:17",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-15-2026-group-d",
             "TIER": "d",
@@ -136,6 +111,31 @@
                 "MAIN": true,
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://kick.com/cct_cs"
+            }
+        },
+        {
+            "NOM": "Elimination Match: banda chuya vs INF",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-22",
+            "HEURE PRÉVUE": "09:15:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:02:16",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-cct-europe-closed-qualifier-series-15-2026-group-d",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
             }
         }
     ],

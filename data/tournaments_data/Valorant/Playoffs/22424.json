@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-11-10",
         "HEURE DE DEBUT": "12:00:00",
         "DATE DE FIN": "2026-11-22",
-        "HEURE DE FIN": "14:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:37:32",
+        "HEURE DE FIN": "12:20:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:23:22",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -341,18 +341,18 @@
         {
             "NOM": "Grand Final: BOOM vs HE",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-22",
-            "HEURE PRÉVUE": "11:00:00",
+            "HEURE PRÉVUE": "10:50:00",
             "DATE DE DEBUT": "2026-11-22",
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:46:14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:20:44",
             "PRIZEPOOL": "102,000,000 Indonesian Rupiah",
             "SLUG": "valorant-predator-league-indonesia-2027-playoffs",
             "TIER": "d",
@@ -360,7 +360,7 @@
             "INFO DE STREAMING": {
                 "MAIN": true,
                 "LANGUE": "id",
-                "LIEN BRUTE": "https://www.youtube.com/@PredatorGamingIndonesia/live"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=tjFl1zxiSY8"
             }
         },
         {
@@ -1133,8 +1133,8 @@
         "NOM": "Indonesia 2027",
         "ANNEE": 2027,
         "SAISON": null,
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-        "HEURE DE LA DERNIERE MODIFICATION": "07:15:45",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:23:22",
         "ID DU VAINQUEUR": null
     }
 }

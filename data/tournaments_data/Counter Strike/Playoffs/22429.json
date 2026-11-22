@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-11-14",
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-22",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-        "HEURE DE LA DERNIERE MODIFICATION": "11:24:29",
+        "HEURE DE FIN": "12:56:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:23:56",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -391,26 +391,26 @@
         {
             "NOM": "Grand Final: FORZE.R vs WBT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
             "DATE PRÉVUE": "2026-11-22",
-            "HEURE PRÉVUE": "09:00:00",
+            "HEURE PRÉVUE": "09:25:00",
             "DATE DE DEBUT": "2026-11-22",
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:09:38",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:10:54",
             "PRIZEPOOL": "20000 United States Dollar",
             "SLUG": "cs-go-european-pro-league-10-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/eplcs_en"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/asimasimov"
             }
         }
     ],
@@ -467,8 +467,8 @@
             "ID": 135381,
             "NOM": "Apogee Esports",
             "LOCALISATION": "PL",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:02:29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:29:54",
             "ACRONYME": "APG"
         },
         {
@@ -507,8 +507,8 @@
             "ID": 138899,
             "NOM": "maybe",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:34:10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:01:31",
             "ACRONYME": null
         },
         {
@@ -1039,8 +1039,8 @@
                 "NOM": "Apogee Esports",
                 "LOCALISATION": "PL",
                 "ACRONYME": "APG",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:02:29"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:29:54"
             },
             "JOUEURS": [
                 {
@@ -1092,8 +1092,8 @@
                     "DATE DE NAISSANCE": "2003-11-29",
                     "NATIONALITE": "PL",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:33:29"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:29:56"
                 },
                 {
                     "ID": 43790,
@@ -1463,8 +1463,8 @@
                 "NOM": "maybe",
                 "LOCALISATION": "UA",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:34:10"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:01:31"
             },
             "JOUEURS": [
                 {
@@ -1477,8 +1477,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:34:09"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:01:31"
                 },
                 {
                     "ID": 53412,
@@ -1490,8 +1490,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:17:34"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:01:31"
                 },
                 {
                     "ID": 66717,
@@ -1503,8 +1503,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:34:09"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:01:30"
                 },
                 {
                     "ID": 66719,
@@ -1516,8 +1516,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:34:09"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:01:30"
                 },
                 {
                     "ID": 66720,
@@ -1529,8 +1529,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:34:10"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:01:31"
                 },
                 {
                     "ID": 68947,
@@ -1917,8 +1917,8 @@
         "NOM": "Season 10 2026",
         "ANNEE": 2026,
         "SAISON": "10",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-03",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:50:19",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:23:56",
         "ID DU VAINQUEUR": null
     }
 }

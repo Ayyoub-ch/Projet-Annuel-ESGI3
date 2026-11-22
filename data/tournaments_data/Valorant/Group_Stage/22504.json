@@ -1,0 +1,914 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22504,
+        "NOM": "Group_Stage",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:29:23",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Round 1: Leones vs STA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "22:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:25:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-north-qualifier-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_la"
+            }
+        },
+        {
+            "NOM": "Round 1: FEO vs CHE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-20",
+            "HEURE PRÉVUE": "22:00:00",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "2026-11-20",
+            "DATE DE FIN": "2026-11-20",
+            "HEURE DE FIN": "2026-11-20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:23:55",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-north-qualifier-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_la"
+            }
+        },
+        {
+            "NOM": "Round 1: 505 vs SQR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "00:00:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:26:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-north-qualifier-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_la"
+            }
+        },
+        {
+            "NOM": "Round 1: BBB vs OSK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-21",
+            "HEURE PRÉVUE": "01:45:00",
+            "DATE DE DEBUT": "2026-11-21",
+            "HEURE DE DEBUT": "2026-11-21",
+            "DATE DE FIN": "2026-11-21",
+            "HEURE DE FIN": "2026-11-21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:27:09",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-north-qualifier-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_la"
+            }
+        },
+        {
+            "NOM": "Round 2: Leones vs BBB",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-22",
+            "HEURE PRÉVUE": "22:00:00",
+            "DATE DE DEBUT": "2026-11-22",
+            "HEURE DE DEBUT": "2026-11-22",
+            "DATE DE FIN": "2026-11-22",
+            "HEURE DE FIN": "2026-11-22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:29:35",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-north-qualifier-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_la"
+            }
+        },
+        {
+            "NOM": "Round 2: FEO vs 505",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-22",
+            "HEURE PRÉVUE": "22:00:00",
+            "DATE DE DEBUT": "2026-11-22",
+            "HEURE DE DEBUT": "2026-11-22",
+            "DATE DE FIN": "2026-11-22",
+            "HEURE DE FIN": "2026-11-22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:29:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-north-qualifier-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_la"
+            }
+        },
+        {
+            "NOM": "Round 2: CHE vs OSK",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "00:30:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:13:14",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-north-qualifier-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_la"
+            }
+        },
+        {
+            "NOM": "Round 2: STA vs SQR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "00:30:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:13:15",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-north-qualifier-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_la"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 130897,
+            "NOM": "Fuego",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:58:53",
+            "ACRONYME": "FEO"
+        },
+        {
+            "ID": 133363,
+            "NOM": "Chivas Esports",
+            "LOCALISATION": "MX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:58:53",
+            "ACRONYME": "CHE"
+        },
+        {
+            "ID": 137065,
+            "NOM": "Contra",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:58:52",
+            "ACRONYME": "BBB"
+        },
+        {
+            "ID": 138480,
+            "NOM": "STREAMER ARENA",
+            "LOCALISATION": "VE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:58:54",
+            "ACRONYME": "STA"
+        },
+        {
+            "ID": 139641,
+            "NOM": "Leones",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:58:52",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139642,
+            "NOM": "Squirtle Rangers",
+            "LOCALISATION": "MX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:28:57",
+            "ACRONYME": "SQR"
+        },
+        {
+            "ID": 139643,
+            "NOM": "505",
+            "LOCALISATION": "MX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:28:58",
+            "ACRONYME": "505"
+        },
+        {
+            "ID": 139644,
+            "NOM": "Old School Krew",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:28:58",
+            "ACRONYME": "OSK"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 130897,
+                "NOM": "Fuego",
+                "LOCALISATION": "",
+                "ACRONYME": "FEO",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35463,
+                    "PSEUDO": "ezznap",
+                    "ROLE": null,
+                    "PRENOM": "Faber",
+                    "NOM": "Murillo",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-04",
+                    "NATIONALITE": "CO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+                },
+                {
+                    "ID": 47825,
+                    "PSEUDO": "Drakk",
+                    "ROLE": null,
+                    "PRENOM": "Alejandro",
+                    "NOM": "Torres  Jaraba",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-03",
+                    "NATIONALITE": "CO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:59:58"
+                },
+                {
+                    "ID": 53030,
+                    "PSEUDO": "GeneralSteak",
+                    "ROLE": null,
+                    "PRENOM": "Walter Giovanni",
+                    "NOM": "Romero Lemus",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-14",
+                    "NATIONALITE": "GT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+                },
+                {
+                    "ID": 54215,
+                    "PSEUDO": "Reii",
+                    "ROLE": null,
+                    "PRENOM": "Juan Carlo",
+                    "NOM": " Rangel",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+                },
+                {
+                    "ID": 60296,
+                    "PSEUDO": "hada",
+                    "ROLE": null,
+                    "PRENOM": "Adair ",
+                    "NOM": "Álvarez",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:59:24"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 133363,
+                "NOM": "Chivas Esports",
+                "LOCALISATION": "MX",
+                "ACRONYME": "CHE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35465,
+                    "PSEUDO": "Peloncito",
+                    "ROLE": null,
+                    "PRENOM": "Oscar",
+                    "NOM": "Palacios",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-02-06",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+                },
+                {
+                    "ID": 40904,
+                    "PSEUDO": "solution",
+                    "ROLE": null,
+                    "PRENOM": "Emiliano",
+                    "NOM": "Peralta",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-11-12",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+                },
+                {
+                    "ID": 41731,
+                    "PSEUDO": "OtaQ",
+                    "ROLE": null,
+                    "PRENOM": "Jose Luis",
+                    "NOM": "Davila",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-11-21",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+                },
+                {
+                    "ID": 57436,
+                    "PSEUDO": "paganus",
+                    "ROLE": null,
+                    "PRENOM": "Thomas Alexandro",
+                    "NOM": "Urías Guicho",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2004-12-23",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+                },
+                {
+                    "ID": 59751,
+                    "PSEUDO": "Sabortzz",
+                    "ROLE": null,
+                    "PRENOM": "Diego",
+                    "NOM": "Corona Bracamontes",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-06-23",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137065,
+                "NOM": "Contra",
+                "LOCALISATION": "",
+                "ACRONYME": "BBB",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 34295,
+                    "PSEUDO": "Mited",
+                    "ROLE": null,
+                    "PRENOM": "Luis Daniel",
+                    "NOM": "Gutierrez Baena",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2001-12-19",
+                    "NATIONALITE": "CO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:51"
+                },
+                {
+                    "ID": 34296,
+                    "PSEUDO": "Theory",
+                    "ROLE": null,
+                    "PRENOM": "Daniel Esteban",
+                    "NOM": "Albadan Cardozo",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-02-02",
+                    "NATIONALITE": "CO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:51"
+                },
+                {
+                    "ID": 47757,
+                    "PSEUDO": "Fresht",
+                    "ROLE": null,
+                    "PRENOM": "Juan Pablo",
+                    "NOM": "Preciado",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-11-28",
+                    "NATIONALITE": "CO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+                },
+                {
+                    "ID": 55662,
+                    "PSEUDO": "Tastyy",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Islas",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:59:27"
+                },
+                {
+                    "ID": 58757,
+                    "PSEUDO": "Crunch",
+                    "ROLE": null,
+                    "PRENOM": "Preston",
+                    "NOM": "Anderson",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-06-25",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:51"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138480,
+                "NOM": "STREAMER ARENA",
+                "LOCALISATION": "VE",
+                "ACRONYME": "STA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:58:54"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 57409,
+                    "PSEUDO": "clutchz",
+                    "ROLE": null,
+                    "PRENOM": "Manuel",
+                    "NOM": null,
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-08-02",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+                },
+                {
+                    "ID": 65394,
+                    "PSEUDO": "Levi",
+                    "ROLE": null,
+                    "PRENOM": "Alessandro",
+                    "NOM": "Di Tomo",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "VE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:59"
+                },
+                {
+                    "ID": 65395,
+                    "PSEUDO": "Dlasqx1",
+                    "ROLE": null,
+                    "PRENOM": "Daniel",
+                    "NOM": "Avila",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "VE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:57"
+                },
+                {
+                    "ID": 65429,
+                    "PSEUDO": "Matkazeta",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:02:43"
+                },
+                {
+                    "ID": 69075,
+                    "PSEUDO": "Zelver",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:54"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139641,
+                "NOM": "Leones",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 34532,
+                    "PSEUDO": "Virtyy",
+                    "ROLE": null,
+                    "PRENOM": "Leandro",
+                    "NOM": "Moreno",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-03",
+                    "NATIONALITE": "DO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+                },
+                {
+                    "ID": 38214,
+                    "PSEUDO": "Jow",
+                    "ROLE": null,
+                    "PRENOM": "Juan Camilo Preciado",
+                    "NOM": "Ordoñez",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-11-28",
+                    "NATIONALITE": "CO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+                },
+                {
+                    "ID": 42641,
+                    "PSEUDO": "Dragon",
+                    "ROLE": null,
+                    "PRENOM": "Jason",
+                    "NOM": "Carrillo",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:02:15"
+                },
+                {
+                    "ID": 53031,
+                    "PSEUDO": "Mephisto05",
+                    "ROLE": null,
+                    "PRENOM": "Dante Armenta",
+                    "NOM": "Garfias",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-20",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+                },
+                {
+                    "ID": 64029,
+                    "PSEUDO": "Weegle",
+                    "ROLE": null,
+                    "PRENOM": "Brendan",
+                    "NOM": "Taylor",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-08-09",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:25"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139642,
+                "NOM": "Squirtle Rangers",
+                "LOCALISATION": "MX",
+                "ACRONYME": "SQR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:28:57"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 57469,
+                    "PSEUDO": "Fotzy",
+                    "ROLE": null,
+                    "PRENOM": "Sebastian Alberto",
+                    "NOM": "Salas Gallegos",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-06-17",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:25:32"
+                },
+                {
+                    "ID": 63912,
+                    "PSEUDO": "Bull3tZ",
+                    "ROLE": null,
+                    "PRENOM": "Manuel Antonio",
+                    "NOM": "Jerezano Flores",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-08-18",
+                    "NATIONALITE": "HN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:00:56"
+                },
+                {
+                    "ID": 69076,
+                    "PSEUDO": "LaZer",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:28:57"
+                },
+                {
+                    "ID": 69077,
+                    "PSEUDO": "Joluma",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:28:57"
+                },
+                {
+                    "ID": 69078,
+                    "PSEUDO": "Tonezer",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:28:57"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139643,
+                "NOM": "505",
+                "LOCALISATION": "MX",
+                "ACRONYME": "505",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:28:58"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 41739,
+                    "PSEUDO": "Ryuu",
+                    "ROLE": null,
+                    "PRENOM": "César Pascual",
+                    "NOM": "De la Torre",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-01-01",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:25:33"
+                },
+                {
+                    "ID": 49562,
+                    "PSEUDO": "Javiierh",
+                    "ROLE": null,
+                    "PRENOM": "Javier",
+                    "NOM": "Castro Alcantar",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-21",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:25:33"
+                },
+                {
+                    "ID": 58758,
+                    "PSEUDO": "Sxnti",
+                    "ROLE": null,
+                    "PRENOM": "Santiago",
+                    "NOM": "Martínez",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:45"
+                },
+                {
+                    "ID": 69079,
+                    "PSEUDO": "Wallymbo",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:28:57"
+                },
+                {
+                    "ID": 69080,
+                    "PSEUDO": "dkdlodi",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:28:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139644,
+                "NOM": "Old School Krew",
+                "LOCALISATION": "",
+                "ACRONYME": "OSK",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "09:28:58"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 63906,
+                    "PSEUDO": "Sitolui",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "VE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:57:38"
+                },
+                {
+                    "ID": 63907,
+                    "PSEUDO": "Mora",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "VE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:57:48"
+                },
+                {
+                    "ID": 63908,
+                    "PSEUDO": "Yaoming",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "VE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:00"
+                },
+                {
+                    "ID": 63909,
+                    "PSEUDO": "Juanito",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "VE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:21"
+                },
+                {
+                    "ID": 69081,
+                    "PSEUDO": "stress",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "VE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "09:28:58"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "VCT",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-02-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "NOM": "Americas Kickoff: LATAM North - Qualifier 2027",
+        "ANNEE": 2027,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:52:57",
+        "ID DU VAINQUEUR": null
+    }
+}
