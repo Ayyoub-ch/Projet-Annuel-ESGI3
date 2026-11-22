@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "01:00:00",
         "DATE DE FIN": "2026-12-14",
         "HEURE DE FIN": "04:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:09:34",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "04:02:13",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -166,51 +166,26 @@
         {
             "NOM": "Round of 16 Match 4: OT vs DTN",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-22",
-            "HEURE PRÉVUE": "03:00:00",
+            "HEURE PRÉVUE": "03:15:00",
             "DATE DE DEBUT": "2026-11-22",
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:11:54",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "05:37:07",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Upper Bracket Quarterfinal 2: MARS vs TBD",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-23",
-            "HEURE PRÉVUE": "01:00:00",
-            "DATE DE DEBUT": "2026-11-23",
-            "HEURE DE DEBUT": "2026-11-23",
-            "DATE DE FIN": "2026-11-23",
-            "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "04:48:44",
-            "PRIZEPOOL": "10000 United States Dollar",
-            "SLUG": "cs-go-crossfire-7-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/playcrossfire"
             }
         },
         {
@@ -364,7 +339,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 1 match 5: TBD vs NXG Esports",
+            "NOM": "Lower Bracket Round 1 match 5: DTN vs NXG Esports",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -376,58 +351,8 @@
             "HEURE DE DEBUT": "2026-11-23",
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:12:13",
-            "PRIZEPOOL": "10000 United States Dollar",
-            "SLUG": "cs-go-crossfire-7-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Lower Bracket Round 1 match 6: NF vs NZ Gaming",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-23",
-            "HEURE PRÉVUE": "01:00:00",
-            "DATE DE DEBUT": "2026-11-23",
-            "HEURE DE DEBUT": "2026-11-23",
-            "DATE DE FIN": "2026-11-23",
-            "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "04:48:44",
-            "PRIZEPOOL": "10000 United States Dollar",
-            "SLUG": "cs-go-crossfire-7-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Lower Bracket Round 1 match 7: EMP vs Addice Inc.",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-23",
-            "HEURE PRÉVUE": "01:00:00",
-            "DATE DE DEBUT": "2026-11-23",
-            "HEURE DE DEBUT": "2026-11-23",
-            "DATE DE FIN": "2026-11-23",
-            "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "05:20:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "05:30:05",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -453,6 +378,81 @@
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
             "HEURE DE LA DERNIERE MODIFICATION": "21:04:53",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Lower Bracket Round 1 match 6: NF vs NZ Gaming",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "01:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:29:26",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Lower Bracket Round 1 match 7: EMP vs Addice Inc.",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "01:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:29:54",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinal 2: MARS vs OT",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "02:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:33:52",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -1018,8 +1018,8 @@
             "ID": 129547,
             "NOM": "Detonate",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:05:24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:02:13",
             "ACRONYME": "DTN"
         },
         {
@@ -1082,8 +1082,8 @@
             "ID": 138652,
             "NOM": "Overtake Sector",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:05:35",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:02:10",
             "ACRONYME": "OT"
         },
         {
@@ -1421,8 +1421,8 @@
                 "NOM": "Detonate",
                 "LOCALISATION": "US",
                 "ACRONYME": "DTN",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:05:24"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "04:02:13"
             },
             "JOUEURS": [
                 {
@@ -1465,6 +1465,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "14:05:24"
                 },
                 {
+                    "ID": 36841,
+                    "PSEUDO": "PoseidoNN",
+                    "ROLE": null,
+                    "PRENOM": "Nikolaos ",
+                    "NOM": "Antoniou",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-11",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "04:02:12"
+                },
+                {
                     "ID": 52634,
                     "PSEUDO": "carN",
                     "ROLE": null,
@@ -1489,6 +1502,32 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
                     "HEURE DE LA DERNIERE MODIFICATION": "14:05:23"
+                },
+                {
+                    "ID": 54469,
+                    "PSEUDO": "CoolComs",
+                    "ROLE": null,
+                    "PRENOM": "Connor",
+                    "NOM": "Barnes",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "04:02:11"
+                },
+                {
+                    "ID": 57747,
+                    "PSEUDO": "Serce",
+                    "ROLE": null,
+                    "PRENOM": "Adam",
+                    "NOM": "Zielinski",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "04:02:13"
                 }
             ]
         },
@@ -2063,8 +2102,8 @@
                 "NOM": "Overtake Sector",
                 "LOCALISATION": "US",
                 "ACRONYME": "OT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:05:35"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "04:02:10"
             },
             "JOUEURS": [
                 {
@@ -2118,6 +2157,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
                     "HEURE DE LA DERNIERE MODIFICATION": "14:05:35"
+                },
+                {
+                    "ID": 41664,
+                    "PSEUDO": "Peeping",
+                    "ROLE": null,
+                    "PRENOM": "Jaxon",
+                    "NOM": "Cornwell",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-05-25",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "04:02:10"
                 },
                 {
                     "ID": 59000,
