@@ -1,0 +1,178 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1827746,
+        "NOM": "3rd_Place_match__Clem_vs_Rogue",
+        "JEU VIDEO": "StarCraft 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 7,
+        "DATE DE DEBUT": "2026-11-22",
+        "HEURE DE DEBUT": "17:22:58",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "18:51:34",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "20:33:24",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19963,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 500,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "17:22:58",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "17:31:19",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43094,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19964,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 832,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "17:31:49",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "17:45:42",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43042,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19965,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1017,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "17:46:54",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "18:03:51",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43042,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19966,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 656,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "18:11:07",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "18:22:04",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43094,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19967,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 800,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "18:23:15",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "18:36:36",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43042,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19968,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 6,
+            "STATUT": "finished",
+            "LONGUEUR": 853,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "18:37:21",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "18:51:34",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43042,
+            "TYPE DU VAINQUEUR": "Player"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 43042,
+            "NOM": "Clem",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:28:04"
+        },
+        {
+            "ID": 43094,
+            "NOM": "Rogue",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:28:05"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 4,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22503,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "GB",
+        "REGION": "WEU",
+        "TIER": "a",
+        "CASH PRIZE": "15,000,000 South Korean Won",
+        "VAINQUEUR": 43506,
+        "DATE DE DEBUT": "2026-11-22",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "21:25:30",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5411,
+        "NOM": "RSL Revival",
+        "DATE DE MODIFICATION": "2025-06-17",
+        "HEURE DE MODIFICATION": "08:19:07"
+    },
+    "SERIE": {
+        "ID": 11228,
+        "NOM": "Offline Finals 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "20:33:24"
+    }
+}

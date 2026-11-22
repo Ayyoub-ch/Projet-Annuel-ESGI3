@@ -191,26 +191,26 @@
         {
             "NOM": "Upper Bracket Quarterfinal 3: LAG vs SP",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-22",
-            "HEURE PRÉVUE": "20:00:00",
+            "HEURE PRÉVUE": "20:15:00",
             "DATE DE DEBUT": "2026-11-22",
             "HEURE DE DEBUT": "2026-11-22",
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:35:54",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:39:15",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": false,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/trottah"
             }
         },
         {
@@ -226,8 +226,8 @@
             "HEURE DE DEBUT": "2026-11-23",
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "04:26:29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:55:13",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -251,8 +251,8 @@
             "HEURE DE DEBUT": "2026-11-23",
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:10:42",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:55:15",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -276,8 +276,8 @@
             "HEURE DE DEBUT": "2026-11-23",
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:33:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:55:18",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -302,7 +302,7 @@
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "05:30:05",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:55:19",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -614,7 +614,7 @@
             }
         },
         {
-            "NOM": "Upper Bracket Semifinal 2: TBD vs TBD",
+            "NOM": "Upper Bracket Semifinal 2: SP vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -626,8 +626,8 @@
             "HEURE DE DEBUT": "2026-11-29",
             "DATE DE FIN": "2026-11-29",
             "HEURE DE FIN": "2026-11-29",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:44:55",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:39:15",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -714,7 +714,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 3 match 4: TBD vs TBD",
+            "NOM": "Lower Bracket Round 3 match 4: LAG vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -726,8 +726,8 @@
             "HEURE DE DEBUT": "2026-11-29",
             "DATE DE FIN": "2026-11-29",
             "HEURE DE FIN": "2026-11-29",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:45:01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:39:15",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -1019,7 +1019,7 @@
             "NOM": "Detonate",
             "LOCALISATION": "US",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "04:02:13",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:30:36",
             "ACRONYME": "DTN"
         },
         {
@@ -1422,7 +1422,7 @@
                 "LOCALISATION": "US",
                 "ACRONYME": "DTN",
                 "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                "HEURE DE LA DERNIERE MODIFICATION": "04:02:13"
+                "HEURE DE LA DERNIERE MODIFICATION": "16:30:36"
             },
             "JOUEURS": [
                 {
@@ -1475,7 +1475,7 @@
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "04:02:12"
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:30:26"
                 },
                 {
                     "ID": 52634,
@@ -1514,7 +1514,7 @@
                     "NATIONALITE": "GB",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "04:02:11"
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:30:31"
                 },
                 {
                     "ID": 57747,

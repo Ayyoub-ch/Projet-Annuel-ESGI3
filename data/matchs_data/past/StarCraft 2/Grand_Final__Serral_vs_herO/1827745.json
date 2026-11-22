@@ -1,0 +1,193 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1827745,
+        "NOM": "Grand_Final__Serral_vs_herO",
+        "JEU VIDEO": "StarCraft 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 7,
+        "DATE DE DEBUT": "2026-11-22",
+        "HEURE DE DEBUT": "19:23:21",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "21:25:29",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "20:33:24",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19956,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 891,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "19:23:22",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "19:38:14",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43057,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19957,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 719,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "19:42:04",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "19:54:04",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43057,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19958,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 658,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "19:56:16",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "20:07:15",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43057,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19959,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 768,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "20:15:41",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "20:28:29",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43506,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19960,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 1049,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "20:30:10",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "20:47:39",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43506,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19961,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 6,
+            "STATUT": "finished",
+            "LONGUEUR": 825,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "20:50:01",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "21:03:46",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43506,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19962,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 7,
+            "STATUT": "finished",
+            "LONGUEUR": 800,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "21:12:09",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "21:25:29",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43506,
+            "TYPE DU VAINQUEUR": "Player"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 43506,
+            "NOM": "Serral",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:28:04"
+        },
+        {
+            "ID": 43057,
+            "NOM": "herO",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:28:05"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 4,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22503,
+        "NOM": "Playoffs",
+        "TYPE": "offline",
+        "PAYS": "GB",
+        "REGION": "WEU",
+        "TIER": "a",
+        "CASH PRIZE": "15,000,000 South Korean Won",
+        "VAINQUEUR": 43506,
+        "DATE DE DEBUT": "2026-11-22",
+        "HEURE DE DEBUT": "13:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "21:25:30",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5411,
+        "NOM": "RSL Revival",
+        "DATE DE MODIFICATION": "2025-06-17",
+        "HEURE DE MODIFICATION": "08:19:07"
+    },
+    "SERIE": {
+        "ID": 11228,
+        "NOM": "Offline Finals 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-21",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "21:00:00",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "20:33:24"
+    }
+}

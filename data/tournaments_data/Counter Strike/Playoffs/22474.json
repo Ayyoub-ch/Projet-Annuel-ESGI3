@@ -6,9 +6,9 @@
         "DATE DE DEBUT": "2026-11-20",
         "HEURE DE DEBUT": "11:30:00",
         "DATE DE FIN": "2026-11-22",
-        "HEURE DE FIN": "19:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-        "HEURE DE LA DERNIERE MODIFICATION": "15:54:33",
+        "HEURE DE FIN": "19:25:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:07:54",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -116,7 +116,7 @@
         {
             "NOM": "Grand final: RBLS vs FCF",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 5,
@@ -127,7 +127,7 @@
             "DATE DE FIN": "2026-11-22",
             "HEURE DE FIN": "2026-11-22",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:14:06",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:34:35",
             "PRIZEPOOL": "6000 Euro",
             "SLUG": "cs-go-master-league-portugal-19-2026-playoffs",
             "TIER": "d",
@@ -662,8 +662,8 @@
         "NOM": "Season 19 2026",
         "ANNEE": 2026,
         "SAISON": "19",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-        "HEURE DE LA DERNIERE MODIFICATION": "15:54:33",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:07:54",
         "ID DU VAINQUEUR": null
     }
 }
