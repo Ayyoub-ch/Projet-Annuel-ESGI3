@@ -1,0 +1,121 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1831482,
+        "NOM": "Upper_Bracket_Quarterfinals__ZEX_vs_SIGN_Esports",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "14:39:52",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "15:55:16",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "14:31:58",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53490,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2196,
+            "DATE DE DEBUT DE PARTIE": "2026-11-23",
+            "HEURE DE DEBUT DE PARTIE": "14:39:52",
+            "DATE DE FIN DE PARTIE": "2026-11-23",
+            "HEURE DE FIN DE PARTIE": "15:16:29",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138705,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53491,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1755,
+            "DATE DE DEBUT DE PARTIE": "2026-11-23",
+            "HEURE DE DEBUT DE PARTIE": "15:26:01",
+            "DATE DE FIN DE PARTIE": "2026-11-23",
+            "HEURE DE FIN DE PARTIE": "15:55:17",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138705,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139654,
+            "NOM": "Zexar Esports",
+            "LOCALISATION": "IN",
+            "ACRONYME": "ZEX",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+        },
+        {
+            "ID": 138705,
+            "NOM": "SIGN Esports",
+            "LOCALISATION": "IN",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:53:08"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139654
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138705
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22522,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "ASIA",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "15:14:46",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11235,
+        "NOM": "Pacific Kickoff: South Asia - Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "14:31:58"
+    }
+}

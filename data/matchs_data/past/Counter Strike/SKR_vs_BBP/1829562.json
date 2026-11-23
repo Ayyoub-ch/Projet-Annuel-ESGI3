@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1829562,
+        "NOM": "SKR_vs_BBP",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "09:13:06",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "11:44:54",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240786,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1728,
+            "DATE DE DEBUT DE PARTIE": "2026-11-23",
+            "HEURE DE DEBUT DE PARTIE": "09:13:06",
+            "DATE DE FIN DE PARTIE": "2026-11-23",
+            "HEURE DE FIN DE PARTIE": "09:41:55",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137701,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240787,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2366,
+            "DATE DE DEBUT DE PARTIE": "2026-11-23",
+            "HEURE DE DEBUT DE PARTIE": "09:56:45",
+            "DATE DE FIN DE PARTIE": "2026-11-23",
+            "HEURE DE FIN DE PARTIE": "10:36:12",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139343,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240788,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2902,
+            "DATE DE DEBUT DE PARTIE": "2026-11-23",
+            "HEURE DE DEBUT DE PARTIE": "10:56:32",
+            "DATE DE FIN DE PARTIE": "2026-11-23",
+            "HEURE DE FIN DE PARTIE": "11:44:54",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137701,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139343,
+            "NOM": "Sökerorg",
+            "LOCALISATION": "",
+            "ACRONYME": "SKR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:30:55"
+        },
+        {
+            "ID": 137701,
+            "NOM": "Bebop",
+            "LOCALISATION": "RU",
+            "ACRONYME": "BBP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:56:19"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139343
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137701
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22506,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-02",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11231,
+        "NOM": "Series 11 Closed Qualifier 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-04",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58"
+    }
+}

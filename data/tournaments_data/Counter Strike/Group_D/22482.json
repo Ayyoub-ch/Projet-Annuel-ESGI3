@@ -91,26 +91,26 @@
         {
             "NOM": "Decider Match: INF vs LT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-23",
-            "HEURE PRÉVUE": "18:00:00",
+            "HEURE PRÉVUE": "18:10:00",
             "DATE DE DEBUT": "2026-11-23",
             "HEURE DE DEBUT": "2026-11-23",
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:57:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:35:49",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-15-2026-group-d",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/cct_cs"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/bolt_ru"
             }
         },
         {
@@ -144,8 +144,8 @@
             "ID": 129160,
             "NOM": "MOUZ NXT",
             "LOCALISATION": "DE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:22:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:32:26",
             "ACRONYME": "MOUZ.N"
         },
         {
@@ -160,16 +160,16 @@
             "ID": 138358,
             "NOM": "banda chuya",
             "LOCALISATION": "PL",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:22:29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:32:52",
             "ACRONYME": null
         },
         {
             "ID": 139491,
             "NOM": "Lunacy Team",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:37:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:35:21",
             "ACRONYME": "LT"
         }
     ],
@@ -180,8 +180,8 @@
                 "NOM": "MOUZ NXT",
                 "LOCALISATION": "DE",
                 "ACRONYME": "MOUZ.N",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-                "HEURE DE LA DERNIERE MODIFICATION": "18:22:36"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:32:26"
             },
             "JOUEURS": [
                 {
@@ -194,8 +194,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "LV",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:35"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:32:26"
                 },
                 {
                     "ID": 55439,
@@ -207,8 +207,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "LV",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:35"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:32:26"
                 },
                 {
                     "ID": 61271,
@@ -220,8 +220,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "DK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:31"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:32:25"
                 },
                 {
                     "ID": 61363,
@@ -233,8 +233,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "FR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:36"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:32:26"
                 },
                 {
                     "ID": 62444,
@@ -246,8 +246,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CN",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:22:36"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:32:26"
                 }
             ]
         },
@@ -334,8 +334,8 @@
                 "NOM": "banda chuya",
                 "LOCALISATION": "PL",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:22:29"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:32:52"
             },
             "JOUEURS": [
                 {
@@ -426,8 +426,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "PL",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-                    "HEURE DE LA DERNIERE MODIFICATION": "12:49:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:32:51"
                 }
             ]
         },
@@ -437,8 +437,8 @@
                 "NOM": "Lunacy Team",
                 "LOCALISATION": "RU",
                 "ACRONYME": "LT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:37:47"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
             },
             "JOUEURS": [
                 {
@@ -451,8 +451,8 @@
                     "DATE DE NAISSANCE": "2003-03-04",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:47"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
                 },
                 {
                     "ID": 36241,
@@ -464,8 +464,8 @@
                     "DATE DE NAISSANCE": "2004-12-19",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:47"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
                 },
                 {
                     "ID": 54002,
@@ -477,8 +477,8 @@
                     "DATE DE NAISSANCE": "2004-05-21",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:47"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
                 },
                 {
                     "ID": 56470,
@@ -490,8 +490,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:47"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
                 },
                 {
                     "ID": 67251,
@@ -503,8 +503,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:47"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
                 }
             ]
         }

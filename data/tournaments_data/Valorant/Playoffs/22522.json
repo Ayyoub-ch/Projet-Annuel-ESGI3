@@ -1,0 +1,814 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22522,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "12:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "16:30:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "15:14:46",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Upper Bracket Quarterfinals: GLE vs TPE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:50:21",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-pacific-kickoff-south-asia-qualifier-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/@VALORANTinsa/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinals: ZEX vs SIGN Esports",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-23",
+            "HEURE PRÉVUE": "14:40:00",
+            "DATE DE DEBUT": "2026-11-23",
+            "HEURE DE DEBUT": "2026-11-23",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "2026-11-23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:53:58",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-pacific-kickoff-south-asia-qualifier-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=06rmx38XoaE"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinals: RXS vs GOC",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "09:30:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:56:00",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-pacific-kickoff-south-asia-qualifier-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/@VALORANTinsa/live"
+            }
+        },
+        {
+            "NOM": "Upper Bracket Quarterfinals: KRY vs RAN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "12:30:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:56:25",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-pacific-kickoff-south-asia-qualifier-2027-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.youtube.com/@VALORANTinsa/live"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 129535,
+            "NOM": "GodLike Esports",
+            "LOCALISATION": "IN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:44:28",
+            "ACRONYME": "GLE"
+        },
+        {
+            "ID": 136893,
+            "NOM": "Revenant XSpark",
+            "LOCALISATION": "IN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:51:44",
+            "ACRONYME": "RXS"
+        },
+        {
+            "ID": 138705,
+            "NOM": "SIGN Esports",
+            "LOCALISATION": "IN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:53:08",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139654,
+            "NOM": "Zexar Esports",
+            "LOCALISATION": "IN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:14:46",
+            "ACRONYME": "ZEX"
+        },
+        {
+            "ID": 139655,
+            "NOM": "Kryon Esports",
+            "LOCALISATION": "IN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:14:46",
+            "ACRONYME": "KRY"
+        },
+        {
+            "ID": 139656,
+            "NOM": "GOC Esports",
+            "LOCALISATION": "IN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:53:54",
+            "ACRONYME": "GOC"
+        },
+        {
+            "ID": 139657,
+            "NOM": "RANKERS",
+            "LOCALISATION": "IN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:14:46",
+            "ACRONYME": "RAN"
+        },
+        {
+            "ID": 139658,
+            "NOM": "Trigger Point Esports",
+            "LOCALISATION": "IN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:54:57",
+            "ACRONYME": "TPE"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 129535,
+                "NOM": "GodLike Esports",
+                "LOCALISATION": "IN",
+                "ACRONYME": "GLE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:44:28"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24860,
+                    "PSEUDO": "Karam1L",
+                    "ROLE": null,
+                    "PRENOM": "Norbu",
+                    "NOM": "Tsering",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-12-08",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:44:28"
+                },
+                {
+                    "ID": 32289,
+                    "PSEUDO": "Paradox",
+                    "ROLE": null,
+                    "PRENOM": "Kasif",
+                    "NOM": "Sayyed",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-10",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:44:27"
+                },
+                {
+                    "ID": 32318,
+                    "PSEUDO": "RvK",
+                    "ROLE": null,
+                    "PRENOM": "Rishi",
+                    "NOM": "Vijayakumar",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-11-18",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:44:28"
+                },
+                {
+                    "ID": 33472,
+                    "PSEUDO": "sayoo",
+                    "ROLE": null,
+                    "PRENOM": "Willy",
+                    "NOM": "Ivandra",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-05-03",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:44:28"
+                },
+                {
+                    "ID": 38937,
+                    "PSEUDO": "azyshaha",
+                    "ROLE": null,
+                    "PRENOM": "Azis",
+                    "NOM": "Nandang",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-17",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:44:28"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 136893,
+                "NOM": "Revenant XSpark",
+                "LOCALISATION": "IN",
+                "ACRONYME": "RXS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:51:44"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24862,
+                    "PSEUDO": "HellfightR",
+                    "ROLE": null,
+                    "PRENOM": "Sagnik",
+                    "NOM": "Roy",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1998-11-28",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:51:44"
+                },
+                {
+                    "ID": 29615,
+                    "PSEUDO": "Lightningfast",
+                    "ROLE": null,
+                    "PRENOM": "Abhirup",
+                    "NOM": "Choudhury",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-07",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:51:44"
+                },
+                {
+                    "ID": 39030,
+                    "PSEUDO": "Hoax",
+                    "ROLE": null,
+                    "PRENOM": "Aman",
+                    "NOM": "Yadav",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-16",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:51:44"
+                },
+                {
+                    "ID": 44304,
+                    "PSEUDO": "venka",
+                    "ROLE": null,
+                    "PRENOM": "Venkatesh",
+                    "NOM": "Sharma",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-11-01",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:51:44"
+                },
+                {
+                    "ID": 48517,
+                    "PSEUDO": "DcRulz",
+                    "ROLE": null,
+                    "PRENOM": "Daivik",
+                    "NOM": "Chauhan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:54"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138705,
+                "NOM": "SIGN Esports",
+                "LOCALISATION": "IN",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:53:08"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24715,
+                    "PSEUDO": "Russ",
+                    "ROLE": null,
+                    "PRENOM": "Russel",
+                    "NOM": "Mendes",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-17",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:53:08"
+                },
+                {
+                    "ID": 39038,
+                    "PSEUDO": "Deadly10",
+                    "ROLE": null,
+                    "PRENOM": "Saksham",
+                    "NOM": "Aurangabadkar",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-01-10",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:53:08"
+                },
+                {
+                    "ID": 44291,
+                    "PSEUDO": "Tricky",
+                    "ROLE": null,
+                    "PRENOM": "Prish",
+                    "NOM": "Valvani",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-01-20",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:53:08"
+                },
+                {
+                    "ID": 56419,
+                    "PSEUDO": "Garv",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:57"
+                },
+                {
+                    "ID": 59536,
+                    "PSEUDO": "Yuvi",
+                    "ROLE": null,
+                    "PRENOM": "Yuvraj",
+                    "NOM": "Singh",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139654,
+                "NOM": "Zexar Esports",
+                "LOCALISATION": "IN",
+                "ACRONYME": "ZEX",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 69122,
+                    "PSEUDO": "BlooDy13",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+                },
+                {
+                    "ID": 69123,
+                    "PSEUDO": "fluxx",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:45"
+                },
+                {
+                    "ID": 69124,
+                    "PSEUDO": "howaboutn0",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:45"
+                },
+                {
+                    "ID": 69125,
+                    "PSEUDO": "OBITO",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:45"
+                },
+                {
+                    "ID": 69126,
+                    "PSEUDO": "GhostyXD",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:45"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139655,
+                "NOM": "Kryon Esports",
+                "LOCALISATION": "IN",
+                "ACRONYME": "KRY",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 39029,
+                    "PSEUDO": "Kohliii",
+                    "ROLE": null,
+                    "PRENOM": "Pranav",
+                    "NOM": "Kohli",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-07",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:00"
+                },
+                {
+                    "ID": 52682,
+                    "PSEUDO": "Trinxty",
+                    "ROLE": null,
+                    "PRENOM": "Naqshab",
+                    "NOM": "Khan",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-06-18",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:04:59"
+                },
+                {
+                    "ID": 53959,
+                    "PSEUDO": "r1seN",
+                    "ROLE": null,
+                    "PRENOM": "Zaid",
+                    "NOM": "Quraishi",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-09-23",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:00"
+                },
+                {
+                    "ID": 60318,
+                    "PSEUDO": "Rinsat",
+                    "ROLE": null,
+                    "PRENOM": "Rinan ",
+                    "NOM": "Satpute",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": "2009-05-16",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:00"
+                },
+                {
+                    "ID": 69127,
+                    "PSEUDO": "Dp",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139656,
+                "NOM": "GOC Esports",
+                "LOCALISATION": "IN",
+                "ACRONYME": "GOC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:53:54"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 54017,
+                    "PSEUDO": "Makaveli",
+                    "ROLE": null,
+                    "PRENOM": "Nikhil",
+                    "NOM": "Chettri",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-05",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:53:54"
+                },
+                {
+                    "ID": 56363,
+                    "PSEUDO": "BatmaN",
+                    "ROLE": null,
+                    "PRENOM": "Rehan",
+                    "NOM": "Nasimalam Shaikh",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:15:01"
+                },
+                {
+                    "ID": 56367,
+                    "PSEUDO": "Envy2K",
+                    "ROLE": null,
+                    "PRENOM": "Afaque Salim",
+                    "NOM": "Shaikh",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-12",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:53:54"
+                },
+                {
+                    "ID": 59474,
+                    "PSEUDO": "SynX",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:15:03"
+                },
+                {
+                    "ID": 66097,
+                    "PSEUDO": " xeon",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:15:00"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139657,
+                "NOM": "RANKERS",
+                "LOCALISATION": "IN",
+                "ACRONYME": "RAN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 56357,
+                    "PSEUDO": "YasH",
+                    "ROLE": null,
+                    "PRENOM": "Yash",
+                    "NOM": "Prakash Dahapute",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-06-27",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:05:01"
+                },
+                {
+                    "ID": 66108,
+                    "PSEUDO": "Kladenstein",
+                    "ROLE": null,
+                    "PRENOM": "Arnav",
+                    "NOM": "Singh",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:15:05"
+                },
+                {
+                    "ID": 69128,
+                    "PSEUDO": "zephe",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+                },
+                {
+                    "ID": 69129,
+                    "PSEUDO": "admr",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+                },
+                {
+                    "ID": 69130,
+                    "PSEUDO": " KenZo",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "15:14:46"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139658,
+                "NOM": "Trigger Point Esports",
+                "LOCALISATION": "IN",
+                "ACRONYME": "TPE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:54:57"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 39130,
+                    "PSEUDO": "CortezZ",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-08-19",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:49:01"
+                },
+                {
+                    "ID": 54808,
+                    "PSEUDO": "hYperfixion",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:48:11"
+                },
+                {
+                    "ID": 69119,
+                    "PSEUDO": "SangraM",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:48:26"
+                },
+                {
+                    "ID": 69120,
+                    "PSEUDO": "WEELJACK",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:47:13"
+                },
+                {
+                    "ID": 69121,
+                    "PSEUDO": "RaJ",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:47:00"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "VCT",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-02-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "NOM": "Pacific Kickoff: South Asia - Qualifier 2027",
+        "ANNEE": 2027,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:31:58",
+        "ID DU VAINQUEUR": null
+    }
+}

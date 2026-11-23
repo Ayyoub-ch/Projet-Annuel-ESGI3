@@ -16,7 +16,7 @@
         {
             "NOM": "SKR vs BBP",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -27,7 +27,7 @@
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:56:32",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:44:55",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a-a759a4fa-945f-4271-8779-5ff4e67e5887",
             "TIER": "d",
@@ -41,30 +41,30 @@
         {
             "NOM": "Spirit Academy Green vs REV",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-23",
-            "HEURE PRÉVUE": "11:30:00",
+            "HEURE PRÉVUE": "12:10:00",
             "DATE DE DEBUT": "2026-11-23",
             "HEURE DE DEBUT": "2026-11-23",
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:36:46",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:06:02",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a-a759a4fa-945f-4271-8779-5ff4e67e5887",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": false,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/eplcs_en"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/rehubtv"
             }
         },
         {
-            "NOM": "Elimination match: TBD vs TBD",
+            "NOM": "Elimination match: SKR vs REV",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -77,7 +77,7 @@
             "DATE DE FIN": "2026-11-27",
             "HEURE DE FIN": "2026-11-27",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:36:47",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:06:02",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a-a759a4fa-945f-4271-8779-5ff4e67e5887",
             "TIER": "d",
@@ -89,7 +89,7 @@
             }
         },
         {
-            "NOM": "Winners match: TBD vs TBD",
+            "NOM": "Winners match: BBP vs Spirit Academy Green",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -102,7 +102,7 @@
             "DATE DE FIN": "2026-11-27",
             "HEURE DE FIN": "2026-11-27",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:36:46",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:06:02",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-european-pro-league-series-11-closed-qualifier-2026-group-a-a759a4fa-945f-4271-8779-5ff4e67e5887",
             "TIER": "d",
@@ -144,8 +144,8 @@
             "ID": 137444,
             "NOM": "Spirit Academy Green",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:56:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:32:44",
             "ACRONYME": null
         },
         {
@@ -168,8 +168,8 @@
             "ID": 139343,
             "NOM": "Sökerorg",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:56:17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:30:55",
             "ACRONYME": "SKR"
         }
     ],
@@ -180,8 +180,8 @@
                 "NOM": "Spirit Academy Green",
                 "LOCALISATION": "RU",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:56:18"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:32:44"
             },
             "JOUEURS": [
                 {
@@ -194,8 +194,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BY",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:18"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:32:44"
                 },
                 {
                     "ID": 62030,
@@ -207,8 +207,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:32:43"
                 },
                 {
                     "ID": 62032,
@@ -220,8 +220,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:32:43"
                 },
                 {
                     "ID": 67060,
@@ -233,8 +233,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:18"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "19:32:44"
                 },
                 {
                     "ID": 69093,
@@ -411,8 +411,8 @@
                 "NOM": "Sökerorg",
                 "LOCALISATION": "",
                 "ACRONYME": "SKR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:56:17"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:30:55"
             },
             "JOUEURS": [
                 {
@@ -425,8 +425,8 @@
                     "DATE DE NAISSANCE": "1999-10-18",
                     "NATIONALITE": "MK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:30:55"
                 },
                 {
                     "ID": 30413,
@@ -438,8 +438,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:16"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:30:55"
                 },
                 {
                     "ID": 35871,
@@ -451,8 +451,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:30:55"
                 },
                 {
                     "ID": 53668,
@@ -464,8 +464,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:30:55"
                 },
                 {
                     "ID": 57760,
@@ -477,8 +477,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:56:17"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:30:55"
                 }
             ]
         }

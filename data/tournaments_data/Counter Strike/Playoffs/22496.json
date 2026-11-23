@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-12-14",
         "HEURE DE FIN": "04:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-        "HEURE DE LA DERNIERE MODIFICATION": "04:15:06",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:05:20",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -614,31 +614,6 @@
             }
         },
         {
-            "NOM": "Upper Bracket Semifinal 2: SP vs REGAIN",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-29",
-            "HEURE PRÉVUE": "01:00:00",
-            "DATE DE DEBUT": "2026-11-29",
-            "HEURE DE DEBUT": "2026-11-29",
-            "DATE DE FIN": "2026-11-29",
-            "HEURE DE FIN": "2026-11-29",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "04:02:24",
-            "PRIZEPOOL": "10000 United States Dollar",
-            "SLUG": "cs-go-crossfire-7-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
             "NOM": "Lower Bracket Round 3 match 1: TBD vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
@@ -728,6 +703,31 @@
             "HEURE DE FIN": "2026-11-29",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
             "HEURE DE LA DERNIERE MODIFICATION": "21:39:15",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Upper Bracket Semifinal 2: SP vs REGAIN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-12-01",
+            "HEURE PRÉVUE": "01:00:00",
+            "DATE DE DEBUT": "2026-12-01",
+            "HEURE DE DEBUT": "2026-12-01",
+            "DATE DE FIN": "2026-12-01",
+            "HEURE DE FIN": "2026-12-01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:18:40",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -1082,8 +1082,8 @@
             "ID": 138652,
             "NOM": "Overtake Sector",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "04:02:10",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:19:43",
             "ACRONYME": "OT"
         },
         {
@@ -1178,8 +1178,8 @@
             "ID": 139620,
             "NOM": "NZ Gaming",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:37:33",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:05:20",
             "ACRONYME": null
         }
     ],
@@ -2115,8 +2115,8 @@
                 "NOM": "Overtake Sector",
                 "LOCALISATION": "US",
                 "ACRONYME": "OT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                "HEURE DE LA DERNIERE MODIFICATION": "04:02:10"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:19:43"
             },
             "JOUEURS": [
                 {
@@ -2181,8 +2181,8 @@
                     "DATE DE NAISSANCE": "2005-05-25",
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "04:02:10"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:19:40"
                 },
                 {
                     "ID": 59000,
@@ -2194,8 +2194,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:05:35"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:19:43"
                 }
             ]
         },
@@ -2368,14 +2368,14 @@
                     "ID": 69106,
                     "PSEUDO": "Ounce",
                     "ROLE": null,
-                    "PRENOM": null,
-                    "NOM": null,
-                    "AGE": null,
+                    "PRENOM": "Tyler",
+                    "NOM": "Lumsden",
+                    "AGE": 22,
                     "DATE DE NAISSANCE": null,
-                    "NATIONALITE": null,
+                    "NATIONALITE": "CA",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "04:15:06"
+                    "HEURE DE LA DERNIERE MODIFICATION": "12:31:31"
                 },
                 {
                     "ID": 69107,
@@ -3117,10 +3117,76 @@
                 "NOM": "NZ Gaming",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:37:33"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:05:20"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 69131,
+                    "PSEUDO": "Cheng",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:20"
+                },
+                {
+                    "ID": 69132,
+                    "PSEUDO": "Vision",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:20"
+                },
+                {
+                    "ID": 69133,
+                    "PSEUDO": "gojoo",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:20"
+                },
+                {
+                    "ID": 69134,
+                    "PSEUDO": "Taro",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:20"
+                },
+                {
+                    "ID": 69135,
+                    "PSEUDO": "k0nGbu",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:05:20"
+                }
+            ]
         }
     ],
     "LIGUE": {

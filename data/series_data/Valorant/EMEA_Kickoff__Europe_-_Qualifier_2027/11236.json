@@ -1,0 +1,40 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11236,
+        "NOM": "EMEA_Kickoff__Europe_-_Qualifier",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-05",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:51:11",
+        "ANNEE": 2027,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-02-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:07:55"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Swiss Stage",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "EEU",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "16:00:00",
+            "DATE DE FIN": "2026-11-30",
+            "HEURE DE FIN": "23:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:51:11",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

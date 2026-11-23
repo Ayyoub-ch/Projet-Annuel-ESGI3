@@ -14,31 +14,6 @@
     },
     "MATCHES": [
         {
-            "NOM": "FNC vs BRUTE",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-30",
-            "HEURE PRÉVUE": "11:00:00",
-            "DATE DE DEBUT": "2026-11-30",
-            "HEURE DE DEBUT": "2026-11-30",
-            "DATE DE FIN": "2026-11-30",
-            "HEURE DE FIN": "2026-11-30",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:54:06",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-journey-winter-2026-group-a",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
             "NOM": "APG vs ALL",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
@@ -64,7 +39,7 @@
             }
         },
         {
-            "NOM": "Winners' Match: TBD vs TBD",
+            "NOM": "Winners' Match: FNC vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -76,8 +51,8 @@
             "HEURE DE DEBUT": "2026-11-30",
             "DATE DE FIN": "2026-11-30",
             "HEURE DE FIN": "2026-11-30",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:54:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:13:55",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-journey-winter-2026-group-a",
             "TIER": "c",
@@ -89,7 +64,7 @@
             }
         },
         {
-            "NOM": "Elimination Match: TBD vs TBD",
+            "NOM": "Elimination Match: BRUTE vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -101,8 +76,8 @@
             "HEURE DE DEBUT": "2026-11-30",
             "DATE DE FIN": "2026-11-30",
             "HEURE DE FIN": "2026-11-30",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:54:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:19:15",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-journey-winter-2026-group-a",
             "TIER": "c",
@@ -128,6 +103,31 @@
             "HEURE DE FIN": "2026-11-30",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
             "HEURE DE LA DERNIERE MODIFICATION": "12:54:06",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-journey-winter-2026-group-a",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "FNC vs BRUTE",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-30",
+            "HEURE PRÉVUE": "11:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:13:55",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-journey-winter-2026-group-a",
             "TIER": "c",

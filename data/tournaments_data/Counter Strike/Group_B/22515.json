@@ -3,12 +3,12 @@
         "ID": 22515,
         "NOM": "Group_B",
         "JEU VIDEO": "Counter Strike",
-        "DATE DE DEBUT": "2026-11-23",
+        "DATE DE DEBUT": "2026-11-24",
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-12-01",
-        "HEURE DE FIN": "11:30:00",
+        "HEURE DE FIN": "14:30:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-        "HEURE DE LA DERNIERE MODIFICATION": "07:05:53",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:42:28",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -27,7 +27,7 @@
             "DATE DE FIN": "2026-11-24",
             "HEURE DE FIN": "2026-11-24",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:08:26",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:55:57",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-59-2026-group-b",
             "TIER": "d",
@@ -52,7 +52,7 @@
             "DATE DE FIN": "2026-11-24",
             "HEURE DE FIN": "2026-11-24",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:08:26",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:56:22",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-59-2026-group-b",
             "TIER": "d",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "NOM": "TBD vs TBD",
+            "NOM": "Winners' Match: TBD vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -77,7 +77,7 @@
             "DATE DE FIN": "2026-11-28",
             "HEURE DE FIN": "2026-11-28",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:08:26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:17:23",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-59-2026-group-b",
             "TIER": "d",
@@ -89,7 +89,7 @@
             }
         },
         {
-            "NOM": "TBD vs TBD",
+            "NOM": "Elimination Match: TBD vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -102,7 +102,7 @@
             "DATE DE FIN": "2026-11-28",
             "HEURE DE FIN": "2026-11-28",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:08:26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:17:30",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-59-2026-group-b",
             "TIER": "d",
@@ -114,7 +114,7 @@
             }
         },
         {
-            "NOM": "TBD vs TBD",
+            "NOM": "Decider Match: TBD vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -127,7 +127,7 @@
             "DATE DE FIN": "2026-12-01",
             "HEURE DE FIN": "2026-12-01",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:08:26",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:17:36",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-59-2026-group-b",
             "TIER": "d",
@@ -153,7 +153,7 @@
             "NOM": "Passion Academy",
             "LOCALISATION": "UA",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:49:24",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:33:15",
             "ACRONYME": "PSN.A"
         },
         {
@@ -161,7 +161,7 @@
             "NOM": "INFINITE Talent",
             "LOCALISATION": "RO",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:50:27",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:34:33",
             "ACRONYME": "INF.T"
         },
         {
@@ -169,7 +169,7 @@
             "NOM": "TheChampionGG",
             "LOCALISATION": "UA",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:49:24",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:35:46",
             "ACRONYME": null
         }
     ],
@@ -258,7 +258,7 @@
                 "LOCALISATION": "UA",
                 "ACRONYME": "PSN.A",
                 "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "02:49:24"
+                "HEURE DE LA DERNIERE MODIFICATION": "11:33:15"
             },
             "JOUEURS": [
                 {
@@ -285,7 +285,20 @@
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "02:49:24"
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:40:05"
+                },
+                {
+                    "ID": 67791,
+                    "PSEUDO": "Hammer",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:40:13"
                 },
                 {
                     "ID": 68245,
@@ -295,10 +308,10 @@
                     "NOM": null,
                     "AGE": null,
                     "DATE DE NAISSANCE": null,
-                    "NATIONALITE": null,
+                    "NATIONALITE": "UA",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "02:49:24"
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:40:20"
                 },
                 {
                     "ID": 68770,
@@ -311,7 +324,7 @@
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "02:49:24"
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:40:26"
                 }
             ]
         },
@@ -322,7 +335,7 @@
                 "LOCALISATION": "RO",
                 "ACRONYME": "INF.T",
                 "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "02:50:27"
+                "HEURE DE LA DERNIERE MODIFICATION": "11:34:33"
             },
             "JOUEURS": [
                 {
@@ -339,22 +352,48 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "02:50:27"
                 },
                 {
-                    "ID": 67962,
-                    "PSEUDO": "sacaluz",
+                    "ID": 64975,
+                    "PSEUDO": "RbN",
                     "ROLE": null,
-                    "PRENOM": null,
-                    "NOM": null,
-                    "AGE": null,
+                    "PRENOM": "Ruben",
+                    "NOM": "Salovastru",
+                    "AGE": 17,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "02:27:57"
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:33:15"
+                },
+                {
+                    "ID": 67962,
+                    "PSEUDO": "sacaluz",
+                    "ROLE": null,
+                    "PRENOM": "Sebastian Mihai",
+                    "NOM": "Paraschiv",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:40:50"
                 },
                 {
                     "ID": 67963,
                     "PSEUDO": "v7d",
                     "ROLE": null,
+                    "PRENOM": "Mihai Vladut",
+                    "NOM": "Starica",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:41:12"
+                },
+                {
+                    "ID": 69117,
+                    "PSEUDO": "andrew",
+                    "ROLE": null,
                     "PRENOM": null,
                     "NOM": null,
                     "AGE": null,
@@ -362,7 +401,7 @@
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "02:27:57"
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:34:33"
                 }
             ]
         },
@@ -373,7 +412,7 @@
                 "LOCALISATION": "UA",
                 "ACRONYME": null,
                 "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "02:49:24"
+                "HEURE DE LA DERNIERE MODIFICATION": "11:35:46"
             },
             "JOUEURS": [
                 {
@@ -427,6 +466,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "02:49:24"
+                },
+                {
+                    "ID": 69118,
+                    "PSEUDO": "af1-",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:35:46"
                 }
             ]
         }
