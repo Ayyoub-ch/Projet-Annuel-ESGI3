@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1828387,
+        "NOM": "Round_3__Manticore_vs_NEXT",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-22",
+        "HEURE DE DEBUT": "20:11:01",
+        "DATE DE FIN": "2026-11-22",
+        "HEURE DE FIN": "22:42:02",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "09:39:18",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53251,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2529,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "20:11:02",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "20:53:11",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137751,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53252,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2392,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "21:08:12",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "21:48:04",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139629,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53253,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2837,
+            "DATE DE DEBUT DE PARTIE": "2026-11-22",
+            "HEURE DE DEBUT DE PARTIE": "21:54:45",
+            "DATE DE FIN DE PARTIE": "2026-11-22",
+            "HEURE DE FIN DE PARTIE": "22:42:02",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137751,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139629,
+            "NOM": "Manticore",
+            "LOCALISATION": "BR",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:25:46"
+        },
+        {
+            "ID": 137751,
+            "NOM": "NEXT ",
+            "LOCALISATION": "BR",
+            "ACRONYME": "NEXT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:21:18"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139629
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137751
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22499,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "SA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "20:00:00",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "00:58:59",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11225,
+        "NOM": "Americas Kickoff: Brazil 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-12-06",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-21",
+        "HEURE DE MODIFICATION": "09:39:18"
+    }
+}

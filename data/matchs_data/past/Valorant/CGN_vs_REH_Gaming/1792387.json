@@ -3,7 +3,10 @@
         "ID": 1792387,
         "NOM": "CGN_vs_REH_Gaming",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
         "STATUT": "finished",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-22",
@@ -22,7 +25,7 @@
     "PARTIES": [
         {
             "ID": 52776,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 1629,
@@ -37,7 +40,7 @@
         },
         {
             "ID": 52777,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
             "LONGUEUR": 2813,
@@ -65,8 +68,8 @@
             "NOM": "REH Gaming",
             "LOCALISATION": "DE",
             "ACRONYME": null,
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-08",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:57:40"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:18:53"
         }
     ],
     "RESULTATS": [
@@ -92,8 +95,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE MODIFICATION": "2026-11-15",
-        "HEURE DE MODIFICATION": "20:05:36",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "22:18:53",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

@@ -116,18 +116,18 @@
         {
             "NOM": "Decider Match: LN vs BORRA",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "canceled",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-22",
-            "HEURE PRÉVUE": "22:30:00",
-            "DATE DE DEBUT": "2026-11-22",
-            "HEURE DE DEBUT": "2026-11-22",
-            "DATE DE FIN": "2026-11-22",
-            "HEURE DE FIN": "2026-11-22",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:54:57",
+            "HEURE PRÉVUE": "23:15:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:10:32",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-gamers-club-liga-serie-a-november-2026-group-d",
             "TIER": "d",
@@ -160,8 +160,8 @@
             "ID": 139026,
             "NOM": "MEIA NOITE",
             "LOCALISATION": "BR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:29:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:07:35",
             "ACRONYME": null
         },
         {
@@ -334,8 +334,8 @@
                 "NOM": "MEIA NOITE",
                 "LOCALISATION": "BR",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:29:23"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
             },
             "JOUEURS": [
                 {
@@ -348,8 +348,8 @@
                     "DATE DE NAISSANCE": "1999-02-15",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
                 },
                 {
                     "ID": 27435,
@@ -361,8 +361,8 @@
                     "DATE DE NAISSANCE": "2003-02-22",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "09:38:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
                 },
                 {
                     "ID": 30763,
@@ -374,8 +374,8 @@
                     "DATE DE NAISSANCE": "2003-07-26",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-13",
-                    "HEURE DE LA DERNIERE MODIFICATION": "09:38:15"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
                 },
                 {
                     "ID": 32678,
@@ -387,8 +387,8 @@
                     "DATE DE NAISSANCE": "2001-07-30",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:23"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
                 },
                 {
                     "ID": 34259,
@@ -400,8 +400,8 @@
                     "DATE DE NAISSANCE": "1998-02-02",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
                 },
                 {
                     "ID": 35657,
@@ -413,8 +413,8 @@
                     "DATE DE NAISSANCE": "2001-11-27",
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
                 },
                 {
                     "ID": 52630,
@@ -426,8 +426,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "BR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "07:29:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
                 }
             ]
         },

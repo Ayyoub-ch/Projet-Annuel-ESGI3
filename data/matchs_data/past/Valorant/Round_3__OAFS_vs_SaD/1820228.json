@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1820228,
+        "NOM": "Round_3__OAFS_vs_SaD",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "00:17:10",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "01:51:42",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:47:16",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53186,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3284,
+            "DATE DE DEBUT DE PARTIE": "2026-11-23",
+            "HEURE DE DEBUT DE PARTIE": "00:17:10",
+            "DATE DE FIN DE PARTIE": "2026-11-23",
+            "HEURE DE FIN DE PARTIE": "01:11:54",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139611,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53187,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1142,
+            "DATE DE DEBUT DE PARTIE": "2026-11-23",
+            "HEURE DE DEBUT DE PARTIE": "01:32:40",
+            "DATE DE FIN DE PARTIE": "2026-11-23",
+            "HEURE DE FIN DE PARTIE": "01:51:43",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139611,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139611,
+            "NOM": "Oafs",
+            "LOCALISATION": "",
+            "ACRONYME": "OAFS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:06:55"
+        },
+        {
+            "ID": 134026,
+            "NOM": "SaD Esports",
+            "LOCALISATION": "US",
+            "ACRONYME": "SaD",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:12:48"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139611
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 134026
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22493,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "02:07:31",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11220,
+        "NOM": "Americas Kickoff: North America 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:47:16"
+    }
+}

@@ -3,7 +3,10 @@
         "ID": 1792354,
         "NOM": "TFG_vs_Backed_by_Nobody",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
         "STATUT": "finished",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-22",
@@ -22,7 +25,7 @@
     "PARTIES": [
         {
             "ID": 52692,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 4191,
@@ -37,7 +40,7 @@
         },
         {
             "ID": 52693,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
             "LONGUEUR": 2507,
@@ -52,7 +55,7 @@
         },
         {
             "ID": 52694,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 3,
             "STATUT": "finished",
             "LONGUEUR": 13,
@@ -80,8 +83,8 @@
             "NOM": "Backed by Nobody",
             "LOCALISATION": "DE",
             "ACRONYME": null,
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-06",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:00:06"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:19:56"
         }
     ],
     "RESULTATS": [
@@ -107,8 +110,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE MODIFICATION": "2026-11-19",
-        "HEURE DE MODIFICATION": "20:26:44",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "22:20:10",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

@@ -1,0 +1,645 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22513,
+        "NOM": "Playoffs",
+        "JEU VIDEO": "Counter Strike",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "18:30:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:11:45",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "Quarterfinal 1: TDM vs MIRA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "18:30:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:11:45",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-november-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Quarterfinal 2: MEIA NOITE vs RED.A",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-24",
+            "HEURE PRÉVUE": "21:00:00",
+            "DATE DE DEBUT": "2026-11-24",
+            "HEURE DE DEBUT": "2026-11-24",
+            "DATE DE FIN": "2026-11-24",
+            "HEURE DE FIN": "2026-11-24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:11:45",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-november-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Quarterfinal 3: GRE vs Rush",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "18:30:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:11:45",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-november-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135505,
+            "NOM": "RED Canids Academy",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:07:33",
+            "ACRONYME": "RED.A"
+        },
+        {
+            "ID": 138939,
+            "NOM": "Rush",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:07:35",
+            "ACRONYME": null
+        },
+        {
+            "ID": 138942,
+            "NOM": "Grêmio Esports",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:07:34",
+            "ACRONYME": "GRE"
+        },
+        {
+            "ID": 139026,
+            "NOM": "MEIA NOITE",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:07:35",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139283,
+            "NOM": "Mira",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:07:32",
+            "ACRONYME": "MIRA"
+        },
+        {
+            "ID": 139602,
+            "NOM": "TROPA DO MICHA",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:07:36",
+            "ACRONYME": "TDM"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135505,
+                "NOM": "RED Canids Academy",
+                "LOCALISATION": "BR",
+                "ACRONYME": "RED.A",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:07:33"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25238,
+                    "PSEUDO": "lineko",
+                    "ROLE": null,
+                    "PRENOM": "John",
+                    "NOM": "Lineck",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-04-28",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:33"
+                },
+                {
+                    "ID": 51045,
+                    "PSEUDO": "n1cks",
+                    "ROLE": null,
+                    "PRENOM": "Nicolas",
+                    "NOM": "Paixão",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:33"
+                },
+                {
+                    "ID": 54900,
+                    "PSEUDO": "gtw",
+                    "ROLE": null,
+                    "PRENOM": "Gustavo",
+                    "NOM": "Batista",
+                    "AGE": 16,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:32"
+                },
+                {
+                    "ID": 54988,
+                    "PSEUDO": "sanc",
+                    "ROLE": null,
+                    "PRENOM": "Bruno",
+                    "NOM": "Musa",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:33"
+                },
+                {
+                    "ID": 64758,
+                    "PSEUDO": "rafa",
+                    "ROLE": null,
+                    "PRENOM": "Rafael",
+                    "NOM": "Garcia",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:33"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138939,
+                "NOM": "Rush",
+                "LOCALISATION": "BR",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 32682,
+                    "PSEUDO": "nolkz",
+                    "ROLE": null,
+                    "PRENOM": "Felipe",
+                    "NOM": "Rodrigues",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-04-12",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:34"
+                },
+                {
+                    "ID": 44017,
+                    "PSEUDO": "CloN7",
+                    "ROLE": null,
+                    "PRENOM": "Victor",
+                    "NOM": "Mackieviez",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:34"
+                },
+                {
+                    "ID": 44439,
+                    "PSEUDO": "nyezin",
+                    "ROLE": null,
+                    "PRENOM": "Marcelo ",
+                    "NOM": "Ramos",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-09-18",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                },
+                {
+                    "ID": 57822,
+                    "PSEUDO": "cLd",
+                    "ROLE": null,
+                    "PRENOM": "Jonathan",
+                    "NOM": "Cruz",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:34"
+                },
+                {
+                    "ID": 64188,
+                    "PSEUDO": "hardok",
+                    "ROLE": null,
+                    "PRENOM": "Vitor",
+                    "NOM": "Fernandes",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138942,
+                "NOM": "Grêmio Esports",
+                "LOCALISATION": "BR",
+                "ACRONYME": "GRE",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:07:34"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 25242,
+                    "PSEUDO": "MITHPUTTINI",
+                    "ROLE": null,
+                    "PRENOM": "Miguel",
+                    "NOM": "Vilaça",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:33"
+                },
+                {
+                    "ID": 49698,
+                    "PSEUDO": "s1lent",
+                    "ROLE": null,
+                    "PRENOM": "Gabriel",
+                    "NOM": "Brandão",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:34"
+                },
+                {
+                    "ID": 54219,
+                    "PSEUDO": "balencyy",
+                    "ROLE": null,
+                    "PRENOM": "Nathan",
+                    "NOM": "Marques",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:34"
+                },
+                {
+                    "ID": 62053,
+                    "PSEUDO": "yeda",
+                    "ROLE": null,
+                    "PRENOM": "Gustavo",
+                    "NOM": "Yeda",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:34"
+                },
+                {
+                    "ID": 66985,
+                    "PSEUDO": "smf",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:34"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139026,
+                "NOM": "MEIA NOITE",
+                "LOCALISATION": "BR",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24850,
+                    "PSEUDO": "abr",
+                    "ROLE": null,
+                    "PRENOM": "Abraão",
+                    "NOM": "Campagnac",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-02-15",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                },
+                {
+                    "ID": 27435,
+                    "PSEUDO": "Leomonster",
+                    "ROLE": null,
+                    "PRENOM": "Leonardo",
+                    "NOM": " Enrique",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-22",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                },
+                {
+                    "ID": 30763,
+                    "PSEUDO": "Bruninho",
+                    "ROLE": null,
+                    "PRENOM": "Bruno",
+                    "NOM": "Rodrigues",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-26",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                },
+                {
+                    "ID": 32678,
+                    "PSEUDO": "fREQ",
+                    "ROLE": null,
+                    "PRENOM": "Leonardo",
+                    "NOM": "Kurussu",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-30",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                },
+                {
+                    "ID": 34259,
+                    "PSEUDO": "JOTA",
+                    "ROLE": null,
+                    "PRENOM": "Jhonatan",
+                    "NOM": "Willian",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-02-02",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                },
+                {
+                    "ID": 35657,
+                    "PSEUDO": "bsd",
+                    "ROLE": null,
+                    "PRENOM": "Lucas",
+                    "NOM": "Luan",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2001-11-27",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                },
+                {
+                    "ID": 52630,
+                    "PSEUDO": "Jerr1",
+                    "ROLE": null,
+                    "PRENOM": "Marcos",
+                    "NOM": "Maier",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139283,
+                "NOM": "Mira",
+                "LOCALISATION": "BR",
+                "ACRONYME": "MIRA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:07:32"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 52095,
+                    "PSEUDO": "Tineu",
+                    "ROLE": null,
+                    "PRENOM": "Luiz",
+                    "NOM": "Tineu",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:32"
+                },
+                {
+                    "ID": 52826,
+                    "PSEUDO": "sakamoto",
+                    "ROLE": null,
+                    "PRENOM": "Bruno ",
+                    "NOM": "Nosse",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:32"
+                },
+                {
+                    "ID": 57097,
+                    "PSEUDO": "snow",
+                    "ROLE": null,
+                    "PRENOM": "Gabriel",
+                    "NOM": "Postal",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:32"
+                },
+                {
+                    "ID": 63658,
+                    "PSEUDO": "khowy666",
+                    "ROLE": null,
+                    "PRENOM": "Pedro",
+                    "NOM": "Soares",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:31"
+                },
+                {
+                    "ID": 68965,
+                    "PSEUDO": "ALENNNCAR",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:31"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139602,
+                "NOM": "TROPA DO MICHA",
+                "LOCALISATION": "BR",
+                "ACRONYME": "TDM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:07:36"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 44961,
+                    "PSEUDO": "guH",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                },
+                {
+                    "ID": 46016,
+                    "PSEUDO": "neozix",
+                    "ROLE": null,
+                    "PRENOM": "Isaac",
+                    "NOM": "Bruce",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:36"
+                },
+                {
+                    "ID": 54411,
+                    "PSEUDO": "lezy",
+                    "ROLE": null,
+                    "PRENOM": "Lucas da Silva",
+                    "NOM": "Mota",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:36"
+                },
+                {
+                    "ID": 68966,
+                    "PSEUDO": "nmicha",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:36"
+                },
+                {
+                    "ID": 68967,
+                    "PSEUDO": "rei louco",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:07:36"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Gamers Club Liga Série A",
+        "DATE DE LA DERNIERE MODIFICATION": "2022-08-12",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:23:59"
+    },
+    "SERIE": {
+        "NOM": "November 2026",
+        "ANNEE": 2026,
+        "SAISON": "November",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:26:55",
+        "ID DU VAINQUEUR": null
+    }
+}

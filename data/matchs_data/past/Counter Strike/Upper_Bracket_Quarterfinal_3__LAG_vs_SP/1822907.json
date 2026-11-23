@@ -22,7 +22,7 @@
     "PARTIES": [
         {
             "ID": 240581,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 1955,
@@ -37,7 +37,7 @@
         },
         {
             "ID": 240582,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
             "LONGUEUR": 2558,
@@ -65,8 +65,8 @@
             "NOM": "Swole Patrol",
             "LOCALISATION": "US",
             "ACRONYME": "SP",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:05:19"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:22:53"
         }
     ],
     "RESULTATS": [
@@ -93,7 +93,7 @@
         "DATE DE FIN": "2026-12-14",
         "HEURE DE FIN": "04:00:00",
         "DATE DE MODIFICATION": "2026-11-22",
-        "HEURE DE MODIFICATION": "04:02:13",
+        "HEURE DE MODIFICATION": "22:22:53",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },
