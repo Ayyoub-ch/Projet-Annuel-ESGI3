@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "01:00:00",
         "DATE DE FIN": "2026-12-14",
         "HEURE DE FIN": "04:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-        "HEURE DE LA DERNIERE MODIFICATION": "22:22:53",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "04:15:06",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -216,7 +216,7 @@
         {
             "NOM": "Upper Bracket Quarterfinal 4: REGAIN vs IOWA",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -227,21 +227,21 @@
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:09:36",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:14:12",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/playcrossfire"
             }
         },
         {
             "NOM": "Lower Bracket Round 1 match 1: FLY.R vs Axial",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -252,7 +252,7 @@
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:53:14",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:11:38",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -266,7 +266,7 @@
         {
             "NOM": "Lower Bracket Round 1 match 5: DTN vs NXG Esports",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -277,15 +277,15 @@
             "DATE DE FIN": "2026-11-23",
             "HEURE DE FIN": "2026-11-23",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:11:09",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:15:28",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/apollousrex"
             }
         },
         {
@@ -402,7 +402,7 @@
             "DATE DE FIN": "2026-11-24",
             "HEURE DE FIN": "2026-11-24",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:10:44",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:07:52",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -489,7 +489,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 2 match 1: TBD vs TBD",
+            "NOM": "Lower Bracket Round 2 match 1: FLY.R vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -501,8 +501,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:44:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:28:34",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -539,7 +539,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 2 match 3: TBD vs TBD",
+            "NOM": "Lower Bracket Round 2 match 3: DTN vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -551,8 +551,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:44:59",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:22:33",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -614,7 +614,7 @@
             }
         },
         {
-            "NOM": "Upper Bracket Semifinal 2: SP vs TBD",
+            "NOM": "Upper Bracket Semifinal 2: SP vs REGAIN",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -626,8 +626,8 @@
             "HEURE DE DEBUT": "2026-11-29",
             "DATE DE FIN": "2026-11-29",
             "HEURE DE FIN": "2026-11-29",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:39:15",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:02:24",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -689,7 +689,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Round 3 match 3: TBD vs TBD",
+            "NOM": "Lower Bracket Round 3 match 3: IOWA vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -701,8 +701,8 @@
             "HEURE DE DEBUT": "2026-11-29",
             "DATE DE FIN": "2026-11-29",
             "HEURE DE FIN": "2026-11-29",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:45:01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:02:25",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -1098,8 +1098,8 @@
             "ID": 138738,
             "NOM": "NXG Esports",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:27:12",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:15:06",
             "ACRONYME": null
         },
         {
@@ -2282,8 +2282,8 @@
                 "NOM": "NXG Esports",
                 "LOCALISATION": "US",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "04:15:06"
             },
             "JOUEURS": [
                 {
@@ -2350,6 +2350,45 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:27:11"
+                },
+                {
+                    "ID": 68386,
+                    "PSEUDO": "cow",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "04:15:05"
+                },
+                {
+                    "ID": 69106,
+                    "PSEUDO": "Ounce",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "04:15:06"
+                },
+                {
+                    "ID": 69107,
+                    "PSEUDO": "Leodyn",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "04:15:06"
                 }
             ]
         },

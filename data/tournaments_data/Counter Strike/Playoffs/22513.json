@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "18:30:00",
         "DATE DE FIN": "2026-11-28",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-        "HEURE DE LA DERNIERE MODIFICATION": "22:11:45",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "03:29:54",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -87,6 +87,31 @@
                 "LANGUE": null,
                 "LIEN BRUTE": null
             }
+        },
+        {
+            "NOM": "Quarterfinals 4: ALKA vs LN",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "21:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:32:46",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-gamers-club-liga-serie-a-november-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
         }
     ],
     "EQUIPES": [
@@ -97,6 +122,14 @@
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
             "HEURE DE LA DERNIERE MODIFICATION": "22:07:33",
             "ACRONYME": "RED.A"
+        },
+        {
+            "ID": 138276,
+            "NOM": "ALKA GAMING",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:29:54",
+            "ACRONYME": "ALKA"
         },
         {
             "ID": 138939,
@@ -121,6 +154,14 @@
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
             "HEURE DE LA DERNIERE MODIFICATION": "22:07:35",
             "ACRONYME": null
+        },
+        {
+            "ID": 139254,
+            "NOM": "Los Niños",
+            "LOCALISATION": "BR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:29:54",
+            "ACRONYME": "LN"
         },
         {
             "ID": 139283,
@@ -214,6 +255,83 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
                     "HEURE DE LA DERNIERE MODIFICATION": "22:07:33"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138276,
+                "NOM": "ALKA GAMING",
+                "LOCALISATION": "BR",
+                "ACRONYME": "ALKA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "03:29:54"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 24827,
+                    "PSEUDO": "bnc",
+                    "ROLE": null,
+                    "PRENOM": "Pedro",
+                    "NOM": "Mendes",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "1999-12-06",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:52"
+                },
+                {
+                    "ID": 25414,
+                    "PSEUDO": "proSHOW",
+                    "ROLE": null,
+                    "PRENOM": "Rodrigo",
+                    "NOM": "Guluzian",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-09-04",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:53"
+                },
+                {
+                    "ID": 29461,
+                    "PSEUDO": "puni",
+                    "ROLE": null,
+                    "PRENOM": "Victor",
+                    "NOM": "Marques",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:54"
+                },
+                {
+                    "ID": 42227,
+                    "PSEUDO": "vinaabEAST",
+                    "ROLE": null,
+                    "PRENOM": "Vinicius",
+                    "NOM": "Santos",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:54"
+                },
+                {
+                    "ID": 44590,
+                    "PSEUDO": "cerolzin",
+                    "ROLE": null,
+                    "PRENOM": "Diogo",
+                    "NOM": "Terto",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:53"
                 }
             ]
         },
@@ -471,6 +589,70 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
                     "HEURE DE LA DERNIERE MODIFICATION": "22:07:35"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139254,
+                "NOM": "Los Niños",
+                "LOCALISATION": "BR",
+                "ACRONYME": "LN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "03:29:54"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35140,
+                    "PSEUDO": "reix",
+                    "ROLE": null,
+                    "PRENOM": "Thiago",
+                    "NOM": "Alves",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-25",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:54"
+                },
+                {
+                    "ID": 50514,
+                    "PSEUDO": "PremiuM",
+                    "ROLE": null,
+                    "PRENOM": "Guilhermo ",
+                    "NOM": "Popov",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:54"
+                },
+                {
+                    "ID": 55683,
+                    "PSEUDO": "aNgelo",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:54"
+                },
+                {
+                    "ID": 61857,
+                    "PSEUDO": "space",
+                    "ROLE": null,
+                    "PRENOM": "Joao",
+                    "NOM": "Ledo",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "03:29:54"
                 }
             ]
         },

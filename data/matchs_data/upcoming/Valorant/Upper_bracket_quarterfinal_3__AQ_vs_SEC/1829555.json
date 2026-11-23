@@ -3,16 +3,19 @@
         "ID": 1829555,
         "NOM": "Upper_bracket_quarterfinal_3__AQ_vs_SEC",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
         "STATUT": "not_started",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-23",
-        "HEURE DE DEBUT": "11:00:00",
+        "HEURE DE DEBUT": "13:00:00",
         "DATE DE FIN": "Date de fin non définie",
         "HEURE DE FIN": "Heure de fin non définie",
-        "DATE DE MODIFICATION": "2026-11-11",
-        "HEURE DE MODIFICATION": "11:10:18",
-        "STATS DETAILLEES": true,
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39",
+        "STATS DETAILLEES": false,
         "LIVE": {
             "SUPPORT": false,
             "OUVERTURE": "Pas d'information sur l'ouverture"
@@ -30,7 +33,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": true,
+            "DETAIL STAT": false,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -45,7 +48,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": true,
+            "DETAIL STAT": false,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -60,7 +63,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": true,
+            "DETAIL STAT": false,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -106,10 +109,10 @@
         "DATE DE DEBUT": "2026-11-23",
         "HEURE DE DEBUT": "05:00:00",
         "DATE DE FIN": "2026-11-28",
-        "HEURE DE FIN": "18:00:00",
-        "DATE DE MODIFICATION": "2026-11-22",
-        "HEURE DE MODIFICATION": "15:30:32",
-        "STATS DETAILLEES": true,
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39",
+        "STATS DETAILLEES": false,
         "LIVE SUPPORT": false
     },
     "LIGUE": {
@@ -126,8 +129,8 @@
         "DATE DE DEBUT": "2026-11-12",
         "HEURE DE DEBUT": "23:00:00",
         "DATE DE FIN": "2026-11-28",
-        "HEURE DE FIN": "22:00:00",
-        "DATE DE MODIFICATION": "2026-11-11",
-        "HEURE DE MODIFICATION": "11:10:18"
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39"
     }
 }

@@ -3,15 +3,18 @@
         "ID": 1828390,
         "NOM": "Round_3__BRASIL2002_vs__Arranca_Dreams",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
         "STATUT": "finished",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-22",
         "HEURE DE DEBUT": "23:40:37",
         "DATE DE FIN": "2026-11-23",
         "HEURE DE FIN": "01:51:50",
-        "DATE DE MODIFICATION": "2026-11-21",
-        "HEURE DE MODIFICATION": "09:39:18",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "09:34:07",
         "STATS DETAILLEES": true,
         "LIVE": {
             "SUPPORT": false,
@@ -22,7 +25,7 @@
     "PARTIES": [
         {
             "ID": 53257,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 3712,
@@ -37,7 +40,7 @@
         },
         {
             "ID": 53258,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
             "LONGUEUR": 3275,
@@ -57,8 +60,8 @@
             "NOM": "BRASIL2002",
             "LOCALISATION": "",
             "ACRONYME": null,
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:37:48"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:32:57"
         },
         {
             "ID": 139637,
@@ -90,10 +93,10 @@
         "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
         "DATE DE DEBUT": "2026-11-20",
         "HEURE DE DEBUT": "20:00:00",
-        "DATE DE FIN": "2026-11-24",
-        "HEURE DE FIN": "04:00:00",
-        "DATE DE MODIFICATION": "2026-11-22",
-        "HEURE DE MODIFICATION": "00:58:59",
+        "DATE DE FIN": "2026-11-23",
+        "HEURE DE FIN": "01:51:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "10:14:56",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },
@@ -105,14 +108,14 @@
     },
     "SERIE": {
         "ID": 11225,
-        "NOM": "Americas Kickoff: Brazil 2027",
+        "NOM": "Americas Kickoff: Brazil Qualifier 2027",
         "ANNEE": 2027,
         "VAINQUEUR": "Vainqueur iconnu",
         "DATE DE DEBUT": "2026-11-19",
         "HEURE DE DEBUT": "23:00:00",
         "DATE DE FIN": "2026-12-06",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE MODIFICATION": "2026-11-21",
-        "HEURE DE MODIFICATION": "09:39:18"
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "09:34:07"
     }
 }

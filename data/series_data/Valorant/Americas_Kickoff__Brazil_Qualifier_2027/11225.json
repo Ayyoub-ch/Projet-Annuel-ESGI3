@@ -1,0 +1,57 @@
+{
+    "DONNEES GENERALES DE LA SERIE": {
+        "ID": 11225,
+        "NOM": "Americas_Kickoff__Brazil_Qualifier",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-12-06",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:34:07",
+        "ANNEE": 2027,
+        "SAISON": null
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-02-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:07:55"
+    },
+    "TOURNOIS": [
+        {
+            "NOM": "Group Stage",
+            "TYPE": "online",
+            "PAYS": "Pays du tournoi inconnu",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-11-20",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "2026-11-23",
+            "HEURE DE FIN": "01:51:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:14:56",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-brazil-2027-group-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        },
+        {
+            "NOM": "Playoffs",
+            "TYPE": "online",
+            "PAYS": "BR",
+            "REGION": "SA",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "20:00:00",
+            "DATE DE FIN": "2026-12-07",
+            "HEURE DE FIN": "01:00:00",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:43:09",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-brazil-2027-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "LIVE SUPPORTÉ": false
+        }
+    ]
+}

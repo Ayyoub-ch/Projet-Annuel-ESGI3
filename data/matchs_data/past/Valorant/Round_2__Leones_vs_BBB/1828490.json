@@ -3,7 +3,10 @@
         "ID": 1828490,
         "NOM": "Round_2__Leones_vs_BBB",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.09",
+            "current": true
+        },
         "STATUT": "finished",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-22",
@@ -22,7 +25,7 @@
     "PARTIES": [
         {
             "ID": 53275,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 2848,
@@ -37,7 +40,7 @@
         },
         {
             "ID": 53276,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
             "LONGUEUR": 1498,
@@ -57,8 +60,8 @@
             "NOM": "Leones",
             "LOCALISATION": "",
             "ACRONYME": null,
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:58:52"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:44:47"
         },
         {
             "ID": 137065,
@@ -90,10 +93,10 @@
         "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
         "DATE DE DEBUT": "2026-11-20",
         "HEURE DE DEBUT": "22:00:00",
-        "DATE DE FIN": "2026-11-24",
+        "DATE DE FIN": "2026-11-25",
         "HEURE DE FIN": "04:00:00",
-        "DATE DE MODIFICATION": "2026-11-22",
-        "HEURE DE MODIFICATION": "09:29:23",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:32:35",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

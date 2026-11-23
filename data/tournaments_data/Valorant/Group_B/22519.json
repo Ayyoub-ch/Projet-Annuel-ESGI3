@@ -1,0 +1,424 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22519,
+        "NOM": "Group_B",
+        "JEU VIDEO": "Valorant",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "14:30:00",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:52:03",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "BJK vs GS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "14:30:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:34:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-turkiye-qualifier-2027-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "tr",
+                "LIEN BRUTE": "https://kick.com/valorant_tur"
+            }
+        },
+        {
+            "NOM": "PCFIC vs APA",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "17:30:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:34:40",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-turkiye-qualifier-2027-group-b",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "tr",
+                "LIEN BRUTE": "https://kick.com/valorant_tur"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 128669,
+            "NOM": "Beşiktaş Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:25:58",
+            "ACRONYME": "BJK"
+        },
+        {
+            "ID": 130231,
+            "NOM": "Galatasaray Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:25:58",
+            "ACRONYME": "GS"
+        },
+        {
+            "ID": 134104,
+            "NOM": "Pcific Esports",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:25:57",
+            "ACRONYME": "PCFIC"
+        },
+        {
+            "ID": 139653,
+            "NOM": "Team Apanthe",
+            "LOCALISATION": "TR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:32:39",
+            "ACRONYME": "APA"
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 128669,
+                "NOM": "Beşiktaş Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "BJK",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 33251,
+                    "PSEUDO": "MrFaliN",
+                    "ROLE": null,
+                    "PRENOM": "Furkan",
+                    "NOM": "Yeğen",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-27",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+                },
+                {
+                    "ID": 54070,
+                    "PSEUDO": "wezzy",
+                    "ROLE": null,
+                    "PRENOM": "Arda",
+                    "NOM": "Celbiş",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-08-16",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+                },
+                {
+                    "ID": 54568,
+                    "PSEUDO": "yigox",
+                    "ROLE": null,
+                    "PRENOM": "Yiğit",
+                    "NOM": "Arslan",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-08-22",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+                },
+                {
+                    "ID": 58550,
+                    "PSEUDO": "audaz",
+                    "ROLE": null,
+                    "PRENOM": "Soner",
+                    "NOM": "Ekiz",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-06-02",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+                },
+                {
+                    "ID": 58551,
+                    "PSEUDO": "influx",
+                    "ROLE": null,
+                    "PRENOM": "Kaan ",
+                    "NOM": "Taşkın",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-07-22",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 130231,
+                "NOM": "Galatasaray Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "GS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35548,
+                    "PSEUDO": "nekky",
+                    "ROLE": null,
+                    "PRENOM": "Anıl",
+                    "NOM": "Dağdeviren",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-04",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+                },
+                {
+                    "ID": 45506,
+                    "PSEUDO": "Padisah",
+                    "ROLE": null,
+                    "PRENOM": "Onur",
+                    "NOM": "Dönmez",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-05-29",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+                },
+                {
+                    "ID": 45846,
+                    "PSEUDO": "WerlasS",
+                    "ROLE": null,
+                    "PRENOM": "Metin",
+                    "NOM": "Ünal",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-04",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+                },
+                {
+                    "ID": 58546,
+                    "PSEUDO": "Slaughter",
+                    "ROLE": null,
+                    "PRENOM": "İrfancan",
+                    "NOM": "Çakıl",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2006-12-05",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+                },
+                {
+                    "ID": 62297,
+                    "PSEUDO": "Zeask",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 134104,
+                "NOM": "Pcific Esports",
+                "LOCALISATION": "TR",
+                "ACRONYME": "PCFIC",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 35565,
+                    "PSEUDO": "Gloomy",
+                    "ROLE": null,
+                    "PRENOM": "Mercan",
+                    "NOM": "Özalp",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-22",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+                },
+                {
+                    "ID": 59547,
+                    "PSEUDO": " sh0ut",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+                },
+                {
+                    "ID": 62298,
+                    "PSEUDO": "sh1ngo",
+                    "ROLE": null,
+                    "PRENOM": "Serhat Ali",
+                    "NOM": "Kalburan",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+                },
+                {
+                    "ID": 62854,
+                    "PSEUDO": "VdekJeNN",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:57"
+                },
+                {
+                    "ID": 69008,
+                    "PSEUDO": "envex",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:25:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139653,
+                "NOM": "Team Apanthe",
+                "LOCALISATION": "TR",
+                "ACRONYME": "APA",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:32:39"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 69108,
+                    "PSEUDO": "ScooPy",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:32:39"
+                },
+                {
+                    "ID": 69109,
+                    "PSEUDO": "siskoefe",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:32:39"
+                },
+                {
+                    "ID": 69110,
+                    "PSEUDO": "apanthe",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:32:39"
+                },
+                {
+                    "ID": 69111,
+                    "PSEUDO": "deidames",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:32:39"
+                },
+                {
+                    "ID": 69112,
+                    "PSEUDO": "Frosty",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:32:39"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "VCT",
+        "DATE DE LA DERNIERE MODIFICATION": "2023-02-13",
+        "HEURE DE LA DERNIERE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "NOM": "EMEA Kickoff: Türkiye - Qualifier 2027",
+        "ANNEE": 2027,
+        "SAISON": null,
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:17:04",
+        "ID DU VAINQUEUR": null
+    }
+}
