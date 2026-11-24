@@ -1,0 +1,18 @@
+{
+    "DONNEES GENERALES DE L'EQUIPE'": {
+        "ID": 50,
+        "NOM": "Manchester_City",
+        "CODE": "MCI",
+        "PAYS": "England",
+        "ANNEE FONDATION": 1880,
+        "NATIONALE": false
+    },
+    "STADE": {
+        "ID": 555,
+        "NOM": "Etihad Stadium",
+        "ADRESSE": "Rowsley Street",
+        "VILLE": "Manchester",
+        "CAPACITE": 55097,
+        "SURFACE": "grass"
+    }
+}

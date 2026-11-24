@@ -1,0 +1,18 @@
+{
+    "DONNEES GENERALES DE L'EQUIPE'": {
+        "ID": 2,
+        "NOM": "France",
+        "CODE": "FRA",
+        "PAYS": "France",
+        "ANNEE FONDATION": 1919,
+        "NATIONALE": true
+    },
+    "STADE": {
+        "ID": 666,
+        "NOM": "Groupama Stadium",
+        "ADRESSE": "Stade de France",
+        "VILLE": "Saint-Denis",
+        "CAPACITE": 80698,
+        "SURFACE": "grass"
+    }
+}

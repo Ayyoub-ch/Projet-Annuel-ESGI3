@@ -1,0 +1,18 @@
+{
+    "DONNEES GENERALES DE L'EQUIPE'": {
+        "ID": 101,
+        "NOM": "Grenoble",
+        "CODE": "GRE",
+        "PAYS": "France",
+        "ANNEE FONDATION": 1917,
+        "NATIONALE": false
+    },
+    "STADE": {
+        "ID": 649,
+        "NOM": "Stade des Alpes",
+        "ADRESSE": "Avenue de Valmy",
+        "VILLE": "Grenoble",
+        "CAPACITE": 20068,
+        "SURFACE": "grass"
+    }
+}

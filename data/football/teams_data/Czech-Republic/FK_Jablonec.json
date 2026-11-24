@@ -1,0 +1,18 @@
+{
+    "DONNEES GENERALES DE L'EQUIPE'": {
+        "ID": 1122,
+        "NOM": "FK_Jablonec",
+        "CODE": "JAB",
+        "PAYS": "Czech-Republic",
+        "ANNEE FONDATION": 1945,
+        "NATIONALE": false
+    },
+    "STADE": {
+        "ID": 434,
+        "NOM": "Stadion Střelnice",
+        "ADRESSE": "U stadionu 4904/5",
+        "VILLE": "Jablonec nad Nisou",
+        "CAPACITE": 6280,
+        "SURFACE": "grass"
+    }
+}
