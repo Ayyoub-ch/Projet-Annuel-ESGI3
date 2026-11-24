@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-        "HEURE DE LA DERNIERE MODIFICATION": "21:38:24",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:58:31",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -144,8 +144,8 @@
             "ID": 128766,
             "NOM": "Spirit Academy",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:28:31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:58:31",
             "ACRONYME": "TS.A"
         },
         {
@@ -168,8 +168,8 @@
             "ID": 139212,
             "NOM": "Quintessence",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:38:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:57:21",
             "ACRONYME": null
         }
     ],
@@ -180,23 +180,10 @@
                 "NOM": "Spirit Academy",
                 "LOCALISATION": "RU",
                 "ACRONYME": "TS.A",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:28:31"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:58:31"
             },
             "JOUEURS": [
-                {
-                    "ID": 19641,
-                    "PSEUDO": "S0tF1k",
-                    "ROLE": null,
-                    "PRENOM": "Dmitry",
-                    "NOM": "Forostyanko",
-                    "AGE": 32,
-                    "DATE DE NAISSANCE": "1994-09-29",
-                    "NATIONALITE": "RU",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:28:31"
-                },
                 {
                     "ID": 44660,
                     "PSEUDO": "VILBy",
@@ -224,6 +211,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "21:28:31"
                 },
                 {
+                    "ID": 62212,
+                    "PSEUDO": "Netrix",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Kudziev",
+                    "AGE": 17,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:24"
+                },
+                {
                     "ID": 63733,
                     "PSEUDO": "s1nside",
                     "ROLE": null,
@@ -235,6 +235,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:28:28"
+                },
+                {
+                    "ID": 66077,
+                    "PSEUDO": "Tresh",
+                    "ROLE": null,
+                    "PRENOM": "Artem",
+                    "NOM": "Mironov",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:58:31"
                 }
             ]
         },
@@ -385,10 +398,76 @@
                 "NOM": "Quintessence",
                 "LOCALISATION": "RU",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-16",
-                "HEURE DE LA DERNIERE MODIFICATION": "15:38:18"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:57:21"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 29625,
+                    "PSEUDO": "L4F",
+                    "ROLE": null,
+                    "PRENOM": " Alexey ",
+                    "NOM": "Pestov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:57:21"
+                },
+                {
+                    "ID": 29626,
+                    "PSEUDO": "Electro",
+                    "ROLE": null,
+                    "PRENOM": "Ivan ",
+                    "NOM": "Pugach",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:57:21"
+                },
+                {
+                    "ID": 52369,
+                    "PSEUDO": "kemi",
+                    "ROLE": null,
+                    "PRENOM": "Bogdan",
+                    "NOM": "Lukichev",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:57:20"
+                },
+                {
+                    "ID": 67435,
+                    "PSEUDO": "dehier",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Ryabov",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:57:21"
+                },
+                {
+                    "ID": 67765,
+                    "PSEUDO": "fade666",
+                    "ROLE": null,
+                    "PRENOM": "Nikita",
+                    "NOM": "Mikalauskas",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:57:21"
+                }
+            ]
         }
     ],
     "LIGUE": {

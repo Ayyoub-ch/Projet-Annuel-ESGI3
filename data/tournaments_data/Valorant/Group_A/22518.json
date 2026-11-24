@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "14:30:00",
         "DATE DE FIN": "2026-11-27",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-        "HEURE DE LA DERNIERE MODIFICATION": "15:35:47",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+        "HEURE DE LA DERNIERE MODIFICATION": "16:38:53",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,7 +16,7 @@
         {
             "NOM": "EF vs MISA",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -26,8 +26,8 @@
             "HEURE DE DEBUT": "2026-11-24",
             "DATE DE FIN": "2026-11-24",
             "HEURE DE FIN": "2026-11-24",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:56:28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:39:29",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-turkiye-qualifier-2027-group-a",
             "TIER": "c",
@@ -35,24 +35,24 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "tr",
-                "LIEN BRUTE": "https://www.youtube.com/@VALORANTChallengersTR/live"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=ejEzm2H64UQ"
             }
         },
         {
             "NOM": "FF vs TT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-24",
-            "HEURE PRÉVUE": "17:30:00",
+            "HEURE PRÉVUE": "16:50:00",
             "DATE DE DEBUT": "2026-11-24",
             "HEURE DE DEBUT": "2026-11-24",
             "DATE DE FIN": "2026-11-24",
             "HEURE DE FIN": "2026-11-24",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:56:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:48:20",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-turkiye-qualifier-2027-group-a",
             "TIER": "c",
@@ -60,7 +60,7 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "tr",
-                "LIEN BRUTE": "https://www.youtube.com/@VALORANTChallengersTR/live"
+                "LIEN BRUTE": "https://www.youtube.com/watch?v=ejEzm2H64UQ"
             }
         }
     ],
@@ -85,8 +85,8 @@
             "ID": 137017,
             "NOM": "Misa Esports",
             "LOCALISATION": "TR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:20:17",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:38:52",
             "ACRONYME": "MISA"
         },
         {
@@ -259,10 +259,23 @@
                 "NOM": "Misa Esports",
                 "LOCALISATION": "TR",
                 "ACRONYME": "MISA",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:20:17"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:38:52"
             },
             "JOUEURS": [
+                {
+                    "ID": 33261,
+                    "PSEUDO": "Izzy",
+                    "ROLE": null,
+                    "PRENOM": "Baran",
+                    "NOM": "Yılmaz",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-02",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:38:52"
+                },
                 {
                     "ID": 51792,
                     "PSEUDO": "MERZ",

@@ -1,0 +1,103 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1789255,
+        "NOM": "Round_1__EF_vs_FLY",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "07:21:59",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "08:06:16",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "16:24:28",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-11-24T07:00:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238599,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2657,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "07:21:59",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "08:06:17",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134746,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129413,
+            "NOM": "Eternal Fire",
+            "LOCALISATION": "TR",
+            "ACRONYME": "EF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:38"
+        },
+        {
+            "ID": 134746,
+            "NOM": "FlyQuest",
+            "LOCALISATION": "US",
+            "ACRONYME": "FLY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:47"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 129413
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 134746
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22378,
+        "NOM": "Stage 1",
+        "TYPE": "offline",
+        "PAYS": "SG",
+        "REGION": "ASIA",
+        "TIER": "s",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "04:00:00",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-24",
+        "HEURE DE MODIFICATION": "14:44:02",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 4163,
+        "NOM": "PGL Major",
+        "DATE DE MODIFICATION": "2024-04-17",
+        "HEURE DE MODIFICATION": "14:52:26"
+    },
+    "SERIE": {
+        "ID": 11176,
+        "NOM": "Singapore 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-12-13",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "16:24:28"
+    }
+}
