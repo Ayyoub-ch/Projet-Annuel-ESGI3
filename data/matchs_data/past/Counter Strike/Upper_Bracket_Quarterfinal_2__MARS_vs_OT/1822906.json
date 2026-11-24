@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1822906,
+        "NOM": "Upper_Bracket_Quarterfinal_2__MARS_vs_OT",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "01:59:36",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "05:06:22",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240578,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 5707,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "01:59:36",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "03:34:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138652,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240579,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1055,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "04:00:14",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "04:17:50",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136318,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240580,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2569,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "04:23:33",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "05:06:22",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136318,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136318,
+            "NOM": "Marsborne",
+            "LOCALISATION": "US",
+            "ACRONYME": "MARS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:34"
+        },
+        {
+            "ID": 138652,
+            "NOM": "Overtake Sector",
+            "LOCALISATION": "US",
+            "ACRONYME": "OT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:19:43"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 136318
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138652
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22496,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "d",
+        "CASH PRIZE": "10000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-24",
+        "HEURE DE MODIFICATION": "03:39:53",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5588,
+        "NOM": "CROSSFIRE",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "13:53:20"
+    },
+    "SERIE": {
+        "ID": 11222,
+        "NOM": "Season 7 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27"
+    }
+}

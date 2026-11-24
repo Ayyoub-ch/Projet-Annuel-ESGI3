@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1822919,
+        "NOM": "Lower_Bracket_Round_1_match_8__Kodex_Esports_vs_NFE",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "01:00:59",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "02:30:35",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240617,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2652,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "01:00:59",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "01:45:12",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139156,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240618,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2208,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "01:53:47",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "02:30:35",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139156,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139156,
+            "NOM": "Kodex Esports",
+            "LOCALISATION": "US",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:27:42"
+        },
+        {
+            "ID": 138740,
+            "NOM": "NineFly Esports",
+            "LOCALISATION": "US",
+            "ACRONYME": "NFE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "01:56:07"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139156
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 138740
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22496,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "d",
+        "CASH PRIZE": "10000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-24",
+        "HEURE DE MODIFICATION": "03:39:53",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5588,
+        "NOM": "CROSSFIRE",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "13:53:20"
+    },
+    "SERIE": {
+        "ID": 11222,
+        "NOM": "Season 7 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1822914,
+        "NOM": "Lower_Bracket_Round_1_match_3__Feistein_vs_ELU",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "02:18:11",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "04:49:54",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240602,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3047,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "02:18:11",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "03:08:59",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139551,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240603,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2356,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "03:21:01",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "04:00:18",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139012,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240604,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1908,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "04:18:06",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "04:49:55",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139012,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139551,
+            "NOM": "Feistein",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:05:37"
+        },
+        {
+            "ID": 139012,
+            "NOM": "Elusive",
+            "LOCALISATION": "US",
+            "ACRONYME": "ELU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:27:12"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139551
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139012
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22496,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "d",
+        "CASH PRIZE": "10000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-24",
+        "HEURE DE MODIFICATION": "03:39:53",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5588,
+        "NOM": "CROSSFIRE",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "13:53:20"
+    },
+    "SERIE": {
+        "ID": 11222,
+        "NOM": "Season 7 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27"
+    }
+}

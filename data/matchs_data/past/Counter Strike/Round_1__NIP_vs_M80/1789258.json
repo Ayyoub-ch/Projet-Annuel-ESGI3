@@ -1,0 +1,103 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1789258,
+        "NOM": "Round_1__NIP_vs_M80",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 1,
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "05:04:13",
+        "DATE DE FIN": "2026-11-24",
+        "HEURE DE FIN": "05:55:31",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "16:24:28",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-11-24T04:45:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 238602,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3077,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "05:04:14",
+            "DATE DE FIN DE PARTIE": "2026-11-24",
+            "HEURE DE FIN DE PARTIE": "05:55:31",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 3218,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 3218,
+            "NOM": "NIP",
+            "LOCALISATION": "SE",
+            "ACRONYME": "NIP",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:14"
+        },
+        {
+            "ID": 133435,
+            "NOM": "M80",
+            "LOCALISATION": "US",
+            "ACRONYME": "M80",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:27:41"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 3218
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 133435
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22378,
+        "NOM": "Stage 1",
+        "TYPE": "offline",
+        "PAYS": "SG",
+        "REGION": "ASIA",
+        "TIER": "s",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "21:34:30",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 4163,
+        "NOM": "PGL Major",
+        "DATE DE MODIFICATION": "2024-04-17",
+        "HEURE DE MODIFICATION": "14:52:26"
+    },
+    "SERIE": {
+        "ID": 11176,
+        "NOM": "Singapore 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-12-13",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "16:24:28"
+    }
+}
