@@ -6,6 +6,7 @@ import requests    # Pour récupérer les données depuis l'API
 import os          # Pour créer des dossiers et gérer les fichiers
 import json        # Pour manipuler et sauvegarder les fichiers JSON
 import time        # Pour respecter la limite de requêtes de l'API
+import math
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -72,7 +73,8 @@ for caf_league in caf_leagues:
         if not isinstance(caf_league_data, dict):
             print(f"Entrée de ligue ignorée car elle n'est pas un objet : {caf_league_data}")
             continue
-
+        
+        # Fixture
         fixture = caf_league_data.get("fixture")
         # Si la liste ne contient pas de dictionnaire alors on passe
         if not isinstance(fixture, dict):
@@ -85,32 +87,93 @@ for caf_league in caf_leagues:
         date_fixture = fixture.get("date")
         timestamp_fixture = fixture.get("timestamp")
         
+        # Périodes du match
         periods_fixture = fixture.get("periods")
         premiere_periode = periods_fixture.get("first")
         seconde_periode = periods_fixture.get("second")
+        first = math.floor(premiere_periode/60)
+        second = math.floor(seconde_periode/60)
+        
+        # Stade du match
+        venue_fixture = fixture.get("venue")
+        id_venue = venue_fixture.get("id")
+        name_venue = venue_fixture.get("name")
+        city_venue = venue_fixture.get("city")
+        
+        # Statut du match
+        status_fixture = fixture.get("status")
+        long_status = status_fixture.get("long")
+        elapsed_status = status_fixture.get("elapsed")
+        extra_status = status_fixture.get("extra")
         
         
-        stade = caf_league_data.get("venue")
-        if not isinstance(stade, dict):
+        league = caf_league_data.get("league")
+        if not isinstance(league, dict):
             print(f"Entrée ignorée car elle ne contient pas d'objet 'league' : {caf_league_data}")
             continue
         
-        id_stade = stade.get("id")
-        nom_stade= stade.get("name")
-        adresse_stade = stade.get("address")
-        ville_stade = stade.get("city")
-        capacite_stade = stade.get("capacity")
-        surface_stade = stade.get("surface")
+        id_league = league.get("id")
+        nom_league = league.get("name")
+        pays_league = league.get("country")
+        saison_league = league.get("season")
+        round_league = league.get("round")
+        standings_league = league.get("standings")
         
         
-        nom_dossier = nom_team.replace("/", "_").replace(":", "_").replace(" ", "_")
-        dossier_team = os.path.join(DOSSIER_PRINCIPAL, pays_team)
+        teams = caf_league_data.get("teams")
+        if not isinstance(teams, dict):
+            print(f"Entrée ignorée car elle ne contient pas d'objet 'league' : {caf_league_data}")
+            continue
+        
+        home = teams.get("home")
+        id_home = home.get("id")
+        nom_home = home.get("name")
+        winner_home = home.get("winner")
+        
+        away = teams.get("away")
+        id_away = away.get("id")
+        nom_away= away.get("name")
+        winner_away = away.get("winner")
+        
+        
+        goals = caf_league_data.get("goals")
+        if not isinstance(teams, dict):
+            print(f"Entrée ignorée car elle ne contient pas d'objet 'league' : {caf_league_data}")
+            continue
+        
+        goals_home = goals.get("home")
+        goals_away = goals.get("away")
+        
+        
+        score = caf_league_data.get("score")
+        if not isinstance(teams, dict):
+            print(f"Entrée ignorée car elle ne contient pas d'objet 'league' : {caf_league_data}")
+            continue
+        
+        halftime = score.get("halftime")
+        halftime_home = halftime.get("home")
+        halftime_away = halftime.get("away")
+        
+        fulltime = score.get("fulltime")
+        fulltime_home = fulltime.get("home")
+        fulltime_away = fulltime.get("away")
+        
+        extratime = score.get("extratime")
+        extratime_home = extratime.get("home")
+        extratime_away = extratime.get("away")
+        
+        penalty=  score.get("penalty")
+        penalty_home = penalty.get("home")
+        penalty_away = penalty.get("away")
+        
+        nom_dossier = nom_league.replace("/", "_").replace(":", "_").replace(" ", "_")
+        dossier_team = os.path.join(DOSSIER_PRINCIPAL, nom_dossier, saison_league)
         os.makedirs(dossier_team, exist_ok=True)
 
-        chemin_fichier_json = os.path.join(dossier_team, f"{nom_dossier}.json")
+        chemin_fichier_json = os.path.join(dossier_team, f"{nom_dossier}_{saison_league}.json")
 
         metadata = {
-            "DONNEES GENERALES DE L'EQUIPE'": {
+            "DONNEES GENERALES DU MATCH": {
                 "ID": id_team,
                 "NOM": nom_team,
                 "CODE": code_team,
