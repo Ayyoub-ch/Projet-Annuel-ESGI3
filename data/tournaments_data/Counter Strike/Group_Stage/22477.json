@@ -416,18 +416,18 @@
         {
             "NOM": "Round 5: VEX vs evermore",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-25",
-            "HEURE PRÉVUE": "12:00:00",
+            "HEURE PRÉVUE": "12:10:00",
             "DATE DE DEBUT": "2026-11-25",
             "HEURE DE DEBUT": "2026-11-25",
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "06:28:09",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:55:16",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-4-2026-group-stage",
             "TIER": "d",
@@ -439,45 +439,20 @@
             }
         },
         {
-            "NOM": "Round 5: Morrow Esports vs Azuolas",
+            "NOM": "Round 5: MISA vs KAM",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-25",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "18:15:00",
             "DATE DE DEBUT": "2026-11-25",
             "HEURE DE DEBUT": "2026-11-25",
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "06:28:12",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-exort-fiesta-4-2026-group-stage",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/fiesta_cs"
-            }
-        },
-        {
-            "NOM": "Round 5: MISA vs KAMUI",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-25",
-            "HEURE PRÉVUE": "18:00:00",
-            "DATE DE DEBUT": "2026-11-25",
-            "HEURE DE DEBUT": "2026-11-25",
-            "DATE DE FIN": "2026-11-25",
-            "HEURE DE FIN": "2026-11-25",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "06:27:24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:00:05",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-exort-fiesta-4-2026-group-stage",
             "TIER": "d",
@@ -837,6 +812,31 @@
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://kick.com/fiesta_cs"
             }
+        },
+        {
+            "NOM": "Round 5: Morrow Esports vs Azuolas",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:02:26",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-exort-fiesta-4-2026-group-stage",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/fiesta_cs"
+            }
         }
     ],
     "EQUIPES": [
@@ -940,17 +940,17 @@
             "ID": 139174,
             "NOM": "Azuolas",
             "LOCALISATION": "LT",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:32:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:36:14",
             "ACRONYME": null
         },
         {
             "ID": 139219,
             "NOM": "KAMUI",
-            "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "15:47:21",
-            "ACRONYME": null
+            "LOCALISATION": "UA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:50",
+            "ACRONYME": "KAM"
         },
         {
             "ID": 139578,
@@ -1900,8 +1900,8 @@
                 "NOM": "Azuolas",
                 "LOCALISATION": "LT",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:32:32"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:36:14"
             },
             "JOUEURS": [
                 {
@@ -1940,8 +1940,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "LT",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:35:22"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:36:14"
                 },
                 {
                     "ID": 61011,
@@ -1975,10 +1975,10 @@
             "EQUIPE": {
                 "ID": 139219,
                 "NOM": "KAMUI",
-                "LOCALISATION": "",
-                "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                "HEURE DE LA DERNIERE MODIFICATION": "15:47:21"
+                "LOCALISATION": "UA",
+                "ACRONYME": "KAM",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:50"
             },
             "JOUEURS": [
                 {
@@ -2017,8 +2017,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-                    "HEURE DE LA DERNIERE MODIFICATION": "15:47:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:51"
                 },
                 {
                     "ID": 67785,

@@ -1,0 +1,148 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1820195,
+        "NOM": "Upper_Bracket_Semifinal_2__Clem_vs_herO",
+        "JEU VIDEO": "StarCraft 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "12:51:17",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "13:29:03",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:30:49",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19839,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 583,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "12:51:17",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "13:01:00",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43057,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19840,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 327,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "13:01:46",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "13:07:14",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43042,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19841,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 741,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "13:10:03",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "13:22:25",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43057,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19842,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 267,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "13:24:36",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "13:29:03",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43057,
+            "TYPE DU VAINQUEUR": "Player"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 43042,
+            "NOM": "Clem",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:28:04"
+        },
+        {
+            "ID": 43057,
+            "NOM": "herO",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-21",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:28:05"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        },
+        {
+            "SCORE": 3,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22492,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "a",
+        "CASH PRIZE": "30000 Chinese Yuan",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:30:49",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5587,
+        "NOM": "Kung Fu Cup",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:24:36"
+    },
+    "SERIE": {
+        "ID": 11219,
+        "NOM": "Grand Finals 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:30:49"
+    }
+}

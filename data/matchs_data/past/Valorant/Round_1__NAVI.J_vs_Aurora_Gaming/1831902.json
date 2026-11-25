@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1831902,
+        "NOM": "Round_1__NAVI.J_vs_Aurora_Gaming",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:10:42",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "18:47:37",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "16:51:11",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53511,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2918,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "16:10:42",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "16:59:21",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139566,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53512,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2767,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "17:11:52",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "17:58:00",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138429,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53513,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2363,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "18:08:14",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "18:47:37",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138429,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138429,
+            "NOM": "NAVI Junior",
+            "LOCALISATION": "UA",
+            "ACRONYME": "NAVI.J",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:50:34"
+        },
+        {
+            "ID": 139566,
+            "NOM": "Aurora Gaming",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:50:35"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138429
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139566
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22523,
+        "NOM": "Swiss Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-30",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "19:33:02",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11236,
+        "NOM": "EMEA Kickoff: Europe - Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-05",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "16:51:11"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1818276,
+        "NOM": "Round_1__ACES_vs_maybe",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "15:39:30",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "16:53:14",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:54:09",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240149,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1710,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "15:39:30",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "16:08:00",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139435,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240150,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1884,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "16:21:50",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "16:53:14",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139435,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139435,
+            "NOM": "Team ACES",
+            "LOCALISATION": "RU",
+            "ACRONYME": "ACES",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:37:09"
+        },
+        {
+            "ID": 138899,
+            "NOM": "maybe",
+            "LOCALISATION": "UA",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:37:10"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139435
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 138899
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22484,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "10:37:14",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11217,
+        "NOM": "Series #15 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:54:09"
+    }
+}

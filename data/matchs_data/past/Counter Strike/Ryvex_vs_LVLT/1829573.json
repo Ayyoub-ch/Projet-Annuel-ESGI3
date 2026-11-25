@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1829573,
+        "NOM": "Ryvex_vs_LVLT",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "12:40:00",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "15:18:15",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240819,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2727,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "12:40:00",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "13:25:28",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139650,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240820,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2312,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "13:37:02",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "14:15:34",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139041,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240821,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2634,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "14:34:21",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "15:18:15",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139041,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139041,
+            "NOM": "Ryvex",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:01:32"
+        },
+        {
+            "ID": 139650,
+            "NOM": "LVLT",
+            "LOCALISATION": "LV",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:37:06"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139041
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139650
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22508,
+        "NOM": "Group C",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-01",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11231,
+        "NOM": "Series 11 Closed Qualifier 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-04",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58"
+    }
+}

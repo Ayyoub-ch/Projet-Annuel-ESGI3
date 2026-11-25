@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1830512,
+        "NOM": "BJK_vs_GS",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:40:56",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "19:23:58",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "01:02:36",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53349,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3130,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "16:40:56",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "17:33:07",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128669,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53350,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3191,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "17:43:57",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "18:37:08",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130231,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53351,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 1985,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "18:50:53",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "19:23:58",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130231,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 128669,
+            "NOM": "Beşiktaş Esports",
+            "LOCALISATION": "TR",
+            "ACRONYME": "BJK",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+        },
+        {
+            "ID": 130231,
+            "NOM": "Galatasaray Esports",
+            "LOCALISATION": "TR",
+            "ACRONYME": "GS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:25:58"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 128669
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 130231
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22519,
+        "NOM": "Group B",
+        "TYPE": "online",
+        "PAYS": "TR",
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "14:30:00",
+        "DATE DE FIN": "2026-11-30",
+        "HEURE DE FIN": "20:30:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "14:01:26",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11234,
+        "NOM": "EMEA Kickoff: Türkiye - Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "14:30:00",
+        "DATE DE FIN": "2026-12-06",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "01:02:36"
+    }
+}

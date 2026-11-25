@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "15:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "15:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-        "HEURE DE LA DERNIERE MODIFICATION": "21:38:24",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:10:39",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,18 +16,18 @@
         {
             "NOM": "NPG vs DNT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-25",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "15:40:00",
             "DATE DE DEBUT": "2026-11-25",
             "HEURE DE DEBUT": "2026-11-25",
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:17:12",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:11:01",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-b",
             "TIER": "d",
@@ -41,30 +41,30 @@
         {
             "NOM": "DRAMA vs SKR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-25",
-            "HEURE PRÉVUE": "18:00:00",
+            "HEURE PRÉVUE": "18:30:00",
             "DATE DE DEBUT": "2026-11-25",
             "HEURE DE DEBUT": "2026-11-25",
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:16:04",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:10:00",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-b",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/cct_cs2"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/jester_andrew"
             }
         },
         {
-            "NOM": "Elimination Match: TBD vs TBD",
+            "NOM": "Elimination Match: NPG vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -76,8 +76,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:58:03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:21:50",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-b",
             "TIER": "d",
@@ -89,7 +89,7 @@
             }
         },
         {
-            "NOM": "Winners' Match: TBD vs TBD",
+            "NOM": "Winners' Match: DNT vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:58:03",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:22:27",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-b",
             "TIER": "d",
@@ -160,8 +160,8 @@
             "ID": 139016,
             "NOM": "Nordic Partners Gaming ",
             "LOCALISATION": "MT",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:53:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:10:38",
             "ACRONYME": "NPG"
         },
         {
@@ -334,8 +334,8 @@
                 "NOM": "Nordic Partners Gaming ",
                 "LOCALISATION": "MT",
                 "ACRONYME": "NPG",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:53:40"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:10:38"
             },
             "JOUEURS": [
                 {
@@ -363,6 +363,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
                     "HEURE DE LA DERNIERE MODIFICATION": "20:53:40"
+                },
+                {
+                    "ID": 50408,
+                    "PSEUDO": "AdrieN",
+                    "ROLE": null,
+                    "PRENOM": "Adrian",
+                    "NOM": "Mucha",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:10:38"
                 },
                 {
                     "ID": 52010,

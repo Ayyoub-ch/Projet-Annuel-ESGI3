@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "22:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:52:24",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:42:01",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -144,8 +144,8 @@
             "ID": 128629,
             "NOM": "megoshort",
             "LOCALISATION": "SE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:35:19",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:42:00",
             "ACRONYME": "MEGO"
         },
         {
@@ -180,10 +180,23 @@
                 "NOM": "megoshort",
                 "LOCALISATION": "SE",
                 "ACRONYME": "MEGO",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:35:19"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:42:00"
             },
             "JOUEURS": [
+                {
+                    "ID": 17981,
+                    "PSEUDO": "robiin",
+                    "ROLE": null,
+                    "PRENOM": "Robin",
+                    "NOM": "Sjögren",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-02-03",
+                    "NATIONALITE": "SE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:41:59"
+                },
                 {
                     "ID": 18314,
                     "PSEUDO": "jayzaR",
@@ -218,19 +231,6 @@
                     "NOM": "Lindhqvist",
                     "AGE": 25,
                     "DATE DE NAISSANCE": "2001-01-18",
-                    "NATIONALITE": "SE",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:19"
-                },
-                {
-                    "ID": 33625,
-                    "PSEUDO": "Ariant0",
-                    "ROLE": null,
-                    "PRENOM": "Jimmy",
-                    "NOM": "Husseini",
-                    "AGE": 27,
-                    "DATE DE NAISSANCE": null,
                     "NATIONALITE": "SE",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",

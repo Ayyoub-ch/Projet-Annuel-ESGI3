@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1831901,
+        "NOM": "Round_1__UCAM_vs_CGN",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:10:03",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "18:43:07",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "16:51:11",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53508,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2872,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "16:10:04",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "16:57:56",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129100,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53509,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2721,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "17:04:52",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "17:50:13",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130398,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53510,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2644,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "17:59:03",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "18:43:07",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129100,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129100,
+            "NOM": "UCAM Esports Club",
+            "LOCALISATION": "ES",
+            "ACRONYME": "UCAM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:50:23"
+        },
+        {
+            "ID": 130398,
+            "NOM": "CGN Esports",
+            "LOCALISATION": "DE",
+            "ACRONYME": "CGN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:50:24"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 129100
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 130398
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22523,
+        "NOM": "Swiss Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-30",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "19:33:02",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11236,
+        "NOM": "EMEA Kickoff: Europe - Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-05",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "16:51:11"
+    }
+}

@@ -16,18 +16,18 @@
         {
             "NOM": "Round 1: BTF vs LT",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-25",
-            "HEURE PRÉVUE": "12:00:00",
+            "HEURE PRÉVUE": "12:20:00",
             "DATE DE DEBUT": "2026-11-25",
             "HEURE DE DEBUT": "2026-11-25",
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:09:36",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:22:37",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-2026-group-stage",
             "TIER": "c",
@@ -41,18 +41,18 @@
         {
             "NOM": "Round 1: ACES vs maybe",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-25",
-            "HEURE PRÉVUE": "15:00:00",
+            "HEURE PRÉVUE": "15:40:00",
             "DATE DE DEBUT": "2026-11-25",
             "HEURE DE DEBUT": "2026-11-25",
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:37:43",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:03:40",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-2026-group-stage",
             "TIER": "c",
@@ -66,7 +66,7 @@
         {
             "NOM": "Round 1: AIMC vs Noir Verse",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -77,7 +77,7 @@
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:37:50",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:48:42",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-2026-group-stage",
             "TIER": "c",
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:55:05",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:21:14",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-2026-group-stage",
             "TIER": "c",
@@ -126,8 +126,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:55:39",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:21:46",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-2026-group-stage",
             "TIER": "c",
@@ -151,8 +151,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:56:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:21:59",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-2026-group-stage",
             "TIER": "c",
@@ -176,8 +176,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:56:13",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:22:25",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-2026-group-stage",
             "TIER": "c",
@@ -869,15 +869,15 @@
             "NOM": "aimclub",
             "LOCALISATION": "",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:37:13",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:38:51",
             "ACRONYME": "AIMC"
         },
         {
             "ID": 135126,
             "NOM": "FORZE Reload",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:53:35",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:39:05",
             "ACRONYME": "FORZE.R"
         },
         {
@@ -924,8 +924,8 @@
             "ID": 139016,
             "NOM": "Nordic Partners Gaming ",
             "LOCALISATION": "MT",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:53:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:10:38",
             "ACRONYME": "NPG"
         },
         {
@@ -940,8 +940,8 @@
             "ID": 139443,
             "NOM": "XMETA",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:53:37",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:30:45",
             "ACRONYME": "XMETA"
         },
         {
@@ -956,8 +956,8 @@
             "ID": 139603,
             "NOM": "Hype Tech",
             "LOCALISATION": "RS",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:53:37",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:39:02",
             "ACRONYME": "HT"
         },
         {
@@ -1208,7 +1208,7 @@
                 "LOCALISATION": "",
                 "ACRONYME": "AIMC",
                 "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                "HEURE DE LA DERNIERE MODIFICATION": "10:37:13"
+                "HEURE DE LA DERNIERE MODIFICATION": "13:38:51"
             },
             "JOUEURS": [
                 {
@@ -1222,7 +1222,7 @@
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:12"
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:51"
                 },
                 {
                     "ID": 25383,
@@ -1235,7 +1235,7 @@
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:12"
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:51"
                 },
                 {
                     "ID": 29154,
@@ -1248,7 +1248,7 @@
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:12"
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:51"
                 },
                 {
                     "ID": 29183,
@@ -1261,7 +1261,7 @@
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:13"
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:51"
                 },
                 {
                     "ID": 35039,
@@ -1274,7 +1274,7 @@
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:10"
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:38:50"
                 },
                 {
                     "ID": 57773,
@@ -1297,8 +1297,8 @@
                 "NOM": "FORZE Reload",
                 "LOCALISATION": "RU",
                 "ACRONYME": "FORZE.R",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:53:35"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:39:05"
             },
             "JOUEURS": [
                 {
@@ -1311,8 +1311,8 @@
                     "DATE DE NAISSANCE": "1999-08-20",
                     "NATIONALITE": "KZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:35"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:04"
                 },
                 {
                     "ID": 31887,
@@ -1324,8 +1324,8 @@
                     "DATE DE NAISSANCE": "2004-08-19",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:35"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:05"
                 },
                 {
                     "ID": 42771,
@@ -1337,8 +1337,8 @@
                     "DATE DE NAISSANCE": "2004-06-16",
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:35"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:04"
                 },
                 {
                     "ID": 48844,
@@ -1363,8 +1363,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "RU",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:33"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:02"
                 }
             ]
         },
@@ -1772,8 +1772,8 @@
                 "NOM": "Nordic Partners Gaming ",
                 "LOCALISATION": "MT",
                 "ACRONYME": "NPG",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:53:40"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:10:38"
             },
             "JOUEURS": [
                 {
@@ -1812,8 +1812,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "PL",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:40"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:10:38"
                 },
                 {
                     "ID": 52010,
@@ -1926,8 +1926,8 @@
                 "NOM": "XMETA",
                 "LOCALISATION": "RU",
                 "ACRONYME": "XMETA",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:53:37"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "19:30:45"
             },
             "JOUEURS": [
                 {
@@ -2080,8 +2080,8 @@
                 "NOM": "Hype Tech",
                 "LOCALISATION": "RS",
                 "ACRONYME": "HT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:53:37"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:39:02"
             },
             "JOUEURS": [
                 {
@@ -2094,8 +2094,8 @@
                     "DATE DE NAISSANCE": "1999-12-19",
                     "NATIONALITE": "RS",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:37"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:02"
                 },
                 {
                     "ID": 30447,
@@ -2107,8 +2107,8 @@
                     "DATE DE NAISSANCE": "2002-01-14",
                     "NATIONALITE": "RS",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:37"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:02"
                 },
                 {
                     "ID": 33733,
@@ -2120,8 +2120,8 @@
                     "DATE DE NAISSANCE": "2000-11-09",
                     "NATIONALITE": "RS",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:37"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:02"
                 },
                 {
                     "ID": 37153,
@@ -2133,8 +2133,8 @@
                     "DATE DE NAISSANCE": "2001-08-20",
                     "NATIONALITE": "BA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:37"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:01"
                 },
                 {
                     "ID": 37359,
@@ -2146,8 +2146,8 @@
                     "DATE DE NAISSANCE": "2004-07-30",
                     "NATIONALITE": "ME",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-                    "HEURE DE LA DERNIERE MODIFICATION": "20:53:37"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:39:02"
                 }
             ]
         },

@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1818273,
+        "NOM": "Round_1__BTF_vs_LT",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "12:16:44",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "15:15:14",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:54:09",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240140,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2563,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "12:16:48",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "12:59:31",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138975,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240141,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2941,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "13:21:42",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "14:10:43",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139491,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240142,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2668,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "14:30:46",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "15:15:15",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139491,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138975,
+            "NOM": "Butterfly",
+            "LOCALISATION": "RU",
+            "ACRONYME": "BTF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:53:32"
+        },
+        {
+            "ID": 139491,
+            "NOM": "Lunacy Team",
+            "LOCALISATION": "RU",
+            "ACRONYME": "LT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:53:32"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138975
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139491
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22484,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "10:37:14",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11217,
+        "NOM": "Series #15 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:54:09"
+    }
+}

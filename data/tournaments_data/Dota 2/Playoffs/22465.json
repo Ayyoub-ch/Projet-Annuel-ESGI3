@@ -7,14 +7,14 @@
         "HEURE DE DEBUT": "04:00:00",
         "DATE DE FIN": "2026-11-28",
         "HEURE DE FIN": "13:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:33:43",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:26:48",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
     "MATCHES": [
         {
-            "NOM": "Upper Bracket Semifinal 1: TBD vs TBD",
+            "NOM": "Upper Bracket Semifinal 1: DB vs XctN",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -26,8 +26,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:33:41",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:17:40",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-playoffs",
             "TIER": "d",
@@ -39,7 +39,7 @@
             }
         },
         {
-            "NOM": "Upper Bracket Semifinal 2: TBD vs TBD",
+            "NOM": "Upper Bracket Semifinal 2: YG vs CR",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -51,8 +51,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:33:41",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:20:38",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-playoffs",
             "TIER": "d",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Quarterfinal 1: TBD vs TBD",
+            "NOM": "Lower Bracket Quarterfinal 1: TBD vs Ryvex Esports",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -76,8 +76,8 @@
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:33:42",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:21:33",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-playoffs",
             "TIER": "d",
@@ -89,7 +89,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Quarterfinal 2: TBD vs TBD",
+            "NOM": "Lower Bracket Quarterfinal 2: TBD vs RG",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -101,8 +101,8 @@
             "HEURE DE DEBUT": "2026-11-27",
             "DATE DE FIN": "2026-11-27",
             "HEURE DE FIN": "2026-11-27",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:33:42",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:27:20",
             "PRIZEPOOL": "10,000 United States Dollar",
             "SLUG": "dota-2-epl-world-series-southeast-asia-20-2026-playoffs",
             "TIER": "d",
@@ -214,8 +214,520 @@
             }
         }
     ],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "EQUIPES": [
+        {
+            "ID": 1660,
+            "NOM": "Execration",
+            "LOCALISATION": "PH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:26:43",
+            "ACRONYME": "XctN"
+        },
+        {
+            "ID": 128080,
+            "NOM": "Yangon Galacticos",
+            "LOCALISATION": "MM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:26:46",
+            "ACRONYME": "YG"
+        },
+        {
+            "ID": 137428,
+            "NOM": "Cloud Rising",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:26:47",
+            "ACRONYME": "CR"
+        },
+        {
+            "ID": 138753,
+            "NOM": "Direborn",
+            "LOCALISATION": "ID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:26:38",
+            "ACRONYME": "DB"
+        },
+        {
+            "ID": 139413,
+            "NOM": "Resp Gaming",
+            "LOCALISATION": "CN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:26:48",
+            "ACRONYME": "RG"
+        },
+        {
+            "ID": 139605,
+            "NOM": "Ryvex Esports",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:26:47",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 1660,
+                "NOM": "Execration",
+                "LOCALISATION": "PH",
+                "ACRONYME": "XctN",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:26:43"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 10063,
+                    "PSEUDO": "Grimz",
+                    "ROLE": "5",
+                    "PRENOM": "Jomari",
+                    "NOM": "Anis",
+                    "AGE": 30,
+                    "DATE DE NAISSANCE": "1996-04-17",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:43"
+                },
+                {
+                    "ID": 10754,
+                    "PSEUDO": "Tino",
+                    "ROLE": "3",
+                    "PRENOM": "Justine Ryan Evangelista",
+                    "NOM": "Grimaldo",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-06-21",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:42"
+                },
+                {
+                    "ID": 23696,
+                    "PSEUDO": "Shanks",
+                    "ROLE": "4",
+                    "PRENOM": "Mark Jubert",
+                    "NOM": "Redira",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-07-21",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:43"
+                },
+                {
+                    "ID": 30851,
+                    "PSEUDO": "Palos",
+                    "ROLE": "1",
+                    "PRENOM": "Jinn Marrey",
+                    "NOM": "Lamatao",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-10-30",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:38"
+                },
+                {
+                    "ID": 30852,
+                    "PSEUDO": "Bob",
+                    "ROLE": "2",
+                    "PRENOM": "Mark Anthony",
+                    "NOM": "Urbina",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-13",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:42"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 128080,
+                "NOM": "Yangon Galacticos",
+                "LOCALISATION": "MM",
+                "ACRONYME": "YG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:26:46"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 30568,
+                    "PSEUDO": "Young PH",
+                    "ROLE": "2",
+                    "PRENOM": "Min",
+                    "NOM": "Khant Mg",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-01-12",
+                    "NATIONALITE": "MM",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:45"
+                },
+                {
+                    "ID": 30570,
+                    "PSEUDO": "Zawrain",
+                    "ROLE": "5",
+                    "PRENOM": "Zawrain",
+                    "NOM": " Sai Aung\t",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-17",
+                    "NATIONALITE": "MM",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:27:31"
+                },
+                {
+                    "ID": 30571,
+                    "PSEUDO": "Skill Lay",
+                    "ROLE": "4",
+                    "PRENOM": "Thiha",
+                    "NOM": "Kyaw Swar\t",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-03",
+                    "NATIONALITE": "MM",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:45"
+                },
+                {
+                    "ID": 36789,
+                    "PSEUDO": "Ksh",
+                    "ROLE": "1",
+                    "PRENOM": "Kaung",
+                    "NOM": "Sett Hein",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-06-01",
+                    "NATIONALITE": "MM",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:43"
+                },
+                {
+                    "ID": 52777,
+                    "PSEUDO": "MOMO",
+                    "ROLE": "3",
+                    "PRENOM": "ArKar Moe",
+                    "NOM": "Myint Hein",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MM",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:45"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137428,
+                "NOM": "Cloud Rising",
+                "LOCALISATION": "CN",
+                "ACRONYME": "CR",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 42443,
+                    "PSEUDO": "Undyne",
+                    "ROLE": "5",
+                    "PRENOM": "Li",
+                    "NOM": "Qiancheng",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-10",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:46"
+                },
+                {
+                    "ID": 52541,
+                    "PSEUDO": "根性 Nanami",
+                    "ROLE": "3",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:27:58"
+                },
+                {
+                    "ID": 57770,
+                    "PSEUDO": "N1nelie",
+                    "ROLE": "1",
+                    "PRENOM": "Zhang",
+                    "NOM": "Wendi",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:46"
+                },
+                {
+                    "ID": 62249,
+                    "PSEUDO": "毁灭",
+                    "ROLE": "4",
+                    "PRENOM": "Zhang",
+                    "NOM": "Zhichao",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:46"
+                },
+                {
+                    "ID": 67696,
+                    "PSEUDO": "Q7",
+                    "ROLE": "2",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:27:31"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138753,
+                "NOM": "Direborn",
+                "LOCALISATION": "ID",
+                "ACRONYME": "DB",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:26:38"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 10041,
+                    "PSEUDO": "Dreamocel",
+                    "ROLE": "1",
+                    "PRENOM": "Randy Muhammad",
+                    "NOM": "Sapoetra",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-14",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:37"
+                },
+                {
+                    "ID": 20406,
+                    "PSEUDO": "db-",
+                    "ROLE": "5",
+                    "PRENOM": "Daud",
+                    "NOM": "Budiawan",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-13",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:38"
+                },
+                {
+                    "ID": 25977,
+                    "PSEUDO": "woMy",
+                    "ROLE": "3",
+                    "PRENOM": "Syaid M.",
+                    "NOM": "Reski",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-28",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:38"
+                },
+                {
+                    "ID": 40728,
+                    "PSEUDO": "dalul",
+                    "ROLE": "4",
+                    "PRENOM": "Abdalla",
+                    "NOM": "Afemi",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-08-17",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:38"
+                },
+                {
+                    "ID": 43369,
+                    "PSEUDO": "POTA2",
+                    "ROLE": "2",
+                    "PRENOM": "Noel",
+                    "NOM": "Pinot",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-28",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:38"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139413,
+                "NOM": "Resp Gaming",
+                "LOCALISATION": "CN",
+                "ACRONYME": "RG",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:26:48"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 18554,
+                    "PSEUDO": "ButterflyEffect",
+                    "ROLE": "2",
+                    "PRENOM": "Weijie",
+                    "NOM": "Ni",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-01-13",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                },
+                {
+                    "ID": 19018,
+                    "PSEUDO": "QYQX",
+                    "ROLE": "5",
+                    "PRENOM": "Chenyang",
+                    "NOM": "Cui",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-07",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                },
+                {
+                    "ID": 30575,
+                    "PSEUDO": "生死",
+                    "ROLE": "3",
+                    "PRENOM": "Xiao",
+                    "NOM": "Yihu",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-02-27",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                },
+                {
+                    "ID": 34223,
+                    "PSEUDO": "ukiyo",
+                    "ROLE": "1",
+                    "PRENOM": "Sun",
+                    "NOM": "Haochen",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-24",
+                    "NATIONALITE": "CN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                },
+                {
+                    "ID": 53693,
+                    "PSEUDO": "JuJu",
+                    "ROLE": "4",
+                    "PRENOM": "Julio",
+                    "NOM": "Gunawan",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-17",
+                    "NATIONALITE": "ID",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139605,
+                "NOM": "Ryvex Esports",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 13946,
+                    "PSEUDO": "Mac",
+                    "ROLE": "2",
+                    "PRENOM": "Mc",
+                    "NOM": "Villanueva",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-10-25",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                },
+                {
+                    "ID": 20541,
+                    "PSEUDO": "Krish",
+                    "ROLE": "1",
+                    "PRENOM": "Krish",
+                    "NOM": "Gupta",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-10-13",
+                    "NATIONALITE": "IN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                },
+                {
+                    "ID": 22938,
+                    "PSEUDO": "DRIC-",
+                    "ROLE": "4",
+                    "PRENOM": "Carl",
+                    "NOM": "Edric Ricafrente",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-02-17",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                },
+                {
+                    "ID": 37209,
+                    "PSEUDO": "Se",
+                    "ROLE": "5",
+                    "PRENOM": "Tugstur",
+                    "NOM": "Dashzevge",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-27",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                },
+                {
+                    "ID": 40251,
+                    "PSEUDO": "seimei",
+                    "ROLE": "3",
+                    "PRENOM": "Munkhjin",
+                    "NOM": "Batsaikhan",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-04",
+                    "NATIONALITE": "MN",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:26:47"
+                }
+            ]
+        }
+    ],
     "LIGUE": {
         "NOM": "EPL World Series",
         "DATE DE LA DERNIERE MODIFICATION": "2023-12-23",

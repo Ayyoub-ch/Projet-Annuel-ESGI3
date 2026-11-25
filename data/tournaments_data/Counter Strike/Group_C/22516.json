@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-12-02",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-        "HEURE DE LA DERNIERE MODIFICATION": "11:45:53",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:01:18",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,7 +16,7 @@
         {
             "NOM": "PRD vs EAC",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -27,7 +27,7 @@
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "10:18:19",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:43:50",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-59-2026-group-c",
             "TIER": "d",
@@ -39,32 +39,7 @@
             }
         },
         {
-            "NOM": "FF vs FOR",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-25",
-            "HEURE PRÉVUE": "11:30:00",
-            "DATE DE DEBUT": "2026-11-25",
-            "HEURE DE DEBUT": "2026-11-25",
-            "DATE DE FIN": "2026-11-25",
-            "HEURE DE FIN": "2026-11-25",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:15:26",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-united21-59-2026-group-c",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
-            "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/united21_en"
-            }
-        },
-        {
-            "NOM": "Winners' Match: TBD vs TBD",
+            "NOM": "Winners' Match: PRD vs FF",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -76,8 +51,8 @@
             "HEURE DE DEBUT": "2026-11-29",
             "DATE DE FIN": "2026-11-29",
             "HEURE DE FIN": "2026-11-29",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:19:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:59:31",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-59-2026-group-c",
             "TIER": "d",
@@ -89,7 +64,7 @@
             }
         },
         {
-            "NOM": "Elimination Match: TBD vs TBD",
+            "NOM": "Elimination Match: EAC vs FOR",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -101,8 +76,8 @@
             "HEURE DE DEBUT": "2026-11-29",
             "DATE DE FIN": "2026-11-29",
             "HEURE DE FIN": "2026-11-29",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:19:43",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:59:31",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-united21-59-2026-group-c",
             "TIER": "d",
@@ -137,6 +112,31 @@
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://kick.com/united21_en"
             }
+        },
+        {
+            "NOM": "FF vs FOR",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "canceled",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "Date de debut de match inconnue",
+            "HEURE DE DEBUT": "Date de debut de match inconnue",
+            "DATE DE FIN": "Date de debut de match inconnue",
+            "HEURE DE FIN": "Date de debut de match inconnue",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:59:31",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-united21-59-2026-group-c",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://kick.com/united21_en"
+            }
         }
     ],
     "EQUIPES": [
@@ -160,16 +160,16 @@
             "ID": 138685,
             "NOM": "Esport Academy Copenhagen",
             "LOCALISATION": "DK",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:42:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:01:18",
             "ACRONYME": "EAC"
         },
         {
             "ID": 139652,
             "NOM": "Prodigies",
             "LOCALISATION": "CZ",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:42:36",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "11:01:18",
             "ACRONYME": "PRD"
         }
     ],
@@ -334,10 +334,23 @@
                 "NOM": "Esport Academy Copenhagen",
                 "LOCALISATION": "DK",
                 "ACRONYME": "EAC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "02:42:07"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:01:18"
             },
             "JOUEURS": [
+                {
+                    "ID": 53995,
+                    "PSEUDO": "Stesso",
+                    "ROLE": null,
+                    "PRENOM": "Mark",
+                    "NOM": "Sørensen",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:18"
+                },
                 {
                     "ID": 55886,
                     "PSEUDO": "Viggo",
@@ -350,6 +363,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "02:42:07"
+                },
+                {
+                    "ID": 60351,
+                    "PSEUDO": "qx",
+                    "ROLE": null,
+                    "PRENOM": "Sander",
+                    "NOM": "Thomas",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:17"
                 },
                 {
                     "ID": 61244,
@@ -385,8 +411,8 @@
                 "NOM": "Prodigies",
                 "LOCALISATION": "CZ",
                 "ACRONYME": "PRD",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "02:42:36"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "11:01:18"
             },
             "JOUEURS": [
                 {
@@ -403,17 +429,17 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "02:42:36"
                 },
                 {
-                    "ID": 42305,
-                    "PSEUDO": "woozzzi",
+                    "ID": 43789,
+                    "PSEUDO": "MonsterJD",
                     "ROLE": null,
-                    "PRENOM": "Ruslan",
-                    "NOM": "Aliev",
-                    "AGE": 19,
+                    "PRENOM": "Eryk",
+                    "NOM": "Król",
+                    "AGE": 22,
                     "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "CZ",
+                    "NATIONALITE": "PL",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "02:42:36"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:18"
                 },
                 {
                     "ID": 45803,
@@ -429,30 +455,30 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "11:43:21"
                 },
                 {
-                    "ID": 51432,
-                    "PSEUDO": "olik",
+                    "ID": 55161,
+                    "PSEUDO": "kub1x",
                     "ROLE": null,
-                    "PRENOM": "Samuel",
-                    "NOM": "Pokorný",
-                    "AGE": 20,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "02:42:36"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:18"
                 },
                 {
-                    "ID": 55160,
-                    "PSEUDO": "luckzeN",
+                    "ID": 65259,
+                    "PSEUDO": "baiano",
                     "ROLE": null,
-                    "PRENOM": "Lukáš",
-                    "NOM": "Zeman",
-                    "AGE": 19,
+                    "PRENOM": "Krisztián",
+                    "NOM": "Juhász",
+                    "AGE": 24,
                     "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "CZ",
+                    "NATIONALITE": "SK",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "11:43:46"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "11:01:18"
                 }
             ]
         }

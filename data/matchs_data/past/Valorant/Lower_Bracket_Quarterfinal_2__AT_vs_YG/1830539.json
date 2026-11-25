@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1830539,
+        "NOM": "Lower_Bracket_Quarterfinal_2__AT_vs_YG",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "11:27:35",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "13:57:23",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53370,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2862,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "11:27:35",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "12:15:18",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139591,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53371,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2328,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "12:28:09",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "13:06:57",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139027,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53372,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2229,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "13:20:14",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "13:57:23",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139591,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139027,
+            "NOM": "A Team",
+            "LOCALISATION": "CN",
+            "ACRONYME": "AT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:19"
+        },
+        {
+            "ID": 139591,
+            "NOM": "Young Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "YG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:41:04"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139027
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139591
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22509,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5585,
+        "NOM": "China National Tournament",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18"
+    },
+    "SERIE": {
+        "ID": 11202,
+        "NOM": "Split Omega: Pro Division 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39"
+    }
+}
