@@ -25,7 +25,7 @@
     "PARTIES": [
         {
             "ID": 53564,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 2243,
@@ -40,7 +40,7 @@
         },
         {
             "ID": 53565,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
             "LONGUEUR": 2481,
@@ -60,8 +60,8 @@
             "NOM": "Chivas Esports",
             "LOCALISATION": "MX",
             "ACRONYME": "CHE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:58:53"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:10:21"
         },
         {
             "ID": 139643,
@@ -94,9 +94,9 @@
         "DATE DE DEBUT": "2026-11-20",
         "HEURE DE DEBUT": "22:00:00",
         "DATE DE FIN": "2026-11-25",
-        "HEURE DE FIN": "04:00:00",
-        "DATE DE MODIFICATION": "2026-11-23",
-        "HEURE DE MODIFICATION": "08:32:35",
+        "HEURE DE FIN": "03:09:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "07:18:26",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1822922,
+        "NOM": "Lower_Bracket_Round_2_match_3__DTN_vs_NF",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "01:49:16",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "04:22:43",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240626,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2615,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "01:49:16",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "02:32:51",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129547,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240627,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2221,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "02:37:22",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "03:14:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139617,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240628,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3731,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "03:20:32",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "04:22:44",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 129547,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 129547,
+            "NOM": "Detonate",
+            "LOCALISATION": "US",
+            "ACRONYME": "DTN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:30:36"
+        },
+        {
+            "ID": 139617,
+            "NOM": "North Forge",
+            "LOCALISATION": "US",
+            "ACRONYME": "NF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
+            "HEURE DE LA DERNIERE MODIFICATION": "03:44:51"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 129547
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139617
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22496,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "NA",
+        "TIER": "d",
+        "CASH PRIZE": "10000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-24",
+        "HEURE DE MODIFICATION": "10:03:11",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5588,
+        "NOM": "CROSSFIRE",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "13:53:20"
+    },
+    "SERIE": {
+        "ID": 11222,
+        "NOM": "Season 7 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "01:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "04:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "23:04:27"
+    }
+}

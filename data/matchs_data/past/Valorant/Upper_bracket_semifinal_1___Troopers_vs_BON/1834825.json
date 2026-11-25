@@ -1,0 +1,121 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1834825,
+        "NOM": "Upper_bracket_semifinal_1___Troopers_vs_BON",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "08:16:58",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "09:23:36",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:05:29",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53610,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1423,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "08:16:58",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "08:40:42",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130277,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53611,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1849,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "08:52:47",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "09:23:36",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130277,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139552,
+            "NOM": " Troopers",
+            "LOCALISATION": "AU",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:23:07"
+        },
+        {
+            "ID": 130277,
+            "NOM": "Bonkers",
+            "LOCALISATION": "AU",
+            "ACRONYME": "BON",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:04:42"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139552
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 130277
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22512,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "OCE",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "11:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "10:23:07",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11232,
+        "NOM": "Pacific Kickoff: Oceania - Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "08:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "11:00:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:05:29"
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1834042,
+        "NOM": "Round_3__BBB_vs_STA",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "23:49:44",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "03:09:57",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "08:52:57",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53567,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 5726,
+            "DATE DE DEBUT DE PARTIE": "2026-11-24",
+            "HEURE DE DEBUT DE PARTIE": "23:49:44",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "01:25:10",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137065,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53568,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2565,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "01:35:11",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "02:17:56",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138480,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53569,
+            "PARTIE FINIE": false,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2237,
+            "DATE DE DEBUT DE PARTIE": "2026-11-25",
+            "HEURE DE DEBUT DE PARTIE": "02:32:40",
+            "DATE DE FIN DE PARTIE": "2026-11-25",
+            "HEURE DE FIN DE PARTIE": "03:09:57",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137065,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137065,
+            "NOM": "Contra",
+            "LOCALISATION": "",
+            "ACRONYME": "BBB",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:10:19"
+        },
+        {
+            "ID": 138480,
+            "NOM": "STREAMER ARENA",
+            "LOCALISATION": "VE",
+            "ACRONYME": "STA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:43:56"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137065
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138480
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22504,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": null,
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-11-25",
+        "HEURE DE FIN": "03:09:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "07:18:26",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11229,
+        "NOM": "Americas Kickoff: LATAM North - Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-20",
+        "HEURE DE DEBUT": "22:00:00",
+        "DATE DE FIN": "2026-12-05",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "08:52:57"
+    }
+}

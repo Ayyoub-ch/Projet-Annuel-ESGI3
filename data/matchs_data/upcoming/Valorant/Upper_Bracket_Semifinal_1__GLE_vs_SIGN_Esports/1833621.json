@@ -3,7 +3,10 @@
         "ID": 1833621,
         "NOM": "Upper_Bracket_Semifinal_1__GLE_vs_SIGN_Esports",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
         "STATUT": "not_started",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-25",
@@ -107,8 +110,8 @@
         "HEURE DE DEBUT": "12:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "16:30:00",
-        "DATE DE MODIFICATION": "2026-11-24",
-        "HEURE DE MODIFICATION": "15:05:43",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "09:26:50",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

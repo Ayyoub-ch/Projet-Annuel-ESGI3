@@ -3,7 +3,10 @@
         "ID": 1831904,
         "NOM": "Round_1__GX_vs_PL",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
         "STATUT": "not_started",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-25",
@@ -107,8 +110,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-30",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE MODIFICATION": "2026-11-23",
-        "HEURE DE MODIFICATION": "16:51:11",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "07:22:42",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

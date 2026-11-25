@@ -1,0 +1,919 @@
+{
+    "DONNEES GENERALES DU TOURNOIS": {
+        "ID": 22540,
+        "NOM": "Group_A",
+        "JEU VIDEO": "Dota 2",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-02",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "10:01:59",
+        "ANNEE": "Année inconnue",
+        "SAISON": "Saison inconnue"
+    },
+    "MATCHES": [
+        {
+            "NOM": "ALL vs Amaru Gaming",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:19",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "V vs Amaru Gaming",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-25",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-25",
+            "HEURE DE DEBUT": "2026-11-25",
+            "DATE DE FIN": "2026-11-25",
+            "HEURE DE FIN": "2026-11-25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:20",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "4iki vs V",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "ALL vs Z10",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "TS vs Amaru Gaming",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "TS vs ALL",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "ALL vs V",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-27",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-27",
+            "HEURE DE DEBUT": "2026-11-27",
+            "DATE DE FIN": "2026-11-27",
+            "HEURE DE FIN": "2026-11-27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "4iki vs Z10",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-27",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-27",
+            "HEURE DE DEBUT": "2026-11-27",
+            "DATE DE FIN": "2026-11-27",
+            "HEURE DE FIN": "2026-11-27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "TS vs V",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-27",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-27",
+            "HEURE DE DEBUT": "2026-11-27",
+            "DATE DE FIN": "2026-11-27",
+            "HEURE DE FIN": "2026-11-27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "4iki vs TS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-28",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-28",
+            "HEURE DE DEBUT": "2026-11-28",
+            "DATE DE FIN": "2026-11-28",
+            "HEURE DE FIN": "2026-11-28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "V vs Z10",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-28",
+            "HEURE PRÉVUE": "15:00:00",
+            "DATE DE DEBUT": "2026-11-28",
+            "HEURE DE DEBUT": "2026-11-28",
+            "DATE DE FIN": "2026-11-28",
+            "HEURE DE FIN": "2026-11-28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "4iki vs Amaru Gaming",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-29",
+            "HEURE PRÉVUE": "12:00:00",
+            "DATE DE DEBUT": "2026-11-29",
+            "HEURE DE DEBUT": "2026-11-29",
+            "DATE DE FIN": "2026-11-29",
+            "HEURE DE FIN": "2026-11-29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "Z10 vs Amaru Gaming",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-30",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-11-30",
+            "HEURE DE DEBUT": "2026-11-30",
+            "DATE DE FIN": "2026-11-30",
+            "HEURE DE FIN": "2026-11-30",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "ALL vs 4iki",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-12-02",
+            "HEURE PRÉVUE": "09:00:00",
+            "DATE DE DEBUT": "2026-12-02",
+            "HEURE DE DEBUT": "2026-12-02",
+            "DATE DE FIN": "2026-12-02",
+            "HEURE DE FIN": "2026-12-02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        },
+        {
+            "NOM": "Z10 vs TS",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-12-02",
+            "HEURE PRÉVUE": "18:00:00",
+            "DATE DE DEBUT": "2026-12-02",
+            "HEURE DE DEBUT": "2026-12-02",
+            "DATE DE FIN": "2026-12-02",
+            "HEURE DE FIN": "2026-12-02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:05:11",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "dota-2-esports-pro-circuit-4-2026-group-a",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/epc_ru"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 135854,
+            "NOM": "Zero Tenacity",
+            "LOCALISATION": "RS",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:01:55",
+            "ACRONYME": "Z10"
+        },
+        {
+            "ID": 137685,
+            "NOM": "Amaru Gaming",
+            "LOCALISATION": "PE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:01:56",
+            "ACRONYME": null
+        },
+        {
+            "ID": 138761,
+            "NOM": "4ikibamboni",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:01:57",
+            "ACRONYME": "4iki"
+        },
+        {
+            "ID": 139124,
+            "NOM": "Team Synapse",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:01:58",
+            "ACRONYME": "TS"
+        },
+        {
+            "ID": 139489,
+            "NOM": "Team Allied",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:01:59",
+            "ACRONYME": "ALL"
+        },
+        {
+            "ID": 139662,
+            "NOM": "V",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:01:59",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 135854,
+                "NOM": "Zero Tenacity",
+                "LOCALISATION": "RS",
+                "ACRONYME": "Z10",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:01:55"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 10724,
+                    "PSEUDO": "Nefrit",
+                    "ROLE": "3",
+                    "PRENOM": "Dmitry ",
+                    "NOM": "Tarasich",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-02-24",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:55"
+                },
+                {
+                    "ID": 33879,
+                    "PSEUDO": "Worick",
+                    "ROLE": "2",
+                    "PRENOM": "Vitaly",
+                    "NOM": "Brezgin",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-09-20",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:54"
+                },
+                {
+                    "ID": 36283,
+                    "PSEUDO": "desire",
+                    "ROLE": "4",
+                    "PRENOM": "Athanasios",
+                    "NOM": "Kartsampas",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-06-03",
+                    "NATIONALITE": "GR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:55"
+                },
+                {
+                    "ID": 54802,
+                    "PSEUDO": "dream`",
+                    "ROLE": "1",
+                    "PRENOM": "Kyial",
+                    "NOM": "Tayirov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-03-28",
+                    "NATIONALITE": "KG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:52"
+                },
+                {
+                    "ID": 58110,
+                    "PSEUDO": "mrls",
+                    "ROLE": "4",
+                    "PRENOM": "Artem",
+                    "NOM": "Selepko",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:55"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 137685,
+                "NOM": "Amaru Gaming",
+                "LOCALISATION": "PE",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:01:56"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 9499,
+                    "PSEUDO": "Costabile",
+                    "ROLE": "1",
+                    "PRENOM": "Guilherme Silva",
+                    "NOM": "Costábile",
+                    "AGE": 31,
+                    "DATE DE NAISSANCE": "1995-01-11",
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:56"
+                },
+                {
+                    "ID": 9981,
+                    "PSEUDO": "Panda",
+                    "ROLE": "5",
+                    "PRENOM": "Jose Leonardo",
+                    "NOM": "Padilla Hernandez",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-05-19",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:56"
+                },
+                {
+                    "ID": 10638,
+                    "PSEUDO": "Oscar",
+                    "ROLE": "3",
+                    "PRENOM": "Oscar David",
+                    "NOM": "Chavez Jimenez",
+                    "AGE": 32,
+                    "DATE DE NAISSANCE": "1994-01-01",
+                    "NATIONALITE": "BO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:55"
+                },
+                {
+                    "ID": 28197,
+                    "PSEUDO": "PiPi",
+                    "ROLE": "2",
+                    "PRENOM": "Jeanpierre",
+                    "NOM": "Valente",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-06",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:55"
+                },
+                {
+                    "ID": 35513,
+                    "PSEUDO": "Genek",
+                    "ROLE": "4",
+                    "PRENOM": "Moises",
+                    "NOM": "Asencios Santillan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-04-21",
+                    "NATIONALITE": "PE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 138761,
+                "NOM": "4ikibamboni",
+                "LOCALISATION": "",
+                "ACRONYME": "4iki",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:01:57"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 27013,
+                    "PSEUDO": "Otaker",
+                    "ROLE": "1",
+                    "PRENOM": "Roman",
+                    "NOM": "Aliullov",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-03-25",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:56"
+                },
+                {
+                    "ID": 39741,
+                    "PSEUDO": "ktAmOp",
+                    "ROLE": "3",
+                    "PRENOM": "Nikolay",
+                    "NOM": "Khalyapin",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-03-01",
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:56"
+                },
+                {
+                    "ID": 57292,
+                    "PSEUDO": "monodrama",
+                    "ROLE": "5",
+                    "PRENOM": "Bogdan",
+                    "NOM": "Iushkov",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:57"
+                },
+                {
+                    "ID": 57953,
+                    "PSEUDO": "abomination",
+                    "ROLE": "2",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:56"
+                },
+                {
+                    "ID": 58040,
+                    "PSEUDO": "slimeyao",
+                    "ROLE": "4",
+                    "PRENOM": "Aleksandr",
+                    "NOM": "Kasaev",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:56"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139124,
+                "NOM": "Team Synapse",
+                "LOCALISATION": "",
+                "ACRONYME": "TS",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:01:58"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 41089,
+                    "PSEUDO": " emptiness死",
+                    "ROLE": "3",
+                    "PRENOM": "Yerlan",
+                    "NOM": "Lesbek",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-13",
+                    "NATIONALITE": "KZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:57"
+                },
+                {
+                    "ID": 44185,
+                    "PSEUDO": "Mikey ",
+                    "ROLE": "2",
+                    "PRENOM": "Kasra",
+                    "NOM": "Mesbah",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-21",
+                    "NATIONALITE": "IR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:57"
+                },
+                {
+                    "ID": 44811,
+                    "PSEUDO": "Jeezy",
+                    "ROLE": "4",
+                    "PRENOM": "Berke Can",
+                    "NOM": "Yenigün",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-17",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:58"
+                },
+                {
+                    "ID": 46359,
+                    "PSEUDO": "Stoic",
+                    "ROLE": "5",
+                    "PRENOM": "Abdullah",
+                    "NOM": "Fatih Koparan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:58"
+                },
+                {
+                    "ID": 53502,
+                    "PSEUDO": "rubikon155",
+                    "ROLE": "1",
+                    "PRENOM": "Vladislav",
+                    "NOM": "Gaidau",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MD",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139489,
+                "NOM": "Team Allied",
+                "LOCALISATION": "",
+                "ACRONYME": "ALL",
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:01:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 23144,
+                    "PSEUDO": "zipzap",
+                    "ROLE": "1",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:58"
+                },
+                {
+                    "ID": 28041,
+                    "PSEUDO": "Filminy",
+                    "ROLE": "4",
+                    "PRENOM": "Filip",
+                    "NOM": "Komín",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:59"
+                },
+                {
+                    "ID": 31712,
+                    "PSEUDO": "Atoufix",
+                    "ROLE": "5",
+                    "PRENOM": "Mathis ",
+                    "NOM": "Monino",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:58"
+                },
+                {
+                    "ID": 49591,
+                    "PSEUDO": "matson",
+                    "ROLE": "2",
+                    "PRENOM": "Matin",
+                    "NOM": "Jafari",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "IR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:58"
+                },
+                {
+                    "ID": 68946,
+                    "PSEUDO": "Belief",
+                    "ROLE": "3",
+                    "PRENOM": "Damjan",
+                    "NOM": "Jordanovski",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "MK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:58"
+                }
+            ]
+        },
+        {
+            "EQUIPE": {
+                "ID": 139662,
+                "NOM": "V",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:01:59"
+            },
+            "JOUEURS": [
+                {
+                    "ID": 10006,
+                    "PSEUDO": "Palantimos",
+                    "ROLE": "3",
+                    "PRENOM": "Nikita",
+                    "NOM": "Grinkevich",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1997-06-05",
+                    "NATIONALITE": "BY",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:59"
+                },
+                {
+                    "ID": 10416,
+                    "PSEUDO": "Ponlo",
+                    "ROLE": "5",
+                    "PRENOM": "Remus",
+                    "NOM": "Goh Zhi Xian",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-01-08",
+                    "NATIONALITE": "SG",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:59"
+                },
+                {
+                    "ID": 21888,
+                    "PSEUDO": "Mo13ei",
+                    "ROLE": "2",
+                    "PRENOM": "Fabian",
+                    "NOM": "Knehr",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-04-29",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:59"
+                },
+                {
+                    "ID": 37816,
+                    "PSEUDO": "Nande",
+                    "ROLE": "1",
+                    "PRENOM": "Lasha",
+                    "NOM": "Narsia",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-09-17",
+                    "NATIONALITE": "GE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:59"
+                },
+                {
+                    "ID": 56181,
+                    "PSEUDO": "help urself",
+                    "ROLE": "4",
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:01:59"
+                }
+            ]
+        }
+    ],
+    "LIGUE": {
+        "NOM": "Esports Pro Circuit ",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "11:23:08"
+    },
+    "SERIE": {
+        "NOM": "Season 4 2026",
+        "ANNEE": 2026,
+        "SAISON": "4",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "09:49:08",
+        "ID DU VAINQUEUR": null
+    }
+}

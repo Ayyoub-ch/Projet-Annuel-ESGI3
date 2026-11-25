@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-12-02",
         "HEURE DE FIN": "14:30:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-        "HEURE DE LA DERNIERE MODIFICATION": "15:16:04",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:24:28",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -160,8 +160,8 @@
             "ID": 138660,
             "NOM": "WRAITH PCIFIC",
             "LOCALISATION": "TR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:54:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:24:28",
             "ACRONYME": "PCIFIC"
         },
         {
@@ -334,8 +334,8 @@
                 "NOM": "WRAITH PCIFIC",
                 "LOCALISATION": "TR",
                 "ACRONYME": "PCIFIC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "02:54:18"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:24:28"
             },
             "JOUEURS": [
                 {
@@ -376,6 +376,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "02:54:18"
+                },
+                {
+                    "ID": 55441,
+                    "PSEUDO": "rim3",
+                    "ROLE": null,
+                    "PRENOM": "Emir",
+                    "NOM": "Dönmez",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:24:28"
                 },
                 {
                     "ID": 61347,

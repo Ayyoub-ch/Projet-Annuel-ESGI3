@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "12:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:58:31",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:23:51",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -16,7 +16,7 @@
         {
             "NOM": "TS.A vs Quintessence",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -26,16 +26,16 @@
             "HEURE DE DEBUT": "2026-11-25",
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:14:52",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:02:47",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-a",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/cct_cs2"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/jester_andrew"
             }
         },
         {
@@ -51,16 +51,16 @@
             "HEURE DE DEBUT": "2026-11-25",
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:15:31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:10:11",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-a",
             "TIER": "d",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": true,
-                "LANGUE": "en",
-                "LIEN BRUTE": "https://kick.com/cct_cs2"
+                "MAIN": false,
+                "LANGUE": "ru",
+                "LIEN BRUTE": "https://www.twitch.tv/jester_andrew"
             }
         },
         {
@@ -152,16 +152,16 @@
             "ID": 129405,
             "NOM": "SAW Youngsters",
             "LOCALISATION": "PT",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:28:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:23:50",
             "ACRONYME": "SAW.Y"
         },
         {
             "ID": 138812,
             "NOM": "Noir Verse",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:28:33",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:37:14",
             "ACRONYME": null
         },
         {
@@ -257,8 +257,8 @@
                 "NOM": "SAW Youngsters",
                 "LOCALISATION": "PT",
                 "ACRONYME": "SAW.Y",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:28:32"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:23:50"
             },
             "JOUEURS": [
                 {
@@ -312,6 +312,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:28:31"
+                },
+                {
+                    "ID": 69005,
+                    "PSEUDO": "kill",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "07:23:50"
                 }
             ]
         },
@@ -321,8 +334,8 @@
                 "NOM": "Noir Verse",
                 "LOCALISATION": "UA",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:28:33"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:37:14"
             },
             "JOUEURS": [
                 {
@@ -335,8 +348,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:28:32"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:13"
                 },
                 {
                     "ID": 60164,
@@ -348,8 +361,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:28:33"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:13"
                 },
                 {
                     "ID": 63211,
@@ -361,8 +374,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:28:32"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:14"
                 },
                 {
                     "ID": 66382,
@@ -374,8 +387,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:28:32"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:14"
                 },
                 {
                     "ID": 66388,
@@ -387,8 +400,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "LT",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:28:32"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:13"
                 }
             ]
         },

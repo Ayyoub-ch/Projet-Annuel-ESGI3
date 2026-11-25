@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "15:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-        "HEURE DE LA DERNIERE MODIFICATION": "21:38:24",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+        "HEURE DE LA DERNIERE MODIFICATION": "08:52:24",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -152,16 +152,16 @@
             "ID": 138610,
             "NOM": "Walczaki",
             "LOCALISATION": "PL",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:35:20",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:52:24",
             "ACRONYME": "WAL"
         },
         {
             "ID": 138899,
             "NOM": "maybe",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:35:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:37:10",
             "ACRONYME": null
         },
         {
@@ -257,8 +257,8 @@
                 "NOM": "Walczaki",
                 "LOCALISATION": "PL",
                 "ACRONYME": "WAL",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:35:20"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "08:52:24"
             },
             "JOUEURS": [
                 {
@@ -288,19 +288,6 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "21:35:20"
                 },
                 {
-                    "ID": 30317,
-                    "PSEUDO": "sNx",
-                    "ROLE": null,
-                    "PRENOM": "Rafal",
-                    "NOM": "Snopek",
-                    "AGE": 22,
-                    "DATE DE NAISSANCE": null,
-                    "NATIONALITE": "PL",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:20"
-                },
-                {
                     "ID": 38983,
                     "PSEUDO": "bajmi",
                     "ROLE": null,
@@ -312,6 +299,32 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:35:19"
+                },
+                {
+                    "ID": 63003,
+                    "PSEUDO": "Eskyy",
+                    "ROLE": null,
+                    "PRENOM": "Bartosz",
+                    "NOM": "Tomaszewski",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:52:24"
+                },
+                {
+                    "ID": 68670,
+                    "PSEUDO": "mrouz",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "PL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "08:51:57"
                 }
             ]
         },
@@ -321,8 +334,8 @@
                 "NOM": "maybe",
                 "LOCALISATION": "UA",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "10:37:10"
             },
             "JOUEURS": [
                 {
@@ -335,8 +348,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:10"
                 },
                 {
                     "ID": 53412,
@@ -348,8 +361,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:10"
                 },
                 {
                     "ID": 66717,
@@ -361,8 +374,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:09"
                 },
                 {
                     "ID": 66719,
@@ -374,8 +387,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:20"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:10"
                 },
                 {
                     "ID": 66720,
@@ -387,8 +400,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "UA",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:35:21"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                    "HEURE DE LA DERNIERE MODIFICATION": "10:37:10"
                 }
             ]
         },
