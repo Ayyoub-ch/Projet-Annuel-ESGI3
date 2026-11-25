@@ -1,0 +1,18 @@
+{
+    "DONNEES GENERALES DE L'EQUIPE'": {
+        "ID": 1995,
+        "NOM": "FK_Sokol_Saratov",
+        "CODE": "SOK",
+        "PAYS": "Russia",
+        "ANNEE FONDATION": 2005,
+        "NATIONALE": false
+    },
+    "STADE": {
+        "ID": 2837,
+        "NOM": "Stadion Lokomotiv",
+        "ADRESSE": "ul. Atkarskaya 29",
+        "VILLE": "Saratov",
+        "CAPACITE": 15260,
+        "SURFACE": "grass"
+    }
+}
