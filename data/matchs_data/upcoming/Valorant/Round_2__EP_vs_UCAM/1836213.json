@@ -3,7 +3,10 @@
         "ID": 1836213,
         "NOM": "Round_2__EP_vs_UCAM",
         "JEU VIDEO": "Valorant",
-        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
         "STATUT": "not_started",
         "NOMBRE DE PARTIE": 3,
         "DATE DE DEBUT": "2026-11-26",

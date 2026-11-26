@@ -566,7 +566,7 @@
         {
             "NOM": "Lower Bracket Round 2 match 2: ELU vs VIL",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -577,7 +577,7 @@
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:57:16",
+            "HEURE DE LA DERNIERE MODIFICATION": "04:33:18",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",
@@ -586,31 +586,6 @@
                 "MAIN": true,
                 "LANGUE": "en",
                 "LIEN BRUTE": "https://www.twitch.tv/playcrossfire"
-            }
-        },
-        {
-            "NOM": "Lower Bracket Round 3 match 2: FV vs TBD",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-29",
-            "HEURE PRÉVUE": "01:00:00",
-            "DATE DE DEBUT": "2026-11-29",
-            "HEURE DE DEBUT": "2026-11-29",
-            "DATE DE FIN": "2026-11-29",
-            "HEURE DE FIN": "2026-11-29",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
-            "HEURE DE LA DERNIERE MODIFICATION": "04:36:25",
-            "PRIZEPOOL": "10000 United States Dollar",
-            "SLUG": "cs-go-crossfire-7-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
             }
         },
         {
@@ -678,6 +653,31 @@
             "HEURE DE FIN": "2026-12-01",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
             "HEURE DE LA DERNIERE MODIFICATION": "08:51:20",
+            "PRIZEPOOL": "10000 United States Dollar",
+            "SLUG": "cs-go-crossfire-7-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Lower Bracket Round 3 match 2: FV vs ELU",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-12-01",
+            "HEURE PRÉVUE": "01:00:00",
+            "DATE DE DEBUT": "2026-12-01",
+            "HEURE DE DEBUT": "2026-12-01",
+            "DATE DE FIN": "2026-12-01",
+            "HEURE DE FIN": "2026-12-01",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "06:08:51",
             "PRIZEPOOL": "10000 United States Dollar",
             "SLUG": "cs-go-crossfire-7-2026-playoffs",
             "TIER": "d",

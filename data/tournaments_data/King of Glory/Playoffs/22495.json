@@ -3,18 +3,247 @@
         "ID": 22495,
         "NOM": "Playoffs",
         "JEU VIDEO": "King of Glory",
-        "DATE DE DEBUT": "2026-11-28",
-        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "05:00:00",
         "DATE DE FIN": "2026-11-29",
-        "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-        "HEURE DE LA DERNIERE MODIFICATION": "07:58:31",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "07:27:10",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
-    "MATCHES": [],
-    "EQUIPES": "Pas d'informations sur l'equipe",
-    "MEMBRES DE L'EQUIPE": "Pas d'informations sur l'equipe",
+    "MATCHES": [
+        {
+            "NOM": "Upper bracket semifinal 1: MY HOK League vs PH Kings League",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 7,
+            "DATE PRÉVUE": "2026-11-27",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-11-27",
+            "HEURE DE DEBUT": "2026-11-27",
+            "DATE DE FIN": "2026-11-27",
+            "HEURE DE FIN": "2026-11-27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:35:36",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "kog-honor-of-kings-world-champion-cup-nation-clash-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hok_global_esports"
+            }
+        },
+        {
+            "NOM": "Upper bracket semifinal 2:  King Pro League vs ID Kings Laga",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 7,
+            "DATE PRÉVUE": "2026-11-27",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-27",
+            "HEURE DE DEBUT": "2026-11-27",
+            "DATE DE FIN": "2026-11-27",
+            "HEURE DE FIN": "2026-11-27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:35:43",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "kog-honor-of-kings-world-champion-cup-nation-clash-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hok_global_esports"
+            }
+        },
+        {
+            "NOM": "Upper bracket final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 7,
+            "DATE PRÉVUE": "2026-11-28",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-11-28",
+            "HEURE DE DEBUT": "2026-11-28",
+            "DATE DE FIN": "2026-11-28",
+            "HEURE DE FIN": "2026-11-28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:15",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "kog-honor-of-kings-world-champion-cup-nation-clash-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hok_global_esports"
+            }
+        },
+        {
+            "NOM": "Lower bracket semifinal: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 7,
+            "DATE PRÉVUE": "2026-11-28",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-28",
+            "HEURE DE DEBUT": "2026-11-28",
+            "DATE DE FIN": "2026-11-28",
+            "HEURE DE FIN": "2026-11-28",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:15",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "kog-honor-of-kings-world-champion-cup-nation-clash-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hok_global_esports"
+            }
+        },
+        {
+            "NOM": "Lower bracket final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 7,
+            "DATE PRÉVUE": "2026-11-29",
+            "HEURE PRÉVUE": "06:00:00",
+            "DATE DE DEBUT": "2026-11-29",
+            "HEURE DE DEBUT": "2026-11-29",
+            "DATE DE FIN": "2026-11-29",
+            "HEURE DE FIN": "2026-11-29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:16",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "kog-honor-of-kings-world-champion-cup-nation-clash-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hok_global_esports"
+            }
+        },
+        {
+            "NOM": "Grand final: TBD vs TBD",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 7,
+            "DATE PRÉVUE": "2026-11-29",
+            "HEURE PRÉVUE": "10:00:00",
+            "DATE DE DEBUT": "2026-11-29",
+            "HEURE DE DEBUT": "2026-11-29",
+            "DATE DE FIN": "2026-11-29",
+            "HEURE DE FIN": "2026-11-29",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:28:15",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "kog-honor-of-kings-world-champion-cup-nation-clash-2026-playoffs",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/hok_global_esports"
+            }
+        }
+    ],
+    "EQUIPES": [
+        {
+            "ID": 139667,
+            "NOM": "MY HOK League",
+            "LOCALISATION": "MY",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:33:19",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139668,
+            "NOM": "PH Kings League",
+            "LOCALISATION": "PH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:34:07",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139669,
+            "NOM": " King Pro League",
+            "LOCALISATION": "",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:34:30",
+            "ACRONYME": null
+        },
+        {
+            "ID": 139670,
+            "NOM": "ID Kings Laga",
+            "LOCALISATION": "ID",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:35:11",
+            "ACRONYME": null
+        }
+    ],
+    "MEMBRES DE L'EQUIPE": [
+        {
+            "EQUIPE": {
+                "ID": 139667,
+                "NOM": "MY HOK League",
+                "LOCALISATION": "MY",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:33:19"
+            },
+            "JOUEURS": []
+        },
+        {
+            "EQUIPE": {
+                "ID": 139668,
+                "NOM": "PH Kings League",
+                "LOCALISATION": "PH",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:34:07"
+            },
+            "JOUEURS": []
+        },
+        {
+            "EQUIPE": {
+                "ID": 139669,
+                "NOM": " King Pro League",
+                "LOCALISATION": "",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:34:30"
+            },
+            "JOUEURS": []
+        },
+        {
+            "EQUIPE": {
+                "ID": 139670,
+                "NOM": "ID Kings Laga",
+                "LOCALISATION": "ID",
+                "ACRONYME": null,
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "07:35:11"
+            },
+            "JOUEURS": []
+        }
+    ],
     "LIGUE": {
         "NOM": "Honor of Kings",
         "DATE DE LA DERNIERE MODIFICATION": "2023-12-26",

@@ -12,7 +12,7 @@
         "HEURE DE FIN": "Heure de fin non définie",
         "DATE DE MODIFICATION": "2026-11-17",
         "HEURE DE MODIFICATION": "07:18:44",
-        "STATS DETAILLEES": false,
+        "STATS DETAILLEES": true,
         "LIVE": {
             "SUPPORT": false,
             "OUVERTURE": "Pas d'information sur l'ouverture"
@@ -30,7 +30,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": false,
+            "DETAIL STAT": true,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -45,7 +45,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": false,
+            "DETAIL STAT": true,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -60,7 +60,7 @@
             "HEURE DE DEBUT DE PARTIE": "Heure de début de partie non définie",
             "DATE DE FIN DE PARTIE": "Date de fin de partie non définie",
             "HEURE DE FIN DE PARTIE": "Heure de fin de partie non définie",
-            "DETAIL STAT": false,
+            "DETAIL STAT": true,
             "FORFAIT": false,
             "ID DU VAINQUEUR": "Pas de Vainqueur disponible",
             "TYPE DU VAINQUEUR": "Team"
@@ -81,7 +81,7 @@
             "LOCALISATION": "UA",
             "ACRONYME": "KAM",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "02:02:25"
+            "HEURE DE LA DERNIERE MODIFICATION": "07:49:47"
         }
     ],
     "RESULTATS": [
@@ -108,8 +108,8 @@
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "22:00:00",
         "DATE DE MODIFICATION": "2026-11-26",
-        "HEURE DE MODIFICATION": "02:02:26",
-        "STATS DETAILLEES": false,
+        "HEURE DE MODIFICATION": "10:15:51",
+        "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },
     "LIGUE": {
