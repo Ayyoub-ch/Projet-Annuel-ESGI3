@@ -1,0 +1,163 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1820197,
+        "NOM": "Lower_Bracket_Round_1_Match_1__Classic_vs_SHIN",
+        "JEU VIDEO": "StarCraft 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 7,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "11:11:15",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "12:56:42",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:30:49",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 19851,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1001,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "11:11:16",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "11:27:57",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43052,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19852,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 954,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "11:29:44",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "11:45:38",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43310,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19853,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 624,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "11:47:00",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "11:57:25",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43310,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19854,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 1464,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "11:59:13",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "12:23:37",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43310,
+            "TYPE DU VAINQUEUR": "Player"
+        },
+        {
+            "ID": 19855,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 5,
+            "STATUT": "finished",
+            "LONGUEUR": 1862,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "12:25:40",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "12:56:42",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 43310,
+            "TYPE DU VAINQUEUR": "Player"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 43310,
+            "NOM": "Classic",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:26:17"
+        },
+        {
+            "ID": 43052,
+            "NOM": "SHIN",
+            "LOCALISATION": "Localisation inconnue",
+            "ACRONYME": "Acronyme inconnu",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:26:17"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 4,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": "Id de l'equipe inconnu"
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22492,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "a",
+        "CASH PRIZE": "30000 Chinese Yuan",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:30:49",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5587,
+        "NOM": "Kung Fu Cup",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:24:36"
+    },
+    "SERIE": {
+        "ID": 11219,
+        "NOM": "Grand Finals 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "11:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "15:00:00",
+        "DATE DE MODIFICATION": "2026-11-18",
+        "HEURE DE MODIFICATION": "07:30:49"
+    }
+}

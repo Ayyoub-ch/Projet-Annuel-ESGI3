@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1819321,
+        "NOM": "Round_of_16_match_6__QUA_vs_INF",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "12:11:51",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "14:37:50",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "07:18:44",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240464,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2843,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "12:11:53",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "12:59:16",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130570,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240465,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 5012,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "13:14:18",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "14:37:51",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 130570,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 130570,
+            "NOM": "QUAZAR",
+            "LOCALISATION": "RU",
+            "ACRONYME": "QUA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:39:01"
+        },
+        {
+            "ID": 132795,
+            "NOM": "INFURITY Gaming",
+            "LOCALISATION": "NO",
+            "ACRONYME": "INF",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:03:29"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 130570
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 132795
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22491,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": "20000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-26",
+        "HEURE DE MODIFICATION": "15:51:29",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5551,
+        "NOM": "Exort Fiesta",
+        "DATE DE MODIFICATION": "2026-08-12",
+        "HEURE DE MODIFICATION": "21:07:12"
+    },
+    "SERIE": {
+        "ID": 11214,
+        "NOM": "Season 4 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-17",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "07:18:44"
+    }
+}

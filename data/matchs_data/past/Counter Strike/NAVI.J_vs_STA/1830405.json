@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1830405,
+        "NOM": "NAVI.J_vs_STA",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "14:07:45",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "16:37:22",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "03:08:26",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240915,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1568,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "14:07:45",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "14:33:54",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 126491,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240916,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1753,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "14:52:43",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "15:21:56",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137861,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240917,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3454,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "15:39:48",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "16:37:22",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137861,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 126491,
+            "NOM": "NAVI Junior",
+            "LOCALISATION": "UA",
+            "ACRONYME": "NAVI.J",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:54:15"
+        },
+        {
+            "ID": 137861,
+            "NOM": "STATE",
+            "LOCALISATION": "DK",
+            "ACRONYME": "STA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:15:44"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 126491
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137861
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22517,
+        "NOM": "Group D",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-02",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "07:24:28",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5078,
+        "NOM": "United21",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:36:10"
+    },
+    "SERIE": {
+        "ID": 11233,
+        "NOM": "Season 59 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-11",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "03:08:26"
+    }
+}

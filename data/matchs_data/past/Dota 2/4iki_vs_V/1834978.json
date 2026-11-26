@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1834978,
+        "NOM": "4iki_vs_V",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "09:07:55",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "12:32:03",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "09:49:08",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 742028,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2241,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "09:07:56",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "10:02:54",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139662,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 742029,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2798,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "10:11:44",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "11:24:58",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138761,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 742030,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2325,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "11:34:53",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "12:32:04",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139662,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138761,
+            "NOM": "4ikibamboni",
+            "LOCALISATION": "",
+            "ACRONYME": "4iki",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:01:57"
+        },
+        {
+            "ID": 139662,
+            "NOM": "V",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "12:34:49"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138761
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139662
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22540,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-02",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-26",
+        "HEURE DE MODIFICATION": "19:14:14",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5576,
+        "NOM": "Esports Pro Circuit ",
+        "DATE DE MODIFICATION": "2026-10-26",
+        "HEURE DE MODIFICATION": "11:23:08"
+    },
+    "SERIE": {
+        "ID": 11241,
+        "NOM": "Season 4 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-16",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "09:49:08"
+    }
+}

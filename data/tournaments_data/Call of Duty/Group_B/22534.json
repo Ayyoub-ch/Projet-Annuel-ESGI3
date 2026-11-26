@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-12-06",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:47:36",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:24:43",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -169,7 +169,7 @@
             "NOM": "Gentle Pink",
             "LOCALISATION": "US",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:23:49",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:24:43",
             "ACRONYME": "GMP"
         }
     ],
@@ -214,9 +214,49 @@
                 "LOCALISATION": "US",
                 "ACRONYME": "GMP",
                 "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:23:49"
+                "HEURE DE LA DERNIERE MODIFICATION": "14:24:43"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 64827,
+                    "PSEUDO": "Manny",
+                    "ROLE": null,
+                    "PRENOM": "Emmanuel",
+                    "NOM": "Lemos",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-10-16",
+                    "NATIONALITE": "PH",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:24:32"
+                },
+                {
+                    "ID": 65909,
+                    "PSEUDO": "KB",
+                    "ROLE": null,
+                    "PRENOM": "Francis",
+                    "NOM": "Biller",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-06-17",
+                    "NATIONALITE": "CO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:24:35"
+                },
+                {
+                    "ID": 65911,
+                    "PSEUDO": "Ruper",
+                    "ROLE": null,
+                    "PRENOM": "Rodrigo",
+                    "NOM": "Armendáriz",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-05-09",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:24:43"
+                }
+            ]
         }
     ],
     "LIGUE": {

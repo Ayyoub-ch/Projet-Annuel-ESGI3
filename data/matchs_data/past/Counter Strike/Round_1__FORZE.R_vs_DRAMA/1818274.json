@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1818274,
+        "NOM": "Round_1__FORZE.R_vs_DRAMA",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "09:06:53",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "12:08:40",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:54:09",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240143,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2419,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "09:06:55",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "09:47:14",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135126,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240144,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3019,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "10:04:00",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "10:54:19",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138146,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240145,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3274,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "11:14:06",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "12:08:40",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135126,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 135126,
+            "NOM": "FORZE Reload",
+            "LOCALISATION": "RU",
+            "ACRONYME": "FORZE.R",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:51:25"
+        },
+        {
+            "ID": 138146,
+            "NOM": "Drama eSports",
+            "LOCALISATION": "",
+            "ACRONYME": "DRAMA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:53:36"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135126
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138146
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22484,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-26",
+        "HEURE DE MODIFICATION": "09:52:34",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11217,
+        "NOM": "Series #15 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:54:09"
+    }
+}

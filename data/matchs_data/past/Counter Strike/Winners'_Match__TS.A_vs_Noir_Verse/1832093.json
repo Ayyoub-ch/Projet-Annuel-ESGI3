@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1832093,
+        "NOM": "Winners'_Match__TS.A_vs_Noir_Verse",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "15:17:55",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "18:47:23",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "21:38:24",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240999,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3162,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "15:17:55",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "16:10:37",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128766,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 241000,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3976,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "16:26:52",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "17:33:09",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138812,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 241001,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3471,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "17:49:32",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "18:47:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 128766,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 128766,
+            "NOM": "Spirit Academy",
+            "LOCALISATION": "RU",
+            "ACRONYME": "TS.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:53:45"
+        },
+        {
+            "ID": 138812,
+            "NOM": "Noir Verse",
+            "LOCALISATION": "UA",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "10:37:14"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 128766
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138812
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22525,
+        "NOM": "Group A",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 128766,
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "12:00:00",
+        "DATE DE MODIFICATION": "2026-11-26",
+        "HEURE DE MODIFICATION": "18:47:23",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11237,
+        "NOM": "Closed Qualifier: Series #16 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-11-30",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "21:38:24"
+    }
+}

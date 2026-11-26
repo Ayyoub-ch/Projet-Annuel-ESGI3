@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1829578,
+        "NOM": "Y.TigeRES_vs_ABT",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "11:56:48",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "15:14:25",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240834,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 4114,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "11:56:48",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "13:05:22",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 131984,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240835,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2352,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "13:23:19",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "14:02:31",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137581,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240836,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2977,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "14:24:48",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "15:14:26",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 131984,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137581,
+            "NOM": "Young TigeRES",
+            "LOCALISATION": "",
+            "ACRONYME": "Y.TigeRES",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:32:50"
+        },
+        {
+            "ID": 131984,
+            "NOM": "ABT Esports",
+            "LOCALISATION": "PT",
+            "ACRONYME": "ABT",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:19:10"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137581
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 131984
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22510,
+        "NOM": "Group D",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-01",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4854,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:34:11"
+    },
+    "SERIE": {
+        "ID": 11231,
+        "NOM": "Series 11 Closed Qualifier 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-04",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-11-22",
+        "HEURE DE MODIFICATION": "16:07:58"
+    }
+}

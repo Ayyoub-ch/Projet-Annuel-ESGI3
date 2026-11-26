@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1830406,
+        "NOM": "PCIFIC_vs_BBV",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "11:56:01",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "13:41:47",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "03:08:26",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240918,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2465,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "11:56:01",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "12:37:07",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138660,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240919,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2552,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "12:59:15",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "13:41:47",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138660,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138660,
+            "NOM": "WRAITH PCIFIC",
+            "LOCALISATION": "TR",
+            "ACRONYME": "PCIFIC",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:02:21"
+        },
+        {
+            "ID": 139500,
+            "NOM": "Bad Beavers",
+            "LOCALISATION": "TR",
+            "ACRONYME": "BBV",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:54:10"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 138660
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139500
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22517,
+        "NOM": "Group D",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-02",
+        "HEURE DE FIN": "14:30:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "07:24:28",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5078,
+        "NOM": "United21",
+        "DATE DE MODIFICATION": "2023-12-22",
+        "HEURE DE MODIFICATION": "16:36:10"
+    },
+    "SERIE": {
+        "ID": 11233,
+        "NOM": "Season 59 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-11",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "03:08:26"
+    }
+}

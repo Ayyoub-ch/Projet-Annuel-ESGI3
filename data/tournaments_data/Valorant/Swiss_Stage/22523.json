@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-30",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:33:02",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "17:03:58",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -214,9 +214,9 @@
             }
         },
         {
-            "NOM": "Round 2: EP vs UCAM",
+            "NOM": "Round 2: CGN vs MasterProMegaTeam",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -227,21 +227,46 @@
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:58:59",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:27:52",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "de",
+                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
+            }
+        },
+        {
+            "NOM": "Round 2: EP vs UCAM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "16:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:07:43",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_emea"
             }
         },
         {
             "NOM": "Round 2: NAVI.J vs BAR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -252,46 +277,21 @@
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:59:03",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:13:48",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Round 2: CGN vs MasterProMegaTeam",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-26",
-            "HEURE PRÉVUE": "16:00:00",
-            "DATE DE DEBUT": "2026-11-26",
-            "HEURE DE DEBUT": "2026-11-26",
-            "DATE DE FIN": "2026-11-26",
-            "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:59:07",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "es",
+                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesibit"
             }
         },
         {
             "NOM": "Round 2: PL vs F9",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -302,71 +302,21 @@
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:59:10",
+            "HEURE DE LA DERNIERE MODIFICATION": "18:27:03",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Round 2: SGE vs GX",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-26",
-            "HEURE PRÉVUE": "18:30:00",
-            "DATE DE DEBUT": "2026-11-26",
-            "HEURE DE DEBUT": "2026-11-26",
-            "DATE DE FIN": "2026-11-26",
-            "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:47:12",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Round 2: JL vs LM",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-26",
-            "HEURE PRÉVUE": "18:30:00",
-            "DATE DE DEBUT": "2026-11-26",
-            "HEURE DE DEBUT": "2026-11-26",
-            "DATE DE FIN": "2026-11-26",
-            "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:47:14",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
-            "TIER": "c",
-            "STATISTIQUES DETAILLEES": true,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "fr",
+                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesfr"
             }
         },
         {
             "NOM": "Round 2: Aurora Gaming vs WIP",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -377,40 +327,90 @@
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:03:02",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:37:28",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "fr",
+                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesfr"
+            }
+        },
+        {
+            "NOM": "Round 2: SGE vs GX",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "finished",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "18:30:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:29:48",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "de",
+                "LIEN BRUTE": "https://www.twitch.tv/spikeseriesdach"
+            }
+        },
+        {
+            "NOM": "Round 2: JL vs LM",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "running",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "19:30:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:20:43",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
+            "TIER": "c",
+            "STATISTIQUES DETAILLEES": true,
+            "INFO DE STREAMING": {
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/yaboilewistv"
             }
         },
         {
             "NOM": "Round 2: MDR vs MIR",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-26",
-            "HEURE PRÉVUE": "18:30:00",
+            "HEURE PRÉVUE": "19:45:00",
             "DATE DE DEBUT": "2026-11-26",
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:03:03",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:39:51",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-emea-kickoff-europe-qualifier-2027-swiss-stage",
             "TIER": "c",
             "STATISTIQUES DETAILLEES": true,
             "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
+                "MAIN": true,
+                "LANGUE": "en",
+                "LIEN BRUTE": "https://www.twitch.tv/valorant_emea"
             }
         }
     ],
@@ -419,8 +419,8 @@
             "ID": 129100,
             "NOM": "UCAM Esports Club",
             "LOCALISATION": "ES",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "16:50:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:03:56",
             "ACRONYME": "UCAM"
         },
         {
@@ -483,8 +483,8 @@
             "ID": 136225,
             "NOM": "Pixel Lumina",
             "LOCALISATION": "HU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:42:46",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:57:25",
             "ACRONYME": "PL"
         },
         {
@@ -507,8 +507,8 @@
             "ID": 137123,
             "NOM": "F9 EICAR",
             "LOCALISATION": "FR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "17:50:02",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "16:57:27",
             "ACRONYME": "F9"
         },
         {
@@ -551,8 +551,8 @@
                 "NOM": "UCAM Esports Club",
                 "LOCALISATION": "ES",
                 "ACRONYME": "UCAM",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "16:50:23"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "17:03:56"
             },
             "JOUEURS": [
                 {
@@ -593,6 +593,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:50:22"
+                },
+                {
+                    "ID": 37241,
+                    "PSEUDO": "Jesse",
+                    "ROLE": null,
+                    "PRENOM": "Adam",
+                    "NOM": "Čtvrtníček",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-02-22",
+                    "NATIONALITE": "CZ",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:03:56"
                 },
                 {
                     "ID": 38134,
@@ -874,8 +887,8 @@
                     "DATE DE NAISSANCE": "2010-02-22",
                     "NATIONALITE": "RO",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:33:02"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:25:04"
                 }
             ]
         },
@@ -899,8 +912,8 @@
                     "DATE DE NAISSANCE": "1998-09-17",
                     "NATIONALITE": "FI",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:50:26"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:25"
                 },
                 {
                     "ID": 36022,
@@ -1193,10 +1206,23 @@
                 "NOM": "Pixel Lumina",
                 "LOCALISATION": "HU",
                 "ACRONYME": "PL",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:42:46"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:57:25"
             },
             "JOUEURS": [
+                {
+                    "ID": 20511,
+                    "PSEUDO": "hoody",
+                    "ROLE": null,
+                    "PRENOM": "Aaro",
+                    "NOM": "Peltokangas",
+                    "AGE": 28,
+                    "DATE DE NAISSANCE": "1998-09-17",
+                    "NATIONALITE": "FI",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:25"
+                },
                 {
                     "ID": 25039,
                     "PSEUDO": "MOLSI",
@@ -1261,6 +1287,45 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:50:30"
+                },
+                {
+                    "ID": 59661,
+                    "PSEUDO": "sunfloweR",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-09-08",
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:25"
+                },
+                {
+                    "ID": 62674,
+                    "PSEUDO": "fortnite pro",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:25"
+                },
+                {
+                    "ID": 69150,
+                    "PSEUDO": "etnaa",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": null,
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:24"
                 }
             ]
         },
@@ -1387,8 +1452,8 @@
                     "DATE DE NAISSANCE": "2006-05-30",
                     "NATIONALITE": "FR",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                    "HEURE DE LA DERNIERE MODIFICATION": "17:50:03"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:26"
                 },
                 {
                     "ID": 50610,
@@ -1424,8 +1489,8 @@
                 "NOM": "F9 EICAR",
                 "LOCALISATION": "FR",
                 "ACRONYME": "F9",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                "HEURE DE LA DERNIERE MODIFICATION": "17:50:02"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "16:57:27"
             },
             "JOUEURS": [
                 {
@@ -1442,6 +1507,58 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "16:50:33"
                 },
                 {
+                    "ID": 33129,
+                    "PSEUDO": "Kipperman",
+                    "ROLE": null,
+                    "PRENOM": "Taylan",
+                    "NOM": "Toprakçı",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-30",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:27"
+                },
+                {
+                    "ID": 36016,
+                    "PSEUDO": "Destrian",
+                    "ROLE": null,
+                    "PRENOM": "Tomas",
+                    "NOM": "Linikas",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-05-28",
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:26"
+                },
+                {
+                    "ID": 39995,
+                    "PSEUDO": "DeepMans",
+                    "ROLE": null,
+                    "PRENOM": "Yiğithan",
+                    "NOM": "Kesici",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-09-09",
+                    "NATIONALITE": "TR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:27"
+                },
+                {
+                    "ID": 44768,
+                    "PSEUDO": "Tenshi",
+                    "ROLE": null,
+                    "PRENOM": "Johan",
+                    "NOM": "Sprenger",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-11-16",
+                    "NATIONALITE": "NL",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:27"
+                },
+                {
                     "ID": 49558,
                     "PSEUDO": "Kajuks",
                     "ROLE": null,
@@ -1453,6 +1570,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "16:50:32"
+                },
+                {
+                    "ID": 50604,
+                    "PSEUDO": "izana",
+                    "ROLE": null,
+                    "PRENOM": "Maxime",
+                    "NOM": "Gaillet",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-05-30",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "16:57:26"
                 },
                 {
                     "ID": 50609,
@@ -1528,8 +1658,8 @@
                     "DATE DE NAISSANCE": "2003-02-22",
                     "NATIONALITE": "CZ",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "16:50:33"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "17:03:56"
                 },
                 {
                     "ID": 38265,

@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1834918,
+        "NOM": "Upper_bracket_round_2_match_1__TTG_Esports_vs_VIT.A",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "18:11:50",
+        "DATE DE FIN": "2026-11-26",
+        "HEURE DE FIN": "20:37:22",
+        "DATE DE MODIFICATION": "2026-10-06",
+        "HEURE DE MODIFICATION": "14:31:10",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 241221,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1819,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "18:11:50",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "18:42:09",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139353,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 241222,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2339,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "18:49:41",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "19:28:40",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138618,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 241223,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3544,
+            "DATE DE DEBUT DE PARTIE": "2026-11-26",
+            "HEURE DE DEBUT DE PARTIE": "19:38:18",
+            "DATE DE FIN DE PARTIE": "2026-11-26",
+            "HEURE DE FIN DE PARTIE": "20:37:22",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139353,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139353,
+            "NOM": "TTG Esports",
+            "LOCALISATION": "",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:32:57"
+        },
+        {
+            "ID": 138618,
+            "NOM": "Vitality Academy",
+            "LOCALISATION": "",
+            "ACRONYME": "VIT.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:32:53"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139353
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138618
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22524,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "15:00:00",
+        "DATE DE FIN": "2026-12-13",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "20:31:21",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4243,
+        "NOM": "ESEA",
+        "DATE DE MODIFICATION": "2020-11-12",
+        "HEURE DE MODIFICATION": "15:51:24"
+    },
+    "SERIE": {
+        "ID": 11070,
+        "NOM": "Advanced Europe season 59 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-10-06",
+        "HEURE DE DEBUT": "18:00:00",
+        "DATE DE FIN": "2026-12-14",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-06",
+        "HEURE DE MODIFICATION": "14:31:10"
+    }
+}

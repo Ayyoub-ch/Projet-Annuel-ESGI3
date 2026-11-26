@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "19:00:00",
         "DATE DE FIN": "2026-12-07",
         "HEURE DE FIN": "04:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:47:36",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:24:56",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -169,7 +169,7 @@
             "NOM": "Gentle Green",
             "LOCALISATION": "US",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:23:42",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:24:56",
             "ACRONYME": "GMG"
         }
     ],
@@ -214,9 +214,62 @@
                 "LOCALISATION": "US",
                 "ACRONYME": "GMG",
                 "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-                "HEURE DE LA DERNIERE MODIFICATION": "07:23:42"
+                "HEURE DE LA DERNIERE MODIFICATION": "14:24:56"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 32280,
+                    "PSEUDO": "Diamondcon",
+                    "ROLE": null,
+                    "PRENOM": "Conor",
+                    "NOM": "Johst",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-04-16",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:24:50"
+                },
+                {
+                    "ID": 48946,
+                    "PSEUDO": "Gwinn",
+                    "ROLE": null,
+                    "PRENOM": "Isaiah",
+                    "NOM": "Gwinn",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-05-02",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:24:53"
+                },
+                {
+                    "ID": 49460,
+                    "PSEUDO": "Flames",
+                    "ROLE": null,
+                    "PRENOM": "John-Alexander",
+                    "NOM": "Dieguez",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-04-15",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:24:46"
+                },
+                {
+                    "ID": 61210,
+                    "PSEUDO": "Craze",
+                    "ROLE": null,
+                    "PRENOM": "Jaskaran",
+                    "NOM": "Mahli",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:24:56"
+                }
+            ]
         }
     ],
     "LIGUE": {
