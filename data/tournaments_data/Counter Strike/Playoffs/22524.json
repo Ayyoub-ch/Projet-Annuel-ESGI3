@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-12-13",
         "HEURE DE FIN": "23:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-        "HEURE DE LA DERNIERE MODIFICATION": "17:34:34",
+        "HEURE DE LA DERNIERE MODIFICATION": "20:31:21",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -391,7 +391,7 @@
         {
             "NOM": "Upper bracket round 2 match 8: EP vs BANGARANGA",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -402,7 +402,7 @@
             "DATE DE FIN": "2026-11-25",
             "HEURE DE FIN": "2026-11-25",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:15:08",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:20:25",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-esea-advanced-europe-59-2026-playoffs",
             "TIER": "d",
@@ -453,6 +453,31 @@
             "HEURE DE FIN": "2026-11-26",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
             "HEURE DE LA DERNIERE MODIFICATION": "18:22:08",
+            "PRIZEPOOL": "Prizepool du tournoi inconnu",
+            "SLUG": "cs-go-esea-advanced-europe-59-2026-playoffs",
+            "TIER": "d",
+            "STATISTIQUES DETAILLEES": false,
+            "INFO DE STREAMING": {
+                "MAIN": null,
+                "LANGUE": null,
+                "LIEN BRUTE": null
+            }
+        },
+        {
+            "NOM": "Upper bracket round 2 match 4: OLDBOYS PL vs 99firepower 1utility",
+            "TYPE": "Type de match inconnu",
+            "STATUT": "not_started",
+            "LIVE SUPPORTÉ": false,
+            "TYPE DE MATCH": "best_of",
+            "NOMBRE DE PARTIES": 3,
+            "DATE PRÉVUE": "2026-11-26",
+            "HEURE PRÉVUE": "17:00:00",
+            "DATE DE DEBUT": "2026-11-26",
+            "HEURE DE DEBUT": "2026-11-26",
+            "DATE DE FIN": "2026-11-26",
+            "HEURE DE FIN": "2026-11-26",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "02:21:31",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-esea-advanced-europe-59-2026-playoffs",
             "TIER": "d",
@@ -540,31 +565,6 @@
         },
         {
             "NOM": "Upper bracket round 2 match 2: RGG vs OBOYS",
-            "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
-            "LIVE SUPPORTÉ": false,
-            "TYPE DE MATCH": "best_of",
-            "NOMBRE DE PARTIES": 3,
-            "DATE PRÉVUE": "2026-11-26",
-            "HEURE PRÉVUE": "19:00:00",
-            "DATE DE DEBUT": "2026-11-26",
-            "HEURE DE DEBUT": "2026-11-26",
-            "DATE DE FIN": "2026-11-26",
-            "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "18:22:37",
-            "PRIZEPOOL": "Prizepool du tournoi inconnu",
-            "SLUG": "cs-go-esea-advanced-europe-59-2026-playoffs",
-            "TIER": "d",
-            "STATISTIQUES DETAILLEES": false,
-            "INFO DE STREAMING": {
-                "MAIN": null,
-                "LANGUE": null,
-                "LIEN BRUTE": null
-            }
-        },
-        {
-            "NOM": "Upper bracket round 2 match 4: OLDBOYS PL vs 99firepower 1utility",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -1035,8 +1035,8 @@
             "ID": 139102,
             "NOM": "BANGARANGA",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:32:56",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:23:11",
             "ACRONYME": null
         },
         {
@@ -3171,8 +3171,8 @@
                 "NOM": "BANGARANGA",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:32:56"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+                "HEURE DE LA DERNIERE MODIFICATION": "20:23:11"
             },
             "JOUEURS": [
                 {
