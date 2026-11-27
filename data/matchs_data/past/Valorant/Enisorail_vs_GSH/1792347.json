@@ -25,7 +25,7 @@
     "PARTIES": [
         {
             "ID": 52671,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 1,
             "STATUT": "finished",
             "LONGUEUR": 8076,
@@ -40,7 +40,7 @@
         },
         {
             "ID": 52672,
-            "PARTIE FINIE": false,
+            "PARTIE FINIE": true,
             "POSITION PARTIE": 2,
             "STATUT": "finished",
             "LONGUEUR": 394,
@@ -68,8 +68,8 @@
             "NOM": "Gesichtenhausen",
             "LOCALISATION": "",
             "ACRONYME": "GSH",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
-            "HEURE DE LA DERNIERE MODIFICATION": "22:20:10"
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:54:50"
         }
     ],
     "RESULTATS": [
@@ -95,8 +95,8 @@
         "HEURE DE DEBUT": "16:00:00",
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "21:00:00",
-        "DATE DE MODIFICATION": "2026-11-23",
-        "HEURE DE MODIFICATION": "15:46:02",
+        "DATE DE MODIFICATION": "2026-11-26",
+        "HEURE DE MODIFICATION": "21:54:50",
         "STATS DETAILLEES": true,
         "LIVE SUPPORT": false
     },

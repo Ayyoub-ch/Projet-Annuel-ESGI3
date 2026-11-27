@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-27",
         "HEURE DE FIN": "22:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-        "HEURE DE LA DERNIERE MODIFICATION": "19:50:29",
+        "HEURE DE LA DERNIERE MODIFICATION": "22:53:29",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -616,7 +616,7 @@
         {
             "NOM": "Upper Bracket Final: ex-Copenhagen Wolves vs ZOTIX",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -627,7 +627,7 @@
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:53:47",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:56:51",
             "PRIZEPOOL": "2500 United States Dollar",
             "SLUG": "cs-go-cct-europe-contenders-11-2026-playoffs",
             "TIER": "d",
@@ -641,18 +641,18 @@
         {
             "NOM": "Lower Bracket Semifinal: ENCELADE vs AXE",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
             "DATE PRÉVUE": "2026-11-26",
-            "HEURE PRÉVUE": "21:45:00",
+            "HEURE PRÉVUE": "22:10:00",
             "DATE DE DEBUT": "2026-11-26",
             "HEURE DE DEBUT": "2026-11-26",
             "DATE DE FIN": "2026-11-26",
             "HEURE DE FIN": "2026-11-26",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:44:44",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:44:08",
             "PRIZEPOOL": "2500 United States Dollar",
             "SLUG": "cs-go-cct-europe-contenders-11-2026-playoffs",
             "TIER": "d",
@@ -664,7 +664,7 @@
             }
         },
         {
-            "NOM": "Lower Bracket Final: TBD vs TBD",
+            "NOM": "Lower Bracket Final: ex-Copenhagen Wolves vs ENCELADE",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -676,8 +676,8 @@
             "HEURE DE DEBUT": "2026-11-27",
             "DATE DE FIN": "2026-11-27",
             "HEURE DE FIN": "2026-11-27",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:44:47",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:43:02",
             "PRIZEPOOL": "2500 United States Dollar",
             "SLUG": "cs-go-cct-europe-contenders-11-2026-playoffs",
             "TIER": "d",
@@ -689,7 +689,7 @@
             }
         },
         {
-            "NOM": "Grand Final: TBD vs TBD",
+            "NOM": "Grand Final: ZOTIX vs TBD",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -702,7 +702,7 @@
             "DATE DE FIN": "2026-11-27",
             "HEURE DE FIN": "2026-11-27",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:44:50",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:51:40",
             "PRIZEPOOL": "2500 United States Dollar",
             "SLUG": "cs-go-cct-europe-contenders-11-2026-playoffs",
             "TIER": "d",
@@ -923,16 +923,16 @@
             "ID": 139624,
             "NOM": "AXE",
             "LOCALISATION": "UA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:20:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:53:29",
             "ACRONYME": null
         },
         {
             "ID": 139625,
             "NOM": "ENCELADE",
             "LOCALISATION": "RU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:20:58",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "22:53:28",
             "ACRONYME": null
         },
         {
@@ -1952,8 +1952,8 @@
                 "NOM": "AXE",
                 "LOCALISATION": "UA",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:20:58"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:53:29"
             },
             "JOUEURS": [
                 {
@@ -1983,6 +1983,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "21:20:58"
                 },
                 {
+                    "ID": 65203,
+                    "PSEUDO": "kodua",
+                    "ROLE": null,
+                    "PRENOM": "Oleksandr",
+                    "NOM": "Kodua",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:53:28"
+                },
+                {
                     "ID": 65232,
                     "PSEUDO": "tw1nkl3",
                     "ROLE": null,
@@ -1994,6 +2007,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
                     "HEURE DE LA DERNIERE MODIFICATION": "14:10:12"
+                },
+                {
+                    "ID": 67462,
+                    "PSEUDO": "Aydiee",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "UA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:53:29"
                 },
                 {
                     "ID": 67463,
@@ -2029,10 +2055,23 @@
                 "NOM": "ENCELADE",
                 "LOCALISATION": "RU",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-19",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:20:58"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                "HEURE DE LA DERNIERE MODIFICATION": "22:53:28"
             },
             "JOUEURS": [
+                {
+                    "ID": 34232,
+                    "PSEUDO": "lyNNN",
+                    "ROLE": null,
+                    "PRENOM": "Tembulat",
+                    "NOM": "Gurizhev",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "RU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+                    "HEURE DE LA DERNIERE MODIFICATION": "22:53:28"
+                },
                 {
                     "ID": 57628,
                     "PSEUDO": "skept1K",
