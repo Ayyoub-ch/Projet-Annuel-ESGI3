@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-11-29",
         "HEURE DE FIN": "18:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
-        "HEURE DE LA DERNIERE MODIFICATION": "11:05:07",
+        "HEURE DE LA DERNIERE MODIFICATION": "14:15:56",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -41,7 +41,7 @@
         {
             "NOM": "Azuolas vs Honvéd",
             "TYPE": "Type de match inconnu",
-            "STATUT": "running",
+            "STATUT": "finished",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -52,7 +52,7 @@
             "DATE DE FIN": "2026-11-27",
             "HEURE DE FIN": "2026-11-27",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:39:26",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:38:16",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-c",
             "TIER": "d",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "NOM": "Elimination Match: MSC vs TBD",
+            "NOM": "Elimination Match: MSC vs Azuolas",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -77,7 +77,7 @@
             "DATE DE FIN": "2026-11-28",
             "HEURE DE FIN": "2026-11-28",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:15:52",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:15:39",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-c",
             "TIER": "d",
@@ -89,7 +89,7 @@
             }
         },
         {
-            "NOM": "Winners' Match: MOUZ.N vs TBD",
+            "NOM": "Winners' Match: MOUZ.N vs Honvéd",
             "TYPE": "Type de match inconnu",
             "STATUT": "not_started",
             "LIVE SUPPORTÉ": false,
@@ -102,7 +102,7 @@
             "DATE DE FIN": "2026-11-28",
             "HEURE DE FIN": "2026-11-28",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
-            "HEURE DE LA DERNIERE MODIFICATION": "12:15:52",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:16:32",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "cs-go-cct-europe-closed-qualifier-series-16-2026-group-c",
             "TIER": "d",
@@ -152,8 +152,8 @@
             "ID": 128887,
             "NOM": "Honvéd",
             "LOCALISATION": "HU",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "21:32:33",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:15:56",
             "ACRONYME": null
         },
         {
@@ -168,8 +168,8 @@
             "ID": 139174,
             "NOM": "Azuolas",
             "LOCALISATION": "LT",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:36:14",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "14:15:54",
             "ACRONYME": null
         }
     ],
@@ -257,8 +257,8 @@
                 "NOM": "Honvéd",
                 "LOCALISATION": "HU",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "21:32:33"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:15:56"
             },
             "JOUEURS": [
                 {
@@ -325,6 +325,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:32:33"
+                },
+                {
+                    "ID": 65741,
+                    "PSEUDO": "excien",
+                    "ROLE": null,
+                    "PRENOM": "Titusz",
+                    "NOM": "Botzheim",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "HU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:15:56"
                 }
             ]
         },
@@ -424,8 +437,8 @@
                 "NOM": "Azuolas",
                 "LOCALISATION": "LT",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:36:14"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "14:15:54"
             },
             "JOUEURS": [
                 {
@@ -492,6 +505,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "21:32:32"
+                },
+                {
+                    "ID": 62042,
+                    "PSEUDO": "fello",
+                    "ROLE": null,
+                    "PRENOM": "Erikas",
+                    "NOM": "Čepauskas",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "LT",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "14:15:54"
                 }
             ]
         }

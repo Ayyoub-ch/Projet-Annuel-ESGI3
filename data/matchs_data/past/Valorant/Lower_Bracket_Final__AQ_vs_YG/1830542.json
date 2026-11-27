@@ -1,0 +1,148 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1830542,
+        "NOM": "Lower_Bracket_Final__AQ_vs_YG",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "09:15:20",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "12:55:19",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53379,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1969,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "09:15:20",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "09:48:10",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137493,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53380,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2435,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "10:01:36",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "10:42:11",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137493,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53381,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3424,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "10:56:58",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "11:54:03",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139591,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53382,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 4,
+            "STATUT": "finished",
+            "LONGUEUR": 2882,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "12:07:17",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "12:55:19",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137493,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137493,
+            "NOM": "Any Questions Gaming",
+            "LOCALISATION": "",
+            "ACRONYME": "AQ",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-22",
+            "HEURE DE LA DERNIERE MODIFICATION": "15:29:23"
+        },
+        {
+            "ID": 139591,
+            "NOM": "Young Gaming",
+            "LOCALISATION": "CN",
+            "ACRONYME": "YG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:41:04"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 137493
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139591
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22509,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "CN",
+        "REGION": "ASIA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-23",
+        "HEURE DE DEBUT": "05:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5585,
+        "NOM": "China National Tournament",
+        "DATE DE MODIFICATION": "2026-11-11",
+        "HEURE DE MODIFICATION": "11:10:18"
+    },
+    "SERIE": {
+        "ID": 11202,
+        "NOM": "Split Omega: Pro Division 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "14:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "08:27:39"
+    }
+}

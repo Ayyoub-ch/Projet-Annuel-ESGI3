@@ -1,0 +1,121 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1838824,
+        "NOM": "Round_3__SGE_vs_UCAM",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "16:03:52",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "17:14:06",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "16:51:11",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53689,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2053,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "16:03:52",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "16:38:06",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134406,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53690,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1774,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "16:44:32",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "17:14:06",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134406,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 134406,
+            "NOM": "Eintracht Frankfurt",
+            "LOCALISATION": "DE",
+            "ACRONYME": "SGE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "07:22:42"
+        },
+        {
+            "ID": 129100,
+            "NOM": "UCAM Esports Club",
+            "LOCALISATION": "ES",
+            "ACRONYME": "UCAM",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:03:56"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 134406
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 129100
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22523,
+        "NOM": "Swiss Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-30",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-26",
+        "HEURE DE MODIFICATION": "17:03:58",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11236,
+        "NOM": "EMEA Kickoff: Europe - Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-12-05",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "16:51:11"
+    }
+}

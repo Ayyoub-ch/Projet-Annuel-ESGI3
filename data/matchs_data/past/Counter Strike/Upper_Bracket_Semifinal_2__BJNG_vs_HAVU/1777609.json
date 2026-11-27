@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1777609,
+        "NOM": "Upper_Bracket_Semifinal_2__BJNG_vs_HAVU",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "18:15:07",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "21:08:59",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "16:17:26",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237562,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 3641,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "18:15:09",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "19:15:50",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 125774,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237563,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2467,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "19:31:06",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "20:12:14",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 138129,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237564,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2351,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "20:29:48",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "21:09:00",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 125774,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 138129,
+            "NOM": "BOJONG",
+            "LOCALISATION": "",
+            "ACRONYME": "BJNG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:50:46"
+        },
+        {
+            "ID": 125774,
+            "NOM": "HAVU",
+            "LOCALISATION": "FI",
+            "ACRONYME": "HAVU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:50:52"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 138129
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 125774
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22330,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "FI",
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": "5000 Euro",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "00:50:52",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4736,
+        "NOM": "Elisa Open Suomi",
+        "DATE DE MODIFICATION": "2022-01-22",
+        "HEURE DE MODIFICATION": "07:52:57"
+    },
+    "SERIE": {
+        "ID": 11156,
+        "NOM": "Season 14 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "16:17:26"
+    }
+}

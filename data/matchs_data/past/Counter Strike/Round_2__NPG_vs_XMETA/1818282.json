@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1818282,
+        "NOM": "Round_2__NPG_vs_XMETA",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "15:09:51",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "17:47:32",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:54:09",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 240167,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2147,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "15:09:52",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "15:45:39",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139016,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240168,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1848,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "16:04:57",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "16:35:46",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139443,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 240169,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2876,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "16:59:36",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "17:47:33",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139443,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139016,
+            "NOM": "Nordic Partners Gaming ",
+            "LOCALISATION": "MT",
+            "ACRONYME": "NPG",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "17:10:38"
+        },
+        {
+            "ID": 139443,
+            "NOM": "XMETA",
+            "LOCALISATION": "RU",
+            "ACRONYME": "XMETA",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:30:45"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 139016
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 139443
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22484,
+        "NOM": "Group Stage",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-27",
+        "HEURE DE MODIFICATION": "19:57:33",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5232,
+        "NOM": "CCT Europe",
+        "DATE DE MODIFICATION": "2024-04-13",
+        "HEURE DE MODIFICATION": "08:58:18"
+    },
+    "SERIE": {
+        "ID": 11217,
+        "NOM": "Series #15 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-25",
+        "HEURE DE DEBUT": "09:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "20:00:00",
+        "DATE DE MODIFICATION": "2026-11-17",
+        "HEURE DE MODIFICATION": "10:54:09"
+    }
+}

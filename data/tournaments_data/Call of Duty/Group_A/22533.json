@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-12-06",
         "HEURE DE FIN": "22:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:47:36",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:07:25",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -144,32 +144,32 @@
             "ID": 133927,
             "NOM": "Miami Heretics",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:26:27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:07:22",
             "ACRONYME": "MH"
         },
         {
             "ID": 137600,
             "NOM": "G2 Minnesota",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:26:27",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:07:23",
             "ACRONYME": "MIN"
         },
         {
             "ID": 137632,
             "NOM": "Paris Gentle Mates",
             "LOCALISATION": "FR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "08:26:25",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:07:24",
             "ACRONYME": "PAR"
         },
         {
             "ID": 138658,
             "NOM": "Huntsmen",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:56:18",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:07:24",
             "ACRONYME": null
         }
     ],
@@ -180,10 +180,63 @@
                 "NOM": "Miami Heretics",
                 "LOCALISATION": "US",
                 "ACRONYME": "MH",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:26:27"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:07:22"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25963,
+                    "PSEUDO": "MeTTalZ",
+                    "ROLE": null,
+                    "PRENOM": "Adrian",
+                    "NOM": "Serrano",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-09-19",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:21"
+                },
+                {
+                    "ID": 46435,
+                    "PSEUDO": "ReeaL",
+                    "ROLE": null,
+                    "PRENOM": "José Manuel",
+                    "NOM": "Fernández",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2003-12-11",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:22"
+                },
+                {
+                    "ID": 46437,
+                    "PSEUDO": "SupeR",
+                    "ROLE": null,
+                    "PRENOM": "Diego",
+                    "NOM": "Escudero",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-01-30",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:22"
+                },
+                {
+                    "ID": 49293,
+                    "PSEUDO": "Snoopy",
+                    "ROLE": null,
+                    "PRENOM": "Eric",
+                    "NOM": "Pérez",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-25",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:22"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -191,10 +244,63 @@
                 "NOM": "G2 Minnesota",
                 "LOCALISATION": "US",
                 "ACRONYME": "MIN",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:26:27"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:07:23"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25938,
+                    "PSEUDO": "TJHaLy",
+                    "ROLE": null,
+                    "PRENOM": "Thomas",
+                    "NOM": "Haly",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-19",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:23"
+                },
+                {
+                    "ID": 27070,
+                    "PSEUDO": "Spart",
+                    "ROLE": null,
+                    "PRENOM": "Kris",
+                    "NOM": "Cervantez",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-24",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:23"
+                },
+                {
+                    "ID": 41919,
+                    "PSEUDO": "Prolute",
+                    "ROLE": null,
+                    "PRENOM": "Byron",
+                    "NOM": "Vera",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-06-29",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:23"
+                },
+                {
+                    "ID": 61208,
+                    "PSEUDO": "Abe",
+                    "ROLE": null,
+                    "PRENOM": "Ronald ",
+                    "NOM": "Abraham",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-06-22",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:23"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -202,10 +308,63 @@
                 "NOM": "Paris Gentle Mates",
                 "LOCALISATION": "FR",
                 "ACRONYME": "PAR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                "HEURE DE LA DERNIERE MODIFICATION": "08:26:25"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:07:24"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 29296,
+                    "PSEUDO": "Drazah",
+                    "ROLE": null,
+                    "PRENOM": "Zack",
+                    "NOM": "Jordan",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-05-09",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:24"
+                },
+                {
+                    "ID": 46434,
+                    "PSEUDO": "JoeDeceives",
+                    "ROLE": null,
+                    "PRENOM": "Joseph",
+                    "NOM": "Romero",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-09-23",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:24"
+                },
+                {
+                    "ID": 46439,
+                    "PSEUDO": "Abuzah",
+                    "ROLE": null,
+                    "PRENOM": "Jordan",
+                    "NOM": "François",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-07-13",
+                    "NATIONALITE": "BE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:23"
+                },
+                {
+                    "ID": 53813,
+                    "PSEUDO": "04",
+                    "ROLE": null,
+                    "PRENOM": "Jovan",
+                    "NOM": "Rodriguez",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-02",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:23"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -213,10 +372,63 @@
                 "NOM": "Huntsmen",
                 "LOCALISATION": "US",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:56:18"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:07:24"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 49465,
+                    "PSEUDO": "Purj",
+                    "ROLE": null,
+                    "PRENOM": "Evan",
+                    "NOM": "Perez",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-03-03",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:24"
+                },
+                {
+                    "ID": 63031,
+                    "PSEUDO": "Swooty",
+                    "ROLE": null,
+                    "PRENOM": "Jared",
+                    "NOM": "Najera",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-09-04",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:24"
+                },
+                {
+                    "ID": 68565,
+                    "PSEUDO": "Mince",
+                    "ROLE": null,
+                    "PRENOM": "Andrew",
+                    "NOM": "Motomura",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:11:39"
+                },
+                {
+                    "ID": 68566,
+                    "PSEUDO": "Tkay",
+                    "ROLE": null,
+                    "PRENOM": "Matthew",
+                    "NOM": "Montalvo",
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-09-18",
+                    "NATIONALITE": "DO",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:07:24"
+                }
+            ]
         }
     ],
     "LIGUE": {

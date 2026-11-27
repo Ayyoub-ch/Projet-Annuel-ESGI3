@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "19:00:00",
         "DATE DE FIN": "2026-12-08",
         "HEURE DE FIN": "05:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-        "HEURE DE LA DERNIERE MODIFICATION": "08:47:36",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:22:44",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -144,32 +144,32 @@
             "ID": 130157,
             "NOM": "OpTic Texas",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:45:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:22:42",
             "ACRONYME": "TEX"
         },
         {
             "ID": 135970,
             "NOM": "Vancouver Surge",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:51:32",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:22:42",
             "ACRONYME": "VAN"
         },
         {
             "ID": 137362,
             "NOM": "Riyadh Falcons",
             "LOCALISATION": "SA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:45:23",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:22:43",
             "ACRONYME": "RIYF"
         },
         {
             "ID": 137630,
             "NOM": "OMiT Brooklyn",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:53:31",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:22:44",
             "ACRONYME": null
         }
     ],
@@ -180,10 +180,63 @@
                 "NOM": "OpTic Texas",
                 "LOCALISATION": "US",
                 "ACRONYME": "TEX",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "03:45:21"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:22:42"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25897,
+                    "PSEUDO": "Shotzzy",
+                    "ROLE": null,
+                    "PRENOM": "Anthony",
+                    "NOM": "Cuevas-Castro",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-07-04",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:41"
+                },
+                {
+                    "ID": 25898,
+                    "PSEUDO": "Huke",
+                    "ROLE": null,
+                    "PRENOM": "Cuyler",
+                    "NOM": "Garland",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-21",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:40"
+                },
+                {
+                    "ID": 25939,
+                    "PSEUDO": "Dashy",
+                    "ROLE": null,
+                    "PRENOM": "Brandon",
+                    "NOM": "Otell",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-04-19",
+                    "NATIONALITE": "CA",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:39"
+                },
+                {
+                    "ID": 60561,
+                    "PSEUDO": "Mercules",
+                    "ROLE": null,
+                    "PRENOM": "Mason",
+                    "NOM": "Ramsay",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-07-14",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:41"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -191,10 +244,63 @@
                 "NOM": "Vancouver Surge",
                 "LOCALISATION": "US",
                 "ACRONYME": "VAN",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:51:32"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:22:42"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 61209,
+                    "PSEUDO": "Mamba",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-03-13",
+                    "NATIONALITE": "MX",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:42"
+                },
+                {
+                    "ID": 64828,
+                    "PSEUDO": "Vikram",
+                    "ROLE": null,
+                    "PRENOM": "Vikram",
+                    "NOM": "Singh",
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:23:16"
+                },
+                {
+                    "ID": 65764,
+                    "PSEUDO": "Nemensions",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-04-17",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:42"
+                },
+                {
+                    "ID": 66175,
+                    "PSEUDO": "Wevy",
+                    "ROLE": null,
+                    "PRENOM": "Jason",
+                    "NOM": "Medina",
+                    "AGE": 18,
+                    "DATE DE NAISSANCE": "2008-05-12",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:42"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -202,10 +308,63 @@
                 "NOM": "Riyadh Falcons",
                 "LOCALISATION": "SA",
                 "ACRONYME": "RIYF",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "03:45:23"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:22:43"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25883,
+                    "PSEUDO": "Cellium",
+                    "ROLE": null,
+                    "PRENOM": "McArthur",
+                    "NOM": "Jovel",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-24",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:42"
+                },
+                {
+                    "ID": 25948,
+                    "PSEUDO": "KiSMET",
+                    "ROLE": null,
+                    "PRENOM": "Matthew",
+                    "NOM": "Tinsley",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-11-11",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:43"
+                },
+                {
+                    "ID": 34036,
+                    "PSEUDO": "Sib",
+                    "ROLE": null,
+                    "PRENOM": "Daunte",
+                    "NOM": "Gray",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-03",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:43"
+                },
+                {
+                    "ID": 48705,
+                    "PSEUDO": "Kremp",
+                    "ROLE": null,
+                    "PRENOM": "Kyle",
+                    "NOM": "Haworth",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-11-19",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:43"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -213,10 +372,63 @@
                 "NOM": "OMiT Brooklyn",
                 "LOCALISATION": "US",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-10-26",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:53:31"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:22:44"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 49457,
+                    "PSEUDO": "Lunarz",
+                    "ROLE": null,
+                    "PRENOM": "Noah",
+                    "NOM": "Whillock",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-08-22",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:44"
+                },
+                {
+                    "ID": 49466,
+                    "PSEUDO": "Gio",
+                    "ROLE": null,
+                    "PRENOM": "Giovanni",
+                    "NOM": "Webster",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2003-09-02",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:44"
+                },
+                {
+                    "ID": 67209,
+                    "PSEUDO": "FDot",
+                    "ROLE": null,
+                    "PRENOM": "Felix ",
+                    "NOM": "McKee ",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-23",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:43"
+                },
+                {
+                    "ID": 68547,
+                    "PSEUDO": "Nate",
+                    "ROLE": null,
+                    "PRENOM": "Nathan",
+                    "NOM": "Pereira",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-05-30",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:22:44"
+                }
+            ]
         }
     ],
     "LIGUE": {

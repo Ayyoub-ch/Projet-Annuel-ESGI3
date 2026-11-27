@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1781573,
+        "NOM": "Grand_Final__LLH_vs_PAN",
+        "JEU VIDEO": "Rainbow 6 Siege",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 5,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "13:27:14",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "16:58:34",
+        "DATE DE MODIFICATION": "2026-11-27",
+        "HEURE DE MODIFICATION": "20:13:40",
+        "STATS DETAILLEES": false,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 14631,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 4175,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "13:27:14",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "14:36:50",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139473,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 14632,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3615,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "14:49:06",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "15:49:21",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139473,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 14633,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 3408,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "16:01:46",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "16:58:34",
+            "DETAIL STAT": false,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 139473,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 139473,
+            "NOM": "Honvéd",
+            "LOCALISATION": "HU",
+            "ACRONYME": "LLH",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:18:46"
+        },
+        {
+            "ID": 137816,
+            "NOM": "Pannuhuone",
+            "LOCALISATION": "FI",
+            "ACRONYME": "PAN",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-10-31",
+            "HEURE DE LA DERNIERE MODIFICATION": "08:45:24"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 3,
+            "ID EQUIPE": 139473
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 137816
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22334,
+        "NOM": "Playoffs",
+        "TYPE": "online/offline",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": 139473,
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "16:58:00",
+        "DATE DE MODIFICATION": "2026-11-27",
+        "HEURE DE MODIFICATION": "20:13:40",
+        "STATS DETAILLEES": false,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 5580,
+        "NOM": "EML Challenger Circuit",
+        "DATE DE MODIFICATION": "2026-10-31",
+        "HEURE DE MODIFICATION": "07:10:02"
+    },
+    "SERIE": {
+        "ID": 11159,
+        "NOM": "2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-03",
+        "HEURE DE DEBUT": "16:00:00",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "16:58:00",
+        "DATE DE MODIFICATION": "2026-11-27",
+        "HEURE DE MODIFICATION": "20:13:40"
+    }
+}

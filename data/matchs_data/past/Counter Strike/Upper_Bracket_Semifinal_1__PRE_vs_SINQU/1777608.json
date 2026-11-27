@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1777608,
+        "NOM": "Upper_Bracket_Semifinal_1__PRE_vs_SINQU",
+        "JEU VIDEO": "Counter Strike",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "15:34:21",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "17:58:59",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "16:17:26",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 237559,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2078,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "15:34:22",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "16:09:00",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137707,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237560,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2200,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "16:24:22",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "17:01:03",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136846,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 237561,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2520,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "17:16:59",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "17:59:00",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 136846,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 136846,
+            "NOM": "Prestige",
+            "LOCALISATION": "DK",
+            "ACRONYME": "PRE",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:50:45"
+        },
+        {
+            "ID": 137707,
+            "NOM": "SINQU",
+            "LOCALISATION": "FI",
+            "ACRONYME": "SINQU",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
+            "HEURE DE LA DERNIERE MODIFICATION": "00:50:47"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 136846
+        },
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 137707
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22330,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "FI",
+        "REGION": "WEU",
+        "TIER": "d",
+        "CASH PRIZE": "5000 Euro",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-11-25",
+        "HEURE DE MODIFICATION": "00:50:52",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4736,
+        "NOM": "Elisa Open Suomi",
+        "DATE DE MODIFICATION": "2022-01-22",
+        "HEURE DE MODIFICATION": "07:52:57"
+    },
+    "SERIE": {
+        "ID": 11156,
+        "NOM": "Season 14 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-02",
+        "HEURE DE DEBUT": "15:30:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "23:00:00",
+        "DATE DE MODIFICATION": "2026-10-28",
+        "HEURE DE MODIFICATION": "16:17:26"
+    }
+}

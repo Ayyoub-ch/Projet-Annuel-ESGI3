@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "09:00:00",
         "DATE DE FIN": "2026-12-06",
         "HEURE DE FIN": "23:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:24:43",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:18:46",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -144,32 +144,32 @@
             "ID": 135904,
             "NOM": "Cloud9 New York",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:45:21",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:44",
             "ACRONYME": "C9.NY"
         },
         {
             "ID": 137601,
             "NOM": "Toronto KOI",
             "LOCALISATION": "CA",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:45:22",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:45",
             "ACRONYME": "TOR"
         },
         {
             "ID": 139464,
             "NOM": "M80 Boston",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:08:45",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:45",
             "ACRONYME": "M80"
         },
         {
             "ID": 139665,
             "NOM": "Gentle Pink",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-            "HEURE DE LA DERNIERE MODIFICATION": "14:24:43",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:18:46",
             "ACRONYME": "GMP"
         }
     ],
@@ -180,10 +180,63 @@
                 "NOM": "Cloud9 New York",
                 "LOCALISATION": "US",
                 "ACRONYME": "C9.NY",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "03:45:21"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:44"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25966,
+                    "PSEUDO": "Cammy",
+                    "ROLE": null,
+                    "PRENOM": "Cameron",
+                    "NOM": "McKilligan",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-10",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:43"
+                },
+                {
+                    "ID": 33423,
+                    "PSEUDO": "Insight",
+                    "ROLE": null,
+                    "PRENOM": "Jamie",
+                    "NOM": "Craven",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-10-31",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:44"
+                },
+                {
+                    "ID": 39164,
+                    "PSEUDO": "Pred",
+                    "ROLE": null,
+                    "PRENOM": "Amer",
+                    "NOM": "Zulbeari",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-08-19",
+                    "NATIONALITE": "AU",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:44"
+                },
+                {
+                    "ID": 62421,
+                    "PSEUDO": "Lurqxx",
+                    "ROLE": null,
+                    "PRENOM": "Logan",
+                    "NOM": null,
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-02-05",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:44"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -191,10 +244,63 @@
                 "NOM": "Toronto KOI",
                 "LOCALISATION": "CA",
                 "ACRONYME": "TOR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "03:45:22"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:45"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25964,
+                    "PSEUDO": "CleanX",
+                    "ROLE": null,
+                    "PRENOM": "Tobias Juul",
+                    "NOM": "Jønsson",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-08-11",
+                    "NATIONALITE": "DK",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:44"
+                },
+                {
+                    "ID": 49471,
+                    "PSEUDO": "RenKoR",
+                    "ROLE": null,
+                    "PRENOM": "David",
+                    "NOM": "Isern",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-29",
+                    "NATIONALITE": "ES",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:45"
+                },
+                {
+                    "ID": 65103,
+                    "PSEUDO": "Kips",
+                    "ROLE": null,
+                    "PRENOM": "Nicholas",
+                    "NOM": "Lyons",
+                    "AGE": 20,
+                    "DATE DE NAISSANCE": "2006-02-17",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:45"
+                },
+                {
+                    "ID": 66006,
+                    "PSEUDO": "Ethan",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": 21,
+                    "DATE DE NAISSANCE": "2005-09-21",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:19:13"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -202,10 +308,63 @@
                 "NOM": "M80 Boston",
                 "LOCALISATION": "US",
                 "ACRONYME": "M80",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:08:45"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:45"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 27618,
+                    "PSEUDO": "Nastie",
+                    "ROLE": null,
+                    "PRENOM": "Byron",
+                    "NOM": "Plumridge",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-03",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:45"
+                },
+                {
+                    "ID": 32281,
+                    "PSEUDO": "Neptune",
+                    "ROLE": null,
+                    "PRENOM": "Travis",
+                    "NOM": "McCloud",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-09",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:45"
+                },
+                {
+                    "ID": 49459,
+                    "PSEUDO": "Estreal",
+                    "ROLE": null,
+                    "PRENOM": "Justice",
+                    "NOM": "McMillan",
+                    "AGE": 23,
+                    "DATE DE NAISSANCE": "2002-12-17",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:45"
+                },
+                {
+                    "ID": 61207,
+                    "PSEUDO": "Nium",
+                    "ROLE": null,
+                    "PRENOM": "Jeremiah",
+                    "NOM": "Harrison",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-23",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:45"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -213,8 +372,8 @@
                 "NOM": "Gentle Pink",
                 "LOCALISATION": "US",
                 "ACRONYME": "GMP",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-                "HEURE DE LA DERNIERE MODIFICATION": "14:24:43"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:18:46"
             },
             "JOUEURS": [
                 {
@@ -255,6 +414,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
                     "HEURE DE LA DERNIERE MODIFICATION": "14:24:43"
+                },
+                {
+                    "ID": 69159,
+                    "PSEUDO": "Prodahh",
+                    "ROLE": null,
+                    "PRENOM": "Brady",
+                    "NOM": "Silowka",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-31",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:18:46"
                 }
             ]
         }

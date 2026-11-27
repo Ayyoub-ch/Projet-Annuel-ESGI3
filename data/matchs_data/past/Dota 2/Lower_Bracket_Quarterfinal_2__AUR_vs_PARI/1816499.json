@@ -1,0 +1,133 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1816499,
+        "NOM": "Lower_Bracket_Quarterfinal_2__AUR_vs_PARI",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "15:58:57",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "19:42:28",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "14:35:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-11-27T15:45:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 742005,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2577,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "15:58:57",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "17:05:14",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135712,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 742006,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 3508,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "17:20:46",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "18:40:36",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 133882,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 742007,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 3,
+            "STATUT": "finished",
+            "LONGUEUR": 2094,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "18:52:25",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "19:42:28",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 135712,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 133882,
+            "NOM": "Aurora",
+            "LOCALISATION": "RS",
+            "ACRONYME": "AUR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:12:04"
+        },
+        {
+            "ID": 135712,
+            "NOM": "PARIVISION",
+            "LOCALISATION": "RU",
+            "ACRONYME": "PARI",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:26:30"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 1,
+            "ID EQUIPE": 133882
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 135712
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22472,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "a",
+        "CASH PRIZE": "750,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE MODIFICATION": "2026-11-24",
+        "HEURE DE MODIFICATION": "21:12:04",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 5319,
+        "NOM": "BLAST Slam",
+        "DATE DE MODIFICATION": "2024-11-14",
+        "HEURE DE MODIFICATION": "08:26:28"
+    },
+    "SERIE": {
+        "ID": 11187,
+        "NOM": "Season 9 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "14:35:19"
+    }
+}

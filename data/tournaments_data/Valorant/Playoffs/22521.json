@@ -8,7 +8,7 @@
         "DATE DE FIN": "2026-12-07",
         "HEURE DE FIN": "01:00:00",
         "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
-        "HEURE DE LA DERNIERE MODIFICATION": "00:31:19",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:07:07",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -66,7 +66,7 @@
         {
             "NOM": "Upper Bracket Quarterfinal 3: TS vs BRASIL2002",
             "TYPE": "Type de match inconnu",
-            "STATUT": "not_started",
+            "STATUT": "running",
             "LIVE SUPPORTÉ": false,
             "TYPE DE MATCH": "best_of",
             "NOMBRE DE PARTIES": 3,
@@ -77,7 +77,7 @@
             "DATE DE FIN": "2026-11-27",
             "HEURE DE FIN": "2026-11-27",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
-            "HEURE DE LA DERNIERE MODIFICATION": "07:22:09",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:13:32",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-brazil-2027-playoffs",
             "TIER": "c",
@@ -127,7 +127,7 @@
             "DATE DE FIN": "2026-11-28",
             "HEURE DE FIN": "2026-11-28",
             "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
-            "HEURE DE LA DERNIERE MODIFICATION": "01:08:58",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:16:51",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-brazil-2027-playoffs",
             "TIER": "c",
@@ -135,7 +135,7 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "pt",
-                "LIEN BRUTE": "https://kick.com/valorant_br"
+                "LIEN BRUTE": "https://www.youtube.com/@valesportsbr/live"
             }
         },
         {
@@ -151,8 +151,8 @@
             "HEURE DE DEBUT": "2026-11-28",
             "DATE DE FIN": "2026-11-28",
             "HEURE DE FIN": "2026-11-28",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:53:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:17:00",
             "PRIZEPOOL": "Prizepool du tournoi inconnu",
             "SLUG": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-brazil-2027-playoffs",
             "TIER": "c",
@@ -160,7 +160,7 @@
             "INFO DE STREAMING": {
                 "MAIN": false,
                 "LANGUE": "pt",
-                "LIEN BRUTE": "https://kick.com/valorant_br"
+                "LIEN BRUTE": "https://www.youtube.com/@valesportsbr/live"
             }
         },
         {
@@ -409,8 +409,8 @@
             "ID": 139630,
             "NOM": "BRASIL2002",
             "LOCALISATION": "",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "09:32:57",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:07:07",
             "ACRONYME": null
         },
         {
@@ -848,8 +848,8 @@
                 "NOM": "BRASIL2002",
                 "LOCALISATION": "",
                 "ACRONYME": null,
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "09:32:57"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:07:07"
             },
             "JOUEURS": [
                 {
@@ -916,6 +916,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
                     "HEURE DE LA DERNIERE MODIFICATION": "09:32:57"
+                },
+                {
+                    "ID": 67419,
+                    "PSEUDO": "chbzn",
+                    "ROLE": null,
+                    "PRENOM": null,
+                    "NOM": null,
+                    "AGE": null,
+                    "DATE DE NAISSANCE": null,
+                    "NATIONALITE": "BR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:07:07"
                 }
             ]
         },

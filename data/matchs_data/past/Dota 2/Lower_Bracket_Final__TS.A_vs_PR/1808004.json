@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1808004,
+        "NOM": "Lower_Bracket_Final__TS.A_vs_PR",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "16:03:26",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "18:16:01",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "09:20:24",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 741727,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2515,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "16:03:28",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "17:03:21",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137870,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 741728,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2485,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "17:16:05",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "18:16:02",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 137870,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137540,
+            "NOM": "Spirit Academy",
+            "LOCALISATION": "RU",
+            "ACRONYME": "TS.A",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "19:05:45"
+        },
+        {
+            "ID": 137870,
+            "NOM": "Power Rangers",
+            "LOCALISATION": "",
+            "ACRONYME": "PR",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:28:26"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 137540
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 137870
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22451,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "EEU",
+        "TIER": "d",
+        "CASH PRIZE": "20,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-24",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE MODIFICATION": "2026-11-24",
+        "HEURE DE MODIFICATION": "21:28:27",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4807,
+        "NOM": "European Pro League",
+        "DATE DE MODIFICATION": "2023-12-23",
+        "HEURE DE MODIFICATION": "22:10:19"
+    },
+    "SERIE": {
+        "ID": 11204,
+        "NOM": "Season 41 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-12",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE MODIFICATION": "2026-11-12",
+        "HEURE DE MODIFICATION": "09:20:24"
+    }
+}

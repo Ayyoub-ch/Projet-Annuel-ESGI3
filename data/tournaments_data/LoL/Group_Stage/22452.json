@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "13:00:00",
         "DATE DE FIN": "2026-12-05",
         "HEURE DE FIN": "19:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-        "HEURE DE LA DERNIERE MODIFICATION": "10:47:14",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "21:11:12",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -169,16 +169,16 @@
             "ID": 88,
             "NOM": "G2 Esports",
             "LOCALISATION": "DE",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:37:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:09:33",
             "ACRONYME": "G2"
         },
         {
             "ID": 126061,
             "NOM": "T1",
             "LOCALISATION": "KR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-            "HEURE DE LA DERNIERE MODIFICATION": "20:19:06",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:11:11",
             "ACRONYME": "T1"
         },
         {
@@ -193,8 +193,8 @@
             "ID": 134078,
             "NOM": "Karmine Corp",
             "LOCALISATION": "FR",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-            "HEURE DE LA DERNIERE MODIFICATION": "19:37:07",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "21:11:12",
             "ACRONYME": "KC"
         }
     ],
@@ -205,8 +205,8 @@
                 "NOM": "G2 Esports",
                 "LOCALISATION": "DE",
                 "ACRONYME": "G2",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:37:06"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:09:33"
             },
             "JOUEURS": [
                 {
@@ -234,45 +234,6 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "10:45:28"
-                },
-                {
-                    "ID": 1718,
-                    "PSEUDO": "BrokenBlade",
-                    "ROLE": "top",
-                    "PRENOM": "Sergen",
-                    "NOM": "Çelik",
-                    "AGE": 26,
-                    "DATE DE NAISSANCE": "2000-01-19",
-                    "NATIONALITE": "DE",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
-                    "HEURE DE LA DERNIERE MODIFICATION": "10:45:25"
-                },
-                {
-                    "ID": 14980,
-                    "PSEUDO": "Labrov",
-                    "ROLE": "sup",
-                    "PRENOM": "Labros",
-                    "NOM": "Papoutsakis",
-                    "AGE": 24,
-                    "DATE DE NAISSANCE": "2002-02-12",
-                    "NATIONALITE": "GR",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-16",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:23:25"
-                },
-                {
-                    "ID": 45258,
-                    "PSEUDO": "SkewMond",
-                    "ROLE": "jun",
-                    "PRENOM": "Rudy",
-                    "NOM": "Semaan",
-                    "AGE": 22,
-                    "DATE DE NAISSANCE": "2004-08-09",
-                    "NATIONALITE": "FR",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:37:07"
                 }
             ]
         },
@@ -282,8 +243,8 @@
                 "NOM": "T1",
                 "LOCALISATION": "KR",
                 "ACRONYME": "T1",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-25",
-                "HEURE DE LA DERNIERE MODIFICATION": "20:19:06"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:11:11"
             },
             "JOUEURS": [
                 {
@@ -300,6 +261,19 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "10:45:24"
                 },
                 {
+                    "ID": 838,
+                    "PSEUDO": "Untara",
+                    "ROLE": "top",
+                    "PRENOM": "Park",
+                    "NOM": "Ui-jin",
+                    "AGE": 29,
+                    "DATE DE NAISSANCE": "1996-12-31",
+                    "NATIONALITE": "KR",
+                    "EN ACTVITE": false,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:11:11"
+                },
+                {
                     "ID": 8158,
                     "PSEUDO": "Keria",
                     "ROLE": "sup",
@@ -311,19 +285,6 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "10:45:25"
-                },
-                {
-                    "ID": 19282,
-                    "PSEUDO": "Doran",
-                    "ROLE": "top",
-                    "PRENOM": "Choi",
-                    "NOM": "Hyeon-joon",
-                    "AGE": 26,
-                    "DATE DE NAISSANCE": "2000-07-22",
-                    "NATIONALITE": "KR",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-20",
-                    "HEURE DE LA DERNIERE MODIFICATION": "15:08:43"
                 },
                 {
                     "ID": 31392,
@@ -377,19 +338,6 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "10:45:32"
                 },
                 {
-                    "ID": 25655,
-                    "PSEUDO": "Supa",
-                    "ROLE": "adc",
-                    "PRENOM": "David",
-                    "NOM": "Martinez Garcia",
-                    "AGE": 26,
-                    "DATE DE NAISSANCE": "2000-10-23",
-                    "NATIONALITE": "ES",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-17",
-                    "HEURE DE LA DERNIERE MODIFICATION": "21:15:42"
-                },
-                {
                     "ID": 32062,
                     "PSEUDO": "Jojopyun",
                     "ROLE": "mid",
@@ -401,19 +349,6 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "10:45:33"
-                },
-                {
-                    "ID": 37551,
-                    "PSEUDO": "Myrwn",
-                    "ROLE": "top",
-                    "PRENOM": "Alex",
-                    "NOM": "Villarejo",
-                    "AGE": 23,
-                    "DATE DE NAISSANCE": "2003-06-13",
-                    "NATIONALITE": "ES",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-14",
-                    "HEURE DE LA DERNIERE MODIFICATION": "18:45:06"
                 },
                 {
                     "ID": 42376,
@@ -436,8 +371,8 @@
                 "NOM": "Karmine Corp",
                 "LOCALISATION": "FR",
                 "ACRONYME": "KC",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
-                "HEURE DE LA DERNIERE MODIFICATION": "19:37:07"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "21:11:12"
             },
             "JOUEURS": [
                 {
@@ -454,19 +389,6 @@
                     "HEURE DE LA DERNIERE MODIFICATION": "10:45:30"
                 },
                 {
-                    "ID": 31994,
-                    "PSEUDO": "Yike",
-                    "ROLE": "jun",
-                    "PRENOM": "Martin",
-                    "NOM": "Sundelin",
-                    "AGE": 26,
-                    "DATE DE NAISSANCE": "2000-11-11",
-                    "NATIONALITE": "SE",
-                    "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-18",
-                    "HEURE DE LA DERNIERE MODIFICATION": "19:43:50"
-                },
-                {
                     "ID": 39702,
                     "PSEUDO": "Busio",
                     "ROLE": "sup",
@@ -478,6 +400,19 @@
                     "EN ACTVITE": true,
                     "DATE DE LA DERNIERE MODIFICATION": "2026-11-12",
                     "HEURE DE LA DERNIERE MODIFICATION": "10:45:31"
+                },
+                {
+                    "ID": 45258,
+                    "PSEUDO": "SkewMond",
+                    "ROLE": "jun",
+                    "PRENOM": "Rudy",
+                    "NOM": "Semaan",
+                    "AGE": 22,
+                    "DATE DE NAISSANCE": "2004-08-09",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "21:11:12"
                 },
                 {
                     "ID": 45317,

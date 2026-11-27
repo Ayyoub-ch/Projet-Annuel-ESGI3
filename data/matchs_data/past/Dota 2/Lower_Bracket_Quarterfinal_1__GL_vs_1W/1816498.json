@@ -1,0 +1,118 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1816498,
+        "NOM": "Lower_Bracket_Quarterfinal_1__GL_vs_1W",
+        "JEU VIDEO": "Dota 2",
+        "VERSION ACTUELLE DU JEU": "Version indisponible",
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "13:43:34",
+        "DATE DE FIN": "2026-11-27",
+        "HEURE DE FIN": "15:39:24",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "14:35:19",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": true,
+            "OUVERTURE": "2026-11-27T13:15:00.000000Z"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 742002,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 1793,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "13:43:34",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "14:31:51",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134536,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 742003,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 1932,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "14:53:34",
+            "DATE DE FIN DE PARTIE": "2026-11-27",
+            "HEURE DE FIN DE PARTIE": "15:39:24",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134536,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 137588,
+            "NOM": "GamerLegion",
+            "LOCALISATION": "US",
+            "ACRONYME": "GL",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:26:18"
+        },
+        {
+            "ID": 134536,
+            "NOM": "1w Team",
+            "LOCALISATION": "RU",
+            "ACRONYME": "1W",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-24",
+            "HEURE DE LA DERNIERE MODIFICATION": "20:26:20"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 137588
+        },
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 134536
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22472,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": null,
+        "REGION": "WEU",
+        "TIER": "a",
+        "CASH PRIZE": "750,000 United States Dollar",
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "10:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE MODIFICATION": "2026-11-24",
+        "HEURE DE MODIFICATION": "21:12:04",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": true
+    },
+    "LIGUE": {
+        "ID": 5319,
+        "NOM": "BLAST Slam",
+        "DATE DE MODIFICATION": "2024-11-14",
+        "HEURE DE MODIFICATION": "08:26:28"
+    },
+    "SERIE": {
+        "ID": 11187,
+        "NOM": "Season 9 2026",
+        "ANNEE": 2026,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-11-29",
+        "HEURE DE FIN": "19:00:00",
+        "DATE DE MODIFICATION": "2026-11-16",
+        "HEURE DE MODIFICATION": "14:35:19"
+    }
+}

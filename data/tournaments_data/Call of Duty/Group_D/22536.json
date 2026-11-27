@@ -7,8 +7,8 @@
         "HEURE DE DEBUT": "19:00:00",
         "DATE DE FIN": "2026-12-07",
         "HEURE DE FIN": "04:00:00",
-        "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-        "HEURE DE LA DERNIERE MODIFICATION": "14:24:56",
+        "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+        "HEURE DE LA DERNIERE MODIFICATION": "13:24:58",
         "ANNEE": "Année inconnue",
         "SAISON": "Saison inconnue"
     },
@@ -144,24 +144,24 @@
             "ID": 128027,
             "NOM": "Los Angeles Thieves",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-            "HEURE DE LA DERNIERE MODIFICATION": "11:42:40",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:24:57",
             "ACRONYME": "LAT"
         },
         {
             "ID": 133864,
             "NOM": "Carolina Royal Ravens",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "13:06:08",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:24:58",
             "ACRONYME": "CRR"
         },
         {
             "ID": 137602,
             "NOM": "FaZe Vegas",
             "LOCALISATION": "US",
-            "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-            "HEURE DE LA DERNIERE MODIFICATION": "03:45:24",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+            "HEURE DE LA DERNIERE MODIFICATION": "13:24:58",
             "ACRONYME": "FAZE.V"
         },
         {
@@ -180,10 +180,63 @@
                 "NOM": "Los Angeles Thieves",
                 "LOCALISATION": "US",
                 "ACRONYME": "LAT",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-05",
-                "HEURE DE LA DERNIERE MODIFICATION": "11:42:40"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:24:57"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25881,
+                    "PSEUDO": "aBeZy",
+                    "ROLE": null,
+                    "PRENOM": "Tyler",
+                    "NOM": "Pharris",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-11-03",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:56"
+                },
+                {
+                    "ID": 25891,
+                    "PSEUDO": "Envoy",
+                    "ROLE": null,
+                    "PRENOM": "Dylan",
+                    "NOM": "Hannon",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-01-19",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:57"
+                },
+                {
+                    "ID": 47899,
+                    "PSEUDO": "Ghosty",
+                    "ROLE": null,
+                    "PRENOM": "Daniel",
+                    "NOM": "Rothe",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-04-24",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:57"
+                },
+                {
+                    "ID": 66005,
+                    "PSEUDO": "DK",
+                    "ROLE": null,
+                    "PRENOM": "Dayton",
+                    "NOM": null,
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-07-25",
+                    "NATIONALITE": "GB",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:57"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -191,10 +244,63 @@
                 "NOM": "Carolina Royal Ravens",
                 "LOCALISATION": "US",
                 "ACRONYME": "CRR",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "13:06:08"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:24:58"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25906,
+                    "PSEUDO": "Skyz",
+                    "ROLE": null,
+                    "PRENOM": "Cesar",
+                    "NOM": "Bueno",
+                    "AGE": 27,
+                    "DATE DE NAISSANCE": "1999-07-08",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:58"
+                },
+                {
+                    "ID": 28476,
+                    "PSEUDO": "Owakening",
+                    "ROLE": null,
+                    "PRENOM": "Joseph",
+                    "NOM": "Conley",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2000-12-18",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:57"
+                },
+                {
+                    "ID": 64162,
+                    "PSEUDO": "Nejra",
+                    "ROLE": null,
+                    "PRENOM": "Jonathan",
+                    "NOM": "Pabo'n",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-08-05",
+                    "NATIONALITE": "PR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:57"
+                },
+                {
+                    "ID": 65907,
+                    "PSEUDO": "Renegade",
+                    "ROLE": null,
+                    "PRENOM": "Jonathan",
+                    "NOM": "Willette",
+                    "AGE": 26,
+                    "DATE DE NAISSANCE": "2000-10-22",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:58"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -202,10 +308,63 @@
                 "NOM": "FaZe Vegas",
                 "LOCALISATION": "US",
                 "ACRONYME": "FAZE.V",
-                "DATE DE LA DERNIERE MODIFICATION": "2026-11-07",
-                "HEURE DE LA DERNIERE MODIFICATION": "03:45:24"
+                "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                "HEURE DE LA DERNIERE MODIFICATION": "13:24:58"
             },
-            "JOUEURS": []
+            "JOUEURS": [
+                {
+                    "ID": 25882,
+                    "PSEUDO": "Simp",
+                    "ROLE": null,
+                    "PRENOM": "Chris",
+                    "NOM": "Lehr",
+                    "AGE": 25,
+                    "DATE DE NAISSANCE": "2001-02-06",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:58"
+                },
+                {
+                    "ID": 34038,
+                    "PSEUDO": "HyDra",
+                    "ROLE": null,
+                    "PRENOM": "Paco",
+                    "NOM": "Rusiewiez",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-02-11",
+                    "NATIONALITE": "FR",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:58"
+                },
+                {
+                    "ID": 46225,
+                    "PSEUDO": "Scrap",
+                    "ROLE": null,
+                    "PRENOM": "Thomas",
+                    "NOM": "Ernst",
+                    "AGE": 24,
+                    "DATE DE NAISSANCE": "2002-07-01",
+                    "NATIONALITE": "US",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:58"
+                },
+                {
+                    "ID": 65912,
+                    "PSEUDO": "Alluka",
+                    "ROLE": null,
+                    "PRENOM": "Mohammed",
+                    "NOM": "Bindal",
+                    "AGE": 19,
+                    "DATE DE NAISSANCE": "2007-06-27",
+                    "NATIONALITE": "DE",
+                    "EN ACTVITE": true,
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:24:58"
+                }
+            ]
         },
         {
             "EQUIPE": {
@@ -266,8 +425,8 @@
                     "DATE DE NAISSANCE": null,
                     "NATIONALITE": "US",
                     "EN ACTVITE": true,
-                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-26",
-                    "HEURE DE LA DERNIERE MODIFICATION": "14:24:56"
+                    "DATE DE LA DERNIERE MODIFICATION": "2026-11-27",
+                    "HEURE DE LA DERNIERE MODIFICATION": "13:23:43"
                 }
             ]
         }
