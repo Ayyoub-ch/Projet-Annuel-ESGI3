@@ -1,0 +1,121 @@
+{
+    "DONNEES GENERALES DU MATCH": {
+        "ID": 1830764,
+        "NOM": "Upper_Bracket_Quarterfinal_4__2GAME_vs_Mafiosos",
+        "JEU VIDEO": "Valorant",
+        "VERSION ACTUELLE DU JEU": {
+            "name": "13.10",
+            "current": true
+        },
+        "STATUT": "finished",
+        "NOMBRE DE PARTIE": 3,
+        "DATE DE DEBUT": "2026-11-27",
+        "HEURE DE DEBUT": "23:31:29",
+        "DATE DE FIN": "2026-11-28",
+        "HEURE DE FIN": "01:02:23",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "09:34:07",
+        "STATS DETAILLEES": true,
+        "LIVE": {
+            "SUPPORT": false,
+            "OUVERTURE": "Pas d'information sur l'ouverture"
+        },
+        "AVANTAGE DURANT LA PARTIE": "Pas d'avantage lors de la partie"
+    },
+    "PARTIES": [
+        {
+            "ID": 53450,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 1,
+            "STATUT": "finished",
+            "LONGUEUR": 2031,
+            "DATE DE DEBUT DE PARTIE": "2026-11-27",
+            "HEURE DE DEBUT DE PARTIE": "23:31:30",
+            "DATE DE FIN DE PARTIE": "2026-11-28",
+            "HEURE DE FIN DE PARTIE": "00:05:21",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134470,
+            "TYPE DU VAINQUEUR": "Team"
+        },
+        {
+            "ID": 53451,
+            "PARTIE FINIE": true,
+            "POSITION PARTIE": 2,
+            "STATUT": "finished",
+            "LONGUEUR": 2593,
+            "DATE DE DEBUT DE PARTIE": "2026-11-28",
+            "HEURE DE DEBUT DE PARTIE": "00:19:10",
+            "DATE DE FIN DE PARTIE": "2026-11-28",
+            "HEURE DE FIN DE PARTIE": "01:02:23",
+            "DETAIL STAT": true,
+            "FORFAIT": false,
+            "ID DU VAINQUEUR": 134470,
+            "TYPE DU VAINQUEUR": "Team"
+        }
+    ],
+    "ADVERSAIRES": [
+        {
+            "ID": 134470,
+            "NOM": "2GAME Esports",
+            "LOCALISATION": "BR",
+            "ACRONYME": "2GAME",
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:32:56"
+        },
+        {
+            "ID": 139631,
+            "NOM": "Mafiosos",
+            "LOCALISATION": "BR",
+            "ACRONYME": null,
+            "DATE DE LA DERNIERE MODIFICATION": "2026-11-23",
+            "HEURE DE LA DERNIERE MODIFICATION": "09:32:56"
+        }
+    ],
+    "RESULTATS": [
+        {
+            "SCORE": 2,
+            "ID EQUIPE": 134470
+        },
+        {
+            "SCORE": 0,
+            "ID EQUIPE": 139631
+        }
+    ],
+    "TOURNOI": {
+        "ID": 22521,
+        "NOM": "Playoffs",
+        "TYPE": "online",
+        "PAYS": "BR",
+        "REGION": "SA",
+        "TIER": "c",
+        "CASH PRIZE": null,
+        "VAINQUEUR": "Pas d'information sur le vainqueur du tournoi",
+        "DATE DE DEBUT": "2026-11-26",
+        "HEURE DE DEBUT": "20:00:00",
+        "DATE DE FIN": "2026-12-07",
+        "HEURE DE FIN": "01:00:00",
+        "DATE DE MODIFICATION": "2026-11-27",
+        "HEURE DE MODIFICATION": "21:07:07",
+        "STATS DETAILLEES": true,
+        "LIVE SUPPORT": false
+    },
+    "LIGUE": {
+        "ID": 4531,
+        "NOM": "VCT",
+        "DATE DE MODIFICATION": "2023-02-13",
+        "HEURE DE MODIFICATION": "19:07:55"
+    },
+    "SERIE": {
+        "ID": 11225,
+        "NOM": "Americas Kickoff: Brazil Qualifier 2027",
+        "ANNEE": 2027,
+        "VAINQUEUR": "Vainqueur iconnu",
+        "DATE DE DEBUT": "2026-11-19",
+        "HEURE DE DEBUT": "23:00:00",
+        "DATE DE FIN": "2026-12-06",
+        "HEURE DE FIN": "22:00:00",
+        "DATE DE MODIFICATION": "2026-11-23",
+        "HEURE DE MODIFICATION": "09:34:07"
+    }
+}
